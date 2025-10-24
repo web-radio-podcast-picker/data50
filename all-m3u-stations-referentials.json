@@ -1,0 +1,1975 @@
+{
+  "langs": {
+    "African languages": {
+      "iso": null,
+      "count": 23
+    },
+    "Armenian": {
+      "iso": "hye",
+      "count": 4
+    },
+    "Asian languages": {
+      "iso": null,
+      "count": 23
+    },
+    "Bengali": {
+      "iso": "ben",
+      "count": 5
+    },
+    "Berber languages": {
+      "iso": "ber",
+      "count": 1
+    },
+    "Catalan": {
+      "iso": "cat",
+      "count": 1
+    },
+    "Chinese": {
+      "iso": "zho",
+      "count": 53
+    },
+    "Créole mauricien": {
+      "iso": null,
+      "count": 1
+    },
+    "Deutsch": {
+      "iso": "deu",
+      "count": 131
+    },
+    "English": {
+      "iso": "eng",
+      "count": 38
+    },
+    "French": {
+      "iso": "fra",
+      "count": 618
+    },
+    "Greek, Modern (1453-)": {
+      "iso": "ell",
+      "count": 19
+    },
+    "Hebrew": {
+      "iso": "heb",
+      "count": 8
+    },
+    "Hindi": {
+      "iso": "hin",
+      "count": 12
+    },
+    "Italian": {
+      "iso": "ita",
+      "count": 71
+    },
+    "Japanese": {
+      "iso": "jpn",
+      "count": 7
+    },
+    "Kinyarwanda": {
+      "iso": "kin",
+      "count": 1
+    },
+    "Korean": {
+      "iso": "kor",
+      "count": 6
+    },
+    "Kurdish": {
+      "iso": "kur",
+      "count": 1
+    },
+    "Mongolian": {
+      "iso": "mon",
+      "count": 11
+    },
+    "Panjabi": {
+      "iso": "pan",
+      "count": 8
+    },
+    "Portuguese": {
+      "iso": "por",
+      "count": 8
+    },
+    "Russian": {
+      "iso": "rus",
+      "count": 24
+    },
+    "Serbian": {
+      "iso": "srp",
+      "count": 1
+    },
+    "Spanish": {
+      "iso": "spa",
+      "count": 33
+    },
+    "Swahili": {
+      "iso": "swa",
+      "count": 2
+    },
+    "Swedish": {
+      "iso": "swe",
+      "count": 1
+    },
+    "Turkish": {
+      "iso": "tur",
+      "count": 135
+    },
+    "Vietnamese": {
+      "iso": "vie",
+      "count": 3
+    }
+  },
+  "groups": {
+    "00s": {
+      "count": 7
+    },
+    "10s": {
+      "count": 1
+    },
+    "50s": {
+      "count": 10
+    },
+    "60s": {
+      "count": 37
+    },
+    "70s": {
+      "count": 77
+    },
+    "80s": {
+      "count": 211
+    },
+    "90s": {
+      "count": 136
+    },
+    "Aboriginal": {
+      "count": 2
+    },
+    "Acid": {
+      "count": 1
+    },
+    "Africa": {
+      "count": 23
+    },
+    "Afrikaans": {
+      "count": 2
+    },
+    "Afro": {
+      "count": 1
+    },
+    "Alternative": {
+      "count": 30
+    },
+    "Ambient": {
+      "count": 21
+    },
+    "Anime": {
+      "count": 4
+    },
+    "Arabic": {
+      "count": 32
+    },
+    "Armenian": {
+      "count": 4
+    },
+    "Artists": {
+      "count": 596
+    },
+    "Arts": {
+      "count": 214
+    },
+    "Asia": {
+      "count": 24
+    },
+    "Aviation": {
+      "count": 1
+    },
+    "Ballad": {
+      "count": 20
+    },
+    "Bangla": {
+      "count": 2
+    },
+    "Baroque": {
+      "count": 14
+    },
+    "Bengali": {
+      "count": 4
+    },
+    "BerbéR": {
+      "count": 1
+    },
+    "Big Band": {
+      "count": 2
+    },
+    "Blues": {
+      "count": 20
+    },
+    "Bollywood": {
+      "count": 2
+    },
+    "Bossa Nova": {
+      "count": 8
+    },
+    "Brazilian": {
+      "count": 2
+    },
+    "Business": {
+      "count": 2
+    },
+    "Calypso": {
+      "count": 1
+    },
+    "Cantonese": {
+      "count": 1
+    },
+    "Caribbean": {
+      "count": 2
+    },
+    "Catalan": {
+      "count": 1
+    },
+    "Chinese": {
+      "count": 51
+    },
+    "Classic": {
+      "count": 414
+    },
+    "Club": {
+      "count": 4
+    },
+    "Comedy": {
+      "count": 6
+    },
+    "Community": {
+      "count": 238
+    },
+    "Computer": {
+      "count": 2
+    },
+    "Contemporary": {
+      "count": 117
+    },
+    "Country": {
+      "count": 154
+    },
+    "Culture": {
+      "count": 92
+    },
+    "Dance": {
+      "count": 211
+    },
+    "Deutsch": {
+      "count": 132
+    },
+    "Disco": {
+      "count": 62
+    },
+    "Dub": {
+      "count": 20
+    },
+    "Economy": {
+      "count": 3
+    },
+    "Education": {
+      "count": 40
+    },
+    "Electro": {
+      "count": 109
+    },
+    "English": {
+      "count": 39
+    },
+    "Ethnic": {
+      "count": 1
+    },
+    "Experimental": {
+      "count": 2
+    },
+    "Family": {
+      "count": 3
+    },
+    "Folk": {
+      "count": 77
+    },
+    "French": {
+      "count": 623
+    },
+    "Funk": {
+      "count": 5
+    },
+    "Garage": {
+      "count": 2
+    },
+    "Gospel": {
+      "count": 48
+    },
+    "Government": {
+      "count": 4
+    },
+    "Greek": {
+      "count": 19
+    },
+    "Hard": {
+      "count": 5
+    },
+    "Hebrew": {
+      "count": 5
+    },
+    "Hindi": {
+      "count": 12
+    },
+    "Hip Hop": {
+      "count": 32
+    },
+    "Hits": {
+      "count": 639
+    },
+    "Hot": {
+      "count": 7
+    },
+    "House": {
+      "count": 20
+    },
+    "Indian": {
+      "count": 2
+    },
+    "Indie": {
+      "count": 15
+    },
+    "Indigenous": {
+      "count": 12
+    },
+    "Instrumental": {
+      "count": 24
+    },
+    "International": {
+      "count": 46
+    },
+    "Islam": {
+      "count": 36
+    },
+    "Italian": {
+      "count": 71
+    },
+    "Japanese": {
+      "count": 7
+    },
+    "Jazz": {
+      "count": 32
+    },
+    "Jewish": {
+      "count": 4
+    },
+    "Kids": {
+      "count": 3
+    },
+    "Kirundi": {
+      "count": 6
+    },
+    "Korean": {
+      "count": 6
+    },
+    "Kurdish": {
+      "count": 2
+    },
+    "Latin": {
+      "count": 120
+    },
+    "Lifestyle": {
+      "count": 1
+    },
+    "Live": {
+      "count": 6
+    },
+    "Lounge": {
+      "count": 79
+    },
+    "Love": {
+      "count": 159
+    },
+    "Mandarin": {
+      "count": 2
+    },
+    "Mauriti": {
+      "count": 1
+    },
+    "Meditation": {
+      "count": 5
+    },
+    "Metal": {
+      "count": 11
+    },
+    "Mix": {
+      "count": 134
+    },
+    "Mode": {
+      "count": 9
+    },
+    "Mongolian": {
+      "count": 11
+    },
+    "Movie": {
+      "count": 1
+    },
+    "Music": {
+      "count": 590
+    },
+    "Nature": {
+      "count": 4
+    },
+    "New Wave": {
+      "count": 1
+    },
+    "News": {
+      "count": 777
+    },
+    "Oldies": {
+      "count": 278
+    },
+    "Opera": {
+      "count": 3
+    },
+    "Oriental": {
+      "count": 1
+    },
+    "Party": {
+      "count": 5
+    },
+    "Politics": {
+      "count": 12
+    },
+    "Pop": {
+      "count": 590
+    },
+    "Portuguese": {
+      "count": 6
+    },
+    "Progressive": {
+      "count": 7
+    },
+    "Psychedelic": {
+      "count": 3
+    },
+    "Punjabi": {
+      "count": 8
+    },
+    "R'N'B": {
+      "count": 27
+    },
+    "Radio": {
+      "count": 8955
+    },
+    "Rap": {
+      "count": 11
+    },
+    "Reggae": {
+      "count": 41
+    },
+    "Reggaeton": {
+      "count": 3
+    },
+    "Relaxation": {
+      "count": 50
+    },
+    "Religion": {
+      "count": 417
+    },
+    "Rock": {
+      "count": 207
+    },
+    "Romantic": {
+      "count": 11
+    },
+    "Roots": {
+      "count": 2
+    },
+    "Russian": {
+      "count": 24
+    },
+    "Salsa": {
+      "count": 4
+    },
+    "Samba": {
+      "count": 7
+    },
+    "Science": {
+      "count": 1
+    },
+    "Serbian": {
+      "count": 1
+    },
+    "Smooth": {
+      "count": 2
+    },
+    "Songs": {
+      "count": 53
+    },
+    "Soul": {
+      "count": 14
+    },
+    "Spanish": {
+      "count": 79
+    },
+    "Sport": {
+      "count": 253
+    },
+    "Swahili": {
+      "count": 2
+    },
+    "Swedish": {
+      "count": 1
+    },
+    "Talk": {
+      "count": 537
+    },
+    "Tango": {
+      "count": 3
+    },
+    "Techno": {
+      "count": 8
+    },
+    "Top 40": {
+      "count": 110
+    },
+    "Traffic": {
+      "count": 314
+    },
+    "Trance": {
+      "count": 2
+    },
+    "Tropical": {
+      "count": 1
+    },
+    "Turk": {
+      "count": 135
+    },
+    "Unclassified": {
+      "count": 7987
+    },
+    "Underground": {
+      "count": 15
+    },
+    "University": {
+      "count": 150
+    },
+    "Urban": {
+      "count": 70
+    },
+    "Variety": {
+      "count": 411
+    },
+    "Vietnamese": {
+      "count": 3
+    },
+    "Weather": {
+      "count": 1
+    },
+    "World": {
+      "count": 258
+    },
+    "Yazidi": {
+      "count": 1
+    },
+    "Youth": {
+      "count": 21
+    },
+    "Zouk": {
+      "count": 1
+    }
+  },
+  "artists": {
+    "10Cc": {
+      "count": 2
+    },
+    "2Pac": {
+      "count": 1
+    },
+    "50 Cent": {
+      "count": 1
+    },
+    "A-Ha": {
+      "count": 1
+    },
+    "A.R. Rahman": {
+      "count": 1
+    },
+    "Abba": {
+      "count": 2
+    },
+    "Ac/Dc": {
+      "count": 2
+    },
+    "Adam Lambert": {
+      "count": 1
+    },
+    "Adele": {
+      "count": 2
+    },
+    "Aerosmith": {
+      "count": 2
+    },
+    "Air Supply": {
+      "count": 1
+    },
+    "Al Green": {
+      "count": 1
+    },
+    "Al Jarreau": {
+      "count": 1
+    },
+    "Alabama": {
+      "count": 1
+    },
+    "Alanis Morissette": {
+      "count": 1
+    },
+    "Albert Collins": {
+      "count": 1
+    },
+    "Alice Cooper": {
+      "count": 2
+    },
+    "Alison Moyet": {
+      "count": 1
+    },
+    "Alka Yagnik": {
+      "count": 1
+    },
+    "Allman Brothers Band": {
+      "count": 1
+    },
+    "America": {
+      "count": 1
+    },
+    "Amit Trivedi": {
+      "count": 1
+    },
+    "Amy Winehouse": {
+      "count": 2
+    },
+    "Andrea Bocelli": {
+      "count": 1
+    },
+    "Andy Williams": {
+      "count": 2
+    },
+    "Annie Lennox": {
+      "count": 2
+    },
+    "Arctic Monkeys": {
+      "count": 2
+    },
+    "Aretha Franklin": {
+      "count": 2
+    },
+    "Ariana Grande": {
+      "count": 2
+    },
+    "Arijit Singh": {
+      "count": 1
+    },
+    "Armaan Malik": {
+      "count": 1
+    },
+    "Asees Kaur": {
+      "count": 1
+    },
+    "Asha Bhosle": {
+      "count": 1
+    },
+    "Atif Aslam": {
+      "count": 1
+    },
+    "Avicii": {
+      "count": 1
+    },
+    "Avril Lavigne": {
+      "count": 1
+    },
+    "B Praak": {
+      "count": 1
+    },
+    "Backstreet Boys": {
+      "count": 1
+    },
+    "Bad Bunny": {
+      "count": 1
+    },
+    "Bad Company": {
+      "count": 1
+    },
+    "Badshah": {
+      "count": 1
+    },
+    "Barbra Streisand": {
+      "count": 2
+    },
+    "Barry Manilow": {
+      "count": 1
+    },
+    "Barry White": {
+      "count": 2
+    },
+    "Bb King": {
+      "count": 1
+    },
+    "Beach Boys": {
+      "count": 2
+    },
+    "Beastie Boys": {
+      "count": 1
+    },
+    "Beatles": {
+      "count": 2
+    },
+    "Bee Gees": {
+      "count": 2
+    },
+    "Belinda Carlisle": {
+      "count": 1
+    },
+    "Beyonce": {
+      "count": 2
+    },
+    "Big Country": {
+      "count": 1
+    },
+    "Bill Withers": {
+      "count": 1
+    },
+    "Billie Eilish": {
+      "count": 1
+    },
+    "Billy Idol": {
+      "count": 1
+    },
+    "Billy Joel": {
+      "count": 2
+    },
+    "Bing Crosby": {
+      "count": 1
+    },
+    "Black Crowes": {
+      "count": 1
+    },
+    "Black Sabbath": {
+      "count": 1
+    },
+    "Black Uhuru": {
+      "count": 1
+    },
+    "Blondie": {
+      "count": 2
+    },
+    "Blur": {
+      "count": 2
+    },
+    "Bo Diddley": {
+      "count": 1
+    },
+    "Bob Dylan": {
+      "count": 2
+    },
+    "Bob Dylan Tracks": {
+      "count": 1
+    },
+    "Bob Marley": {
+      "count": 2
+    },
+    "Bob Seger": {
+      "count": 1
+    },
+    "Bon Jovi": {
+      "count": 2
+    },
+    "Bonnie Raitt": {
+      "count": 1
+    },
+    "Booker T & The Mg'S": {
+      "count": 1
+    },
+    "Boston": {
+      "count": 1
+    },
+    "Brad Paisley": {
+      "count": 2
+    },
+    "Brantley Gilbert": {
+      "count": 1
+    },
+    "Bread": {
+      "count": 1
+    },
+    "Britney Spears": {
+      "count": 2
+    },
+    "Brooks & Dunn": {
+      "count": 1
+    },
+    "Bruce Springsteen": {
+      "count": 2
+    },
+    "Bruno Mars": {
+      "count": 1
+    },
+    "Bryan Adams": {
+      "count": 2
+    },
+    "Bryan Ferry": {
+      "count": 1
+    },
+    "Bts": {
+      "count": 1
+    },
+    "Buddy Guy": {
+      "count": 1
+    },
+    "Buddy Holly": {
+      "count": 2
+    },
+    "Burna Boy": {
+      "count": 1
+    },
+    "Burning Spear": {
+      "count": 1
+    },
+    "Byrds": {
+      "count": 1
+    },
+    "Calvin Harris": {
+      "count": 1
+    },
+    "Camila Cabello": {
+      "count": 1
+    },
+    "Cardi B": {
+      "count": 1
+    },
+    "Carly Simon": {
+      "count": 1
+    },
+    "Carole King": {
+      "count": 1
+    },
+    "Carpenters": {
+      "count": 2
+    },
+    "Carrie Underwood": {
+      "count": 1
+    },
+    "Cars": {
+      "count": 1
+    },
+    "Cat Stevens": {
+      "count": 1
+    },
+    "Celine Dion": {
+      "count": 2
+    },
+    "Charley Pride": {
+      "count": 1
+    },
+    "Charli Xcx": {
+      "count": 1
+    },
+    "Charlie Parker": {
+      "count": 1
+    },
+    "Charlie Puth": {
+      "count": 1
+    },
+    "Cher": {
+      "count": 1
+    },
+    "Chic": {
+      "count": 2
+    },
+    "Chicago": {
+      "count": 2
+    },
+    "Chick Corea": {
+      "count": 1
+    },
+    "Chicks": {
+      "count": 1
+    },
+    "Chris Rea": {
+      "count": 1
+    },
+    "Christina Aguilera": {
+      "count": 1
+    },
+    "Chuck Berry": {
+      "count": 2
+    },
+    "Clash": {
+      "count": 1
+    },
+    "Cliff Richard": {
+      "count": 2
+    },
+    "Coldplay": {
+      "count": 2
+    },
+    "Count Basie": {
+      "count": 1
+    },
+    "Cream": {
+      "count": 1
+    },
+    "Creedence Clearwater Revival": {
+      "count": 1
+    },
+    "Crosby Stills Nash & Young": {
+      "count": 1
+    },
+    "Crowded House": {
+      "count": 1
+    },
+    "Curtis Mayfield": {
+      "count": 1
+    },
+    "Daft Punk": {
+      "count": 1
+    },
+    "Darshan Raval": {
+      "count": 1
+    },
+    "Dave Brubeck": {
+      "count": 1
+    },
+    "David Bowie": {
+      "count": 2
+    },
+    "David Cassidy": {
+      "count": 1
+    },
+    "Dean Martin": {
+      "count": 1
+    },
+    "Deep Purple": {
+      "count": 1
+    },
+    "Def Leppard": {
+      "count": 1
+    },
+    "Demi Lovato": {
+      "count": 1
+    },
+    "Dennis Brown": {
+      "count": 1
+    },
+    "Depeche Mode": {
+      "count": 1
+    },
+    "Derek Trucks & Susan Tedeschi": {
+      "count": 1
+    },
+    "Desmond Dekker": {
+      "count": 1
+    },
+    "Dhavani Bhanushali": {
+      "count": 1
+    },
+    "Diana Krall": {
+      "count": 1
+    },
+    "Diana Ross": {
+      "count": 2
+    },
+    "Dionne Warwick": {
+      "count": 1
+    },
+    "Dire Straits": {
+      "count": 2
+    },
+    "Dizzy Gillespie": {
+      "count": 1
+    },
+    "Doja Cat": {
+      "count": 1
+    },
+    "Dolly Parton": {
+      "count": 2
+    },
+    "Donna Summer": {
+      "count": 1
+    },
+    "Doobie Brothers": {
+      "count": 1
+    },
+    "Doors": {
+      "count": 1
+    },
+    "Dr Dre": {
+      "count": 1
+    },
+    "Dr Hook": {
+      "count": 1
+    },
+    "Drake": {
+      "count": 2
+    },
+    "Drifters": {
+      "count": 1
+    },
+    "Dua Lipa": {
+      "count": 1
+    },
+    "Dubliners": {
+      "count": 1
+    },
+    "Duke Ellington": {
+      "count": 1
+    },
+    "Duran Duran": {
+      "count": 2
+    },
+    "Eagles": {
+      "count": 2
+    },
+    "Earth Wind & Fire": {
+      "count": 2
+    },
+    "Ed Sheeran": {
+      "count": 2
+    },
+    "Ella Fitzgerald": {
+      "count": 1
+    },
+    "Ellie Goulding": {
+      "count": 1
+    },
+    "Elo": {
+      "count": 2
+    },
+    "Elton John": {
+      "count": 2
+    },
+    "Elvis Costello": {
+      "count": 1
+    },
+    "Elvis Presley": {
+      "count": 2
+    },
+    "Emerson Lake & Palmer": {
+      "count": 1
+    },
+    "Eminem": {
+      "count": 1
+    },
+    "Engelbert Humperdinck": {
+      "count": 1
+    },
+    "Enrique Iglesias": {
+      "count": 1
+    },
+    "Erasure": {
+      "count": 1
+    },
+    "Eric Clapton": {
+      "count": 3
+    },
+    "Etta James": {
+      "count": 1
+    },
+    "Eurythmics": {
+      "count": 2
+    },
+    "Eva Cassidy": {
+      "count": 1
+    },
+    "Everly Brothers": {
+      "count": 2
+    },
+    "Fats Domino": {
+      "count": 1
+    },
+    "Fats Waller": {
+      "count": 1
+    },
+    "Fleetwood Mac": {
+      "count": 2
+    },
+    "Florida Georgia Line": {
+      "count": 1
+    },
+    "Foo Fighters": {
+      "count": 1
+    },
+    "Foreigner": {
+      "count": 1
+    },
+    "Four Tops": {
+      "count": 2
+    },
+    "Frank Sinatra": {
+      "count": 2
+    },
+    "Frankie Valli & The Four Seasons": {
+      "count": 1
+    },
+    "Freya Ridings": {
+      "count": 1
+    },
+    "Garth Brooks": {
+      "count": 2
+    },
+    "Gary Moore": {
+      "count": 1
+    },
+    "Gary Numan": {
+      "count": 1
+    },
+    "GD Dubai": {
+      "count": 1
+    },
+    "Genesis": {
+      "count": 2
+    },
+    "George Benson": {
+      "count": 1
+    },
+    "George Ezra": {
+      "count": 1
+    },
+    "George Harrison": {
+      "count": 1
+    },
+    "George Jones": {
+      "count": 1
+    },
+    "George Michael": {
+      "count": 2
+    },
+    "George Strait": {
+      "count": 1
+    },
+    "Gershwin": {
+      "count": 1
+    },
+    "Glen Campbell": {
+      "count": 2
+    },
+    "Glenn Miller": {
+      "count": 1
+    },
+    "Gloria Estefan": {
+      "count": 1
+    },
+    "Gordon Lightfoot": {
+      "count": 1
+    },
+    "Grateful Dead": {
+      "count": 1
+    },
+    "Green Day": {
+      "count": 1
+    },
+    "Gregory Isaacs": {
+      "count": 1
+    },
+    "Gregory Porter": {
+      "count": 1
+    },
+    "Guns N Roses": {
+      "count": 1
+    },
+    "Guru Randhawa": {
+      "count": 1
+    },
+    "Hall & Oates": {
+      "count": 2
+    },
+    "Halsey": {
+      "count": 1
+    },
+    "Hank Williams": {
+      "count": 1
+    },
+    "Harrdy Sandhu": {
+      "count": 1
+    },
+    "Harry Styles": {
+      "count": 1
+    },
+    "Heart": {
+      "count": 1
+    },
+    "Herbie Hancock": {
+      "count": 1
+    },
+    "Hollies": {
+      "count": 1
+    },
+    "Howlin Wolf": {
+      "count": 1
+    },
+    "Huey Lewis & The News": {
+      "count": 1
+    },
+    "Human League": {
+      "count": 1
+    },
+    "Imagine Dragons": {
+      "count": 1
+    },
+    "Inxs": {
+      "count": 1
+    },
+    "Iron Maiden": {
+      "count": 1
+    },
+    "Jack Johnson": {
+      "count": 1
+    },
+    "Jackson Browne": {
+      "count": 1
+    },
+    "Jacques Loussier": {
+      "count": 1
+    },
+    "James Blunt": {
+      "count": 1
+    },
+    "James Brown": {
+      "count": 2
+    },
+    "James Taylor": {
+      "count": 2
+    },
+    "Jamie Cullum": {
+      "count": 1
+    },
+    "Janet Jackson": {
+      "count": 1
+    },
+    "Jason Derulo": {
+      "count": 1
+    },
+    "Jay-Z": {
+      "count": 1
+    },
+    "Jean-Michel Jarre": {
+      "count": 1
+    },
+    "Jefferson Airplane": {
+      "count": 1
+    },
+    "Jennifer Lopez": {
+      "count": 1
+    },
+    "Jerry Lee Lewis": {
+      "count": 1
+    },
+    "Jethro Tull": {
+      "count": 1
+    },
+    "Jim Reeves": {
+      "count": 1
+    },
+    "Jimi Hendrix": {
+      "count": 2
+    },
+    "Jimmy Cliff": {
+      "count": 1
+    },
+    "Jj Cale": {
+      "count": 1
+    },
+    "Joan Baez": {
+      "count": 1
+    },
+    "Joan Jett": {
+      "count": 1
+    },
+    "Joe Bonamassa": {
+      "count": 1
+    },
+    "Joe Satriani": {
+      "count": 1
+    },
+    "John Coltrane": {
+      "count": 1
+    },
+    "John Denver": {
+      "count": 2
+    },
+    "John Lee Hooker": {
+      "count": 1
+    },
+    "John Legend": {
+      "count": 1
+    },
+    "John Lennon": {
+      "count": 2
+    },
+    "John Mayall": {
+      "count": 1
+    },
+    "Johnny Cash": {
+      "count": 2
+    },
+    "Johnny Mathis": {
+      "count": 1
+    },
+    "Johnny Nash": {
+      "count": 1
+    },
+    "Johnny Winter": {
+      "count": 1
+    },
+    "Jonas Brothers": {
+      "count": 1
+    },
+    "Joni Mitchell": {
+      "count": 2
+    },
+    "Josh Groban": {
+      "count": 1
+    },
+    "Journey": {
+      "count": 1
+    },
+    "Jubin Nautiyal": {
+      "count": 1
+    },
+    "Judy Collins": {
+      "count": 1
+    },
+    "Juice Wrld": {
+      "count": 1
+    },
+    "Justin Bieber": {
+      "count": 2
+    },
+    "Justin Timberlake": {
+      "count": 2
+    },
+    "Kanye West": {
+      "count": 2
+    },
+    "Kasabian": {
+      "count": 1
+    },
+    "Kate Bush": {
+      "count": 1
+    },
+    "Katy Perry": {
+      "count": 1
+    },
+    "Keane": {
+      "count": 1
+    },
+    "Keith Urban": {
+      "count": 1
+    },
+    "Kelly Clarkson": {
+      "count": 1
+    },
+    "Kendrick Lamar": {
+      "count": 1
+    },
+    "Kenny Chesney": {
+      "count": 1
+    },
+    "Kenny G": {
+      "count": 1
+    },
+    "Kenny Rogers": {
+      "count": 2
+    },
+    "Kiefer Sutherland": {
+      "count": 1
+    },
+    "Killers": {
+      "count": 2
+    },
+    "Kings Of Leon": {
+      "count": 1
+    },
+    "Kinks": {
+      "count": 1
+    },
+    "Kishore Kumar": {
+      "count": 1
+    },
+    "Kiss": {
+      "count": 1
+    },
+    "Kraftwerk": {
+      "count": 1
+    },
+    "Kylie Minogue": {
+      "count": 1
+    },
+    "Lady A": {
+      "count": 1
+    },
+    "Lady Gaga": {
+      "count": 2
+    },
+    "Lana Del Rey": {
+      "count": 1
+    },
+    "Lata Mangeshkar": {
+      "count": 1
+    },
+    "Led Zeppelin": {
+      "count": 2
+    },
+    "Leonard Cohen": {
+      "count": 1
+    },
+    "Level 42": {
+      "count": 1
+    },
+    "Lewis Capaldi": {
+      "count": 1
+    },
+    "Linda Ronstadt": {
+      "count": 1
+    },
+    "Lionel Richie": {
+      "count": 2
+    },
+    "Little Feat": {
+      "count": 1
+    },
+    "Little Mix": {
+      "count": 2
+    },
+    "Little Richard": {
+      "count": 2
+    },
+    "Lorde": {
+      "count": 1
+    },
+    "Loretta Lynn": {
+      "count": 1
+    },
+    "Louis Armstrong": {
+      "count": 1
+    },
+    "Luke Bryan": {
+      "count": 1
+    },
+    "Lynyrd Skynyrd": {
+      "count": 1
+    },
+    "Mabel": {
+      "count": 1
+    },
+    "Madness": {
+      "count": 1
+    },
+    "Madonna": {
+      "count": 2
+    },
+    "Mariah Carey": {
+      "count": 2
+    },
+    "Maroon 5": {
+      "count": 1
+    },
+    "Marvin Gaye": {
+      "count": 2
+    },
+    "Mary J Blige": {
+      "count": 1
+    },
+    "Matt Monro": {
+      "count": 1
+    },
+    "Mavericks": {
+      "count": 1
+    },
+    "Meat Loaf": {
+      "count": 2
+    },
+    "Merle Haggard": {
+      "count": 1
+    },
+    "Metallica": {
+      "count": 1
+    },
+    "Michael Bolton": {
+      "count": 1
+    },
+    "Michael Buble": {
+      "count": 2
+    },
+    "Michael Jackson": {
+      "count": 2
+    },
+    "Mike & The Mechanics": {
+      "count": 2
+    },
+    "Mike Oldfield": {
+      "count": 1
+    },
+    "Miles Davis": {
+      "count": 1
+    },
+    "Miley Cyrus": {
+      "count": 1
+    },
+    "Millind Gaba": {
+      "count": 1
+    },
+    "Moby": {
+      "count": 1
+    },
+    "Monkees": {
+      "count": 1
+    },
+    "Moody Blues": {
+      "count": 2
+    },
+    "Mötley Crüe": {
+      "count": 1
+    },
+    "Motörhead": {
+      "count": 1
+    },
+    "Muddy Waters": {
+      "count": 1
+    },
+    "Muse": {
+      "count": 1
+    },
+    "Nat King Cole": {
+      "count": 2
+    },
+    "Neha Kakkar": {
+      "count": 1
+    },
+    "Neil Diamond": {
+      "count": 2
+    },
+    "Neil Young": {
+      "count": 1
+    },
+    "New Order": {
+      "count": 1
+    },
+    "Niall Horan": {
+      "count": 1
+    },
+    "Nickelback": {
+      "count": 1
+    },
+    "Nicki Minaj": {
+      "count": 2
+    },
+    "Nina Simone": {
+      "count": 1
+    },
+    "Nirvana": {
+      "count": 1
+    },
+    "Norah Jones": {
+      "count": 1
+    },
+    "null": {
+      "count": 21873
+    },
+    "Oasis": {
+      "count": 2
+    },
+    "Olivia Newton John": {
+      "count": 1
+    },
+    "Olivia Rodrigo": {
+      "count": 1
+    },
+    "One Direction": {
+      "count": 2
+    },
+    "Onerepublic": {
+      "count": 1
+    },
+    "Orchestral Manoeuvres In The Dark": {
+      "count": 1
+    },
+    "Oscar Peterson": {
+      "count": 1
+    },
+    "Otis Redding": {
+      "count": 2
+    },
+    "Patsy Cline": {
+      "count": 1
+    },
+    "Patti Smith": {
+      "count": 1
+    },
+    "Paul Mccartney": {
+      "count": 2
+    },
+    "Paul Weller": {
+      "count": 1
+    },
+    "Perry Como": {
+      "count": 1
+    },
+    "Pet Shop Boys": {
+      "count": 2
+    },
+    "Pete Seeger": {
+      "count": 1
+    },
+    "Peter Frampton": {
+      "count": 1
+    },
+    "Peter Gabriel": {
+      "count": 1
+    },
+    "Peter Green'S Fleetwood Mac": {
+      "count": 1
+    },
+    "Peter Tosh": {
+      "count": 1
+    },
+    "Phil Collins": {
+      "count": 2
+    },
+    "Pink": {
+      "count": 1
+    },
+    "Pink Floyd": {
+      "count": 3
+    },
+    "Pixies": {
+      "count": 1
+    },
+    "Post Malone": {
+      "count": 2
+    },
+    "Pretenders": {
+      "count": 2
+    },
+    "Prince": {
+      "count": 2
+    },
+    "Pritam": {
+      "count": 1
+    },
+    "Pussycat Dolls": {
+      "count": 1
+    },
+    "Queen": {
+      "count": 2
+    },
+    "R.E.M.": {
+      "count": 2
+    },
+    "Radiohead": {
+      "count": 1
+    },
+    "Ramones": {
+      "count": 1
+    },
+    "Randy Travis": {
+      "count": 1
+    },
+    "Ray Charles": {
+      "count": 2
+    },
+    "Reba Mcentire": {
+      "count": 1
+    },
+    "Red Hot Chili Peppers": {
+      "count": 1
+    },
+    "Rihanna": {
+      "count": 2
+    },
+    "Rita Ora": {
+      "count": 1
+    },
+    "Robbie Williams": {
+      "count": 2
+    },
+    "Robert Cray": {
+      "count": 1
+    },
+    "Robert Palmer": {
+      "count": 1
+    },
+    "Rod Stewart": {
+      "count": 2
+    },
+    "Rolling Stones": {
+      "count": 2
+    },
+    "Rory Gallagher": {
+      "count": 1
+    },
+    "Roxette": {
+      "count": 2
+    },
+    "Roy Orbison": {
+      "count": 2
+    },
+    "Run Dmc": {
+      "count": 1
+    },
+    "Rush": {
+      "count": 1
+    },
+    "Sade": {
+      "count": 1
+    },
+    "Sam Cooke": {
+      "count": 1
+    },
+    "Sam Smith": {
+      "count": 1
+    },
+    "Santana": {
+      "count": 1
+    },
+    "Savage Garden": {
+      "count": 1
+    },
+    "Scorpions": {
+      "count": 1
+    },
+    "Shaggy": {
+      "count": 1
+    },
+    "Shah Rukh Khan": {
+      "count": 1
+    },
+    "Shakira": {
+      "count": 2
+    },
+    "Shania Twain": {
+      "count": 2
+    },
+    "Shawn Mendes": {
+      "count": 1
+    },
+    "Sheryl Crow": {
+      "count": 1
+    },
+    "Shreya Ghoshal": {
+      "count": 1
+    },
+    "Sia": {
+      "count": 1
+    },
+    "Sidhu Moose Wala": {
+      "count": 1
+    },
+    "Simon & Garfunkel": {
+      "count": 2
+    },
+    "Simple Minds": {
+      "count": 1
+    },
+    "Simply Red": {
+      "count": 2
+    },
+    "Slade": {
+      "count": 2
+    },
+    "Small Faces": {
+      "count": 1
+    },
+    "Smiths": {
+      "count": 1
+    },
+    "Smokey Robinson": {
+      "count": 2
+    },
+    "Snow Patrol": {
+      "count": 1
+    },
+    "Sonu Nigam": {
+      "count": 1
+    },
+    "Spandau Ballet": {
+      "count": 1
+    },
+    "Status Quo": {
+      "count": 1
+    },
+    "Steel Pulse": {
+      "count": 1
+    },
+    "Steeleye Span": {
+      "count": 1
+    },
+    "Steely Dan": {
+      "count": 2
+    },
+    "Stephane San Juan": {
+      "count": 1
+    },
+    "Steve Miller Band": {
+      "count": 1
+    },
+    "Steve Winwood": {
+      "count": 1
+    },
+    "Stevie Ray Vaughan": {
+      "count": 1
+    },
+    "Stevie Wonder": {
+      "count": 2
+    },
+    "Sting": {
+      "count": 2
+    },
+    "Stone Temple Pilots": {
+      "count": 1
+    },
+    "Styx": {
+      "count": 1
+    },
+    "Sunanda Sharma": {
+      "count": 1
+    },
+    "Sunidhi Chauhan": {
+      "count": 1
+    },
+    "Supertramp": {
+      "count": 1
+    },
+    "Suzanne Vega": {
+      "count": 1
+    },
+    "T. Rex": {
+      "count": 1
+    },
+    "Take That": {
+      "count": 2
+    },
+    "Talking Heads": {
+      "count": 2
+    },
+    "Tammy Wynette": {
+      "count": 1
+    },
+    "Taylor Swift": {
+      "count": 2
+    },
+    "Tears For Fears": {
+      "count": 1
+    },
+    "Temptations": {
+      "count": 2
+    },
+    "Texas": {
+      "count": 1
+    },
+    "The 1975": {
+      "count": 1
+    },
+    "The B 52S": {
+      "count": 1
+    },
+    "The Band": {
+      "count": 1
+    },
+    "The Cure": {
+      "count": 1
+    },
+    "The Police": {
+      "count": 2
+    },
+    "The Weeknd": {
+      "count": 2
+    },
+    "The Who": {
+      "count": 2
+    },
+    "Thin Lizzy": {
+      "count": 1
+    },
+    "Tim Mcgraw": {
+      "count": 1
+    },
+    "Tina Turner": {
+      "count": 2
+    },
+    "Toby Keith": {
+      "count": 1
+    },
+    "Tom Jones": {
+      "count": 2
+    },
+    "Tom Petty": {
+      "count": 2
+    },
+    "Tom Waits": {
+      "count": 1
+    },
+    "Tony Bennett": {
+      "count": 2
+    },
+    "Toots & The Maytals": {
+      "count": 1
+    },
+    "Toto": {
+      "count": 1
+    },
+    "Travis Scott": {
+      "count": 1
+    },
+    "Twenty One Pilots": {
+      "count": 1
+    },
+    "U2": {
+      "count": 2
+    },
+    "Ub40": {
+      "count": 1
+    },
+    "Van Halen": {
+      "count": 1
+    },
+    "Van Morrison": {
+      "count": 2
+    },
+    "Velvet Underground": {
+      "count": 1
+    },
+    "Vishal & Shekhar": {
+      "count": 1
+    },
+    "Waylon Jennings": {
+      "count": 1
+    },
+    "Wham!": {
+      "count": 1
+    },
+    "White Stripes": {
+      "count": 1
+    },
+    "Whitesnake": {
+      "count": 1
+    },
+    "Whitney Houston": {
+      "count": 2
+    },
+    "Willie Nelson": {
+      "count": 2
+    },
+    "Yardbirds": {
+      "count": 1
+    },
+    "Yes": {
+      "count": 1
+    },
+    "Yo Yo Honey Singh": {
+      "count": 1
+    },
+    "Ziggy Marley": {
+      "count": 1
+    },
+    "Zz Top": {
+      "count": 1
+    }
+  }
+}
