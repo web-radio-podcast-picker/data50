@@ -28,10 +28,6 @@
       "iso": "zho",
       "count": 53
     },
-    "Créole mauricien": {
-      "iso": null,
-      "count": 1
-    },
     "Deutsch": {
       "iso": "deu",
       "count": 131
@@ -74,6 +70,10 @@
     },
     "Kurdish": {
       "iso": "kur",
+      "count": 1
+    },
+    "Mauritian Creole": {
+      "iso": null,
       "count": 1
     },
     "Mongolian": {
