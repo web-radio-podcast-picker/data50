@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18263",
+    "name": "Cliff Richard",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/cliffrichard/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/a925120e-22b1-477b-99ef-7e6a0bd00a65.jpg",
+    "artist": "Cliff Richard",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18264",
+    "name": "Cliff Richard - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/cliffrichardhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/bc3e06bd-0a2f-4222-844b-bb3b173aaa12.jpg",
+    "artist": "Cliff Richard",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

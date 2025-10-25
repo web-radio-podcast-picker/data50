@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18614",
+    "name": "Shania Twain",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/shaniatwain/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/eda06f25-7706-4d55-bda0-b2b117ffd37b.jpg",
+    "artist": "Shania Twain",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18615",
+    "name": "Shania Twain - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/shaniatwainhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/c55d6117-2963-4d0e-a587-014dd67c5ced.jpg",
+    "artist": "Shania Twain",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

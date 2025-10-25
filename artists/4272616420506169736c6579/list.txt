@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18215",
+    "name": "Brad Paisley",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/bradpaisley/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/6a6cb091-85bc-47a7-be51-171bc0def8b1.jpg",
+    "artist": "Brad Paisley",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18216",
+    "name": "Brad Paisley - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/bradpaisleyhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/00940a87-c098-40f9-a6ae-517e696ad430.jpg",
+    "artist": "Brad Paisley",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

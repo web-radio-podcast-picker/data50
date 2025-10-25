@@ -1,0 +1,177 @@
+[
+  {
+    "id": "21206",
+    "name": "88.6 Hard Rock",
+    "groups": "Hard,Rock",
+    "url": "http://edge04.streamonkey.net/radio886-hardrock/stream/mp3",
+    "logo": "http://radio886.at/apple-touch-icon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21296",
+    "name": "Andrew Haug Metal Radio",
+    "groups": "Hard,Metal,Rock",
+    "url": "http://streamer.radio.co/s6a349b3a2/listen",
+    "logo": "https://andrewhaug.com/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20765",
+    "name": "Radio 88.6 Hard Rock",
+    "groups": "Hard,Rock",
+    "url": "https://edge51.streamonkey.net/radio886-hardrock/stream/mp3?aggregator=886Website",
+    "logo": "https://www.radio886.at/apple-touch-icon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16462",
+    "name": "Radio Tangra",
+    "groups": "Hard,Metal,Rock",
+    "url": "http://stream-bg-01.radiotangra.com:8000/Tangra-high",
+    "logo": "http://www.radiotangra.com/img/logo_tangra.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20815",
+    "name": "Stahlradio",
+    "groups": "Hard,Metal,Rock",
+    "url": "https://simba.streampanel.cloud:5280/stream",
+    "logo": "https://www.stahlradio.com/wp2/wp-content/uploads/2020/07/cropped-stahlradio-logo-2018-180x180.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

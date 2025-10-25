@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18567",
+    "name": "Post Malone",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/postmalone/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/91041e42-1a5e-461f-96ba-d7b62b8a5f12.jpg",
+    "artist": "Post Malone",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18568",
+    "name": "Post Malone - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/postmalonehits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/e25a0b9e-6b27-4b48-9e56-eff0b3fed3fa.jpg",
+    "artist": "Post Malone",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18646",
+    "name": "Sting",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/sting/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/65db8549-a87c-4931-847b-b6bc5dc1e119.jpg",
+    "artist": "Sting",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18647",
+    "name": "Sting - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/stinghits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/546b02af-f636-4ad9-96d4-8e6345c53be5.jpg",
+    "artist": "Sting",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18129",
+    "name": "Ac/Dc",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/acdc/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/283e57fc-2293-4340-bd64-fb361998b24c.jpg",
+    "artist": "Ac/Dc",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18130",
+    "name": "Ac/Dc - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/acdchits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/08b3e670-4111-4dc9-8092-08eb70c805c7.jpg",
+    "artist": "Ac/Dc",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

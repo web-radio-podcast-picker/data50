@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18227",
+    "name": "Bryan Ferry",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/bryanferry/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/ec2a3b2e-d860-4bcd-80da-5be721d37f81.png",
+    "artist": "Bryan Ferry",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18180",
+    "name": "Beach Boys",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/beachboys/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/01cada27-bc2e-4863-816f-5e236d337cc0.jpg",
+    "artist": "Beach Boys",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18181",
+    "name": "Beach Boys - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/beachboyshits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/75028458-ebc1-40b0-9ec1-665dc07822bf.jpg",
+    "artist": "Beach Boys",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

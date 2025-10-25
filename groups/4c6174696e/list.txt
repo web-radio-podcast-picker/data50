@@ -1,0 +1,4202 @@
+[
+  {
+    "id": "17790",
+    "name": "1.FM Absolute Pop Latino Radio",
+    "groups": "Radio,Pop,Latin",
+    "url": "http://strm112.1.fm/latino_mobile_mp3",
+    "logo": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3149",
+    "name": "104.5 KZEP Latino Hits",
+    "groups": "Latin,Hits",
+    "url": "https://n3cb-e2.revma.ihrhls.com/zc4051?rj-ttl=5&rj-tok=AAABfd5pASYAtn_xjtdRGDRMFQ",
+    "logo": "https://radiostationusa.fm/assets/image/radio/180/KZEPFM.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "265",
+    "name": "A+ Radio",
+    "groups": "Latin,Pop",
+    "url": "https://amasradio.com.ar:8443/stream",
+    "logo": "https://cdn.onlineradiobox.com/img/fblogo/5/89085.v4.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8324",
+    "name": "Allzic Latino",
+    "groups": "French,Latin",
+    "url": "http://allzic39.ice.infomaniak.ch/allzic39.mp3",
+    "logo": "https://www.allzicradio.com/icon-normal.png",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19047",
+    "name": "Asian World Radio Latina",
+    "groups": "Asia,World,Radio,Latin",
+    "url": "http://stream.zeno.fm/37hmxgfgzs8uv?rj-ttl=5&rj-tok=AAABfdnh6JQASVGncPP-cEJ1xA",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzuARG9POxlmqVdic896bCBXii1ECu2TTy-Q&s",
+    "artist": null,
+    "lang": "Asian languages",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18803",
+    "name": "ATB Radio 107.2",
+    "groups": "Jazz,Latin",
+    "url": "https://streamingenbolivia.com/8006/stream",
+    "logo": "https://play-lh.googleusercontent.com/0_8zfe5e0gYR87QaAApHXakXjr41IRwnjgom7Yl3MkvlEDGYP0s9JaksXU146ZpfBVI",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10498",
+    "name": "Big FM Latin Beats",
+    "groups": "Radio,Latin",
+    "url": "http://streams.bigfm.de/bigfm-latinbeats-128-aac",
+    "logo": "http://cdn.bigfm.de/sites/all/themes/bigfm/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8287",
+    "name": "Blackbox Latina",
+    "groups": "Latin",
+    "url": "http://blackboxlatina.ice.infomaniak.ch/blackboxlatina-128.mp3",
+    "logo": "http://ecouter.lesindesradios.fr/logos/orange310.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8529",
+    "name": "Chérie FM Latino",
+    "groups": "French,Radio,Latin",
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/30247/mp3_128.mp3",
+    "logo": "https://image-api.nrj.fr/https/players.nrjaudio.fm%2Flive-metadata%2Fplayer%2Fimg%2Fplayer-files%2Fcfm%2Flogos%2F640x640%2FP_CHERIE_LATINO_3.png?referer=Ch%C3%A9rie+FM",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "279",
+    "name": "Con Vos 1420",
+    "groups": "Latin,World",
+    "url": "https://us9.maindigitalstream.com/ssl/7192",
+    "logo": "https://cdn-profiles.tunein.com/s227805/images/logog.jpg?t=157773",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3852",
+    "name": "Dash Latin X",
+    "groups": "Latin",
+    "url": "http://ice55.securenetsystems.net/DASH48",
+    "logo": "https://dashradio.com/wp-content/themes/dash-2.2.5/favicon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "288",
+    "name": "Estación Latidos",
+    "groups": "Latin,Pop,Top 40",
+    "url": "http://streaming01.shockmedia.com.ar:8162/",
+    "logo": "https://play-lh.googleusercontent.com/62WBBfKezweD6EdLKXErN2iIMeapAsiuozOC3M5CuLkSAFOLuPgR66NjHX1yyMrqjQM",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18808",
+    "name": "FM Bolivia 101.3",
+    "groups": "Latin,World",
+    "url": "https://stm11.xcast.com.br:11300/stream/1/",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwavDUZ63YNw1Gv6FpM72-LGruHiijdxE9Xg&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "295",
+    "name": "Guajira Radio",
+    "groups": "Folk,Latin,Pop",
+    "url": "http://01.solumedia.com.ar:8252/stream",
+    "logo": "https://guajiraradio.com.ar/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17406",
+    "name": "Hi On Line Radio Latin",
+    "groups": "Radio,Latin",
+    "url": "http://mediaserv33.live-streams.nl:8034/live",
+    "logo": "https://www.hionline.eu/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20341",
+    "name": "Hit Radio Latino",
+    "groups": "Hits,Radio,Latin",
+    "url": "http://latino.ice.infomaniak.ch/latino-128.mp3",
+    "logo": "https://d371i8ihhgym7w.cloudfront.net/76289559.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18873",
+    "name": "HitRadio Center Latin",
+    "groups": "Latin",
+    "url": "http://stream3.radiocenter.si:8200/;stream/1",
+    "logo": "http://radiocenter.si/public/assets/dist/img/150_center.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "7434",
+    "name": "Hits 1 Latina",
+    "groups": "Hits,Latin",
+    "url": "https://radio10.pro-fhi.net/live/Hits1latina",
+    "logo": "https://www.hits1radio.com/wp-content/uploads/2019/03/H1L-300x300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19985",
+    "name": "Hitz Latino FM",
+    "groups": "Latin,Radio",
+    "url": "http://stream.zeno.fm/aq899a53rs8uv?rj-ttl=5&rj-tok=AAABfdr1OEQA4JzL_EkFgnak7w",
+    "logo": "https://cdn.onlineradiobox.com/img/l/9/102759.v1.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "15712",
+    "name": "HK Latino Radio",
+    "groups": "Latin,Radio",
+    "url": "http://stream.zeno.fm/0afmaf4x2tzuv.aac?rj-ttl=5&rj-tok=AAABfdn7b5MAEu1gEu8ExH_dQg",
+    "logo": "https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDg_8-_rAoMCxIOU3RhdGlvblByb2ZpbGUYgICQgKuSsgkMogEEemVubw/image/%3Fresize=500x500&v=1",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8042",
+    "name": "Jazz Radio Latin Jazz",
+    "groups": "Radio,Latin",
+    "url": "http://jazz-wr09.ice.infomaniak.ch/jazz-wr09-128.mp3",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/jlbdhhb7wgxf.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "4259",
+    "name": "KCSN-HD2 The Latin Alternative",
+    "groups": "Latin",
+    "url": "http://130.166.82.14:8002/;stream.mp3",
+    "logo": "http://www.latinalt.org/assets/favicon/favicon-32x32.png?v=1",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "4892",
+    "name": "KDDK Latin 105.5",
+    "groups": "Latin",
+    "url": "https://ice64.securenetsystems.net/KDDK",
+    "logo": "https://radiostationusa.fm/assets/image/radio/180/KDDK-FM.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "4440",
+    "name": "KLMG Latino 97.9",
+    "groups": "Latin",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KLMGFMAAC_SC",
+    "logo": "http://latino979.com/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20727",
+    "name": "KroneHit Latino",
+    "groups": "Latin,World",
+    "url": "http://onair-ha1.krone.at/kronehit-latino.mp3",
+    "logo": "http://www.kronehit.at///apple-touch-icon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "4678",
+    "name": "KSXY HD2 Latino 95.5",
+    "groups": "Latin",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KSXYHD2AAC_SC",
+    "logo": "http://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/720/2015/03/26130403/Latino-Logo.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "298",
+    "name": "La 2x4 92.7",
+    "groups": "Latin,Spanish,Tango",
+    "url": "https://storage.googleapis.com/m-infra.appspot.com/public/webchat/sent.mp3",
+    "logo": "https://www.phonostar.de/images/auto_created/la_2x4184x184.png",
+    "artist": null,
+    "lang": "Spanish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "299",
+    "name": "La 2x4 92.7",
+    "groups": "Latin,Spanish,Tango",
+    "url": "https://tus.radios.ar/9270/stream",
+    "logo": "https://www.phonostar.de/images/auto_created/la_2x4184x184.png",
+    "artist": null,
+    "lang": "Spanish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "13456",
+    "name": "Latin A-Z Radio",
+    "groups": "Latin,Radio",
+    "url": "https://maggie.torontocast.com:2020/stream/latinazradio",
+    "logo": "https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2021-09-11/13248eeafe8fb5ec0eb865f7a8516282.ico.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "4893",
+    "name": "Latin Alternativo Rock Latino Alternativo",
+    "groups": "Latin",
+    "url": "http://130.166.82.14:8002/",
+    "logo": "http://www.latinalt.org/assets/favicon/favicon-32x32.png?v=1",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8207",
+    "name": "Latina",
+    "groups": "Latin",
+    "url": "https://start-latina.ice.infomaniak.ch/start-latina-high.mp3",
+    "logo": "http://ecouter.lesindesradios.fr/applications/latina/latina.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8208",
+    "name": "LATINA @WORK",
+    "groups": "Latin",
+    "url": "https://latinawork.ice.infomaniak.ch/latinawork.mp3",
+    "logo": "https://ecouter.lesindesradios.net/logos/orange323.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20622",
+    "name": "Latina 92.3",
+    "groups": "Latin,Pop",
+    "url": "https://server.radiogs.org/8140/stream",
+    "logo": "https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICw37ynoAoMCxIOU3RhdGlvblByb2ZpbGUYgIDwgK6S3AgMogEEemVubw/image/?u=1661269191000",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8209",
+    "name": "LATINA BACHATA",
+    "groups": "Latin",
+    "url": "https://latinabachata.ice.infomaniak.ch/latinabachata.mp3",
+    "logo": "https://ecouter.lesindesradios.net/logos/orange324.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8210",
+    "name": "LATINA FIESTA",
+    "groups": "Latin",
+    "url": "https://latinafiesta.ice.infomaniak.ch/latinafiesta.mp3",
+    "logo": "https://ecouter.lesindesradios.net/logos/orange329.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8211",
+    "name": "LATINA KIZOMBA",
+    "groups": "Latin",
+    "url": "https://latinakizomba.ice.infomaniak.ch/latinakizomba.mp3",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/angdguktmyqv.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "7480",
+    "name": "Latina Le Son Latino",
+    "groups": "Latin",
+    "url": "https://start-latina.ice.infomaniak.ch/start-latina-high.mp3",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/4avRXZr3WU.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8212",
+    "name": "LATINA LOVE",
+    "groups": "Latin,Love",
+    "url": "https://latinalove.ice.infomaniak.ch/latinalove.mp3",
+    "logo": "https://ecouter.lesindesradios.net/logos/orange326.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8213",
+    "name": "LATINA REGGAETON",
+    "groups": "Latin",
+    "url": "https://latinareggaeton.ice.infomaniak.ch/latinareggaeton.mp3",
+    "logo": "https://ecouter.lesindesradios.net/logos/orange327.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8214",
+    "name": "LATINA SALSA",
+    "groups": "Latin",
+    "url": "https://latinasalsa.ice.infomaniak.ch/latinasalsa.mp3",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/grygplpc5wmd.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "15332",
+    "name": "Latina Stereo 100.9",
+    "groups": "Latin",
+    "url": "http://198.27.68.65:8296/live",
+    "logo": "http://latinastereo.com/wp-content/uploads/2020/06/LatinaStereo-1.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19370",
+    "name": "Latino 105.7 XHEMI",
+    "groups": "Latin",
+    "url": "http://www.tuasesorweb.com:8006/listen.pls",
+    "logo": "https://www.allradio.net/500/oq3x-kmb416Tx0yCYDd1n.webp",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20017",
+    "name": "Loca Latino Córdoba 88.9",
+    "groups": "Latin",
+    "url": "http://streaming5.elitecomunicacion.es:8034/stream",
+    "logo": "https://files.123inventatuweb.com/ed/c2/edc2f350-81f9-4404-b567-abe9b57c558b.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "317",
+    "name": "LT26 Radio Nuevo Mundo 1470",
+    "groups": "Latin,Variety",
+    "url": "https://server.laradio.online/proxy/gaspar_acevedo?mp=/stream&1635423090220",
+    "logo": "https://nuevomundodigital.com.ar/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "457",
+    "name": "LT26 Radio Nuevo Mundo 1470",
+    "groups": "Latin,Variety",
+    "url": "https://server.laradio.online/proxy/gaspar_acevedo?mp=/stream&1635423090220",
+    "logo": "https://nuevomundodigital.com.ar/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "318",
+    "name": "LT8 Radio Rosario 830",
+    "groups": "Latin,Pop,Rock",
+    "url": "http://stream.lt8.com.ar:8080/lt8radio.mp3",
+    "logo": "https://www.lt8.com.ar/wp-content/uploads/2020/06/cropped-android-chrome-512x512-1-180x180.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20623",
+    "name": "Magic 96.5",
+    "groups": "Latin,Pop,Top 40",
+    "url": "http://158.69.114.190:8072/listen.pls",
+    "logo": "http://nebula.wsimg.com/aa7f99c8a850fce2c80b27fdc945d277?AccessKeyId=D6F3F2CEE168E429D521&disposition=0&alloworigin=1",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20358",
+    "name": "Medi 1 Latino",
+    "groups": "Latin",
+    "url": "http://live.medi1.com/Latino",
+    "logo": "http://www.medi1.com/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18810",
+    "name": "Melodía 99.1",
+    "groups": "Latin,Pop,Top 40",
+    "url": "http://stream.zeno.fm/472k0sw4wqzuv?rj-ttl=5&rj-tok=AAABfd4qAa4AP-w5V9lGXUW8mg",
+    "logo": "https://www.radiomelodia.fm/img/player/me.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "332",
+    "name": "Mujer FM",
+    "groups": "Latin,Pop",
+    "url": "http://165.227.209.68:9990/;stream.mp3",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s145158g.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17909",
+    "name": "my105 Ritmo Latino",
+    "groups": "Latin",
+    "url": "http://stream01.my105.ch/my105ritmolatino.mp3",
+    "logo": "http://www.my105.ch/fileadmin/templates/img/my105_logo.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17474",
+    "name": "NPO FunX Latin",
+    "groups": "Latin",
+    "url": "http://icecast.omroep.nl/funx-latinfb-bb-mp3",
+    "logo": "https://www.funx.nl/favicon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8632",
+    "name": "NRJ Fiesta Latina",
+    "groups": "Radio,Music,Latin",
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/55210/mp3_128.mp3",
+    "logo": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/173x173/NRJ-WR-Fiesta-Latina.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8568",
+    "name": "NRJ Latino",
+    "groups": "Radio,Music,Latin",
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/30077/mp3_128.mp3",
+    "logo": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/173x173/NRJ-WR-Latino.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8578",
+    "name": "NRJ Latino 2023",
+    "groups": "Radio,Music,Latin",
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/58116/mp3_128.mp3",
+    "logo": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/173x173/NRJ-WR-Latino-2023.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8569",
+    "name": "NRJ Latino Classics",
+    "groups": "Radio,Music,Latin,Classic",
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/58467/mp3_128.mp3",
+    "logo": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/173x173/NRJ-WR-Latino-Classics.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8631",
+    "name": "NRJ Latino Hits",
+    "groups": "Radio,Music,Latin,Hits",
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/31409/mp3_128.mp3",
+    "logo": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/173x173/NRJ-WR-Latino-Hits.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8575",
+    "name": "NRJ Summer Latino",
+    "groups": "Radio,Music,Latin",
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/58191/mp3_128.mp3",
+    "logo": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/173x173/NRJ-WR-Summer-Latino.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "11446",
+    "name": "Onda Latina",
+    "groups": "Latin",
+    "url": "http://ondalatina.stream.laut.fm/ondalatina?t302=2021-12-21_19-28-12&uuid=0b6c8ef6-0ce6-45a5-9cf8-ef6c9ba3302f",
+    "logo": "https://ondalatina.page4.com/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10146",
+    "name": "Onlineradio Latin",
+    "groups": "Latin",
+    "url": "https://stream.0nlineradio.com/latin?ref=radiobrowser",
+    "logo": "https://i.ibb.co/d2W3yYv/latin.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "15926",
+    "name": "OpenFM - Latino Hits",
+    "groups": "Radio,Latin,Hits",
+    "url": "http://stream.open.fm/19",
+    "logo": "http://open.fm/logo/200x200/19",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "372",
+    "name": "Pasión 102.7",
+    "groups": "Latin,World",
+    "url": "http://streamlky.alsolnet.com:443/fmpasion",
+    "logo": "https://play-lh.googleusercontent.com/ba97gF45C4UV1jRq2mqvplc71dMeUdFa-HM-6ehRxAnEE53OMySLhrYeDwHysXLObw",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "374",
+    "name": "Play FM",
+    "groups": "Latin,Pop,Top 40",
+    "url": "http://audio.questreaming.com:25157/",
+    "logo": "http://radiofmplay.com.ar/wp-content/uploads/2017/10/logoplay.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "390",
+    "name": "Radio Aire de Santa Fe 91.1",
+    "groups": "Electro,Latin",
+    "url": "https://sc1.stweb.tv/airedigital/live/playlist.m3u8",
+    "logo": "https://www.airedesantafe.com.ar/assets/img/268/logo.svg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "392",
+    "name": "Radio Argentina 570",
+    "groups": "Latin,News",
+    "url": "http://server.laradio.online:25224/live.mp3",
+    "logo": "http://am570radioargentina.com.ar/wp-content/themes/radio/images/logo_570.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "1220",
+    "name": "Radio Art Latin",
+    "groups": "Radio,Arts,Latin",
+    "url": "http://air.radioart.com/fLatin.mp3",
+    "logo": "https://d1iyh67kzf6t3o.cloudfront.net/images/channels/Latin.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "1221",
+    "name": "Radio Art Latin Jazz",
+    "groups": "Radio,Arts,Latin",
+    "url": "http://air.radioart.com/fLatin_jazz.mp3",
+    "logo": "https://d1iyh67kzf6t3o.cloudfront.net/images/channels/155_latin_jazz-600x400.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18821",
+    "name": "Radio Cumbia 90s",
+    "groups": "90s,Latin,Salsa",
+    "url": "https://emiteradio.com/proxy/cumbia90s?mp=/stream",
+    "logo": "https://cumbia90.emisora.info/fotos/logo90s.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "414",
+    "name": "Radio DeeJay 92.5",
+    "groups": "Latin,Talk",
+    "url": "http://streaming.radiosenlinea.com.ar:9640/",
+    "logo": "https://www.fmlatina925.com.ar/imagenes/emax.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18823",
+    "name": "Radio Deseo 103.3",
+    "groups": "Latin,Pop",
+    "url": "https://conectperu.com/8046/stream",
+    "logo": "http://radiodeseo.com/wp-content/uploads/2018/06/cropped-r-deseo-192x192.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18822",
+    "name": "Radio Disney 102.7",
+    "groups": "Latin,Pop,Top 40",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_BOL_SCAAC.aac?dist=web-radiodisney",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPmFrfiGtvUwVVC07gzwpHt1fijiq7T2l-MA&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18830",
+    "name": "Radio Folklorica de Uyuni",
+    "groups": "Folk,Latin",
+    "url": "https://emiteradio.com/proxy/uyuni?mp=/stream",
+    "logo": "https://emisora.info/radio/folklorica-uyuni.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "426",
+    "name": "Radio Futura 90.5",
+    "groups": "Latin,World",
+    "url": "https://streamer.fmfutura.com.ar/vivo.mp3",
+    "logo": "https://fmfutura.com.ar/wp-content/uploads/2018/09/logo_futura_nuevo-300x300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21976",
+    "name": "Radio Kiss Kiss Latina",
+    "groups": "Radio,Latin",
+    "url": "http://ice08.fluidstream.net/kk_latina.aac",
+    "logo": "https://kisskiss.it/wp-content/uploads/2021/03/cropped-favicon-kisskiss-180x180.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "435",
+    "name": "Radio La Luna 1140",
+    "groups": "Dance,Latin,Tango",
+    "url": "https://server.ohradio.com.ar/9344/stream",
+    "logo": "https://radiolaluna.com.ar/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21983",
+    "name": "Radio Latina",
+    "groups": "Radio,Latin",
+    "url": "http://nr8.newradio.it:9097/listen.pls",
+    "logo": "http://www.radioimmagine.it/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19542",
+    "name": "Radio Latina 104.5 XHLTN",
+    "groups": "Radio,Latin",
+    "url": "https://23243.live.streamtheworld.com:443/XLTNFMAAC.aac",
+    "logo": "https://cdn-profiles.tunein.com/s44443/images/logog.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19741",
+    "name": "Radio Latina 104.5 XLTN",
+    "groups": "Radio,Latin",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XLTNFMAAC_SC",
+    "logo": "http://us0-cdn.onlineradiobox.com/img/logo/3/7653.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "7030",
+    "name": "Radio Latina 990",
+    "groups": "Radio,Latin",
+    "url": "http://corporacionlatina.com:7004/listen.pls",
+    "logo": "http://radiosuperlatina.com/logo.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9413",
+    "name": "Radio Meio Norte FM 99.9",
+    "groups": "Latin,Variety",
+    "url": "https://webradio.amsolution.com.br/radio/8280/meionorte",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgMjQXzUZa-ByEoRawCcL0wdAv7tRakV15-Q&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18841",
+    "name": "Radio Metropolitana 940",
+    "groups": "Latin,World",
+    "url": "http://stm7.streaming.profesional.bo:11308/;",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLzgPbXy8F8TMrDKXyZE7nkVz6q9LGJgpaKw&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18843",
+    "name": "Radio Mundial 97.9",
+    "groups": "Latin,Oldies,Salsa",
+    "url": "http://streaming1.locucionar.com:12234/;",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQci37pwT0edoZl1VQPDvfuqSxLKcmwu6X48YpqtWfV_sK2Ms0gBorRWMAT6LpPVc3QSws&usqp=CAU",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18844",
+    "name": "Radio Nueva Estrella 98.7",
+    "groups": "Latin,Variety",
+    "url": "https://cesarradio.realserver.es:8030/radio.mp3",
+    "logo": "https://play-lh.googleusercontent.com/9HdJP4ex2Be1QgDSH-oPUlGp0uJkjqnIAw1komOkbkhL3rlaKg0KYmUrpBaDJZv3qY8=w240-h480-rw",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17728",
+    "name": "Radio Sentimiento Latino",
+    "groups": "Radio,Latin",
+    "url": "http://178.32.146.184:5764/stream",
+    "logo": "https://static.wixstatic.com/media/1c530d_610f7c3cb322441f9fc7249bb4f67109%7Emv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/1c530d_610f7c3cb322441f9fc7249bb4f67109%7Emv2.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20797",
+    "name": "Radio SOL 95.5",
+    "groups": "Latin,R'N'B,Soul",
+    "url": "http://sol.anw.at:8023/stream",
+    "logo": "http://www.radiosol.at/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18857",
+    "name": "Radio Splendid 101.2/1220",
+    "groups": "Latin,World",
+    "url": "https://spanel.gcomstreaming.com/8032/stream",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSGrH8h4TlYi8ukFiDjDBvGbU2YNVMx3HG0Q&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "485",
+    "name": "Radio Universidad 89.1",
+    "groups": "Latin,World",
+    "url": "http://163.10.186.70:8002/stream",
+    "logo": "https://static-media.streema.com/media/object-images/f89e8b5d-57e2-4bc8-8d77-aadddd7e92b5.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "489",
+    "name": "Radio Vale 97.1",
+    "groups": "International,Latin,Pop",
+    "url": "http://vale.stweb.tv:1935/vale/live/playlist.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Vale975.png/225px-Vale975.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16922",
+    "name": "Radioalfa11 Latin Hits",
+    "groups": "Latin,Hits",
+    "url": "http://stream.zeno.fm/5y3qdawpgzzuv?rj-ttl=5&rj-tok=AAABfd5gj0EApz0H0Geu_8v6RQ",
+    "logo": "https://uk.radio.net/images/broadcasts/48/3d/10009/1/c300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16923",
+    "name": "Radioalfa12 Latin Hits",
+    "groups": "Latin,Hits",
+    "url": "http://stream.zeno.fm/ydf8ppv841zuv?rj-ttl=5&rj-tok=AAABfd5OQgkAzGFKEg91o86RDQ",
+    "logo": "https://uk.radio.net/images/broadcasts/48/3d/10009/1/c300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16924",
+    "name": "Radioalfa14 Latin Hits",
+    "groups": "Latin,Hits",
+    "url": "http://stream.zeno.fm/xa06upg2h2zuv?rj-ttl=5&rj-tok=AAABfdrd6ywALXUJkC4UX6A-wA",
+    "logo": "http://hradioalfa14.blogspot.com",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16925",
+    "name": "Radioalfa15 Latin Hits",
+    "groups": "Latin,Hits",
+    "url": "http://stream.zeno.fm/034v7pbzxwzuv?rj-ttl=5&rj-tok=AAABfd4b41YAq1ERnUu9n6GqKA",
+    "logo": "http://httpradioalfa15.blogspot.com",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16926",
+    "name": "Radioalfa16 Latin Hits",
+    "groups": "Latin,Hits",
+    "url": "http://stream.zeno.fm/zxh8nt5dtwzuv?rj-ttl=5&rj-tok=AAABfd4-Q78AIyzKzNOQr5KNLg",
+    "logo": "http://radioalfa16.blogspot.com",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16927",
+    "name": "Radioalfa17 Latin Hits",
+    "groups": "Latin,Hits",
+    "url": "http://stream.zeno.fm/9cw9n1nm0d0uv?rj-ttl=5&rj-tok=AAABfd31yokAOoFakTm3XAbPfw",
+    "logo": "http://radioalfa17.blogspot.com",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16928",
+    "name": "Radioalfa18 Latin Hits",
+    "groups": "Latin,Hits",
+    "url": "http://stream.zeno.fm/d8gdu7nm0d0uv?rj-ttl=5&rj-tok=AAABfdqy6kYAIE_OsPagWedHrw",
+    "logo": "http://radioalfa18.blogspot.com",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16929",
+    "name": "Radioalfa19 Latin Hits",
+    "groups": "Latin,Hits",
+    "url": "http://stream.zeno.fm/5ue6sepm0d0uv?rj-ttl=5&rj-tok=AAABfd5QnycACzcq-ckGvBLFOA",
+    "logo": "http://radioalfa19.blogspot.com",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16930",
+    "name": "Radioalfa2 Latin Hits",
+    "groups": "Latin,Hits",
+    "url": "http://stream.zeno.fm/1q3kddbxgnruv?rj-ttl=5&rj-tok=AAABfdqOAloAaxQGqJP4rE3FIA",
+    "logo": "https://uk.radio.net/images/broadcasts/48/3d/10009/1/c300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16931",
+    "name": "Radioalfa20 Latin Hits",
+    "groups": "Latin,Hits",
+    "url": "http://stream.zeno.fm/nh4m3mpm0d0uv?rj-ttl=5&rj-tok=AAABfd4yVUQAovCltzfgTnhcyA",
+    "logo": "https://uk.radio.net/images/broadcasts/48/3d/10009/1/c300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16932",
+    "name": "Radioalfa3 Latin Hits",
+    "groups": "Latin,Hits",
+    "url": "http://stream.zeno.fm/pexep60uhnruv?rj-ttl=5&rj-tok=AAABfd4qAjkAoYCedx62lCvQbA",
+    "logo": "https://uk.radio.net/images/broadcasts/48/3d/10009/1/c300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16933",
+    "name": "Radioalfa4 Latin Hits",
+    "groups": "Latin,Hits",
+    "url": "http://stream.zeno.fm/f1207heufnzuv?rj-ttl=5&rj-tok=AAABfd0WmmAAA46zGI2-hwzqBg",
+    "logo": "https://uk.radio.net/images/broadcasts/48/3d/10009/1/c300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16934",
+    "name": "Radioalfa5 Latin Hits",
+    "groups": "Latin,Hits",
+    "url": "http://stream.zeno.fm/x9y4ytkavqzuv?rj-ttl=5&rj-tok=AAABfd3bYXMAPUlmLx4b8rN0OQ",
+    "logo": "https://uk.radio.net/images/broadcasts/48/3d/10009/1/c300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16935",
+    "name": "Radioalfa6 Latin Hits",
+    "groups": "Latin,Hits",
+    "url": "http://stream.zeno.fm/t1q7vkkavqzuv?rj-ttl=5&rj-tok=AAABfd2CzoIAhEUcWDvjymxtpA",
+    "logo": "https://uk.radio.net/images/broadcasts/48/3d/10009/1/c300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16936",
+    "name": "Radioalfa7 Latin Hits",
+    "groups": "Latin,Hits",
+    "url": "http://stream.zeno.fm/gxpcf0kavqzuv?rj-ttl=5&rj-tok=AAABfd49TkUAA8M3Pb_sfKaSJA",
+    "logo": "https://uk.radio.net/images/broadcasts/48/3d/10009/1/c300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16937",
+    "name": "Radioalfa8 Latin Hits",
+    "groups": "Latin,Hits",
+    "url": "http://stream.zeno.fm/51z3n54r1qzuv?rj-ttl=5&rj-tok=AAABfdrGwAgAmZ4tTPTQCXKS6A",
+    "logo": "https://uk.radio.net/images/broadcasts/48/3d/10009/1/c300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16938",
+    "name": "Radioalfa9 Latin Hits",
+    "groups": "Latin,Hits",
+    "url": "http://stream.zeno.fm/4px23a06qtzuv?rj-ttl=5&rj-tok=AAABfd3mJ4oAxJOky2quHo3tfQ",
+    "logo": "https://uk.radio.net/images/broadcasts/48/3d/10009/1/c300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "442",
+    "name": "RadioMagica 99.9",
+    "groups": "Latin,Pop",
+    "url": "https://kappa.radioplayer.com.ar:9116/magica999",
+    "logo": "https://www.fmmagicaradio.com.ar/wp-content/uploads/2020/07/cropped-512-180x180.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18862",
+    "name": "Red Uyuni Radio Recuerdos",
+    "groups": "Latin",
+    "url": "https://emiteradio.com/proxy/uyuni2?mp=/stream",
+    "logo": "https://emisora.info/radio/recuerdo-uyuni.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "2363",
+    "name": "Relax FM Latino",
+    "groups": "Latin",
+    "url": "https://pub0302.101.ru:8443/stream/trust/mp3/128/265",
+    "logo": "https://relax-fm.ru/design/images/img_for_design/main/favicon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18036",
+    "name": "Rouge Latino",
+    "groups": "Latin",
+    "url": "http://rouge-latino.ice.infomaniak.ch/rouge-latino-128.mp3",
+    "logo": "http://www.rougefm.com/imgs/webradios/latino.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "503",
+    "name": "Tango Radio CAFF",
+    "groups": "Dance,Latin,Spanish",
+    "url": "https://streams.radio.co/s6b80bc417/listen",
+    "logo": "https://radiocaff.com.ar/img/favicon.ico",
+    "artist": null,
+    "lang": "Spanish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "7098",
+    "name": "Top Latino",
+    "groups": "Latin",
+    "url": "http://online.radiodifusion.net:8020/stream",
+    "logo": "https://www.toplatino.net/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18083",
+    "name": "Traxx FM Latino",
+    "groups": "Radio,Latin",
+    "url": "http://traxx008.ice.infomaniak.ch/traxx008-low.mp3",
+    "logo": "https://static.radio.fr/images/broadcasts/77/bb/7634/c175.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "7970",
+    "name": "Urban Hit Latino",
+    "groups": "Urban,Hits,Latin",
+    "url": "http://urbanhitlatino.ice.infomaniak.ch/urbanhitreggeaton-128.mp3",
+    "logo": "https://www.radio.net/images/broadcasts/98/bc/39011/3/c300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5750",
+    "name": "VEVO Latino",
+    "groups": "Latin",
+    "url": "https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8",
+    "logo": "https://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/featuredImage.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18094",
+    "name": "Vibración Latina",
+    "groups": "Latin",
+    "url": "http://vibration.stream2net.eu:8410/;stream/1",
+    "logo": "http://vibracionlatina.com/wp-content/uploads/2014/07/palmiers.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "7981",
+    "name": "Vibration Latina",
+    "groups": "Latin",
+    "url": "http://vibrationlatina.ice.infomaniak.ch/vibrationlatina.mp3",
+    "logo": "http://ecouter.lesindesradios.fr/logos/orange211.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "583",
+    "name": "Voz di Bonaire 94.7",
+    "groups": "Latin,Zouk",
+    "url": "http://159.203.190.86:8304/;stream.mp3",
+    "logo": "https://cdn-profiles.tunein.com/s3041/images/logog.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5235",
+    "name": "WEDJ Radio Latina 107.1",
+    "groups": "Radio,Latin",
+    "url": "https://24373.live.streamtheworld.com:443/WEDJ_FMAAC.aac",
+    "logo": "https://radiostationusa.fm/assets/image/radio/180/radiolatina1071.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8012",
+    "name": "Wit Latina",
+    "groups": "Latin",
+    "url": "http://witlatina.ice.infomaniak.ch/witlatina.mp3",
+    "logo": "https://bocir-prod-bucket.s3.amazonaws.com/radios/witfm/images/favicon.vnd.microsoft.icon",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "6134",
+    "name": "WKKB Latina 100.3",
+    "groups": "Latin",
+    "url": "http://crystalout.surfernetwork.com:8001/WKKB-FM_MP3",
+    "logo": "http://d2isblg909whrf.cloudfront.net/themes/wkkb/logo2.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

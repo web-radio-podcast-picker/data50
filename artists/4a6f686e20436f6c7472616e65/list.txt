@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18418",
+    "name": "John Coltrane",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/johncoltrane/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/a6338885-fc0b-4295-809b-f265446cbcc3.jpg",
+    "artist": "John Coltrane",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

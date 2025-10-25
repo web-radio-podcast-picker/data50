@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18362",
+    "name": "George Michael",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/georgemichael/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/30d0a1f1-9f25-4173-9408-6b59f519d1be.jpg",
+    "artist": "George Michael",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18363",
+    "name": "George Michael - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/georgemichaelhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/11f39a63-30f3-41a1-89aa-33361974bd98.jpg",
+    "artist": "George Michael",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

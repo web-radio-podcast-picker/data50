@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "21129",
+    "name": "3ABN Australia Radio",
+    "groups": "Gospel,Religion",
+    "url": "https://stream.3abnaustralia.org.au:8443/stream",
+    "logo": "https://www.3abnaustralia.org.au/core/wp-content/themes/3ABN%20Australia%202015/library/images/channel-icons/Icon_Radio_Aust@2x.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9170",
+    "name": "Estudio FM Gospel",
+    "groups": "Gospel,Religion",
+    "url": "http://stream.zeno.fm/94adwcqw7k0uv?rj-ttl=5&rj-tok=AAABfd5HUu4A2RvX0-QfwMi8FQ",
+    "logo": "https://play-lh.googleusercontent.com/Lr83nJEbf9xtWoNPsiE77hXw7lZRj5Nt7UoPx6r8znOhr40olgHjjlqZvoX0Aoih9mM=w600-h300-pc0xffffff-pd",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9174",
+    "name": "Feliz FM 95.7",
+    "groups": "Gospel,Religion",
+    "url": "https://streaming.fox.srv.br:8140/stream",
+    "logo": "https://d371i8ihhgym7w.cloudfront.net/14515600.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9176",
+    "name": "FM 93",
+    "groups": "Gospel,Religion",
+    "url": "https://jvcs2dtro0.zoeweb.tv/fm93/stream/playlist.m3u8",
+    "logo": "https://yt3.googleusercontent.com/pEmmoaYdj81-TFMTxd0UdfXj8SvvTzwJAhajhDyvFPmmrGOmQPSnpM2LDVGgkQ-Ndg9EjIlgcw=s900-c-k-c0x00ffffff-no-rj",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9182",
+    "name": "FS Web Radio",
+    "groups": "Community,Gospel,Pop",
+    "url": "http://stream.zeno.fm/hhbrbhssrbruv?rj-ttl=5&rj-tok=AAABfdqeKLsA3weHsyTgvj22xg",
+    "logo": "https://i.stack.imgur.com/atzdh.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9183",
+    "name": "FS Web Rádio",
+    "groups": "Community,Gospel,Pop",
+    "url": "http://stream.zeno.fm/hhbrbhssrbruv?rj-ttl=5&rj-tok=AAABfd4aauEAzsZgmzRyjQ0NBw",
+    "logo": "https://i.stack.imgur.com/atzdh.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9188",
+    "name": "Gospel 89.3",
+    "groups": "Gospel,Religion",
+    "url": "http://148.72.158.239:8161/live",
+    "logo": "https://www.radio.net/images/broadcasts/88/7d/18192/1/c300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "12238",
+    "name": "Inspire 105.1",
+    "groups": "Gospel,Religion",
+    "url": "http://us1.internet-radio.com:8008/live",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s264448q.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18793",
+    "name": "MCF Radio 98.7",
+    "groups": "Gospel,Religion",
+    "url": "https://shaincast.caster.fm/get_podcast.php?username=mcfradio2016&filename=mcfradio2016-1733047401.mp3&auth=pdauthna9f1cccc4d91bc1072466315187c37cd&dl=true",
+    "logo": "https://mcfradio.co.ug/wp-content/uploads/2017/05/logo-MCF.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17216",
+    "name": "Pheli FM 95.0",
+    "groups": "Community,Gospel,Hip Hop",
+    "url": "http://live.streammedia.org.za/proxy/phelifm/stream",
+    "logo": "https://tvradiotuner.com/radio/wp-content/uploads/Pheli-FM.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9269",
+    "name": "PorDeus.fm",
+    "groups": "Gospel,Religion",
+    "url": "http://stream.zeno.fm/92ptm8uua2zuv.aac?rj-ttl=5&rj-tok=AAABfdrZVnYAsIIFheTnU-MoGg",
+    "logo": "https://cdn.onlineradiobox.com/img/l/8/93438.v5.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9270",
+    "name": "Portal WEB Gospel",
+    "groups": "Gospel,Religion",
+    "url": "http://centova2.euroti.com.br:8131/tunein/portalw8.pls",
+    "logo": "http://icons.iconarchive.com/icons/robsonbillponte/cartoon/512/Radio-icon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20639",
+    "name": "Progressive FM 107.3",
+    "groups": "Contemporary,Gospel,Reggae",
+    "url": "http://ca10.rcast.net:8010/;stream.mp3",
+    "logo": "https://static-media.streema.com/media/cache/51/05/5105e04fe4a2dc9a09764d054e991648.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9287",
+    "name": "Radio Advento",
+    "groups": "Gospel,Religion",
+    "url": "https://9121.brasilstream.com.br/stream",
+    "logo": "http://adventofm.com.br/images/logo_1883802429.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9285",
+    "name": "Rádio Advento",
+    "groups": "Gospel,Religion",
+    "url": "https://servidor17.brlogic.com:7282/live",
+    "logo": "https://i.ibb.co/KW9v0zQ/advento.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9286",
+    "name": "Rádio Advento",
+    "groups": "Gospel,Religion",
+    "url": "http://paineldj6.com.br:11430/live",
+    "logo": "https://i.ibb.co/KW9v0zQ/advento.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9294",
+    "name": "Radio Atividade Espírita",
+    "groups": "Gospel,Religion",
+    "url": "http://streaming31.hstbr.net:8230/live",
+    "logo": "https://editor.zenomedia.com/resources/zs_station/636023/CardWebsite/35337135-6403-4d4e-8a44-5a229b57e81d.webp",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9308",
+    "name": "Radio Boa Nova 1450",
+    "groups": "Gospel,Religion",
+    "url": "http://srv39.brasilstream.com.br:8592/stream",
+    "logo": "https://radioboanova.com.br/wp-content/uploads/2019/01/logo_radio_boa_nova248.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9337",
+    "name": "Radio Copacabana 680",
+    "groups": "Gospel,Religion",
+    "url": "http://stream.ouveai.com.br:10720/live",
+    "logo": "http://www.radiocopacabanaam.com/images/favico.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9341",
+    "name": "Rádio Cristã Online",
+    "groups": "Gospel,Religion",
+    "url": "https://servidor40.brlogic.com:8004/live",
+    "logo": "https://public-rf-upload.minhawebradio.net/3671/favicon/a13163e4fcf0692c03b3204e8740ae35.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9357",
+    "name": "Rádio Elohim 100.7",
+    "groups": "Gospel,Religion",
+    "url": "https://servidor34-5.brlogic.com:8190/live",
+    "logo": "https://public-rf-upload.minhawebradio.net/2384/cover/e599ca1c1cd923b1a58e2f6998e8ce3d.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9359",
+    "name": "Rádio Estação Gospel",
+    "groups": "Culture,Gospel",
+    "url": "http://stream.zeno.fm/ahu7876hhbruv?rj-ttl=5&rj-tok=AAABfdq0D_AA-RrxDSoOADaxSA",
+    "logo": "https://www.radio.net/images/broadcasts/73/9a/35354/1/c300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9361",
+    "name": "Radio Evangelizar 1060",
+    "groups": "Gospel,Religion",
+    "url": "https://shout87.crossradio.com.br:18000/stream",
+    "logo": "https://evangelizarfm.com.br/wp-content/themes/renovafm/_assets/images/logo-renovafm.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9375",
+    "name": "Rádio Girassol",
+    "groups": "Gospel,Religion",
+    "url": "http://s02.transmissaodigital.com:6754/live",
+    "logo": "http://1.bp.blogspot.com/-DtF2Fgd13Jk/WbHG-FeN_aI/AAAAAAAADsg/5KQE1f7UMskkQwEzVZaMItDwQRz3r1IsACK4BGAYYCw/s1600/2384.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9379",
+    "name": "Radio Gospel",
+    "groups": "Gospel,Religion",
+    "url": "http://stream.zeno.fm/8m9n4s5wm8quv?rj-ttl=5&rj-tok=AAABfd4Sa9UA218Awd_1FzBaZw",
+    "logo": "https://lh3.googleusercontent.com/kfA8E57rFw0O2bO2q2A24PH-N5Y1FeGA0yM0MnesTv69cP-Acv6zoAtHzswCpTn-Z0fn=s180-rw",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9378",
+    "name": "Rádio Gospel",
+    "groups": "Gospel,Religion",
+    "url": "http://148.72.158.239:8120/live",
+    "logo": "http://gospel.fm.br/content/themes/radio-gospel-fm/lib/assets/images/baby-boomer-apple-icon-touch.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9389",
+    "name": "Rádio Ilhéus 105.9",
+    "groups": "Gospel,News,Pop",
+    "url": "https://s09.w3bserver.com/radio/8360/radio.mp3/listen.pls",
+    "logo": "https://www.cxradio.com.br/img/Radio/Logo/7cad06884632cf37b94f9fef5a5ab8fe.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9393",
+    "name": "Rádio IPB",
+    "groups": "Gospel,Religion",
+    "url": "http://sh.upx.com.br:9000/stream",
+    "logo": "http://www.ipb.org.br/img/ipb_logo.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9394",
+    "name": "Rádio IPB 2",
+    "groups": "Gospel,Religion",
+    "url": "http://sh.upx.com.br:9016/stream",
+    "logo": "http://www.ipb.org.br/img/ipb_logo.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9400",
+    "name": "Rádio Jesus a Vida 96.3",
+    "groups": "Gospel,Religion",
+    "url": "https://servidor40-3.brlogic.com:8004/live",
+    "logo": "https://public-rf-upload.minhawebradio.net/3671/favicon/420a5576457aef31ad934fd5ae284f74.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9405",
+    "name": "Radio Maanaim",
+    "groups": "Gospel,Religion,Talk",
+    "url": "http://radiostream01.radiomaanaim.com.br:1935/liverm/rmaac/chunklist_w1919834617.m3u8",
+    "logo": "https://sradiospush-10741.kxcdn.com/uploads/fm_30649.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9410",
+    "name": "Radio Maranata 103.9",
+    "groups": "Gospel,Religion",
+    "url": "https://player.srvaudio.com.br/player-ssl/10348",
+    "logo": "https://cdn-profiles.tunein.com/s98651/images/logod.jpg?t=160215",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9412",
+    "name": "Rádio Marumby 730",
+    "groups": "Gospel,Religion",
+    "url": "http://wz4.dnip.com.br/marumbyaac/marumbyaac.stream/playlist.m3u8",
+    "logo": "https://radiomarumby.com.br/wp-content/uploads/2021/08/favicon-marumby.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9431",
+    "name": "Rádio Novo Tempo 920",
+    "groups": "Gospel,Religion",
+    "url": "https://stream.live.novotempo.com/radio/smil:radionovotempo.smil/live.m3u8",
+    "logo": "https://i.ibb.co/YhdtDCW/radionovotempo.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9433",
+    "name": "Rádio O Som Do Céu",
+    "groups": "Gospel",
+    "url": "http://stream.zeno.fm/t5y50e2ekbruv?rj-ttl=5&rj-tok=AAABfd4wfuAAz9IvOJMrQFuVjw",
+    "logo": "https://radiosomdoceudefloriano.blogspot.com/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9454",
+    "name": "Rádio Relogio 580",
+    "groups": "Gospel,Religion",
+    "url": "https://stm12.xcast.com.br:11416//;?1735885796456",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/Radio_Relogio.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9483",
+    "name": "Radio Trans Mundial",
+    "groups": "Gospel,Religion",
+    "url": "https://video.midiaserverbr.com:3975/live/rtmbrlive.m3u8",
+    "logo": "https://assets.transmundial.org.br/favicon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9506",
+    "name": "Rádio Vida Melhor 95.7",
+    "groups": "Gospel,Religion",
+    "url": "https://servidor32-4.brlogic.com:8480/live?source=site",
+    "logo": "https://public-rf-upload.minhawebradio.net/58457/favicon/4bbb25f8041cca989b100bd8a98cc7fd.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9513",
+    "name": "RBC 93.3",
+    "groups": "Gospel,Religion,Religion",
+    "url": "https://directradios.net/proxy/rbc2?mp=/stream",
+    "logo": "https://static-media.streema.com/media/cache/5e/fc/5efc9687688d809c199db5d00146f2bc.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9516",
+    "name": "Rede Mensageiros da Paz",
+    "groups": "Gospel,Religion",
+    "url": "http://stream.enetbras.com.br:7008/",
+    "logo": "https://cdn-profiles.tunein.com/s237905/images/logog.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18865",
+    "name": "RTM Bolivia",
+    "groups": "Gospel,Religion,Variety",
+    "url": "https://emiteradio.com/proxy/rtmsatelite?mp=/stream",
+    "logo": "https://cdn-profiles.tunein.com/s244714/images/logog.png?t=1659964942000",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9521",
+    "name": "Sara Brasil 107.5",
+    "groups": "Gospel,Religion",
+    "url": "https://hts01.brascast.com:8012/live",
+    "logo": "https://play-lh.googleusercontent.com/OTdjzkKJvPgujoOSSGD7ssR-R8XnkOBitFHK38mW9L7hnP_eGzVF3InflTiZSzXbjiw4=w240-h480-rw",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9083",
+    "name": "Siangdham Radio 87.5",
+    "groups": "Gospel,Religion",
+    "url": "http://122.155.12.107:8000/siangdham.mp3",
+    "logo": "https://d371i8ihhgym7w.cloudfront.net/106592137.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9530",
+    "name": "Sua Web Radio",
+    "groups": "Community,Gospel",
+    "url": "http://stream.zeno.fm/208pcmanz8quv?rj-ttl=5&rj-tok=AAABfd4sLcEAruS1gzqrtHfmZA",
+    "logo": "https://play-lh.googleusercontent.com/LIqwMTJ0vG2v7uNyI6dkBcoSeJBS2xdOJTXE-xkvdkKaA_f39N7Ns9vOVrYKGcpx9Xo",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9533",
+    "name": "Super Mix Gospel",
+    "groups": "Gospel,Religion",
+    "url": "http://stream.zeno.fm/3xge6g7hhbruv?rj-ttl=5&rj-tok=AAABfdpOjQcAThOtaW8w8ya2IQ",
+    "logo": "https://supermixgospel.blogspot.com/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9535",
+    "name": "Super Rede Boa Vontade 1230",
+    "groups": "Gospel,Sport",
+    "url": "https://9000.brasilstream.com.br/stream?time=1",
+    "logo": "https://br.radio.net/300/boavontadesaopaulo.jpeg?version=aeed564e0d525946486eaaa8c86715e8",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9553",
+    "name": "Web Rádio Maranatha",
+    "groups": "Gospel",
+    "url": "https://redemaranata.com/radio/8125/radio.mp3",
+    "logo": "https://img.radios.com.br/radio/lg/radio8846_1594744529.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9554",
+    "name": "Web Rádio Music Gospel",
+    "groups": "Gospel,News",
+    "url": "https://player.srvaudio.com.br/player-ssl/9608",
+    "logo": "https://ps-str.srvsite.com/arquivos/7019/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

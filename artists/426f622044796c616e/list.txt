@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18205",
+    "name": "Bob Dylan",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/bobdylan/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/e154b1ae-7ce2-4f70-9134-31e282107622.jpg",
+    "artist": "Bob Dylan",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18206",
+    "name": "Bob Dylan - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/bobdylanhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/889def14-b6cb-4ff5-8e1c-7d0386d83131.jpg",
+    "artist": "Bob Dylan",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

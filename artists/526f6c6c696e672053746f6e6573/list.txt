@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18595",
+    "name": "Rolling Stones",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/rollingstones/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/0ec68832-d41b-4b79-84f7-2244c51f8386.jpg",
+    "artist": "Rolling Stones",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18596",
+    "name": "Rolling Stones - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/rollingstoneshits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/b2be5a68-c505-40be-9810-13a4fffc1b9e.jpg",
+    "artist": "Rolling Stones",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

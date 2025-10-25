@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18556",
+    "name": "Pete Seeger",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/peteseeger/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/32b184ec-6524-4966-ab43-34172a1cbffb.jpg",
+    "artist": "Pete Seeger",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

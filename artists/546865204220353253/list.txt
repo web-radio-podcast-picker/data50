@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18667",
+    "name": "The B 52S",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/theb52s/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/99019474-3213-4d09-91de-4c4baf818add.jpg",
+    "artist": "The B 52S",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

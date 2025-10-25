@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18156",
+    "name": "Arctic Monkeys",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/arcticmonkeys/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/717c79b6-12f0-4b14-a2aa-dedd4898e1e5.jpg",
+    "artist": "Arctic Monkeys",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18157",
+    "name": "Arctic Monkeys - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/arcticmonkeyshits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/ac46e6a3-b1ad-4e20-bfb5-641f8488269b.jpg",
+    "artist": "Arctic Monkeys",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

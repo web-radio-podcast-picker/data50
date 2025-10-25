@@ -1,0 +1,352 @@
+[
+  {
+    "id": "17806",
+    "name": "1.FM Back To The 50s & 60s Radio",
+    "groups": "Radio,50s,60s",
+    "url": "http://strm112.1.fm/60s_70s_mobile_mp3",
+    "logo": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "4052",
+    "name": "60s Hits",
+    "groups": "50s,Oldies,60s,Hits",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/977_OLDIES_SC",
+    "logo": "http://hitsradio.com/img/default/hitsradio.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8301",
+    "name": "Allzic 50s",
+    "groups": "French,50s",
+    "url": "http://allzic29.ice.infomaniak.ch/allzic29.mp3",
+    "logo": "https://www.allzicradio.com/media/radios/allzic-annees-_50_600px-carre.png",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20876",
+    "name": "De Jukebox",
+    "groups": "50s,60s,70s",
+    "url": "http://s35.myradiostream.com:14472/",
+    "logo": "https://www.allradio.net/500/bb4bNPROFUa0Kzpxs9Apt.webp",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9175",
+    "name": "Flashback Internacional",
+    "groups": "50s,60s,Oldies",
+    "url": "http://stream.zeno.fm/d3mbumgh27zuv?rj-ttl=5&rj-tok=AAABfdo_FPUA8BPljx0iaUfO_w",
+    "logo": "https://i.scdn.co/image/ab67616d0000b273925dd54f56617efcf7b75d8b",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9960",
+    "name": "ON Radio 50s",
+    "groups": "Radio,50s",
+    "url": "http://0n-50s.radionetz.de/0n-50s.aac",
+    "logo": "http://www.0nradio.com/images/favicon/mstile-144x144.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9961",
+    "name": "ON Radio 50s",
+    "groups": "Radio,50s",
+    "url": "http://0n-50s.radionetz.de/0n-50s.mp3",
+    "logo": "http://www.0nradio.com/images/favicon/apple-touch-icon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10125",
+    "name": "Onlineradio 50s",
+    "groups": "50s",
+    "url": "https://stream.0nlineradio.com/50s?ref=radiobrowser",
+    "logo": "https://i.ibb.co/RHB8xn7/50er.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20849",
+    "name": "Q100.7",
+    "groups": "50s,60s,70s",
+    "url": "https://ssl.surfmusic.de/s.php?s=http://108.178.16.190:8000/1007fm.mp3?1712269467",
+    "logo": "https://www.cbc.bb/wp-content/uploads/2022/12/Q-FM-LOGO.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21485",
+    "name": "Smooth 91.5 FM",
+    "groups": "50s,60s",
+    "url": "https://28893.live.streamtheworld.com/SMOOTH953_AAC48.aac",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHTK28uabQSWyDIBHvazbNw-nTwWQ-BmraRQ&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18165",
+    "name": "Asha Bhosle",
+    "groups": "Artists",
+    "url": "https://drive.uber.radio/uber/bollywoodashabhosle/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/ba25166e-ace1-4a62-a16f-397bea83e222.jpg",
+    "artist": "Asha Bhosle",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

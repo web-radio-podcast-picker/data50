@@ -1,0 +1,702 @@
+[
+  {
+    "id": "21193",
+    "name": "5GTR 100.1",
+    "groups": "Blues,Classic,Community",
+    "url": "http://203.45.194.8:88/broadwave.mp3",
+    "logo": "https://liveonlineradio.net/wp-content/uploads/2017/04/5GTR-FM-100.1.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9126",
+    "name": "Audiogrooves Soul Channel",
+    "groups": "Blues,Soul",
+    "url": "http://soul.audiogrooves.net/soul.aac",
+    "logo": "https://audiogrooves.net/assets/icons/apple-touch-icon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18806",
+    "name": "Black Rabbit 104.7",
+    "groups": "Blues,Rock",
+    "url": "https://rfcm.streamguys1.com/jazzsk-mp3",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_oQNx3P5DwKlYHZkW78Gh2ysfDs2GLn5DyQ&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20872",
+    "name": "Classic 21 Blues",
+    "groups": "Blues,Oldies,Rock",
+    "url": "https://radios.rtbf.be/wr-c21-blues-128.mp3",
+    "logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/90/24/109473/1/c175.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9158",
+    "name": "Digital Jazz",
+    "groups": "Blues,Jazz",
+    "url": "http://stm01.virtualcast.com.br:8190/live",
+    "logo": "https://ca.radio.net/images/broadcasts/70/f1/103530/1/c300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9160",
+    "name": "Dixie Rebel Radio",
+    "groups": "Blues,Rock",
+    "url": "https://servidor36.brlogic.com:8572/live",
+    "logo": "https://www.dixierebel.com.br/img/logotipo-webradio-dixierebel.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16429",
+    "name": "Jazz FM",
+    "groups": "Blues,Jazz,Soul",
+    "url": "https://cdn.bweb.bg/radio/jazz-fm.mp3",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/972/jazz-fm-bulgaria.4fc08b51.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9204",
+    "name": "Jazz Medley Webradio",
+    "groups": "Blues,Jazz",
+    "url": "http://server01.ouvir.radio.br:8006/stream",
+    "logo": "http://www.umbertovettori.com/images/layout/logo-novo_1542311908.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20722",
+    "name": "JazzW3",
+    "groups": "Blues,Jazz",
+    "url": "http://jazz.w3.at:8000/w3jazz.mp3",
+    "logo": "http://jazz.w3.at/logo.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "12244",
+    "name": "KKMP 92.1",
+    "groups": "Blues,Folk,Jazz",
+    "url": "http://s2.yesstreaming.net/proxy/bluecont/stream",
+    "logo": "https://nebula.wsimg.com/f39a2670bdf2fe5416d7fdd42970de77?AccessKeyId=9DD06624D7844C54FDEF&disposition=0&alloworigin=1",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9229",
+    "name": "Lightness of Rock",
+    "groups": "Blues,Folk,Rock",
+    "url": "http://stream.zeno.fm/n0dt87vrnd0uv?rj-ttl=5&rj-tok=AAABfd5C_xEADXHYae2fRZm9lw",
+    "logo": "https://imgproxy.zenomedia.com/insecure/fit/192/192/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQvLi93wgMCxIOU3RhdGlvblByb2ZpbGUYgIDQoq3CjwkMogEEemVubw/image/%3Fresize=192x192&v=1",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17210",
+    "name": "Motsweding FM",
+    "groups": "Blues,R'N'B,Soul",
+    "url": "http://28933.live.streamtheworld.com/MOTSWEDINGAAC.aac",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/mcT8nm7JPJ.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9315",
+    "name": "Radio Brooklin",
+    "groups": "Blues,Oldies,Rock",
+    "url": "http://streaming03.hstbr.net:8096/live",
+    "logo": "https://online-radio.eu/logo/22/22942.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9401",
+    "name": "Rádio LAM",
+    "groups": "Alternative,Blues,Rock",
+    "url": "https://stream1.svrdedicado.org/8028/stream",
+    "logo": "https://static.wixstatic.com/media/a50a7a_81465ac4da92440e8e9dbca4534a3a02~mv2.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18852",
+    "name": "Radio Play 107.5",
+    "groups": "Blues,Pop,Rock",
+    "url": "https://emiteradio.com/proxy/playradio?mp=/stream",
+    "logo": "https://lh6.ggpht.com/Qpu5mIQguEPsV8UbbDUYJl0JMKjiwWfLhWJIz-S2YuB552eQaO8IEeJ7O8DnLCW7KT8=w300",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "6773",
+    "name": "Radio Posušje 102.9",
+    "groups": "Blues,Dance,Rock",
+    "url": "http://136.243.144.93:9994/",
+    "logo": "https://www.phonostar.de/images/auto_created/Radio_Posusje3184x184.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9518",
+    "name": "Route 66 Soundtrack",
+    "groups": "Blues,Oldies,Rock",
+    "url": "http://servidor32.brlogic.com:8056/live",
+    "logo": "https://public-rf-upload.minhawebradio.net/2316/ad/10d0da3171f747ce45d9eb98a6c4a04a.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20816",
+    "name": "Styrialounge",
+    "groups": "Blues,Jazz,Lounge",
+    "url": "http://styrialounge.out.airtime.pro:8000/styrialounge_a",
+    "logo": "https://styrialounge.com/assets/images/card.jpg?v78616770366451",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20817",
+    "name": "Styrialounge",
+    "groups": "Blues,Jazz,Lounge",
+    "url": "https://styrialounge.out.airtime.pro/styrialounge_a",
+    "logo": "https://styrialounge.com/assets/images/card.jpg?v78616770366451",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17105",
+    "name": "Tirana Jazz Radio",
+    "groups": "Blues,Jazz",
+    "url": "http://live.tiranajazzradio.com:8000/stream",
+    "logo": "https://tiranajazzradio.com/img/logo.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

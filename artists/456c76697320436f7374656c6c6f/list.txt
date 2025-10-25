@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18323",
+    "name": "Elvis Costello",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/elviscostello/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/58ba5474-c034-4217-a4f0-f9c174059876.jpg",
+    "artist": "Elvis Costello",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "id": "274",
+    "name": "Cienradios Hot 100 Reggaeton",
+    "groups": "Reggaeton,World",
+    "url": "https://buecrplb01.cienradios.com.ar/675_Hot_100_Reggaeton_32000.aac",
+    "logo": "https://generosmusica4202.neocities.org/imagenes/reggaeton.jpeg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "283",
+    "name": "Dale 96.1",
+    "groups": "Pop,Reggaeton,Rock",
+    "url": "http://01.solumedia.com.ar:8238/",
+    "logo": "https://play-lh.googleusercontent.com/kKV6CsY2y4xm3jrfQIemnScqSi494Qs01ENLwPal9nQR-SjW3FMaOFfx_BPY69epFFI",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9508",
+    "name": "Rádio Web 104 Reggae",
+    "groups": "Dub,Reggae,Reggaeton",
+    "url": "http://stream.zeno.fm/m1r5mm8fv0quv?1561473485623=&rj-ttl=5&rj-token=AAABa48btKOAKWQIa7yduUy6Nb9iEGLa0Lx3jo8JgWMHnipo57cQZA&rj-tok=AAABfd3QOUMATe586wiyFzlxdA",
+    "logo": "https://zeno.fm/static/icons/apple-icon-120x120.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

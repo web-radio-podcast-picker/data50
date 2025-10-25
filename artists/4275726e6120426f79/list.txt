@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18232",
+    "name": "Burna Boy",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/burnaboy/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/973fcef6-d7f2-4f07-ab1e-53c7c75674eb.jpg",
+    "artist": "Burna Boy",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

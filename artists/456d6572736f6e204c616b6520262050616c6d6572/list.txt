@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18326",
+    "name": "Emerson Lake & Palmer",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/emersonlakepalmer/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/ed7a2d4f-6211-4b48-8012-e6461bfd597c.jpg",
+    "artist": "Emerson Lake & Palmer",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

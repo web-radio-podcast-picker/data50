@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18526",
+    "name": "Neil Diamond",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/neildiamond/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/c3b75973-9f78-4036-a0eb-3940a9eacf9d.jpg",
+    "artist": "Neil Diamond",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18527",
+    "name": "Neil Diamond - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/neildiamondhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/49ce72c5-5cee-4f12-b7ca-72799de0b769.jpg",
+    "artist": "Neil Diamond",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

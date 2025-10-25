@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18401",
+    "name": "Janet Jackson",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/janetjackson/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/7f7e8456-f962-430c-a12a-6462eda8a66d.jpg",
+    "artist": "Janet Jackson",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

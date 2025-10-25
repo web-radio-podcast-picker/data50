@@ -1,0 +1,72 @@
+[
+  {
+    "id": "20850",
+    "name": "Slam 101.1",
+    "groups": "Caribbean,Reggae,Top 40",
+    "url": "http://usa4.fastcast4u.com:5006/listen.pls",
+    "logo": "https://pbs.twimg.com/profile_images/666693504983130112/eVtTiZB1_400x400.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20640",
+    "name": "Vibz FM 92.9",
+    "groups": "Calypso,Caribbean,Reggae",
+    "url": "https://testvibz-silcomwireless.radioca.st/stream.mp3",
+    "logo": "https://static-media.streema.com/media/cache/58/45/5845b85daee0a39ae0b66f6c7d716768.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

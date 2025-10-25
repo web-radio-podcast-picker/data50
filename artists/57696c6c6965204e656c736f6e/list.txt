@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18707",
+    "name": "Willie Nelson",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/willienelson/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/1e79b692-29b5-49a4-912d-83135ef019f1.jpg",
+    "artist": "Willie Nelson",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18708",
+    "name": "Willie Nelson - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/willienelsonhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/93872e04-dc95-446f-8408-2366bf59cfd5.jpg",
+    "artist": "Willie Nelson",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

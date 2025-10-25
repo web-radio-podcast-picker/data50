@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18636",
+    "name": "Steel Pulse",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/steelpulse/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/2b81351a-75c0-4b0c-a0fc-3695d3c3bb3c.jpg",
+    "artist": "Steel Pulse",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

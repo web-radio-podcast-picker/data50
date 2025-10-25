@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18537",
+    "name": "Oasis",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/oasis/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/fb207c60-c0c5-4330-8cdd-841cd3dbb3db.jpg",
+    "artist": "Oasis",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18538",
+    "name": "Oasis - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/oasishits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/dc82c5ae-c9f9-4397-a417-bba41713e45a.jpg",
+    "artist": "Oasis",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18432",
+    "name": "Joni Mitchell",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/jonimitchell/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/4b862137-5321-4dbf-8dc5-339f9df7bf9d.jpg",
+    "artist": "Joni Mitchell",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18433",
+    "name": "Joni Mitchell - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/jonimitchellhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/99e6030b-042b-40d1-9180-5940c550bf0a.jpg",
+    "artist": "Joni Mitchell",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

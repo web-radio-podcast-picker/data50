@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18385",
+    "name": "Hollies",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/thehollies/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/d3d8464d-c347-4ca2-b96c-137a3dbea163.jpg",
+    "artist": "Hollies",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

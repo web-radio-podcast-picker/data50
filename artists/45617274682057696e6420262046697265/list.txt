@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18313",
+    "name": "Earth Wind & Fire",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/earthwindandfire/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/36f022c1-8177-4966-ad76-4933888ef846.jpg",
+    "artist": "Earth Wind & Fire",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18314",
+    "name": "Earth Wind & Fire - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/earthwindandfirehits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/44a30c86-4751-48ed-acb6-7f7db0dffa9f.jpg",
+    "artist": "Earth Wind & Fire",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

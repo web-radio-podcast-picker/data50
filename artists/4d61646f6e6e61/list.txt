@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18490",
+    "name": "Madonna",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/madonna/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/52ac4f1e-5f3f-4bfe-b778-d40bec8a572d.jpg",
+    "artist": "Madonna",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18491",
+    "name": "Madonna - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/madonnahits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/a60e1224-1fee-4ff2-8d3b-a4cade4f9c5c.jpg",
+    "artist": "Madonna",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

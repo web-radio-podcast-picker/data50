@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18207",
+    "name": "Bob Marley",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/bobmarley/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/705b7994-760f-44f1-8d2b-0d7f7ac1dfed.jpg",
+    "artist": "Bob Marley",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18208",
+    "name": "Bob Marley - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/bobmarleyhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/b9020fd3-5c8d-45b5-bf82-87cf935f8743.jpg",
+    "artist": "Bob Marley",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

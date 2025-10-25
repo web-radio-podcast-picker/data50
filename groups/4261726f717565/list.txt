@@ -1,0 +1,492 @@
+[
+  {
+    "id": "21139",
+    "name": "3MBS Music Broadcasting Society of Victoria 103.5",
+    "groups": "Baroque,Classic",
+    "url": "https://23093.live.streamtheworld.com/3MBS.mp3",
+    "logo": "https://yt3.googleusercontent.com/hbhqlakyvUZXXrwxkBEc8qH0J67fWLDexiY1J4o-i6TFaUfbvSpANsQu8TnyYPwaIAjYwjygdw=s900-c-k-c0x00ffffff-no-rj",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "268",
+    "name": "Aire Libre 96.3",
+    "groups": "Baroque,Classic",
+    "url": "http://streamingraddios.net:9277/stream",
+    "logo": "https://i.imgur.com/iccPZWZ.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20711",
+    "name": "DJ2",
+    "groups": "Baroque,Classic",
+    "url": "https://www.djing.com/tv/s-28062-05-electro-rock.m3u8",
+    "logo": "https://play-lh.googleusercontent.com/71Sf78T4kzp6LD65EL8ynY7Ke8zL96DujPvuviTZSfu2_G5QKczPjkaHwB7pLHn1Fl8",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20901",
+    "name": "La Classica",
+    "groups": "Baroque,Classic",
+    "url": "http://stream.laclassica.be:8023/stream",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s244379g.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20902",
+    "name": "La Classica",
+    "groups": "Baroque,Classic",
+    "url": "http://stream.laclassica.be:8023/stream2",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s244379g.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9236",
+    "name": "MEC FM 99.3",
+    "groups": "Baroque,Classic",
+    "url": "https://radiomecfm-stream.ebc.com.br/ebc/radiomecfm/MEC_FM-mp4a_114000_eng=1.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMeqsQUB84FfJxQRnK9qZCsd4HqKDOTKxnvA&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20908",
+    "name": "Med Muzik",
+    "groups": "Baroque,Classic",
+    "url": "http://137.74.205.201/medmuzik/MedStream/playlist.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Logo_of_MED_TV.jpeg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "336",
+    "name": "Nacional Clásica 96.7",
+    "groups": "Baroque,Classic",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad37",
+    "logo": "http://www.radionacional.com.ar/apple-icon-120x120.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9301",
+    "name": "Rádio Batuta Clássicos",
+    "groups": "Baroque,Classic",
+    "url": "http://classicoims.out.airtime.pro:8000/classicoims_a",
+    "logo": "http://radiobatuta.com.br/wp-content/uploads/2017/12/favicon-144.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20781",
+    "name": "radio klassik Stephansdom",
+    "groups": "Baroque,Classic",
+    "url": "http://radioklassikstephansdom.ice.infomaniak.ch/radioklassikstephansdom.mp3",
+    "logo": "https://radioklassik.at/wp-content/themes/weeklynews-child/img/favicon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17108",
+    "name": "Radio Koha",
+    "groups": "Baroque,Classic",
+    "url": "http://perseus.shoutca.st:9504/;stream.mp3",
+    "logo": "https://online-radio.eu/logo/26/26085.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21004",
+    "name": "RTBF Musiq3",
+    "groups": "Baroque,Classic",
+    "url": "https://radios.rtbf.be/musiq3-128.aac",
+    "logo": "https://www.static.rtbf.be/radio/musiq3/ico/favicon-musiq3-32x32.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21005",
+    "name": "RTBF Musiq3",
+    "groups": "Baroque,Classic",
+    "url": "https://radios.rtbf.be/wr-m3-baroque-128.mp3",
+    "logo": "https://www.static.rtbf.be/radio/musiq3/ico/favicon-musiq3-192x192.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5630",
+    "name": "The Classical Station",
+    "groups": "Baroque,Classic",
+    "url": "http://ice55.securenetsystems.net/DASH3",
+    "logo": "https://dashradio.com/wp-content/themes/dash-2.2.5/favicon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

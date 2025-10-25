@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18422",
+    "name": "John Legend",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/johnlegend/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/335adbdd-e0d4-4b02-b5b6-80bb8c171e56.jpg",
+    "artist": "John Legend",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18692",
+    "name": "U2",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/u2/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/c9552cd2-e118-48a4-a1ce-ba5bc1190745.jpg",
+    "artist": "U2",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18693",
+    "name": "U2 - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/u2hits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/05fc8c1e-b172-4e58-95ae-72498b2346bc.jpg",
+    "artist": "U2",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

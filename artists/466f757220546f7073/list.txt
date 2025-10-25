@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18346",
+    "name": "Four Tops",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/fourtops/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/40be4604-e0ec-47d3-803f-f3060ccad03d.jpg",
+    "artist": "Four Tops",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18347",
+    "name": "Four Tops - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/fourtopshits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/5bdba1bd-d71c-4e23-b324-2818190b6aaa.jpg",
+    "artist": "Four Tops",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

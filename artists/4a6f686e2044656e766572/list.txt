@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18419",
+    "name": "John Denver",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/johndenver/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/9a5140c3-1450-4c07-b6da-72bd11525085.jpg",
+    "artist": "John Denver",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18420",
+    "name": "John Denver - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/johndenverhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/66977453-b1da-4653-a3a2-20d84363a032.jpg",
+    "artist": "John Denver",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

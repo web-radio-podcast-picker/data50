@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18169",
+    "name": "B Praak",
+    "groups": "Artists",
+    "url": "https://drive.uber.radio/uber/bollywoodbpraak/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/31597e07-7717-4c58-a6d0-9ab75231ef2e.jpg",
+    "artist": "B Praak",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

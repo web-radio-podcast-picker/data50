@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18448",
+    "name": "Keane",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/keane/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/5baa5fb9-5ca5-47a9-97cc-4f9ddb0fdf0f.jpg",
+    "artist": "Keane",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

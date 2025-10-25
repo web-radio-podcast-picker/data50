@@ -1,0 +1,702 @@
+[
+  {
+    "id": "17804",
+    "name": "1.FM America's Best Ballads Radio",
+    "groups": "Radio,Ballad",
+    "url": "http://strm112.1.fm/onelive_mobile_mp3",
+    "logo": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9105",
+    "name": "89 89.9 FM",
+    "groups": "Ballad,Pop",
+    "url": "https://streaming.livespanel.com:8990/stream",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/89_FM_logo.png/250px-89_FM_logo.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20704",
+    "name": "Arabella Ti-Amo",
+    "groups": "Ballad,Pop",
+    "url": "http://arabella.stream.kapper.net:8007/arabellatiamo",
+    "logo": "http://www.arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10443",
+    "name": "Bavarias Rock Ballads",
+    "groups": "Ballad",
+    "url": "http://bavarias-rock-ballads.stream.laut.fm/bavarias-rock-ballads?t302=2021-12-21_03-58-18&uuid=05e00449-6826-4fe4-b2cc-4a81b9474af0",
+    "logo": "https://laut.fm/bavarias-rock-ballads",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9163",
+    "name": "ElectroMix Zone",
+    "groups": "Ballad,Electro,Pop",
+    "url": "http://stream.zeno.fm/6ehsprxv5s8uv?rj-ttl=5&rj-tok=AAABfdqY4xUARnWbh4-OZWs46g",
+    "logo": "https://static-media.streema.com/media/cache/44/fb/44fb5a00bf8d076dabe0083cf0828b8b.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9776",
+    "name": "Kalp FM 102.2",
+    "groups": "Ballad,Songs,Turk",
+    "url": "https://yayin.kalpfm.com:8080/",
+    "logo": "https://radyodinle.com/wp-content/uploads/2025/02/kalpfm.jpg",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9279",
+    "name": "Radio 100 100.9",
+    "groups": "Ballad",
+    "url": "https://stream-160.zeno.fm/3x2dtz84qzzuv",
+    "logo": "https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2a-FxgoMCxIOU3RhdGlvblByb2ZpbGUYgICIt9KtjwkMogEEemVubw/image/?u=1741523187000",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "2543",
+    "name": "Radio 7 Muzyka Schastya",
+    "groups": "Ballad",
+    "url": "http://hls-01-radio7-happiness.emgsound.ru/10/96/playlist.m3u8",
+    "logo": "https://i.postimg.cc/GmgF9KrK/7-na7-muzika-chastie.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9290",
+    "name": "Radio AMOR 103.7",
+    "groups": "Ballad,Oldies",
+    "url": "https://r10.ciclano.io:15067/stream",
+    "logo": "https://img.radios.com.br/radio/lg/radio90860_1551978811.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9299",
+    "name": "Radio Avenida 106.5",
+    "groups": "Ballad,World",
+    "url": "https://servidor32-5.brlogic.com:8330/live",
+    "logo": "https://radioavenidafm.com.br/img/img_logo.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18817",
+    "name": "Radio Caliente 97.3",
+    "groups": "Ballad,Pop",
+    "url": "https://eu1.serviaudio.com:10982/stream",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVK5bv0cs5NhFl9SCqpAIkkMQ4kXfUU_YFhw&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "2262",
+    "name": "Radio Caprice Pop Ballads",
+    "groups": "Radio,Pop,Ballad",
+    "url": "http://79.120.77.11:8002/popballads",
+    "logo": "http://radcap.ru/apple-touch-icon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9352",
+    "name": "Radio do Rei",
+    "groups": "Ballad,Pop,World",
+    "url": "http://stream.zeno.fm/g5wqhbbxm8quv?rj-ttl=5&rj-tok=AAABfd3FrWMAr25R80dt50w9ZA",
+    "logo": "https://lh3.googleusercontent.com/6OITawfFuRh9IlIQGJU4eHM-ZiPGKhq_yl2fau6CgeHB0yioRCITxeoMDCoxvuvU9w=s180-rw",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9365",
+    "name": "Radio Filhologico",
+    "groups": "Ballad,Talk,Variety",
+    "url": "http://stream.zeno.fm/dpcrf16np7zuv?rj-ttl=5&rj-tok=AAABfdorxmAA0bz36RFXiEzIcA",
+    "logo": "https://i.ytimg.com/vi/IDtztmBxtx8/maxresdefault.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20309",
+    "name": "Radio Phoenix 89.5 FM",
+    "groups": "Ballad,World",
+    "url": "https://29083.live.streamtheworld.com/RADIO_PHOENIXAAC_SC",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7XsYc6rmwKlvm0zRSDUVJOkefuVHmJ3iwqUdR9FqxEG2HXWSx6ys1hHTQFaiRI-kp7wY&usqp=CAU",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20419",
+    "name": "Radio ROKS Ballads",
+    "groups": "Radio,Ballad",
+    "url": "http://online.radioroks.ua/RadioROKS_Ballads_HD",
+    "logo": "https://www.radioroks.ua/static/img/header_icons_new/roks_logo_new.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20427",
+    "name": "Radio ROKS Ballads",
+    "groups": "Radio,Ballad",
+    "url": "http://online.radioroks.ua/RadioROKS_Ballads",
+    "logo": "https://cdn-profiles.tunein.com/s212936/images/logog.png?t=636403",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "2661",
+    "name": "Radio Romantika 98.8",
+    "groups": "Ballad,Songs",
+    "url": "https://srv12.gpmradio.ru:8443/stream/air/aac/64/101?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXkiOiJkZmEzNzhlZDA5ZWUyNTM0MWNhZTQyZTE3ZjNmNjE4YyIsIklQIjoiNzIuMzkuMjA3Ljc0IiwiVUEiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzcuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzcuMCIsIlJlZiI6Imh0dHBzOi8vd3d3LnJhZGlvcm9tYW50aWthLnJ1LyIsInVpZF9jaGFubmVsIjoiMTAxIiwidHlwZV9jaGFubmVsIjoiY2hhbm5lbCIsInR5cGVEZXZpY2UiOiJQQyIsIkJyb3dzZXIiOiJGaXJlZm94IiwiQnJvd3NlclZlcnNpb24iOiIxMzcuMCIsIlN5c3RlbSI6IldpbmRvd3MgMTAiLCJleHAiOjE3NDM1ODE3NDh9.m9iXK7RF6CxLK9NZJEuza004gaH069A59uoD7ecWE0c",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWBW55DwcdcTafT8pp7dQfLcb3_LcLQOHt1A&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "22385",
+    "name": "Virgin Radio Rock Ballads",
+    "groups": "Radio,Ballad",
+    "url": "http://icy.unitedradio.it/Virgin_06.mp3",
+    "logo": "https://www.virginradio.it/upload/1555428080159.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "6916",
+    "name": "yalnizfm.com",
+    "groups": "60s,Ballad,Top 40,Turk",
+    "url": "https://listen.radioking.com/radio/103396/stream/142219",
+    "logo": "https://cdn.onlineradiobox.com/img/l/0/144930.v2.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

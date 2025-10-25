@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18441",
+    "name": "Justin Timberlake",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/justintimberlake/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/e49b9a55-3bb4-46f9-b3a9-8a01737253cc.jpg",
+    "artist": "Justin Timberlake",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18442",
+    "name": "Justin Timberlake - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/justintimberlakehits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/ef940972-a5f2-4963-9c90-ac9f6ab3de83.jpg",
+    "artist": "Justin Timberlake",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

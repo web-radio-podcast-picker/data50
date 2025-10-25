@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18470",
+    "name": "Led Zeppelin",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/ledzeppelin/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/356587c2-2712-4884-9d54-84d4f53dfc2d.jpg",
+    "artist": "Led Zeppelin",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18471",
+    "name": "Led Zeppelin - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/ledzeppelinhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/325eb612-7aec-40be-8378-5b1bbc848ed6.jpg",
+    "artist": "Led Zeppelin",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

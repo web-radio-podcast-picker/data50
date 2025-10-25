@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18392",
+    "name": "Jack Johnson",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/jackjohnson/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/85cf361b-3fc3-43e4-b9b9-e9bddc15c465.jpg",
+    "artist": "Jack Johnson",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

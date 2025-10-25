@@ -1,0 +1,72 @@
+[
+  {
+    "id": "403",
+    "name": "Radio CASo",
+    "groups": "Contemporary,Experimental",
+    "url": "http://n0d.radiojar.com/mv4vyxmmx4zuv?rj-ttl=5&rj-tok=AAABfdoAy7gAA1CV0-ZBKUOqwA",
+    "logo": "https://centrodeartesonoro.cultura.gob.ar/static/img/favicon.5ef60b968858.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21425",
+    "name": "Skylab Radio",
+    "groups": "Ambient,Experimental,Variety",
+    "url": "http://stream.skylab-radio.com:8000/live",
+    "logo": "http://skylab-radio.com/images/ba174bd0da1efd13ce41afccf5a9e063.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

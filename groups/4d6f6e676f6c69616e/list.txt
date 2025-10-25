@@ -1,0 +1,387 @@
+[
+  {
+    "id": "15175",
+    "name": "Alxa Mongolian Comprehensive Broadcasting",
+    "groups": "Mongolian",
+    "url": "http://satellitepull.cnr.cn/live/wx32nmgalsmygb/playlist.m3u8",
+    "logo": "http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576571288258.png",
+    "artist": null,
+    "lang": "Mongolian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "13579",
+    "name": "Alxa Mongolian Radio",
+    "groups": "Mongolian,Radio",
+    "url": "http://lhttp.qingting.fm/live/5022555/64k.mp3",
+    "logo": "http://pic.qingting.fm/2015/0813/20150813163319767.jpg",
+    "artist": null,
+    "lang": "Mongolian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "1991",
+    "name": "Buryad 90.8",
+    "groups": "Folk,Mongolian,World",
+    "url": "https://buryadfm.hostingradio.ru:8018/buryadfm128.mp3",
+    "logo": "https://dvw7f7sqjk3ag.cloudfront.net/images/radio/31116.jpg",
+    "artist": null,
+    "lang": "Mongolian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "14055",
+    "name": "Hohhot Mongolian Radio 105.1",
+    "groups": "Mongolian,Radio",
+    "url": "https://lhttp.qingting.fm/live/20500043/64k.mp3",
+    "logo": "https://pic.qingting.fm/sso/198/1583808193271_q45o40Toa.png!200",
+    "artist": null,
+    "lang": "Mongolian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "14050",
+    "name": "Hulunbeir Mongolian Radio 97.3",
+    "groups": "Mongolian,Radio",
+    "url": "http://satellitepull.cnr.cn/live/wx32nmghlbemygb/playlist.m3u8",
+    "logo": "https://cdn.tingfm.com/tingfm/2012/12/file61343721d1ee7.png?x-oss-process=image/resize,m_fill,w_200,h_200",
+    "artist": null,
+    "lang": "Mongolian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "13946",
+    "name": "Inner Mongolia Mongolian External Broadcasting 105.0",
+    "groups": "Mongolian",
+    "url": "http://satellitepull.cnr.cn/live/wx32nmgdwgb/playlist.m3u8",
+    "logo": "http://img.m2oplus.nmtv.cn/20200101457f1720bcd7ccd46c2eb6e52e9fedd0.png",
+    "artist": null,
+    "lang": "Mongolian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "13947",
+    "name": "Inner Mongolia Mongolian Radio",
+    "groups": "Mongolian,Radio",
+    "url": "http://lhttp.qingting.fm/live/1882/64k.mp3",
+    "logo": "https://pic.qingting.fm/2011/0926/20110926100552676.jpg!200",
+    "artist": null,
+    "lang": "Mongolian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "15096",
+    "name": "Ordos Mongolian Comprehensive Radio",
+    "groups": "Mongolian,Radio",
+    "url": "http://lhttp.qingting.fm/live/20348/64k.mp3",
+    "logo": "https://pic.qtfm.cn/2015/0327/2015032716520180.jpg!200",
+    "artist": null,
+    "lang": "Mongolian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "15062",
+    "name": "Tongliao Mongolian Radio 93.7/1350",
+    "groups": "Mongolian,Radio",
+    "url": "https://lhttp.qingting.fm/live/20685/64k.mp3",
+    "logo": "https://www.radio-addict.com/img/stream-placeholder.png",
+    "artist": null,
+    "lang": "Mongolian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "15129",
+    "name": "Xilingol Mongolian Radio",
+    "groups": "Mongolian,Radio",
+    "url": "http://satellitepull.cnr.cn/live/wx32nmgxlglmygb/playlist.m3u8",
+    "logo": "https://static2.mytuner.mobi/media/tvos_radios/KP9nHJFUN8.png",
+    "artist": null,
+    "lang": "Mongolian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "14423",
+    "name": "Xinjiang Mongolian Radio",
+    "groups": "Mongolian,Radio",
+    "url": "http://satellitepull.cnr.cn/live/wxxjmygb/playlist.m3u8",
+    "logo": "http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576572226874.png",
+    "artist": null,
+    "lang": "Mongolian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

@@ -1,0 +1,247 @@
+[
+  {
+    "id": "9193",
+    "name": "Hunter Pop 2K",
+    "groups": "00s,Pop",
+    "url": "https://live.hunter.fm/pop2k_high",
+    "logo": "https://cdn.hunter.fm/image/thumb/station/pop2k-first/1000x1000ht.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "4447",
+    "name": "K-LOVE",
+    "groups": "00s,Religion",
+    "url": "https://emf-hls.streamguys1.com/k-love-live-aac-64k-icy?platform=web&aw_0_1st.segment=001271&awCollectionId=001271&aw_0_1st.platform=web&city=haarlem&country=non-usa&latitude=52.4&longitude=4.66&region=nh&key=e88ed329fdfface5edff4e58287f93b89ac1caf33143947f042124116e7933ea3b10d1e82305e487f8e0cc12188aa26f97a0572628beaf608268e1feec9839df",
+    "logo": "https://cdn-profiles.tunein.com/s22561/images/bannerx.jpg?t=637102372250000000",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "4448",
+    "name": "K-LOVE 2000s",
+    "groups": "00s,Religion",
+    "url": "https://emf-seg001291.cdnstream1.com/seg001291-h128/playlist.m3u8?platform=web&country=canada&geo_api=gis_db&latitude=44.3136&longitude=-78.24&opawg_result=false&segment=001291&session_id=1744844212607&visitor_id=019640d1ca0b00128eb1b0bb675a05050001e00d00b78&t=1&k=uP5X4bLcnyOMEMIKInXzUuvJPhALNriUz53Os0NxBAqixTNz_FUTdXe5aRLqbhmokRzChlH5Z2xAG730Fly_QBnu6yxSIu_K-oygT8-r_uEp0i12CYq-84qyzqcQYtflvxU",
+    "logo": "https://listen.klove.com/_next/image?url=https%3A%2F%2Fcdn.corpemf.com%2Fwww%2Fdefault-artwork%2Fk-love-2000s%2Falbum-md.png&w=640&q=75",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20746",
+    "name": "mala-tunes",
+    "groups": "00s,80s,90s",
+    "url": "http://mala-tunes.stream.laut.fm/mala-tunes?t302=2021-12-21_16-02-54&uuid=c6d7d8c0-c830-46a8-8b5b-a47063002fbf",
+    "logo": "https://online-radio.eu/logo/42/42877.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9253",
+    "name": "Musical 105.7",
+    "groups": "00s,80s,90s",
+    "url": "http://stm21.conectastm.com:6892/stream",
+    "logo": "http://radiomusical.net/wp-content/uploads/2018/04/cropped-logo_120_120-270x270.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16463",
+    "name": "Radio Vega Sandaski",
+    "groups": "00s,80s,90s",
+    "url": "http://88.80.96.25:8040/",
+    "logo": "http://www.radiovega.bg/images/yootheme/logo.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21448",
+    "name": "Totally Radio 00's",
+    "groups": "00s,Hits,Pop",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_00S_S01AAC_SC",
+    "logo": "https://totallyradio.com.au/wp-content/uploads/elementor/thumbs/00s-2020-om8ty0olmk7r7libdlz605skfdudmx39jpxhdrstwg.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18519",
+    "name": "Motörhead",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/motorhead/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/ca51a28c-f0c9-47bd-a459-c2c3a5db3e01.jpg",
+    "artist": "Motörhead",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

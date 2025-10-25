@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18523",
+    "name": "Nat King Cole",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/natkingcole/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/2d5fbc1d-dd34-4170-b68e-17dac50384e5.jpg",
+    "artist": "Nat King Cole",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18524",
+    "name": "Nat King Cole - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/natkingcolehits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/56695b2d-cb5b-4cc1-96a9-c1799dd2d586.jpg",
+    "artist": "Nat King Cole",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

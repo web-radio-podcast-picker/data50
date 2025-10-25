@@ -1,0 +1,702 @@
+[
+  {
+    "id": "6891",
+    "name": "Anti Radio",
+    "groups": "House,Pop",
+    "url": "https://stream.antiradio.net/listen/anti_radio/mp3",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ51irMxPBZhDAKOkwKdkuzW33QCxajuHmrg&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20709",
+    "name": "CITY23",
+    "groups": "House,Pop",
+    "url": "http://live.radiomax.technology/city23",
+    "logo": "http://city23.at/images/icons/apple-icon-120x120.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "278",
+    "name": "Coldfunk",
+    "groups": "Dance,House",
+    "url": "http://stream.zeno.fm/7t79necnf5zuv.mp3?rj-ttl=5&rj-tok=AAABfd5JW6sACgzAr77bYUf_MQ",
+    "logo": "https://static-media.streema.com/media/cache/9c/29/9c2999fcd8f74e74504f6ae1be47fa7e.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20880",
+    "name": "Fantasy Dance 96.7",
+    "groups": "Dance,Hip Hop,House",
+    "url": "https://comeon.stream.laut.fm/comeon",
+    "logo": "https://www.radioszene.de/wp-content/uploads/2020/02/fantasy-967-dancefm-fb2.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20733",
+    "name": "KroneHit Clubland XXL",
+    "groups": "Dance,House",
+    "url": "http://onair-ha1.krone.at/kronehit-clubland.mp3",
+    "logo": "http://www.kronehit.at/assets/channels/flag/CLUBLAND-XXL-90x65.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20904",
+    "name": "Lazer Hot Hits",
+    "groups": "House,Oldies,Oldies",
+    "url": "http://streams.servicehosting.be:3730/listen.pls",
+    "logo": "http://www.lazerhothits.eu/images/Lazerhothits_Banner_Small.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20745",
+    "name": "LoungeFM UKW Wien",
+    "groups": "Ambient,House",
+    "url": "http://188.138.9.183/lounge-at.mp3",
+    "logo": "http://www.lounge.fm/wp-content/uploads/2014/06/FAVICON1.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20907",
+    "name": "Maximum",
+    "groups": "Dance,House,Techno",
+    "url": "https://stream.rcs.revma.com/vnmbzemrmm0uv?rp_source=1&=&&___cb=571112770829061",
+    "logo": "https://images.ctfassets.net/765y2hpj99ul/1IoE2bA8NnX8PkY4sngh3x/ac7da747d396da912cb495cb315fa706/Logo_MAXIMUM_Q.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18811",
+    "name": "Night On Radio",
+    "groups": "Electro,House,Techno",
+    "url": "http://stream.zeno.fm/q509gmwzqzzuv?rj-ttl=5&rj-tok=AAABfdppkUAA_DXpkEAD7CrVLA",
+    "logo": "https://www.wix.com/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17775",
+    "name": "Radio Escola 88.5",
+    "groups": "Hip Hop,House",
+    "url": "https://radios.vpn.sapo.pt/AO/radio1.mp3",
+    "logo": "http://imgs.sapo.pt/radiosonlineao/content/img/radio_escola.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20958",
+    "name": "Radio FG",
+    "groups": "Dance,Electro,House,French",
+    "url": "https://stream.rcs.revma.com/wknqhm4yuchvv",
+    "logo": "https://yt3.googleusercontent.com/ATfpcAScTCTOh6X8HbGdIYSy9WFKw-MY5zrNUAeyKKCcIRE0-fjTuagLsVlIH8yWNnynngrV=s900-c-k-c0x00ffffff-no-rj",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17777",
+    "name": "Radio Mais 99.1",
+    "groups": "Hip Hop,House",
+    "url": "https://radios.vpn.sapo.pt/AO/radio10.mp3",
+    "logo": "http://imgs.sapo.pt/radiosonlineao/content/img/radio_mais.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16457",
+    "name": "Radio Nova 101.7",
+    "groups": "Dance,Electro,House",
+    "url": "http://stream.metacast.eu/nova.ogg",
+    "logo": "http://www.predavatel.com/bg/1/sofia_snimki/nova.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16458",
+    "name": "Radio Nova 101.7",
+    "groups": "Dance,Electro,House",
+    "url": "http://31.13.223.148:8000/nova.mp3",
+    "logo": "http://www.predavatel.com/bg/1/sofia_snimki/nova.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20978",
+    "name": "Radio Studio One 107.1",
+    "groups": "Electro,House",
+    "url": "http://studiooneasbl.ice.infomaniak.ch/studiooneasbl-128.mp3",
+    "logo": "http://www.rs1.be/img/RS1-logo.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "492",
+    "name": "REA",
+    "groups": "Dub,Electro,House",
+    "url": "https://cast.dant.com/radio/8000/rea.mp3",
+    "logo": "https://radiorea.com/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21018",
+    "name": "Studio Brussel",
+    "groups": "Club,Dance,House",
+    "url": "http://icecast-servers.vrtcdn.be/stubru_tgs-high.mp3",
+    "logo": "https://stubru.be//images/ios/touch-icon-iphone.png?v=2019",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16471",
+    "name": "Traffic Radio Station",
+    "groups": "Club,House",
+    "url": "http://radio.networx.bg:8000/TrafficRadio",
+    "logo": "https://i0.wp.com/trafficradio.org/wp-content/uploads/2011/09/cropped-175x175-75.jpg?fit=270%2C270",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20631",
+    "name": "VIP Radio Online Dance Noord",
+    "groups": "Dance,House",
+    "url": "http://s02.whooshserver.net:8054/dance",
+    "logo": "http://viponlineradio.com/wp-content/uploads/2016/08/VIP-dan15.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17243",
+    "name": "You 89.8 FM",
+    "groups": "House,R'N'B,World",
+    "url": "https://streaming.fabrik.fm/youfm/echocast/audio/low/index.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNmUfiUpwWKuv9Ig5jwW08ZK4emksWP-ZzDA&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

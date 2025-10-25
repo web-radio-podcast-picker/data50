@@ -1,0 +1,4727 @@
+[
+  {
+    "id": "22465",
+    "name": "594 DZBB Super Radyo",
+    "groups": "Turk",
+    "url": "http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=693701106",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/DZBB594.svg/500px-DZBB594.svg.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9713",
+    "name": "A Haber Radyo",
+    "groups": "Turk",
+    "url": "https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8",
+    "logo": "https://iahbr.tmgrup.com.tr/site/v1/i/ahaber-logo.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9714",
+    "name": "A Para Radyo",
+    "groups": "Turk",
+    "url": "https://trkvz-radyolar.ercdn.net/apararadyo/playlist.m3u8",
+    "logo": "https://isbh.tmgrup.com.tr/sbh/site/v3/apara/i/favicon.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9111",
+    "name": "A Radio Rock 89.1",
+    "groups": "Hits,Rock,Turk",
+    "url": "https://24963.live.streamtheworld.com:443/RADIO_89FM_ADP.aac",
+    "logo": "https://www.radiorock.com.br/wp-content/themes/89FM/static/img/favicon.ico",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9112",
+    "name": "A Radio Rock 89.1",
+    "groups": "Hits,Rock,Turk",
+    "url": "https://18733.live.streamtheworld.com:443/RADIO_89FM_ADP.aac",
+    "logo": "https://img.radios.com.br/radio/lg/radio31289_1439401796.jpg",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9715",
+    "name": "A Spor Radyo",
+    "groups": "Pop,World,Turk",
+    "url": "https://trkvz-radyolar.ercdn.net/asporradyo/playlist.m3u8",
+    "logo": "https://www.radio.net/300/aspor.png?version=",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9716",
+    "name": "Acik Radyo",
+    "groups": "Turk",
+    "url": "http://stream.34bit.net/ar64.mp3",
+    "logo": "http://acikradyo.com.tr/themes/custom/acikradyo/img/favicon/apple-touch-icon.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9726",
+    "name": "Baba Radyo 105.6",
+    "groups": "Turk",
+    "url": "http://46.20.7.116/",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZNAK3Xo2IgsjSa5B8CR_b2F7HBWghqg2Z_g&s",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9727",
+    "name": "Bati Radyo 93.6",
+    "groups": "Turk",
+    "url": "https://sslyayin.netyayin.net:10902/",
+    "logo": "https://upload.wikimedia.org/wikipedia/tr/b/bc/Bat%C4%B1_Radyo_logo.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9732",
+    "name": "BloombergHT Radyo 92.7",
+    "groups": "Turk",
+    "url": "https://ciner-live.ercdn.net/bloombergradyo/bloombergradyo_1.m3u8",
+    "logo": "https://dvw7f7sqjk3ag.cloudfront.net/images/radio/56682.jpg",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "22445",
+    "name": "Bombo Radyo La Union",
+    "groups": "Turk",
+    "url": "https://stream.zeno.fm/n6wgdtu78heuv?rj-ttl=5&rj-tok=AAABfdrrJMYAYvLWpZADwptekg",
+    "logo": "https://mytuner.global.ssl.fastly.net/media/radios-150px/dgfbbc7lbbrt.jpeg",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9740",
+    "name": "CNN Turk Radyo 92.5",
+    "groups": "News,Talk,Turk",
+    "url": "https://moondigitaledge2.radyotvonline.net/cnnturk/playlist.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/tr/d/d5/Cnnturkradyo.jpg",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9741",
+    "name": "Damar Turk FM",
+    "groups": "Turk,Radio",
+    "url": "https://live.radyositesihazir.com:10997/",
+    "logo": "https://www.damarturkfm.com/wp-content/uploads/2021/02/cropped-d79x1zt-ce1a98f2-2213-42a5-a71b-8b15c64ce713-180x180.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9742",
+    "name": "Damar Turk FM",
+    "groups": "Turk,Radio",
+    "url": "https://live.radyositesihazir.com:10997/stream?type=http&nocache=99881",
+    "logo": "https://www.damarturkfm.com/wp-content/uploads/2021/06/LOGO4.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9752",
+    "name": "Diyanet Kur'an Radyo",
+    "groups": "Turk",
+    "url": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c14192aa92.smil/playlist.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI5kFuyS1Ijk8jG4EUZZMbIc12iHgMReiCrw&s",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9753",
+    "name": "Diyanet Radyo",
+    "groups": "Islam,World,Turk",
+    "url": "https://eustr76.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1171d7d2a.smil/mt.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQipBxb6ZCV6H14uW9o2Nw_8xtECNVg0joWaA&s",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9754",
+    "name": "Diyanet Risalet Radyo",
+    "groups": "Islam,Religion,Turk",
+    "url": "https://eustr76.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1520b2626.smil/mt.m3u8",
+    "logo": "https://static-media.streema.com/media/cache/80/0c/800cb41b602da427f7eddf674cf89eb7.jpg",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9870",
+    "name": "Diyanet Risalet Radyo",
+    "groups": "Turk",
+    "url": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1520b2626.smil/playlist.m3u8",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s298050g.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9719",
+    "name": "Dogan 93.5",
+    "groups": "Turk",
+    "url": "http://yayin.turkhosted.com:6046/listen.pls",
+    "logo": "https://static-media.streema.com/media/cache/9d/50/9d50a606119d3bf5965c98ece13eb429.jpg",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9755",
+    "name": "Doğan21 103.0",
+    "groups": "Turk",
+    "url": "http://yayin1.yayindakiler.com:3024/listen.pls",
+    "logo": "https://www.radio.net/300/dogan21.png?version=37ab35b48ef85ac0ea69e5b81b64b2a7",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9756",
+    "name": "Dogu Radyo 90.9",
+    "groups": "Turk",
+    "url": "http://198.7.59.28:8146/",
+    "logo": "https://online-radio.eu/logo/8/8539.jpg",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9757",
+    "name": "Dost Radyo 103.0",
+    "groups": "Turk",
+    "url": "http://yayin1.yayindakiler.com:3156/listen.pls",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s136492g.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "22448",
+    "name": "DZTP Radyo Tirad Pass",
+    "groups": "Turk",
+    "url": "http://stream.zeno.fm/qe40zt70kv8uv?rj-ttl=5&rj-tok=AAABfd4YqowAUqnZ4_8khpvQ4A",
+    "logo": "https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICw6pjK0AkMCxIOU3RhdGlvblByb2ZpbGUYgICwquK3wgkMogEEemVubw/image/%3Fresize=500x500&v=1",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9759",
+    "name": "Erkam Radyo 105.0",
+    "groups": "News,Sport,Variety,Turk",
+    "url": "https://api-tv5.yayin.com.tr:8002/mp3",
+    "logo": "https://play-lh.googleusercontent.com/Hf0NtOQoXmIPWe2Hz8C5nptvA6Hx4QOvPmuE1bOkDhjcV6bJgRZBWAXS3Cjtf64QvD0=w240-h480-rw",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9767",
+    "name": "Haberturk Radyo 90.4",
+    "groups": "Turk",
+    "url": "https://ciner-live.ercdn.net/haberturkradyo/haberturkradyo_1.m3u8",
+    "logo": "http://www.haberturkradyo.com.tr/wp-content/uploads/2017/07/RADYO_LOGO_Son.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9774",
+    "name": "Joy Turk Eskimez",
+    "groups": "Turk",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SC058_SO1AAC.aac",
+    "logo": "https://www.radio.net/300/joyturk.png?version=96784032c8e37c0af0e044cdd68bb90e",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9775",
+    "name": "Kafa Radyo",
+    "groups": "Turk",
+    "url": "http://37.247.98.17/",
+    "logo": "https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/radio/artist/1WntYpvVHloEvmoMr3ioGi/en",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9776",
+    "name": "Kalp FM 102.2",
+    "groups": "Ballad,Songs,Turk",
+    "url": "https://yayin.kalpfm.com:8080/",
+    "logo": "https://radyodinle.com/wp-content/uploads/2025/02/kalpfm.jpg",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9783",
+    "name": "Kavanoz Radyo",
+    "groups": "Turk",
+    "url": "https://live.radyositesihazir.com/8072/stream",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi0jDN7BYsnHx6BuP1CqRHSHn_mcDgIddyqw&s",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "7460",
+    "name": "Kurd1 Radyo",
+    "groups": "Turk",
+    "url": "https://listen.radioking.com/radio/119251/stream/158701",
+    "logo": "https://kuasark.com/files/stations-logos/kurd1-fm.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9790",
+    "name": "Lig Radyo",
+    "groups": "Turk",
+    "url": "https://turkmedya.radyotvonline.com/turkmedya/ligradyo.stream/playlist.m3u8",
+    "logo": "https://www.ligradyo.com.tr/assets/img/ligradyo-apple-touch-icon.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9791",
+    "name": "Lig Radyo",
+    "groups": "Turk",
+    "url": "https://ligradyo.radyotvonline.net/ligradyo",
+    "logo": "https://ligradyo.radyotvonline.net/ligradyo",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9798",
+    "name": "Med Radyo",
+    "groups": "Turk",
+    "url": "http://medradyo.kesintisizyayin.com:8062/stream",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s265742g.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9802",
+    "name": "Nor Radyo",
+    "groups": "Turk",
+    "url": "http://www.norradyo.com:8000/live",
+    "logo": "https://www.norradyo.com/favicon.ico",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9803",
+    "name": "NTV Radyo",
+    "groups": "Radio,Turk",
+    "url": "http://46.20.3.207/",
+    "logo": "http://www.ntvradyo.com.tr/favicon.ico",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9805",
+    "name": "Number1 Turk FM",
+    "groups": "Pop,Top 40,Turk",
+    "url": "https://n10101m.mediatriple.net/hls/media_VMzl4RxO_5.aac",
+    "logo": "https://static-media.streema.com/media/cache/96/be/96be5655a0321725e6af59c4a668d926.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9806",
+    "name": "Onur Radyo",
+    "groups": "Turk",
+    "url": "http://anadolu.liderhost.com.tr:8094/",
+    "logo": "https://resim.firmarehberim.com/thumb/uye_1568792502cxBC1.jpg/0/300",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9822",
+    "name": "Power Turk",
+    "groups": "Turk",
+    "url": "http://listen.powerapp.com.tr/powerturk/mpeg/icecast.audio?/listen.pls",
+    "logo": "https://cdn.powergroup.com.tr/image/100x100/powerapp/channels/v2/inverse/logo_34.png?v=1",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9826",
+    "name": "Radyo 2000 90.6",
+    "groups": "Talk,Variety,Turk",
+    "url": "https://edge1.socialsmart.tv/radyo2000/bant1/icecast.audio",
+    "logo": "https://d371i8ihhgym7w.cloudfront.net/100791368.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9762",
+    "name": "Radyo 2000 92.2",
+    "groups": "Turk",
+    "url": "http://yayin.yayindakiler.com:3030/;*.mp3?%26token=3sQUZFuIIlYXYQ_Sq1Znxw%26expires=1616312970%27%20type=%27audio/mp3%27&rd2=%27https://radyo.vip/str",
+    "logo": "https://www.canliradyodinle.fm/wp-content/uploads/erzincan-radyo-2000-dinle.jpg",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9827",
+    "name": "Radyo 45'lik",
+    "groups": "Pop,World,Turk",
+    "url": "https://stream.radyo45lik.com:4545/",
+    "logo": "https://radyo45lik.com/wp-content/uploads/2022/12/radyo45lik_c1a.jpg",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9825",
+    "name": "Radyo 7",
+    "groups": "Turk",
+    "url": "http://46.20.3.250/;stream",
+    "logo": "http://www.radyo7.com/application/assets/home/common/images/apple-touch-icon.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9721",
+    "name": "Radyo Altin Sarkilar",
+    "groups": "Turk",
+    "url": "http://37.247.98.8/stream/25/listen.pls",
+    "logo": "https://radyohome.com/static/media/site/meta/apple-icon-120x120.png?v=261119010318",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9828",
+    "name": "Radyo Anadolu Universitesi 101.7",
+    "groups": "Turk",
+    "url": "http://canli.radyoa.anadolu.edu.tr:44445/Radyo_A_MP3",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScItOEZf1lZjjbdwOV3vzBDx76Dv-0rbat4A&s",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9722",
+    "name": "Radyo Ankara Havalari",
+    "groups": "Turk",
+    "url": "http://37.247.98.8/stream/30/listen.pls",
+    "logo": "https://lh3.googleusercontent.com/proxy/nvs2k6HksP1ZcPEhxDHTTG0mkC8CU69rt5whKzNj32YbtFfdt24MKs4HlTuR-cZ1JZeFv7TtmdAZfROkN9YFmG1ckDTs8CEFbzsgYhv10LELBJ_UL-Sb5X2EkQ",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9867",
+    "name": "Radyo Arabesk",
+    "groups": "Turk",
+    "url": "http://radyomarabesk.kesintisizyayin.com:9968/",
+    "logo": "https://dvw7f7sqjk3ag.cloudfront.net/images/radio/56659.jpg",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9829",
+    "name": "Radyo Arkadas 90.2",
+    "groups": "Turk",
+    "url": "https://ssl120.radyotelekom.com.tr/9998/stream",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s249838g.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9830",
+    "name": "Radyo Atasehir",
+    "groups": "Turk",
+    "url": "http://162.254.207.45:9300/stream",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s278625g.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9725",
+    "name": "Radyo Avrasya Turk 107.1",
+    "groups": "Turk",
+    "url": "https://sslyayin.netyayin.net:10909/",
+    "logo": "https://play-lh.googleusercontent.com/UKYnmmNlMb3tONqpd-b3q1PrkJv1RYe3uCulWohITAQkPCh263T8uCaBbXqfuSXzox0",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9831",
+    "name": "Radyo Bilim 97.0",
+    "groups": "Turk",
+    "url": "http://gitassi.com:8750/stream",
+    "logo": "https://d371i8ihhgym7w.cloudfront.net/103913904.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9832",
+    "name": "Radyo BoomBox 100.2",
+    "groups": "R'N'B,Rap,Turk",
+    "url": "https://ssldyg2.radyotvonline.com/boombox/boombox.stream/playlist.m3u8",
+    "logo": "https://static-media.streema.com/media/cache/f5/ee/f5ee88c98c8c01030dd597cccf939930.jpg",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9736",
+    "name": "Radyo Bursa 105.5",
+    "groups": "Turk",
+    "url": "http://yayin.bursafm.com.tr:1055/",
+    "logo": "https://d371i8ihhgym7w.cloudfront.net/8975315.jpg",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9738",
+    "name": "Radyo Can 93.4",
+    "groups": "Turk",
+    "url": "http://yayin1.yayindakiler.com:3124/listen.pls",
+    "logo": "https://d371i8ihhgym7w.cloudfront.net/107864282.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9833",
+    "name": "Radyo Can 93.4",
+    "groups": "Turk",
+    "url": "http://yayin2.yayindakiler.com:4174/;stream.mp3",
+    "logo": "https://d371i8ihhgym7w.cloudfront.net/107864282.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9739",
+    "name": "Radyo Cazkolik",
+    "groups": "Turk",
+    "url": "https://streams.radio.co/s2cf477bcd/listen",
+    "logo": "https://www.cazkolik.com/resimler/genel/cazkoliklogo-buyuk.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9760",
+    "name": "Radyo Cem 95.5",
+    "groups": "Turk",
+    "url": "https://erzincan.80.yayin.com.tr/stream",
+    "logo": "https://www.canliradyodinle.fm/wp-content/uploads/erzincan-radyo-cem-dinle.jpg",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9834",
+    "name": "Radyo D 104.0",
+    "groups": "Pop,World,Turk",
+    "url": "https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8",
+    "logo": "https://play-lh.googleusercontent.com/cElIGDapSdwSX0obDaKtjygh8FTv5tps5xh8cyeJqWMSlPPrWsGdbjVtULSysmu4aV_q=w240-h480-rw",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9835",
+    "name": "Radyo Dejavu",
+    "groups": "Turk",
+    "url": "http://radyodejavu.canliyayinda.com:8054/",
+    "logo": "http://www.radyodejavu.com/images/fb_promo.jpg",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9836",
+    "name": "Radyo Delal 95.9",
+    "groups": "Variety,World,Turk",
+    "url": "https://wowza1.radyotvonline.com/idilpr/radyodelal.stream/playlist.m3u8",
+    "logo": "https://static-media.streema.com/media/cache/76/02/7602929e8902ea9a9e9f4cd42aa7d660.jpg",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9837",
+    "name": "Radyo Dem",
+    "groups": "Turk",
+    "url": "https://yayin.radyodem.com:8000/",
+    "logo": "https://uk.radio.net/300/demradyo.png?version=0e74690f241fe617018785e4fa48dfe8",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20982",
+    "name": "Radyo Denge Gel 11510",
+    "groups": "Kurdish,Variety,World,Turk",
+    "url": "https://dengegel-rojavaradio.radioca.st/stream",
+    "logo": "https://denge-gel.org/wp-content/uploads/2024/02/logo-removebg-preview.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "11807",
+    "name": "Radyo Denge MED",
+    "groups": "Turk",
+    "url": "https://dengemed.stream.laut.fm/dengemed",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3pgxjWKb8gRWB6fo5ljv8UI8vfsonCxO_yA&s",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9737",
+    "name": "Radyo Derman 1001",
+    "groups": "Turk",
+    "url": "https://stream.radyolarburada.com/radio/8280/1",
+    "logo": "https://d371i8ihhgym7w.cloudfront.net/23331597.jpg",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "13557",
+    "name": "Radyo Diyalog 91.3",
+    "groups": "Turk",
+    "url": "https://yayin1.canlitv.fun/radyo/diyalogradyo/playlist.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXjG1PlYWlqTSFD5WtWhHxxPL0VuK5i0jbUqA-PHEU4eGd5DTkxpTW-01SnZWcXAhBuEI&usqp=CAU",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9838",
+    "name": "Radyo Ekin 94.3",
+    "groups": "Turk",
+    "url": "http://yayin.turkhosted.com:6006/",
+    "logo": "https://cdn-profiles.tunein.com/s9395/images/logog.png?t=636449",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9839",
+    "name": "Radyo Eksen 96.2",
+    "groups": "Turk",
+    "url": "http://eksenwmp.radyotvonline.com/;stream.mp3",
+    "logo": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84245f66525e29c6292ccea38c",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9840",
+    "name": "Radyo Erkan 93.3",
+    "groups": "Turk",
+    "url": "http://sunucu2.radyolarburada.com:8095/",
+    "logo": "https://static-media.streema.com/media/cache/bc/0a/bc0aaf5936db725282623be42bf97ba2.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9841",
+    "name": "Radyo Fenerbahce 97.0",
+    "groups": "News,Sport,Turk",
+    "url": "http://91.232.174.18:8000/Stream",
+    "logo": "https://pbs.twimg.com/profile_images/1855940270455439360/05RRY2pA_200x200.jpg",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9764",
+    "name": "Radyo Fenomen",
+    "groups": "Turk",
+    "url": "http://fenomen.listenfenomen.com/fenomen/128/icecast.audio",
+    "logo": "https://cdn.radyofenomen.com/artwork/logo20.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9842",
+    "name": "Radyo Fenomen",
+    "groups": "Turk",
+    "url": "https://listen.radyofenomen.com/fenomen/256/icecast.audio",
+    "logo": "https://cdn.radyofenomen.com/artwork/logo20.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9763",
+    "name": "Radyo Fenomen Akustik",
+    "groups": "Turk",
+    "url": "http://fenomenakustik.listenfenomen.com/fenomenakustik/128/icecast.audio",
+    "logo": "https://www.radio.net/300/fenomenakustik.png?version=8def07efa012a4b5a95fa801dbd476d7",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9843",
+    "name": "Radyo Gedik",
+    "groups": "Turk",
+    "url": "https://radyo-t.gedik.edu.tr/stream.mp3",
+    "logo": "http://radyogedik.com.tr/wp-content/uploads/2019/02/rg-logo-s.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9844",
+    "name": "Radyo Gol 92.2",
+    "groups": "Turk",
+    "url": "https://moondigitaledge.radyotvonline.net/radyogol/playlist.m3u8",
+    "logo": "https://yt3.googleusercontent.com/IWNdqAq-mztLVXAtzNN9YFuMwqZPEdo30rgDM_twywEmEJUL5u3LpqdOvSLKw1E608U5lkzoFB4=s900-c-k-c0x00ffffff-no-rj",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9845",
+    "name": "Radyo Gul 91.7",
+    "groups": "Turk",
+    "url": "http://yayin2.canliyayin.org:8866/;*.mp3",
+    "logo": "https://dvw7f7sqjk3ag.cloudfront.net/images/radio/56849.jpg",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9846",
+    "name": "Radyo Hayat 94.5",
+    "groups": "Turk",
+    "url": "http://live4.radyotvonline.com:9450/",
+    "logo": "https://static-media.streema.com/media/cache/7f/08/7f08a89f75858e41edec173d019ccab9.jpg",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9847",
+    "name": "Radyo Kur'an",
+    "groups": "Turk",
+    "url": "http://yayin.liderhost.net:8555/;*.mp3",
+    "logo": "http://www.radyokuran.net//uploads/site/favicon.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9848",
+    "name": "Radyo Mars",
+    "groups": "Rock,World,Turk",
+    "url": "https://yayin.radyomadyo.com:9400/stream",
+    "logo": "https://radyodinle.com/wp-content/uploads/2024/08/Radyo-Megasite-3-min.jpg",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9849",
+    "name": "Radyo MODyAn",
+    "groups": "Turk",
+    "url": "http://stream.radio.co/s55d598f42/listen",
+    "logo": "https://i1.sndcdn.com/avatars-000696234343-1v7nan-t240x240.jpg",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9761",
+    "name": "Radyo Nostalji",
+    "groups": "Turk",
+    "url": "http://95.173.188.155:9946/;stream.mp3",
+    "logo": "https://play-lh.googleusercontent.com/0ESBrqi-iqLY6MhNOt-hgXXxS7iOFK9RCQt70KE-kJW5IQVdCTDjpRbwFUS8SiBX0g",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9850",
+    "name": "Radyo ODTU 103.1",
+    "groups": "Turk",
+    "url": "http://stream.radyoodtu.com.tr/listen.pls",
+    "logo": "http://www.radyoodtu.com.tr/images/header_logo.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9851",
+    "name": "Radyo ODTU Easy",
+    "groups": "Turk",
+    "url": "http://stream.radyoodtu.com.tr/easy",
+    "logo": "https://www.radyoodtu.com.tr/images/header-logo.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9852",
+    "name": "Radyo ODTU Hit",
+    "groups": "Turk,Hits",
+    "url": "http://stream.radyoodtu.com.tr/hit",
+    "logo": "https://www.radyoodtu.com.tr/images/header-logo.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9853",
+    "name": "Radyo ODTU MixTape",
+    "groups": "Turk",
+    "url": "http://stream.radyoodtu.com.tr/karisikkaset",
+    "logo": "https://www.radyoodtu.com.tr/images/header-logo.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9854",
+    "name": "Radyo ODTU Rock",
+    "groups": "Turk",
+    "url": "http://stream.radyoodtu.com.tr/rock",
+    "logo": "https://www.radyoodtu.com.tr/images/logo_for_fb.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9807",
+    "name": "Radyo Ozgur 105.1",
+    "groups": "Turk",
+    "url": "http://95.173.188.170:9898/",
+    "logo": "https://www.canliradyodinle.fm/wp-content/uploads/ozgur-radyo.jpg",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9808",
+    "name": "Radyo Pal Alaturka",
+    "groups": "Turk",
+    "url": "http://shoutcast.radyogrup.com:3050/listen.pls",
+    "logo": "https://www.canliradyodinle.fm/wp-content/uploads/pal-alaturka-canli.jpg",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9816",
+    "name": "Radyo Piryolu",
+    "groups": "Turk",
+    "url": "http://radyopiryolu.canliyayinda.com:8165/",
+    "logo": "http://radyopiryolu.canliyayinda.com:8165/favicon.ico",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9872",
+    "name": "Radyo Sada El Furat 101.3",
+    "groups": "Talk,Variety,Turk",
+    "url": "https://wowza1.radyotvonline.com/idilpr/sadaelfurat.stream/playlist.m3u8",
+    "logo": "https://static-media.streema.com/media/cache/e0/a8/e0a871e788ce2482fdfa05c0250818b2.jpg",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9855",
+    "name": "Radyo Seymen 107.0",
+    "groups": "Turk",
+    "url": "https://yayin.radyoseymen.com.tr:1070/stream",
+    "logo": "https://cdn-profiles.tunein.com/s152248/images/logog.jpg",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9856",
+    "name": "Radyo Siran 95.7",
+    "groups": "Turk",
+    "url": "https://live.radyositesihazir.com/8078/stream",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9wClOmMGeJTuWWkzMnRmrae7hfswAKye4qQ&s",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9857",
+    "name": "Radyo Slow Time 91.2",
+    "groups": "Turk",
+    "url": "http://46.20.7.103:8040/listen.pls",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s107498g.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9858",
+    "name": "Radyo Spor 107.2",
+    "groups": "Turk",
+    "url": "https://moondigitaledge.radyotvonline.net/radyospor/playlist.m3u8",
+    "logo": "https://play-lh.googleusercontent.com/dHiEHMbbKWWZ7RkAN128sB7b24dOihWEDN0WfLQHbXFNxjXQ_yPVE-HK0EgIMLw227U",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9859",
+    "name": "Radyo Taksi",
+    "groups": "Turk",
+    "url": "https://live.radyo.in/8006/stream",
+    "logo": "https://d371i8ihhgym7w.cloudfront.net/38279206.jpg",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9860",
+    "name": "Radyo Trio 97.6",
+    "groups": "Pop,Rock,Turk",
+    "url": "https://radyotrio.radyotvonline.net/radyotrio",
+    "logo": "https://play-lh.googleusercontent.com/hgg2k7Rj0wQt5vlBdhYdl_A539_mnz8nxvfpOzB4lSwg8iZxjkwacyPX40XiadyA3Ys",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9906",
+    "name": "Radyo Turkulerle Turkiye",
+    "groups": "Turk",
+    "url": "http://37.247.98.8/stream/22/listen.pls",
+    "logo": "https://www.canliradyodinle.fm/wp-content/uploads/turkulerle-turkiye-dinle.jpg",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9861",
+    "name": "Radyo Turkuvaz 90.2",
+    "groups": "Pop,Rock,Turk",
+    "url": "https://trkvz-radyolar.ercdn.net/radyoturkuvaz/media-us72i4ovd_148430.aac",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbIrw6PXU-gTXpk7eeGqD8QPqHm-STFfZCYA&s",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9905",
+    "name": "Radyo Turkvaz",
+    "groups": "Turk",
+    "url": "https://trkvz-radyolar.ercdn.net/turkuvazanadolu/playlist.m3u8",
+    "logo": "https://i.tmgrup.com.tr/rt/site/v2/c/i/radio/turkuvaz-anadolu-big.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9862",
+    "name": "Radyo Vatan Turku",
+    "groups": "Turk",
+    "url": "http://95.0.173.195:9000/turku",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwyadA2D5KchG4OHH7N2zAypapxFZACK46Xg&s",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9863",
+    "name": "Radyo Viva 90.0",
+    "groups": "Turk",
+    "url": "https://moondigitaledge.radyotvonline.net/radyoviva/playlist.m3u8",
+    "logo": "https://radyoviva.com.tr/wp-content/uploads/2021/01/VivaLogo.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9864",
+    "name": "Radyo Voyage 107.4",
+    "groups": "Turk",
+    "url": "http://voyagefms.radyotvonline.com/dyg/voyage64/playlist.m3u8",
+    "logo": "https://cdn-profiles.tunein.com/s108635/images/logog.jpg?t=636442",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9865",
+    "name": "Radyo Voyage 107.4",
+    "groups": "Turk",
+    "url": "http://voyagewmp.radyotvonline.com/listen.pls",
+    "logo": "https://cdn-profiles.tunein.com/s108635/images/logog.jpg?t=636442",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9866",
+    "name": "Radyo Voyage 107.4",
+    "groups": "Turk",
+    "url": "http://voyagewmp.radyotvonline.com/;stream.mp3",
+    "logo": "https://cdn-profiles.tunein.com/s108635/images/logog.jpg?t=636442",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9868",
+    "name": "Radyo Voyage 107.4",
+    "groups": "Turk",
+    "url": "http://voyagesc.radyotvonline.com/",
+    "logo": "https://cdn-profiles.tunein.com/s108635/images/logog.jpg?t=636442",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9873",
+    "name": "Semerkand Radyo",
+    "groups": "Turk",
+    "url": "http://mtisvwurbfcyslive.mediatriple.net/mtisvwurbfcyslive/broadcast_58e23cb112296.smil/playlist.m3u8",
+    "logo": "https://www.semerkandradyo.com.tr/",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "2763",
+    "name": "Shanson Radyo",
+    "groups": "Turk",
+    "url": "http://chanson.hostingradio.ru:8041/chanson128.mp3",
+    "logo": "https://www.radiobells.com/stations/chanson.jpg",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9876",
+    "name": "Show Radyo",
+    "groups": "Turk",
+    "url": "http://46.20.3.229/;stream.nsv",
+    "logo": "http://www.showradyo.com.tr/favicon.ico",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9878",
+    "name": "Slow Turk",
+    "groups": "Turk",
+    "url": "https://radyo.duhnet.tv/slowturk",
+    "logo": "https://www.radio.net/300/slowturk.png?version=7db414bd52fcbfd60bf2ea8683195ea5",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "2747",
+    "name": "Sputnik Turkiye 106.4",
+    "groups": "News,Turk",
+    "url": "https://nfw.ria.ru/flv/audio.aspx?ID=98318704&type=mp3",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBXgvFoSlW1nXd2r-3JRouiShpm-66USmbyg&s",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9880",
+    "name": "Sun Radyo 96.1",
+    "groups": "Turk",
+    "url": "https://tr.socialsmart.tv/sunradyo/bant1/icecast.audio",
+    "logo": "https://static-media.streema.com/media/cache/c6/31/c631859addc941b0c4aaeea3afcf8f43.jpg",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9882",
+    "name": "Super Show Radyo 97.3",
+    "groups": "Turk",
+    "url": "http://yayin.netyayin.net:6065/listen.pls",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s110604g.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9886",
+    "name": "TRT Antalya",
+    "groups": "News,Talk,Turk",
+    "url": "https://radio-trtantalya.medya.trt.com.tr/master_128.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvPdjChX-nBrKnARLEqzOG5Uu2CdS7-XT3Qg&s",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9887",
+    "name": "TRT Cukurova 105.1",
+    "groups": "News,Talk,Turk",
+    "url": "https://radio-trtcukurova.medya.trt.com.tr/master_128.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlpBAsMrzir2QPX4Okkx1RPavEfLclwfIczw&s",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9888",
+    "name": "TRT Erzurum",
+    "groups": "News,Talk,Turk",
+    "url": "https://radio-trterzurum.medya.trt.com.tr/master_128.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPLZxowaXOwNnissDMF2rVGO_lEpUhmBOiKQ&s",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9889",
+    "name": "TRT FM",
+    "groups": "Turk,Radio",
+    "url": "https://ssl4.radyotvonline.com/radyohome/trtfm.stream_aac/playlist.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/TRT_FM_logo.svg/640px-TRT_FM_logo.svg.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9890",
+    "name": "TRT GAP Diyarbakir",
+    "groups": "News,Talk,Turk",
+    "url": "https://radio-trtgap.medya.trt.com.tr/master_128.m3u8",
+    "logo": "https://pbs.twimg.com/profile_images/1755099510529777664/-uz8LeWS_400x400.jpg",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9891",
+    "name": "TRT Memleketim FM",
+    "groups": "Variety,World,Turk",
+    "url": "https://radio-trtmemleketimfm.medya.trt.com.tr/master_128.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCEhvJRWyQImLDiiom35LqOSrU-YVVmhIxKQ&s",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9892",
+    "name": "TRT Nagme 102.8",
+    "groups": "Turk",
+    "url": "https://radio-trtnagme.live.trt.com.tr/master.m3u8",
+    "logo": "https://static.tuneyou.com/images/logos/500_500/83/12783/TRTNagme.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9893",
+    "name": "TRT Nagme 102.8",
+    "groups": "Turk",
+    "url": "https://ssl4.radyotvonline.com/radyohome/trtnagme.stream_aac/playlist.m3u8",
+    "logo": "https://static.tuneyou.com/images/logos/500_500/83/12783/TRTNagme.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9894",
+    "name": "TRT Radyo 3",
+    "groups": "Turk",
+    "url": "https://radio-trtradyo3.live.trt.com.tr/master.m3u8",
+    "logo": "http://radyo.trt.net.tr/Data/Arsiv/Kanal/425b95f9-101d-46b0-8513-2433226199b1k.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9895",
+    "name": "TRT Radyo Kurdi",
+    "groups": "Kurdish,Variety,Turk",
+    "url": "https://radio-trtradyo6.medya.trt.com.tr/master_128.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-DR0YkgM2OVWXN1ayHyCULMnGVIF9DIZ0HA&s",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "7962",
+    "name": "TRT Tamil Olli",
+    "groups": "Turk",
+    "url": "http://radio3.pro-fhi.net:9035/stream.mp3",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq6cic1RQl9Jsd6kpVVRjVzoKOAPpySiCmuA&s",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9896",
+    "name": "TRT Trabzon 97.0",
+    "groups": "News,Talk,Turk",
+    "url": "https://radio-trttrabzon.medya.trt.com.tr/master_128.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeLTBOh8yTL2zGa9d0jnAEx5uQs2vxFH_sRQ&s",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9897",
+    "name": "TRT TSR",
+    "groups": "Turk",
+    "url": "https://radio-trttsr.live.trt.com.tr/master.m3u8",
+    "logo": "https://www.trtworld.com/images/favicons/apple-touch-icon.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9898",
+    "name": "TRT Turku 98.6",
+    "groups": "Turk",
+    "url": "https://radio-trtturku.live.trt.com.tr/master.m3u8",
+    "logo": "http://radyo.trt.net.tr/icons/apple-icon-120x120.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9899",
+    "name": "TRT VOT East",
+    "groups": "Turk",
+    "url": "https://radio-trtvoteast.live.trt.com.tr/master_128.m3u8",
+    "logo": "https://www.trtworld.com/images/favicons/apple-touch-icon.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9900",
+    "name": "TRT VOT West",
+    "groups": "News,Variety,Turk",
+    "url": "https://radio-trtvotwest.medya.trt.com.tr/master_128.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKeG7Wy7DGf4pxuU-9jvD8-WqdB7AvaVNhvA&s",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9901",
+    "name": "TRT VOT World",
+    "groups": "Turk,World",
+    "url": "http://tv-trtworld.live.trt.com.tr/master.m3u8",
+    "logo": "https://www.trtworld.com/images/favicons/apple-touch-icon.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9902",
+    "name": "TRT-Haber Radyo",
+    "groups": "Turk",
+    "url": "https://radio-trtradyohaber.live.trt.com.tr/master.m3u8",
+    "logo": "http://www.trt.net.tr/anasayfa/images2012/trtlogo.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9903",
+    "name": "Turkiye Polis Radyosu",
+    "groups": "Turk",
+    "url": "https://m.egm.gov.tr:8093/",
+    "logo": "https://egm.gov.tr/kurumlar/egm.gov.tr/tasar%C4%B1m/favicon-egm-32.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9904",
+    "name": "Turku Radyo",
+    "groups": "Turk",
+    "url": "http://radyo.turkuradyo.net:4591/stream",
+    "logo": "https://play-lh.googleusercontent.com/0bo2ixTD7kmrNNe9LOEexyOSRQBQM0Qp1b2-zIXG0P90CQtszpjReqUL7-imZHOM8RvU",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9907",
+    "name": "Turkuvaz Musiki",
+    "groups": "Turk",
+    "url": "https://trkvz-radyolar.ercdn.net/turkuvazmusiki/playlist.m3u8",
+    "logo": "https://i.tmgrup.com.tr/rt/site/v2/c/i/radio/turkuvaz-musiki-big.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9908",
+    "name": "Ulusal Radyo 100.8",
+    "groups": "Turk",
+    "url": "http://162.254.207.45:9302/.mp3?&token=QVi8je41ac9GDLg3DshO8Q&expires=1608058155",
+    "logo": "https://ulusalradyo.com/wp-content/uploads/2021/01/cropped-mic-180x180.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9909",
+    "name": "Vav Radyo",
+    "groups": "Turk",
+    "url": "https://trkvz-radyolar.ercdn.net/radyovav/playlist.m3u8",
+    "logo": "https://i.tmgrup.com.tr/vavradyo/site/v2/c/i/apple-touch-icon-new-120x120.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "6916",
+    "name": "yalnizfm.com",
+    "groups": "60s,Ballad,Top 40,Turk",
+    "url": "https://listen.radioking.com/radio/103396/stream/142219",
+    "logo": "https://cdn.onlineradiobox.com/img/l/0/144930.v2.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9911",
+    "name": "Yon Radyo 96.6",
+    "groups": "Turk",
+    "url": "https://stream.radyolarburada.com/radio/8020/yonradyo",
+    "logo": "https://kuasark.com/files/stations-logos/yon-radyo.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

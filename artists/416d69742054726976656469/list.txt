@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18148",
+    "name": "Amit Trivedi",
+    "groups": "Artists",
+    "url": "https://drive.uber.radio/uber/bollywoodamittrivedi/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/8c4f578f-2b12-415c-9f8a-998d006304ca.jpg",
+    "artist": "Amit Trivedi",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

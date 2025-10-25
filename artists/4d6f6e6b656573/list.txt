@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18516",
+    "name": "Monkees",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/themonkees/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/0649ad48-81ed-48b4-9551-c25c28a4ecd1.jpg",
+    "artist": "Monkees",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

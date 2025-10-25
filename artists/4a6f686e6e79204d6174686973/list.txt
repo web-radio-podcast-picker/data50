@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18428",
+    "name": "Johnny Mathis",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/johnnymathis/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/2c9bc8f4-8178-44ca-af7a-51817d18a5bc.jpg",
+    "artist": "Johnny Mathis",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "id": "19759",
+    "name": "Al-Quran Bangla",
+    "groups": "Islam,Religion,Bangla",
+    "url": "http://66.45.232.131:9994/",
+    "logo": "https://www.liveonlineradio.net/wp-content/uploads/2011/08/bangla-al-quran-1.jpg",
+    "artist": null,
+    "lang": "Bengali",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19762",
+    "name": "BBC Bangla",
+    "groups": "Bangla,News,Talk",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_bangla_radio",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/2/2a/BBC_Bangla_logo.svg",
+    "artist": null,
+    "lang": "Bengali",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19764",
+    "name": "Jago 94.4",
+    "groups": "Bengali,World",
+    "url": "http://139.59.86.99:12496/stream",
+    "logo": "https://static.tuneyou.com/images/logos/500_500/38/15638/JagoFM94.4_5.png",
+    "artist": null,
+    "lang": "Bengali",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17206",
+    "name": "Lotus Radio 87.7",
+    "groups": "Bengali,Hindi,World",
+    "url": "http://27863.live.streamtheworld.com/LOTUSFMAAC.aac",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/PMfdm6s9YD.png",
+    "artist": null,
+    "lang": "Bengali",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19768",
+    "name": "Radio Din Raat 93.6",
+    "groups": "Bengali,World",
+    "url": "http://103.118.79.134:8000/",
+    "logo": "https://radio-in-asia.com/assets/logo/200/radiodinraani.webp",
+    "artist": null,
+    "lang": "Bengali",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

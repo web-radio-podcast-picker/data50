@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18210",
+    "name": "Bon Jovi",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/bonjovi/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/6dae4965-500b-4a2a-b7fd-a114a1b284a7.jpg",
+    "artist": "Bon Jovi",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18211",
+    "name": "Bon Jovi - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/bonjovihits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/aaa15cf9-f817-40bb-b91e-39db66921f5a.jpg",
+    "artist": "Bon Jovi",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

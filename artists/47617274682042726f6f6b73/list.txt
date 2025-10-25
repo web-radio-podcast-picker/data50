@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18352",
+    "name": "Garth Brooks",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/garthbrooks/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/434bd7ac-167a-4814-ad62-ee294b8d7fe1.jpg",
+    "artist": "Garth Brooks",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18353",
+    "name": "Garth Brooks - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/garthbrookshits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/c68cd02d-5b6d-4bad-9d8b-9c43bb0a596a.jpg",
+    "artist": "Garth Brooks",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

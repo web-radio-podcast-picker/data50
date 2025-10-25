@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18502",
+    "name": "Merle Haggard",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/merlehaggard/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/3e980da0-5331-49fe-b18b-888a8f8605e5.jpg",
+    "artist": "Merle Haggard",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

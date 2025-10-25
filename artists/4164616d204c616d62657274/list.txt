@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18131",
+    "name": "Adam Lambert",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/adamlambert/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/ceeab1d1-a39a-4501-99b6-62b44aadf5f7.jpg",
+    "artist": "Adam Lambert",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

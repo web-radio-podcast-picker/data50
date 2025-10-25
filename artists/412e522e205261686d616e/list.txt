@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18126",
+    "name": "A.R. Rahman",
+    "groups": "Artists",
+    "url": "https://drive.uber.radio/uber/bollywoodarrahman/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/29d8abd5-1ed1-4f79-a0e0-868ce217e327.jpg",
+    "artist": "A.R. Rahman",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

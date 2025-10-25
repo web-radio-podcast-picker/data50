@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18475",
+    "name": "Linda Ronstadt",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/lindaronstadt/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/262fe18f-9207-459e-b41f-96c5d9269613.jpg",
+    "artist": "Linda Ronstadt",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18712",
+    "name": "Ziggy Marley",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/ziggymarley/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/d2ae2138-1664-44b6-a278-43d1c3dc10ac.jpg",
+    "artist": "Ziggy Marley",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

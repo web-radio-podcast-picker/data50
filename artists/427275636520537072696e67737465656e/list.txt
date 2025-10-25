@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18222",
+    "name": "Bruce Springsteen",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/springsteen/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/14e65fec-3809-4f49-b6c2-fedd60e7c2c0.jpg",
+    "artist": "Bruce Springsteen",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18223",
+    "name": "Bruce Springsteen - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/springsteenhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/588fdee4-e157-4727-bf31-cfb74e7b3873.jpg",
+    "artist": "Bruce Springsteen",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "id": "15526",
+    "name": "LCLHST R1",
+    "groups": "Electro,Techno",
+    "url": "http://s1.radio.lclhst.net:1437/r1",
+    "logo": "http://radio.lclhst.net//favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "15527",
+    "name": "LCLHST R2",
+    "groups": "Electro,Techno",
+    "url": "http://s1.radio.lclhst.net:1437/r2",
+    "logo": "http://radio.lclhst.net//favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20907",
+    "name": "Maximum",
+    "groups": "Dance,House,Techno",
+    "url": "https://stream.rcs.revma.com/vnmbzemrmm0uv?rp_source=1&=&&___cb=571112770829061",
+    "logo": "https://images.ctfassets.net/765y2hpj99ul/1IoE2bA8NnX8PkY4sngh3x/ac7da747d396da912cb495cb315fa706/Logo_MAXIMUM_Q.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20924",
+    "name": "MyNoise Space Odyssey",
+    "groups": "Ambient,Relaxation,Techno",
+    "url": "http://spaceodyssey-mynoise.radioca.st/stream",
+    "logo": "https://mynoise.net/apple-touch-icon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18811",
+    "name": "Night On Radio",
+    "groups": "Electro,House,Techno",
+    "url": "http://stream.zeno.fm/q509gmwzqzzuv?rj-ttl=5&rj-tok=AAABfdppkUAA_DXpkEAD7CrVLA",
+    "logo": "https://www.wix.com/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20959",
+    "name": "Radio FG 98.2",
+    "groups": "Dance,Techno",
+    "url": "https://n07.rcs.revma.com/5wesqhfap98uv?rj-ttl=5&rj-tok=AAABfd0BlskAgoZ878TIkqzF4w",
+    "logo": "http://www.radiofg.be/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18861",
+    "name": "Red Uyuni Clásicos en Inglés U 2",
+    "groups": "Disco,Rock,Techno",
+    "url": "https://emiteradio.com/proxy/clasicosingles?mp=/stream",
+    "logo": "https://emisora.info/radio/clasicos-ingles.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21031",
+    "name": "Vibration 107.2",
+    "groups": "Techno,Trance",
+    "url": "http://broadcast.infomaniak.ch/vibrationbelgique-high.mp3",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEIfiA8JnByRVZ4JBOLvZmLAD_nqDJx1OfHQ&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

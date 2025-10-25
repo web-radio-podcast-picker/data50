@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18459",
+    "name": "Kings Of Leon",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/kingsofleon/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/ab984793-e25c-4ef9-9178-cdfe9fa97c2d.jpg",
+    "artist": "Kings Of Leon",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

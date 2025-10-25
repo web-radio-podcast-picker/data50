@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18172",
+    "name": "Bad Company",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/badcompany/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/6dbddd3e-cba7-40ad-8af0-8b0b5daf5c1d.jpg",
+    "artist": "Bad Company",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

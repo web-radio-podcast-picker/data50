@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18381",
+    "name": "Harrdy Sandhu",
+    "groups": "Artists",
+    "url": "https://drive.uber.radio/uber/bollywoodharrdysandhu/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/be76d204-2e32-4acb-97e8-9ccef18aaddd.jpg",
+    "artist": "Harrdy Sandhu",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

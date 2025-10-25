@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18141",
+    "name": "Albert Collins",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/albertcollins/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/91dd0386-5e93-412b-8d53-f41389785d31.jpg",
+    "artist": "Albert Collins",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

@@ -1,0 +1,247 @@
+[
+  {
+    "id": "3494",
+    "name": "98.2 The Beat Japan",
+    "groups": "Japanese",
+    "url": "http://stream.zeno.fm/75c2pu6q01zuv.aac?rj-ttl=5&rj-tok=AAABfdqxIpcAoOr92LKQeKDSOw",
+    "logo": "https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQjr2swwkMCxIOU3RhdGlvblByb2ZpbGUYgICQ7sGfzwgMogEEemVubw/image/%3Fresize=500x500&v=1",
+    "artist": null,
+    "lang": "Japanese",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "267",
+    "name": "AiMoChi Radio",
+    "groups": "Anime,Asia,Japanese",
+    "url": "https://stream.zeno.fm/ndqw2pfrcseuv",
+    "logo": "https://static-media.streema.com/media/cache/3a/54/3a54a6f812651caa47d5e55b71ce1899.jpg",
+    "artist": null,
+    "lang": "Japanese",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3643",
+    "name": "BBN Japanese",
+    "groups": "Japanese",
+    "url": "http://stream2.bbnradio.org:8000/japanese.aac",
+    "logo": "https://cdn.onlineradiobox.com/img/fblogo/4/94164.v8.png",
+    "artist": null,
+    "lang": "Japanese",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20576",
+    "name": "BBN Japanese",
+    "groups": "Japanese",
+    "url": "https://bbnjapanese-lh.akamaihd.net/i/BibleBroadcasting_Japaneseios@87760/master.m3u8",
+    "logo": "https://bbn1.bbnradio.org/favicon.ico",
+    "artist": null,
+    "lang": "Japanese",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "616",
+    "name": "KBS World Japanese Radio",
+    "groups": "World,Japanese,Radio",
+    "url": "http://101.79.244.199:1935/cocotv/_definst_/CH00007/playlist.m3u8",
+    "logo": "http://world.kbs.co.kr/favicon.ico",
+    "artist": null,
+    "lang": "Japanese",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5247",
+    "name": "Radio Mast Japanese",
+    "groups": "Radio,Japanese",
+    "url": "https://audio-edge-kef8b.ams.s.radiomast.io/a622d414-52a6-4426-b3b8-ed2a4dbb704b",
+    "logo": "https://bbn1.bbnradio.org/japanese/wp-content/uploads/sites/7/2021/01/50thLogoJPupdated.png",
+    "artist": null,
+    "lang": "Japanese",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "504",
+    "name": "The Kyoto Connection Radio",
+    "groups": "Japanese,World",
+    "url": "https://server.laradio.online:59009/live",
+    "logo": "https://seeded-session-images.scdn.co/v2/img/122/secondary/artist/6l13uPtVBgHB3gfpimh7Rb/en",
+    "artist": null,
+    "lang": "Japanese",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

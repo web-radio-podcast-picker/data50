@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18603",
+    "name": "Rush",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/rush/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/f3ceb9c3-1a4c-4996-910c-f9a92deee0f9.jpg",
+    "artist": "Rush",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

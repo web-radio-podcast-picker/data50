@@ -1,0 +1,37 @@
+[
+  {
+    "id": "11074",
+    "name": "Klassikradio Movie Channel",
+    "groups": "Movie",
+    "url": "http://klassikr.streamabc.net/klr-movie-mp3-192-8441094?sABC=61p21pp7%230%232qqpnss01895rqr0s8oq129o03s183o0%23jjj.xynffvxenqvb.qr&amsparams=playerid:www.klassikradio.de;skey:1640111303",
+    "logo": "http://www.klassikradio.de/_nuxt/icons/icon_64.a00w80w0000.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

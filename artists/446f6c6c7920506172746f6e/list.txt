@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18296",
+    "name": "Dolly Parton",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/dollyparton/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/1336b322-9297-4fc0-ac70-3020efee134c.jpg",
+    "artist": "Dolly Parton",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18297",
+    "name": "Dolly Parton - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/dollypartonhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/f302678a-d682-4c81-a0c6-6a7595e3ef35.jpg",
+    "artist": "Dolly Parton",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

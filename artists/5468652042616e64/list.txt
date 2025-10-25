@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18668",
+    "name": "The Band",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/theband/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/58959c16-0ac3-436f-af0d-6474256e81c7.jpg",
+    "artist": "The Band",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

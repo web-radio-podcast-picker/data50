@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18674",
+    "name": "The Who",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/thewho/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/1f483332-dd0a-474a-a378-98d528e86170.jpg",
+    "artist": "The Who",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18675",
+    "name": "The Who - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/whohits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/92a15ea2-9d7c-4da9-b2b5-ceb9351566f1.jpg",
+    "artist": "The Who",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

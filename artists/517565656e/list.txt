@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18575",
+    "name": "Queen",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/queen/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/a939910d-b074-4dbb-884f-69d0aab6cb14.jpg",
+    "artist": "Queen",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18576",
+    "name": "Queen - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/queenhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/05225afb-b14e-49b0-8bba-30c020210e2b.jpg",
+    "artist": "Queen",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

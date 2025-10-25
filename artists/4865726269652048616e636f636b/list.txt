@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18384",
+    "name": "Herbie Hancock",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/herbiehancock/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/3363394a-cb41-4441-8a46-ca33962b18fe.jpg",
+    "artist": "Herbie Hancock",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

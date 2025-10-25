@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18219",
+    "name": "Britney Spears",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/britney/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/4365a512-f23b-4a3d-839a-7c40b7223af5.jpg",
+    "artist": "Britney Spears",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18220",
+    "name": "Britney Spears - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/britneyspearshits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/adb4b397-b96f-418b-96e9-48693ef03846.jpg",
+    "artist": "Britney Spears",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

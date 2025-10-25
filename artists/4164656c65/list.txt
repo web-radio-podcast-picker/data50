@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18132",
+    "name": "Adele",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/adele/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/f045db74-8996-498a-a3a9-c0c677ece874.jpg",
+    "artist": "Adele",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18133",
+    "name": "Adele - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/adelehits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/86018e54-87c6-411c-9d12-90554ae3133c.jpg",
+    "artist": "Adele",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

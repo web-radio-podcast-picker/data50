@@ -1,0 +1,142 @@
+[
+  {
+    "id": "21351",
+    "name": "J-AIR 88.0 FM",
+    "groups": "Hebrew,Jewish,World",
+    "url": "https://s19.myradiostream.com/4918/;",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeuWf_30pSsQNVkJiccCtqj0xneGQ8XxHOIA&s",
+    "artist": null,
+    "lang": "Hebrew",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "107",
+    "name": "Jewish Music Stream",
+    "groups": "Jewish,Music",
+    "url": "https://stream.jewishmusicstream.com:8000/",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s140612g.png",
+    "artist": null,
+    "lang": "Hebrew",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "4132",
+    "name": "Jewish Rock Radio",
+    "groups": "Jewish,Radio",
+    "url": "https://d1yoq0kkuyzrcx.cloudfront.net/stream/2554/",
+    "logo": "http://www.jewishrockradio.com/wp-content/uploads/2017/06/favicon.ico",
+    "artist": null,
+    "lang": "Hebrew",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "2226",
+    "name": "Radio Caprice Jewish Music/Klezmer",
+    "groups": "Radio,Jewish",
+    "url": "http://79.120.39.202:8002/klezmer",
+    "logo": "http://radcap.ru/graf2/radcaplogo.png",
+    "artist": null,
+    "lang": "Hebrew",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

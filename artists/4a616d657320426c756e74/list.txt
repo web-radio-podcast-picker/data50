@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18395",
+    "name": "James Blunt",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/jamesblunt/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/00e7eec9-5dd7-4a4e-8446-fe4bf83362c8.jpg",
+    "artist": "James Blunt",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

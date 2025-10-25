@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18535",
+    "name": "Nirvana",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/nirvana/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/089291f8-1f2f-4f15-a635-7513ce01cc11.jpg",
+    "artist": "Nirvana",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

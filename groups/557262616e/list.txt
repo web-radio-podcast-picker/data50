@@ -1,0 +1,2452 @@
+[
+  {
+    "id": "17796",
+    "name": "1.FM Adult Urban Hits Choice Radio",
+    "groups": "Radio,Urban,Hits",
+    "url": "http://strm112.1.fm/oldschool_mobile_mp3",
+    "logo": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17799",
+    "name": "1.FM All Times & Urban Gospel Radio",
+    "groups": "Radio,Urban",
+    "url": "http://strm112.1.fm/gospel_mobile_mp3",
+    "logo": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3061",
+    "name": "100hitz Urban Hitz",
+    "groups": "Urban",
+    "url": "https://pureplay.cdnstream1.com/6043_128.mp3",
+    "logo": "https://100hitz.com/wp-content/uploads/2018/07/favicon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10240",
+    "name": "1A Urban Music",
+    "groups": "Urban,Music",
+    "url": "http://saw-de-hz-fal-stream09-cluster01.radiohost.de/saw-urban_48?ref=radiosure-1a&amsparams=radiosure-1a&listenerrmid=31363430303532333631-326130333a343030303a33373a34323a633466653a346366663a666561373a38393431-3535353734-53747265616d436865636b426f742f302e312e30",
+    "logo": "https://www.radio.net/images/broadcasts/74/67/106432/1/c300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10241",
+    "name": "1A Urban Music",
+    "groups": "Urban,Music",
+    "url": "http://saw-stream27.radiohost.de/saw-urban_128?ref=radio-browser-1a&amsparams=radio-browser-1a&listenerrmid=31363430313130353030-323030313a313966303a363830313a313964373a353430303a3266663a666537313a62646237-3535303432-53747265616d436865636b426f742f302e312e30",
+    "logo": "https://www.radio.net/images/broadcasts/74/67/106432/1/c300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21116",
+    "name": "2ONE 96.1",
+    "groups": "Hits,Urban",
+    "url": "https://28793.live.streamtheworld.com/ARN_CADAAAC/HLS/playlist.m3u8",
+    "logo": "https://www.radio.net/300/2one.png?version=3a73c6e7f6d71cb18f3b25ac89e79edf",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10283",
+    "name": "98.8 Kiss FM Urban Beats",
+    "groups": "Radio,Urban",
+    "url": "http://topradio-stream21.radiohost.de/kissfm-urbanbeats_mp3-128?ref=internetradio&amsparams=internetradio&listenerrmid=31363430313038333130-323030313a313966303a363830313a313964373a353430303a3266663a666537313a62646237-3532353834-53747265616d436865636b426f742f302e312e30",
+    "logo": "http://www.kissfm.de/_nuxt/icons/icon_64.be8y2280000.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "15693",
+    "name": "AFN Bahrain 106.3",
+    "groups": "Hits,Top 40,Urban",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BHN_SC",
+    "logo": "http://www.afneurope.net/portals/100/Images/Bahrain_AFN360Revamped-01.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "13961",
+    "name": "Baotou Urban and Rural Radio",
+    "groups": "Urban,Radio",
+    "url": "https://lhttp.qingting.fm/live/1892/64k.mp3",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtNWAwjkc38pijWiULk5gkLOBc7QauU3gTk4VgwHcSGZhQvaqzKRvGVn_aK4rKvduRZPw&usqp=CAU",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "13962",
+    "name": "Baotou Urban and Rural Radio",
+    "groups": "Urban,Radio",
+    "url": "https://lhttp.qingting.fm/live/21259/64k.mp3",
+    "logo": "https://bkimg.cdn.bcebos.com/pic/b8014a90f603738d28054f7abc1bb051f819ec1f?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxMTY=,g_7,xp_5,yp_5",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "13963",
+    "name": "Baotou Urban and Rural Radio",
+    "groups": "Urban,Radio",
+    "url": "https://lhttp.qingting.fm/live/1889/64k.mp3",
+    "logo": "https://bkimg.cdn.bcebos.com/pic/b8014a90f603738d28054f7abc1bb051f819ec1f?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxMTY=,g_7,xp_5,yp_5",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "13964",
+    "name": "Baotou Urban and Rural Radio",
+    "groups": "Urban,Radio",
+    "url": "https://lhttp.qingting.fm/live/1891/64k.mp3",
+    "logo": "https://bkimg.cdn.bcebos.com/pic/b8014a90f603738d28054f7abc1bb051f819ec1f?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxMTY=,g_7,xp_5,yp_5",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "6681",
+    "name": "Bobar Radio 104.7",
+    "groups": "Contemporary,Urban",
+    "url": "http://94.130.11.28:9010/stream/1/",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmaH6D0vp9xAGtFVH7TdiCLRJ0kbhgKFTPOA&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "15151",
+    "name": "Changchun Urban Music Radio 99.6",
+    "groups": "Urban,Music,Radio",
+    "url": "http://lhttp.qingting.fm/live/5015/64k.mp3",
+    "logo": "https://pic.qingting.fm/2020/0410/20200410092049.jpeg!200",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "14115",
+    "name": "Dalian Urban Voice 99.7",
+    "groups": "Urban",
+    "url": "http://lhttp.qingting.fm/live/1086/64k.mp3",
+    "logo": "http://imagev2.xmcdn.com/storages/9ebd-audiofreehighqps/94/D8/GMCoOSMGmaOyAACfIQF3r7Qt.jpg!op_type=5&upload_type=cover&device_type=ios&name=small",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10628",
+    "name": "DEFJAY Urban",
+    "groups": "Urban",
+    "url": "http://icepool.silvacast.com/DEFJAYcom.mp3",
+    "logo": "http://www.defjay.de/wp-content/uploads/2016/07/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8511",
+    "name": "Fréquence3 Urban",
+    "groups": "French,Urban",
+    "url": "https://frequence3.net-radio.fr/frequence3urban-128.mp3",
+    "logo": "https://api2.frequence3.net/static/img/stations/horizontal/frequence3urban.png",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8512",
+    "name": "Fréquence3 Urban",
+    "groups": "French,Urban",
+    "url": "http://ice.stream.frequence3.net/frequence3urban-128.mp3",
+    "logo": "https://api2.frequence3.net/static/img/stations/horizontal/frequence3urban.png",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8513",
+    "name": "Fréquence3 Urban",
+    "groups": "French,Urban",
+    "url": "http://rod.frequence3.net/frequence3urban.flac",
+    "logo": "https://api2.frequence3.net/static/img/stations/horizontal/frequence3urban.png",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "14893",
+    "name": "Fujian Urban Life Broadcasting 98.7",
+    "groups": "Urban",
+    "url": "http://satellitepull.cnr.cn/live/wx32fjdndsgb/playlist.m3u8",
+    "logo": "http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576569904366.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "7413",
+    "name": "Futuradio Urban",
+    "groups": "Urban",
+    "url": "https://futuradiourban.ice.infomaniak.ch/frurban-128.mp3?utm_source=communityradiobrowser&utm_medium=directory&utm_host=futuradiourban.ice.infomaniak.ch",
+    "logo": "http://futuradios.com/upload/design/5f23247207a0c0.75368504.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "7424",
+    "name": "Graffiti Urban Radio",
+    "groups": "Urban,Radio",
+    "url": "http://80.82.229.202/graffiti.mp3",
+    "logo": "http://www.urban-radio.com/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "4035",
+    "name": "Heart & Soul 92.1/1140 KRMP",
+    "groups": "Urban",
+    "url": "https://crystalout.surfernetwork.com:8001/KRMP_MP3",
+    "logo": "https://radiostationusa.fm/assets/image/radio/180/KRMP.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "15249",
+    "name": "Heilongjiang Urban Women's Radio 102.1",
+    "groups": "Urban,Radio",
+    "url": "http://stream3.hljtv.com/hljrd97/sd/live.m3u8",
+    "logo": "https://pic.qingting.fm/2014/0330/20140330112742795.jpg!200",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "15250",
+    "name": "Heilongjiang Urban Women's Radio 102.1 (HD Sound Quality)",
+    "groups": "Urban,Radio",
+    "url": "http://satellitepull.cnr.cn/live/wx32hljnxgb/playlist.m3u8",
+    "logo": "https://pic.qingting.fm/2014/0330/20140330112742795.jpg!200",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20845",
+    "name": "HOTT 95.3",
+    "groups": "Reggae,Urban",
+    "url": "https://ice64.securenetsystems.net/HOTT953",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSikVIB522vSMnqyisqZyCYzyZe6e6T2XWpQw&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20010",
+    "name": "La Urban Radio",
+    "groups": "Urban,Radio",
+    "url": "https://st1.urbanrevolution.es:8443/laurbanfm.mp3",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/LusstsFeKa.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "15035",
+    "name": "Liaoning Radio and Television Station Urban Radio",
+    "groups": "Radio,Urban",
+    "url": "http://lhttp.qingting.fm/live/1099/64k.mp3",
+    "logo": "https://m.mlzhongguo.com/uploads/image/06/15929242506872.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20917",
+    "name": "MNM UrbaNice",
+    "groups": "R'N'B,Soul,Urban",
+    "url": "http://icecast-servers.vrtcdn.be/mnm_urb-high.mp3",
+    "logo": "https://mnm.be/favicons/favicon-128.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17212",
+    "name": "Mzansi Urban Radio",
+    "groups": "Urban,Radio",
+    "url": "http://live.urbanza.co.za/radio/8000/mzansiurban?1600057209",
+    "logo": "http://www.mzansiurban.co.za/wp-content/uploads/2019/04/mzansiurban_icon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16435",
+    "name": "NJS Radio New Jack Swing",
+    "groups": "R'N'B,Urban",
+    "url": "http://162.244.80.106:11198/",
+    "logo": "http://njsradio.com/wp-content/uploads/2019/04/njsavatar.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8559",
+    "name": "NRJ 500 Urban Hits",
+    "groups": "Radio,Music,Urban,Hits",
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/58700/mp3_128.mp3",
+    "logo": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/173x173/NRJ-WR-500-Urban-Hits.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8586",
+    "name": "NRJ Urban Hits",
+    "groups": "Radio,Music,Urban,Hits",
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/30099/mp3_128.mp3",
+    "logo": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/173x173/NRJ-WR-Urban-Hits.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "6699",
+    "name": "Obican Radio",
+    "groups": "News,Talk,Urban",
+    "url": "https://stream.leftor.com/proxy/obicanin/stream/;stream.mp3",
+    "logo": "https://dvw7f7sqjk3ag.cloudfront.net/images/radio/63427.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10163",
+    "name": "Onlineradio Urban",
+    "groups": "Urban",
+    "url": "https://stream.0nlineradio.com/urban?ref=radiobrowser",
+    "logo": "https://i.ibb.co/qLG4MF3/urban.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21379",
+    "name": "Oz Urban Radio 87.8",
+    "groups": "R'N'B,Urban",
+    "url": "https://streaming.radio.co/s53f27469e/listen",
+    "logo": "https://nz.radio.net/300/ozarabradio.png?version=f02ba8bf78ecc6e90121e8cee74fcaf2",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "2815",
+    "name": "Play Radio Urban",
+    "groups": "Radio,Urban",
+    "url": "https://stream.playradio.rs:8443/urban.mp3",
+    "logo": "https://playradio.rs/images/playlogo.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21711",
+    "name": "R101 Urban Night",
+    "groups": "Urban",
+    "url": "http://icy.unitedradio.it/101UrbanNight.aac",
+    "logo": "http://www.r101.it/favicon_7.ico?v=1561631502000",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "6727",
+    "name": "Radio Dobre Vibracije",
+    "groups": "Talk,Urban",
+    "url": "https://ec6.yesstreaming.net:1700/stream",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1x53DhyRsUPMWtTIxMdPSwfSAJGvfcCRTgg&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "6732",
+    "name": "Radio Dzungla 3",
+    "groups": "Party,Urban",
+    "url": "https://cast2.name.ba/proxy/dzungla3/stream;",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYZCyels-3XAnc-6IfSa-448DI5oZzLLm5Sw&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "2049",
+    "name": "Radio Europa Plus Urban",
+    "groups": "Radio,Urban",
+    "url": "http://epdop.hostingradio.ru:8033/ep-urban128.mp3",
+    "logo": "https://europaplus.ru/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "6741",
+    "name": "Radio Grude",
+    "groups": "News,Talk,Urban",
+    "url": "http://radio.pa-hosting.de:1040/;",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh5nWx-5A4p22VMrR2dJqS9hMZJbHp5ZFz-g&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "11718",
+    "name": "radio SAW Urban Music",
+    "groups": "Radio,Urban,Music",
+    "url": "http://saw-stream20.radiohost.de/saw-urban_128?ref=radio-browser&amsparams=radio-browser&listenerrmid=31363430313035383737-323030313a313966303a363830313a313964373a353430303a3266663a666537313a62646237-3436313632-53747265616d436865636b426f742f302e312e30",
+    "logo": "http://www.radiosaw.de/sites/default/files/logo_0_1.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20977",
+    "name": "Radio Stad 107.8",
+    "groups": "R'N'B,Urban",
+    "url": "http://stream2.radiostad.org:8344/",
+    "logo": "https://www.radio.net/images/broadcasts/06/35/6823/1/c300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21006",
+    "name": "RTBF Tarmac",
+    "groups": "Hip Hop,Rap,Urban",
+    "url": "https://radios.rtbf.be/tarmac-128.mp3",
+    "logo": "https://assets.radioplayer.org/056/056210/600/600/kyeqxr80.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20607",
+    "name": "Star 88.7",
+    "groups": "Urban,World",
+    "url": "https://edge.iono.fm/xice/159_medium.aac",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpqAdruGcfMLde_LPywdkZcCp0usGOyfS_hw&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "14703",
+    "name": "Strait Voice Urban Sunshine 99.6",
+    "groups": "Urban",
+    "url": "http://lhttp.qingting.fm/live/21325/64k.mp3",
+    "logo": "http://www.vos.com.cn/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "14704",
+    "name": "Strait Voice Urban Sunshine 99.6",
+    "groups": "Urban",
+    "url": "http://www.vos.com.cn/live/liveSh/800k/tzwj_video.m3u8",
+    "logo": "https://www.mlzhongguo.com/uploads/image/08/15669785445325.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "14938",
+    "name": "Suzhou Urban Music Broadcasting 102.8",
+    "groups": "Urban,Music",
+    "url": "http://lhttp.qingting.fm/live/2803/64k.mp3",
+    "logo": "https://pic.qingting.fm/2016/0930/20160930031424.jpeg!200",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "7942",
+    "name": "Tendance Ouest Urban",
+    "groups": "French,Urban",
+    "url": "https://tendanceouest-urban.ice.infomaniak.ch/urban.mp3",
+    "logo": "http://www.tendanceouest.com/favicon.ico",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "14994",
+    "name": "Tibet Urban Life Broadcasting 98.0",
+    "groups": "Urban",
+    "url": "http://satellitepull.cnr.cn/live/wxxzdsshgb/playlist.m3u8",
+    "logo": "http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576572404852.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20662",
+    "name": "Urban Cafe Radio 106.6",
+    "groups": "Urban,Radio",
+    "url": "https://eu1.fastcast4u.com/proxy/urbancaferadio?mp=/1",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCOdggzyeqwjIbhdpZt60oPzi85ZiN2qkmNQ&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20221",
+    "name": "Urban con Ñ",
+    "groups": "Urban",
+    "url": "https://st1.urbanrevolution.es:8443/hispano",
+    "logo": "https://cdn-profiles.tunein.com/s282671/images/logog.jpg?t=3",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "7967",
+    "name": "Urban Funk",
+    "groups": "Urban",
+    "url": "http://urbanhitfunk.ice.infomaniak.ch/urbanhitfunk-128.mp3",
+    "logo": "https://cdn.webrad.io/images/logos/ecouterradioenligne-com/urban-hit-funk.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "7968",
+    "name": "Urban Hit",
+    "groups": "Urban,Hits",
+    "url": "http://urbanhitblack.ice.infomaniak.ch/urbanhitblack128.mp3",
+    "logo": "https://www.radio.net/images/broadcasts/2d/00/12419/3/c300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "7971",
+    "name": "Urban Hit à l'ancienne",
+    "groups": "Urban,Hits",
+    "url": "https://urbanhitalancienne.ice.infomaniak.ch/urbanhitalancienne.mp3",
+    "logo": "https://www.radio.fr/images/broadcasts/63/e8/39012/3/c300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "7966",
+    "name": "Urban Hit Afro",
+    "groups": "Urban,Hits",
+    "url": "https://urbanhitblack.ice.infomaniak.ch/urbanhitblack128.mp3",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/jktdj5drnwmy.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "7970",
+    "name": "Urban Hit Latino",
+    "groups": "Urban,Hits,Latin",
+    "url": "http://urbanhitlatino.ice.infomaniak.ch/urbanhitreggeaton-128.mp3",
+    "logo": "https://www.radio.net/images/broadcasts/98/bc/39011/3/c300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "7972",
+    "name": "Urban Hit Maroc",
+    "groups": "Urban,Hits",
+    "url": "https://urbanhitrai.ice.infomaniak.ch/urbanhitrai.mp3",
+    "logo": "https://cdn.onlineradiobox.com/img/l/6/64416.v10.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "7969",
+    "name": "Urban Hit Raï",
+    "groups": "Urban,Hits",
+    "url": "http://urbanhitrai.ice.infomaniak.ch/urbanhitrai.mp3",
+    "logo": "https://www.jecoutelaradioenligne.com/wp-content/uploads/logo-urban-hit-rai.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "7973",
+    "name": "Urban Hit Raï",
+    "groups": "Urban,Hits",
+    "url": "https://urbanhitus.ice.infomaniak.ch/urbanhitus-128.mp3",
+    "logo": "https://www.jecoutelaradioenligne.com/wp-content/uploads/logo-urban-hit-rai.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "7974",
+    "name": "Urban Hit Rap FR",
+    "groups": "Urban,Hits",
+    "url": "https://urbanhitrapfr.ice.infomaniak.ch/urbanhitrapfr-128.mp3",
+    "logo": "https://www.radio.net/images/broadcasts/20/27/39010/2/c300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5738",
+    "name": "Urban Praise",
+    "groups": "Urban",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/IM_3.mp3",
+    "logo": "https://www.moodyradio.org/siteassets/website-assets/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "511",
+    "name": "Urbana BA",
+    "groups": "R'N'B,Soul,Urban",
+    "url": "http://server.ohradio.com.ar:9610/",
+    "logo": "http://www.urbanaba.com.ar/wp-content/themes/urbanaba/images/urbanaLogo.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "14200",
+    "name": "Wancheng Urban Music Broadcasting 106.4",
+    "groups": "Urban,Music",
+    "url": "https://lhttp.qingting.fm/live/5022725/64k.mp3",
+    "logo": "https://kuasark.com/files/stations-logos/default3.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "14435",
+    "name": "Wuxi Urban Life Broadcasting 88.1",
+    "groups": "Urban",
+    "url": "http://lhttp.qingting.fm/live/2783/64k.mp3",
+    "logo": "http://www.thmz.com/t/1/70/images/favicon-32x32.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "14986",
+    "name": "Xining Urban Life Broadcasting 101.3",
+    "groups": "Urban",
+    "url": "http://lhttp.qingting.fm/live/5022268/64k.mp3",
+    "logo": "https://pic.qingting.fm/2015/0130/20150130180324417.jpg!200",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "14204",
+    "name": "Yichang Urban Life Broadcasting 100.6",
+    "groups": "Urban",
+    "url": "https://lhttp.qingting.fm/live/20567/64k.mp3",
+    "logo": "https://pic.qtfm.cn/2018/0209/20180209124958.jpeg!200",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "15127",
+    "name": "Yinchuan Urban Economic Broadcasting",
+    "groups": "Urban",
+    "url": "https://live.xmcdn.com/live/1073/64.m3u8",
+    "logo": "https://bkimg.cdn.bcebos.com/pic/a6efce1b9d16fdfaaf5178c05fc69b5494eef01fcdc1?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UyNzI=,g_7,xp_5,yp_5/format,f_auto",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20225",
+    "name": "Zona Electrónica Urban Revolution",
+    "groups": "Urban",
+    "url": "https://st1.urbanrevolution.es:8443/zonaelectronica",
+    "logo": "https://kuasark.com/files/stations-logos/zona-electronica-urban-revolution.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

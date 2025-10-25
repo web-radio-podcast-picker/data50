@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18505",
+    "name": "Michael Buble",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/michaelbuble/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/01c8961f-f443-4d2f-88ef-a8f37f70f8aa.jpg",
+    "artist": "Michael Buble",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18506",
+    "name": "Michael Buble - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/michaelbublehits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/51aaacbc-33ab-45e0-950b-a81efe15f1ef.jpg",
+    "artist": "Michael Buble",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

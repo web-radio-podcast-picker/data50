@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18465",
+    "name": "Lady A",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/ladyantebellum/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/0bc04fd4-96fe-49b9-b317-226c1a427dc7.jpg",
+    "artist": "Lady A",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

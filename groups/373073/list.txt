@@ -1,0 +1,2697 @@
+[
+  {
+    "id": "17786",
+    "name": "1.FM Absolute 70's Pop Radio",
+    "groups": "Radio,70s,Pop",
+    "url": "http://sc-70s.1.fm:8658/",
+    "logo": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17787",
+    "name": "1.FM Absolute 70's Pop Radio",
+    "groups": "Radio,70s,Pop",
+    "url": "http://strm112.1.fm/70s_mobile_mp3",
+    "logo": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3300",
+    "name": "181.FM Super 70'S",
+    "groups": "Radio,70s",
+    "url": "http://listen.livestreamingservice.com/181-70s_128k.mp3",
+    "logo": "http://www.181.fm/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3281",
+    "name": "181.FM Super 70s",
+    "groups": "Radio,70s",
+    "url": "http://listen.181fm.com/181-70s_128k.mp3",
+    "logo": "http://www.181.fm/images/playerlanding/181.FM.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10071",
+    "name": "1A 70er",
+    "groups": "70s",
+    "url": "http://1a-70er.radionetz.de/1a-70er.mp3",
+    "logo": "http://www.1aradio.com/images/favicon/favicon-32x32.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10072",
+    "name": "1A 70er",
+    "groups": "70s",
+    "url": "http://1a-70er.radionetz.de/1a-70er.aac",
+    "logo": "http://www.1aradio.com/images/favicon/favicon-32x32.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10214",
+    "name": "1A 70er Hits",
+    "groups": "70s,Hits",
+    "url": "http://saw-stream26.radiohost.de/saw-70er_128?ref=radio-browser-1a&amsparams=radio-browser-1a&listenerrmid=31363430303530363131-323030313a313966303a353030313a333261343a353430303a3266663a666533373a37356332-3438383930-53747265616d436865636b426f742f302e312e30",
+    "logo": "http://www.1a-webradio.de/sites/all/themes/webradio/btn/logo-70er.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10215",
+    "name": "1A 70er Hits",
+    "groups": "70s,Hits",
+    "url": "http://saw-de-hz-fal-stream07-cluster01.radiohost.de/saw-70er_48?ref=radiosure-1a&amsparams=radiosure-1a&listenerrmid=31363430313036313936-323030313a313966303a353030313a333261343a353430303a3266663a666533373a37356332-3533303736-53747265616d436865636b426f742f302e312e30",
+    "logo": "http://www.1a-webradio.de/sites/all/themes/webradio/btn/logo-70er.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21190",
+    "name": "5AU 1242",
+    "groups": "60s,70s,80s",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AUG_5AUAAC.aac",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/gpgu3vnzxzky.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3333",
+    "name": "70's on Dash",
+    "groups": "70s",
+    "url": "http://ice55.securenetsystems.net/DASH26",
+    "logo": "https://dashradio.com/wp-content/themes/dash-2.2.5/favicon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3334",
+    "name": "70s 80s Disco Funk ModernSoul Boogie",
+    "groups": "70s,80s,Disco",
+    "url": "https://discofunk.streamingmedia.it/usa",
+    "logo": "https://funky.radio/wp-content/uploads/2021/04/7080discofunk_logo_128.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3784",
+    "name": "70s 80s Disco Funk ModernSoul Boogie",
+    "groups": "70s,80s,Disco",
+    "url": "https://radiopanther.radiolebowski.com/play",
+    "logo": "http://classichits.radio/wp-content/uploads/2021/03/classichits.radio_logo.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3335",
+    "name": "70s Style Live",
+    "groups": "70s",
+    "url": "http://stream.zeno.fm/bc2sfc6qeg0uv?rj-ttl=5&rj-tok=AAABfd1UXpUAkDYS7KZ86TEpdQ",
+    "logo": "https://cdn1.jigidi.com/thumbs/HZE8HVAC/l",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16479",
+    "name": "Absolute Radio 70s",
+    "groups": "Radio,70s",
+    "url": "https://edge-bauerall-01-gos2.sharp-stream.com/absolute70shigh.aac",
+    "logo": "https://planetradio.co.uk/tesla/static/favicons/absolute/apple-touch-icon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10341",
+    "name": "Antenne Bayern 70er Hits",
+    "groups": "Radio,Deutsch,70s,Hits",
+    "url": "http://s3-webradio.antenne.de/70er-hits/stream/aacp",
+    "logo": "https://ca.radio.net/images/broadcasts/57/c5/127918/1/c300.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "6899",
+    "name": "Baku Retro 93.3",
+    "groups": "60s,70s,80s",
+    "url": "http://5.191.241.101:8000/bakuretrofm",
+    "logo": "https://fmcube.net/images/stations/64f1e8292b2cf.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3675",
+    "name": "Big R Radio 70s",
+    "groups": "Radio,70s",
+    "url": "http://bigrradio-edge1.cdnstream.com/5182_128",
+    "logo": "http://www.bigrradio.com/image/favicon/apple-touch-icon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3674",
+    "name": "Big R Radio 70s and 80s Pop Mix",
+    "groups": "Radio,70s,80s,Pop,Mix",
+    "url": "http://bigrradio.cdnstream1.com/5181_128",
+    "logo": "http://www.bigrradio.com/image/favicon/apple-touch-icon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9137",
+    "name": "Capao 90.7",
+    "groups": "70s,80s,90s",
+    "url": "https://cast4.audiostream.com.br:2656/mp3",
+    "logo": "https://play-lh.googleusercontent.com/1D8qx_h_svve2_0SSai_yYhJX7kfri9LWa6W00u4ID-1hTDYyQLfh95ZRGS6fbjvpvE",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8059",
+    "name": "Chante France 70's",
+    "groups": "French,70s",
+    "url": "https://chantefrance70s.ice.infomaniak.ch/chantefrance70s-128.mp3",
+    "logo": "http://www.chantefrance.com/public/img/logo.png",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18807",
+    "name": "Classica FM 106.9",
+    "groups": "70s,80s,90s",
+    "url": "http://classicafm.scbbs.net:8000/;",
+    "logo": "https://lh6.googleusercontent.com/proxy/jaYZ1M80TDR_zX7T8lu5f6fg9uAzWPFqq5I9-ctCSjh6tHxYODuXcA1T7pCSocaDO_QCF6AhF6yQuZvxH_Zf_tVDFRIt35jluLZd3rGrjcK1O2KEPGxaKQ",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "12510",
+    "name": "Club Music Radio 70s 80s 90s.",
+    "groups": "Music,Radio,70s,80s",
+    "url": "http://cmr-hosting.com:8030/stream?type=http&nocache=773949",
+    "logo": "https://clubmusic-1.com/wp-content/uploads/2018/01/cropped-FAV-icon-CMR-180x180.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20876",
+    "name": "De Jukebox",
+    "groups": "50s,60s,70s",
+    "url": "http://s35.myradiostream.com:14472/",
+    "logo": "https://www.allradio.net/500/bb4bNPROFUa0Kzpxs9Apt.webp",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9166",
+    "name": "Energia Retrô",
+    "groups": "70s,80s,90s",
+    "url": "http://stream.zeno.fm/qez1mu8dys8uv?rj-ttl=5&rj-tok=AAABfd5EBHQAV3s8rbgfXahspg",
+    "logo": "https://i.scdn.co/image/ab67616d0000b2732868e7bc98f197750860f259",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10773",
+    "name": "FluxFM 70s Der 70er Channel",
+    "groups": "70s",
+    "url": "http://fluxfm.streamabc.net/flx-70er-mp3-320-4383769?sABC=61p20n56%230%23r4880qrn6s01nn6n263q843o4n00pqq9%23nhqvb&amsparams=playerid:audio;skey:1640106582",
+    "logo": "https://i.scdn.co/image/ab67706c0000da849d37dd221d8aa1b35c545057",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10774",
+    "name": "FluxFM 70s Der 70er Channel",
+    "groups": "70s",
+    "url": "http://fluxfm.streamabc.net/flx-70er-mp3-128-3928273?sABC=61p13nnp%230%23r4880qrn6s01nn6n263q843o4n00pqq9%23nhqvb&amsparams=playerid:audio;skey:1640053420",
+    "logo": "https://i.scdn.co/image/ab67706c0000da849d37dd221d8aa1b35c545057",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10775",
+    "name": "FluxFM 70s Der 70er Channel",
+    "groups": "70s",
+    "url": "http://fluxfm.streamabc.net/flx-70er-aacplus-64-5805170?sABC=61p1sr8q%230%232qqpnss01895rqr0s8oq129o03s183o0%23nhqvb&amsparams=playerid:audio;skey:1640103565",
+    "logo": "https://i.scdn.co/image/ab67706c0000da849d37dd221d8aa1b35c545057",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20886",
+    "name": "Gaveromroep Deerlijk 106.4",
+    "groups": "70s,80s,90s",
+    "url": "http://s43.myradiostream.com:18192/",
+    "logo": "http://gaveromroep.be/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16724",
+    "name": "Heart 70s",
+    "groups": "70s",
+    "url": "https://media-ssl.musicradio.com/Heart70sMP3",
+    "logo": "https://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "4049",
+    "name": "HitsRadio 70s Rock",
+    "groups": "70s",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/977_CLASSROCK.mp3",
+    "logo": "https://www.hitsradio.com/img/default/hitsradio.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "13429",
+    "name": "inetmusic.ca The Big 70's",
+    "groups": "70s",
+    "url": "http://s3.free-shoutcast.com:18172/",
+    "logo": "http://www.inetmusic.ca/uploads/1/1/9/9/119994470/edited/new-big-70s-banner.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "11107",
+    "name": "Laut.FM 1 Hits 70s",
+    "groups": "Radio,Hits,70s",
+    "url": "http://1-hits70s.stream.laut.fm/1-hits70s?t302=2021-12-21_15-42-37&uuid=b6367382-f5aa-4f49-bf8b-70ab84345f80",
+    "logo": "https://assets.laut.fm/7cf13f30167292a19c8b235e15b1a101?t=_640x640",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10169",
+    "name": "laut.fm 1000 70er",
+    "groups": "Radio,70s",
+    "url": "http://100070er.stream.laut.fm/100070er",
+    "logo": "https://assets.laut.fm/64bb89d838cc5fc3ade86f06d2a5e90f?t=_120x120",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10170",
+    "name": "laut.fm 1000 70er",
+    "groups": "Radio,70s",
+    "url": "https://100070er.stream.laut.fm/100070er",
+    "logo": "https://assets.laut.fm/64bb89d838cc5fc3ade86f06d2a5e90f?t=_120x120",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "4917",
+    "name": "Love Radio Only Love Songs 70s 80s 90s",
+    "groups": "Love,Radio,Songs,70s,80s,90s",
+    "url": "https://loveradio.streamingmedia.it/usa",
+    "logo": "https://love.radio/loveradio_logo.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "4918",
+    "name": "Love Radio Only Love Songs 70s 80s 90s",
+    "groups": "Love,Radio,Songs,70s,80s,90s",
+    "url": "http://shoutcast3.streamingmedia.it:3162/",
+    "logo": "https://loveradio.streamingmedia.it/loveradiologo.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5000",
+    "name": "My70sRadio",
+    "groups": "70s",
+    "url": "http://usa14.fastcast4u.com:5132/stream",
+    "logo": "http://my70sradio.com/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16830",
+    "name": "Nation 70s",
+    "groups": "70s",
+    "url": "http://listen-nation.sharp-stream.com/nationradio70s.mp3?ref=RF",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/KLFgFRrzAV.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20931",
+    "name": "Nostalgie Vlaanderen",
+    "groups": "70s,80s,90s,French",
+    "url": "https://22193.live.streamtheworld.com:443/NOSTALGIEWHATAFEELING.mp3?dist=radiobrowser",
+    "logo": "https://nl.nostalgie.be/favicon-32x32.png",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20932",
+    "name": "Nostalgie+",
+    "groups": "60s,70s,80s",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAF6070.mp3",
+    "logo": "https://media.ngroup.be/IMAGE/IMAGE-S1-00009/16625-cover-nostalgie.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20933",
+    "name": "Nostalgie+",
+    "groups": "60s,70s,80s",
+    "url": "http://streamingp.shoutcast.com/nostaplus-mp3",
+    "logo": "https://media.ngroup.be/IMAGE/IMAGE-S1-00009/16625-cover-nostalgie.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9964",
+    "name": "ON Radio 70s",
+    "groups": "Radio,70s",
+    "url": "http://0n-70s.radionetz.de/0n-70s.aac",
+    "logo": "http://www.0nradio.com/images/favicon/mstile-144x144.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9965",
+    "name": "ON Radio 70s",
+    "groups": "Radio,70s",
+    "url": "http://0n-70s.radionetz.de/0n-70s.mp3",
+    "logo": "http://www.0nradio.com/images/favicon/mstile-144x144.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10127",
+    "name": "Onlineradio 70s",
+    "groups": "70s",
+    "url": "https://stream.0nlineradio.com/70s?ref=radiobrowser",
+    "logo": "https://www.radio.net/images/broadcasts/f3/8d/116074/2/c300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8096",
+    "name": "Oui FM Rock 70's",
+    "groups": "Radio,70s",
+    "url": "https://ouifmrock70s.ice.infomaniak.ch/ouifmseventies.mp3",
+    "logo": "https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/GlXr8ww38P/vignette.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20849",
+    "name": "Q100.7",
+    "groups": "50s,60s,70s",
+    "url": "https://ssl.surfmusic.de/s.php?s=http://108.178.16.190:8000/1007fm.mp3?1712269467",
+    "logo": "https://www.cbc.bb/wp-content/uploads/2022/12/Q-FM-LOGO.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20947",
+    "name": "Radio AKTIEF! 105.2",
+    "groups": "70s,80s,90s",
+    "url": "http://www.clubfmserver.be:8000/aktief.mp3",
+    "logo": "https://thumbnailer.mixcloud.com/unsafe/164x164/profile/1/3/1/7/c781-7872-420c-9c0e-fddf59d61b33",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9310",
+    "name": "Radio Bons Tempos",
+    "groups": "70s,80s,90s,French",
+    "url": "https://server02.ouvir.radio.br:8050/stream?1609720768800",
+    "logo": "https://img.radios.com.br/radio/lg/radio37027_1516218896.jpg",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20955",
+    "name": "Radio Contact 102.2/102.0/104.7",
+    "groups": "70s,Songs",
+    "url": "http://audiostream.rtl.be/contactfr",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/c/ce/Radiocontact.gif",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "430",
+    "name": "Radio Infinity 101.5",
+    "groups": "70s,80s,90s",
+    "url": "https://sonic.dattalive.com/8192/stream",
+    "logo": "https://thumbs.subefotos.com/634f3edbcae10d0bd98fe2649e4ce896o.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20970",
+    "name": "Radio Music Sambre 105.8",
+    "groups": "70s,80s,Pop,French",
+    "url": "http://radiomusicsambre.ice.infomaniak.ch/radiomusicsambre-128.mp3",
+    "logo": "http://www.radiomusicsambre.be/medias/site/mobilefavicon/logo-music-sambre-1.png?fx=c_114_114",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20973",
+    "name": "Radio Plus Gent 107.7",
+    "groups": "70s,80s,90s",
+    "url": "http://live.radiostudio.be/plus",
+    "logo": "http://www.radioplusgent.be/images/logo.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "11706",
+    "name": "radio SAW 70er",
+    "groups": "Radio,70s",
+    "url": "http://saw-de-hz-fal-stream09-cluster01.radiohost.de/saw-70er_128",
+    "logo": "http://www.radiosaw.de/sites/default/files/logo_0_1.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20980",
+    "name": "Radio Tamara",
+    "groups": "70s,80s,90s",
+    "url": "http://audiostreamen.nl:8006/",
+    "logo": "http://www.radiotamara.be/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "2700",
+    "name": "Radio Zvezda 95.6",
+    "groups": "60s,70s,Culture",
+    "url": "https://zvezda-radio-rzv.mediacdn.ru/radio/zvezda/zvezda_128",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREzXmcCsIH9pepOLa9WGMsAIhZju3wMuX25Q&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "13502",
+    "name": "RDMIX 70s Golden Hits",
+    "groups": "70s,Hits",
+    "url": "https://maggie.torontocast.com:2020/stream/rdmix70sgoldenhits",
+    "logo": "https://radiodimensionemix.torontocast.stream/wp-content/uploads/2021/03/RDMIX-70S-GOLDEN-HITS_OK-300x300.png ",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16220",
+    "name": "RMF 70s",
+    "groups": "70s",
+    "url": "http://31.192.216.7/70S",
+    "logo": "https://www.rmfon.pl/img/logo.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "11904",
+    "name": "RPR1 70er Rock",
+    "groups": "70s",
+    "url": "https://streams.rpr1.de/rpr-70errock-128-mp3?usid=0-0-H-M-D-60",
+    "logo": "https://cdn.rpr1.de/sites/default/files/thumbnails/image/70er_Rock_agg_300x300.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20993",
+    "name": "RTBF Classic 21 70's",
+    "groups": "70s,Rock",
+    "url": "https://radios.rtbf.be/wr-c21-70-128.mp3",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/SDf9XDAGvL.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21008",
+    "name": "RTBF Viva+",
+    "groups": "60s,70s,Oldies",
+    "url": "https://radios.rtbf.be/vivaplus-128.mp3",
+    "logo": "https://www.static.rtbf.be/radio/vivacite/ico/favicon-vivacite-32x32.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10195",
+    "name": "RTL 60er & 70er 104.6",
+    "groups": "French,60s,70s",
+    "url": "http://rtlberlin.streamabc.net/rtlb-rtlgreatest-mp3-128-4229135?sABC=61p2256o%230%23r4880qrn6s01nn6n263q843o4n00pqq9%23enqvb-oebjfre.vasb&amsparams=playerid:radio-browser.info;skey:1640113515",
+    "logo": "http://www.104.6rtl.com/favicon.ico",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20629",
+    "name": "Salsotekaindo",
+    "groups": "60s,70s,80s",
+    "url": "https://stream-178.zeno.fm/734vqdhpha0uv",
+    "logo": "https://static2.mytuner.mobi/media/tvos_radios/9fazapzjbxy4.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9527",
+    "name": "Só Kakarecos Light",
+    "groups": "70s,Romantic",
+    "url": "http://sokakarecos.ddns.net:9020/light64",
+    "logo": "http://sokakarecos.com/images/logosokakarecosmenu.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5481",
+    "name": "SomaFM Left Coast 70s",
+    "groups": "70s",
+    "url": "http://ice4.somafm.com/seventies-128-mp3",
+    "logo": "http://somafm.com/img/seventies120.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5482",
+    "name": "SomaFM Left Coast 70s",
+    "groups": "70s",
+    "url": "http://ice.somafm.com/seventies-320.mp3",
+    "logo": "http://somafm.com/img/seventies400.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5576",
+    "name": "Style Radio 70s",
+    "groups": "Radio,70s",
+    "url": "http://stream.zeno.fm/g3vbf5d0ts8uv?styleradio70s=&rj-tok=AAABfdroa6wA9Q1Vd1JN63c1Ww&rj-ttl=5",
+    "logo": "https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQruiq8QsMCxIOU3RhdGlvblByb2ZpbGUYgIDQ1v3O3wkMogEEemVubw/image/%3Fresize=500x500&v=1",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5605",
+    "name": "That 70's Channel",
+    "groups": "70s",
+    "url": "http://los.cdnstream.com/1101_128",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s123174q.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5606",
+    "name": "That 70's Station",
+    "groups": "70s",
+    "url": "http://s1.nexuscast.com:8137/listen.pls",
+    "logo": "http://heartbeatofflagler.com/images/t7s_002.gif",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "13527",
+    "name": "The Lynx Super 70s",
+    "groups": "70s",
+    "url": "http://70s-lynxradio.radioca.st/stream",
+    "logo": "http://cdn-profiles.tunein.com/s49608/images/logoq.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "12114",
+    "name": "Toms Club 70s",
+    "groups": "70s",
+    "url": "http://151.80.43.143:8000/.mp3",
+    "logo": "http://myhitmusic.de/wp-content/uploads/2016/03/TOMS-70s-CLUB-3.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9548",
+    "name": "Venenos do Rock",
+    "groups": "60s,70s,Oldies",
+    "url": "http://stream.zeno.fm/dy417tqqmd0uv?rj-ttl=5&rj-tok=AAABfdr1RHEAcRIXgT67pA8n9Q",
+    "logo": "https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQvLi93wgMCxIOU3RhdGlvblByb2ZpbGUYgIDQooqkgAoMogEEemVubw/image/%3Fresize=500x500&v=1",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9549",
+    "name": "Venenos Psicodélicos",
+    "groups": "60s,70s,Psychedelic",
+    "url": "http://stream.zeno.fm/c5bc53qc3k0uv?rj-ttl=5&rj-tok=AAABfdom0-AA3t5HNVYO2lrU4g",
+    "logo": "https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQvLi93wgMCxIOU3RhdGlvblByb2ZpbGUYgIDQ0ZL8iQkMogEEemVubw/image/%3Fresize=500x500&v=1",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21468",
+    "name": "Vintage 87.8 FM",
+    "groups": "60s,70s,80s",
+    "url": "https://stream.radio.co/sd60e90ab1/listen",
+    "logo": "https://vintagefm.com.au/wp-content/uploads/2019/10/Vintage-Radio-Blue-small.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18867",
+    "name": "WKM Radio 91.5",
+    "groups": "70s,80s,90s",
+    "url": "https://mdstrm.com/audio/5df7cf305396b836ef541c12/live.m3u8",
+    "logo": "https://img.radios.com.br/radio/lg/radio9810_1700147227.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "12192",
+    "name": "Wunschradio.fm 70er",
+    "groups": "70s",
+    "url": "http://mp3.wunschradio.de/wunschradio-70er.mp3",
+    "logo": "http://wunschradio.de/images/seitenelemente/favicon180.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21053",
+    "name": "Zoe 104.9/107.9",
+    "groups": "60s,70s,Oldies",
+    "url": "http://streams.movemedia.eu:8000/zoefmmp3",
+    "logo": "https://static-media.streema.com/media/cache/66/fe/66fe6fb22c9442318963e7c3ef73f652.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21054",
+    "name": "Zoe 104.9/107.9",
+    "groups": "60s,70s,Oldies",
+    "url": "https://icecast.movemedia.be/zoe128",
+    "logo": "https://static-media.streema.com/media/cache/66/fe/66fe6fb22c9442318963e7c3ef73f652.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

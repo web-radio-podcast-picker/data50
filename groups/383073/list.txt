@@ -1,0 +1,7387 @@
+[
+  {
+    "id": "264",
+    "name": "@twitradioo",
+    "groups": "80s,Oldies",
+    "url": "http://s2.netradiofm.com:6338/",
+    "logo": "http://www.twitradioo.com/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17785",
+    "name": "1.FM A List 80s",
+    "groups": "Radio,80s",
+    "url": "http://strm112.1.fm/back280s_mobile_mp3",
+    "logo": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17798",
+    "name": "1.FM All Euro 80's Radio",
+    "groups": "Radio,80s",
+    "url": "http://strm112.1.fm/80s_90s_mobile_mp3",
+    "logo": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17836",
+    "name": "1.FM Magic 80 Radio",
+    "groups": "Radio,80s",
+    "url": "http://strm112.1.fm/magic80_mobile_mp3",
+    "logo": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "12887",
+    "name": "100 Greatest of The 80s",
+    "groups": "80s",
+    "url": "https://maggie.torontocast.com:2020/stream/100greatestofthe80s",
+    "logo": "https://100-greatest-network.torontocast.stream/wp-content/uploads/2021/07/100-GREATEST-80S_LOGO_512-300x300.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8063",
+    "name": "100%Radio 80",
+    "groups": "French,80s",
+    "url": "http://100radio-80.ice.infomaniak.ch/100radio-80-128.mp3",
+    "logo": "http://www.centpourcent.com/uploads/flux/image-desktop/100---80.png",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19865",
+    "name": "1000 HITS 80s",
+    "groups": "Hits,80s",
+    "url": "http://c2.auracast.net:8048/stream",
+    "logo": "https://1000hits80s.eu/wp-content/uploads/2017/10/cropped-1000Hits80s_300x300-270x270.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3063",
+    "name": "100hitz The Mix 80s 90s & Today's Hits",
+    "groups": "Mix,80s,90s,Hits",
+    "url": "https://pureplay.cdnstream1.com/6038_128.mp3",
+    "logo": "https://100hitz.com/wp-content/uploads/2018/07/favicon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10188",
+    "name": "101FM 80s",
+    "groups": "80s",
+    "url": "http://0-2480erpoprock.stream.laut.fm/0-24_80er_pop_rock?t302=2021-12-20_23-21-19&uuid=19e7ecfc-4c4b-48b4-8c70-6538e974921d",
+    "logo": "http://is4.mzstatic.com/image/thumb/Purple5/v4/37/65/d4/3765d408-7cb4-477d-9332-4be06cf86310/source/1200x630bb.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3199",
+    "name": "113 fm 80's Pop Soft Rock",
+    "groups": "Radio,80s,Pop",
+    "url": "http://113fm.cdnstream1.com/1771_128",
+    "logo": "https://static.wixstatic.com/media/143966_38c4960b73e9465b9c4b6e2b0b4e01c0%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/143966_38c4960b73e9465b9c4b6e2b0b4e01c0%7Emv2.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3200",
+    "name": "113 fm Awesome 80's",
+    "groups": "Radio,80s",
+    "url": "http://113fm.cdnstream1.com/1719_128",
+    "logo": "https://static.wixstatic.com/media/143966_7ef3670dd317427ca411a208099de715%7Emv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/143966_7ef3670dd317427ca411a208099de715%7Emv2.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3225",
+    "name": "181.FM 80's Country",
+    "groups": "Radio,80s,Country",
+    "url": "http://listen.181fm.com/181-80scountry_128k.mp3",
+    "logo": "http://www.181.fm/images/playerlanding/181.FM.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3226",
+    "name": "181.FM 80's HairBand",
+    "groups": "Radio,80s",
+    "url": "http://listen.181fm.com/181-hairband_128k.mp3",
+    "logo": "http://www.181.fm/images/playerlanding/181.FM.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3231",
+    "name": "181.FM Awesome 80's",
+    "groups": "Radio,80s",
+    "url": "http://listen.181fm.com/181-awesome80s_128k.mp3",
+    "logo": "http://www.181.fm/images/playerlanding/181.FM.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10073",
+    "name": "1A 80er",
+    "groups": "80s",
+    "url": "http://1a-80er.radionetz.de/1a-80er.aac",
+    "logo": "http://www.1aradio.com/images/favicon/favicon-32x32.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10074",
+    "name": "1A 80er",
+    "groups": "80s",
+    "url": "http://1a-80er.radionetz.de/1a-80er.mp3",
+    "logo": "http://www.1aradio.com/images/favicon/favicon-32x32.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10216",
+    "name": "1A 80er Hits",
+    "groups": "80s,Hits",
+    "url": "http://saw-stream29.radiohost.de/saw-80er_128?ref=radio-browser-1a&amsparams=radio-browser-1a&listenerrmid=31363430313036353739-323030313a313966303a353030313a333261343a353430303a3266663a666533373a37356332-3535333230-53747265616d436865636b426f742f302e312e30",
+    "logo": "http://www.1a-webradio.de/sites/all/themes/webradio/btn/logo-80er.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10217",
+    "name": "1A 80er Hits",
+    "groups": "80s,Hits",
+    "url": "http://saw-de-hz-fal-stream01-cluster01.radiohost.de/saw-80er_48?ref=radiosure-1a&amsparams=radiosure-1a&listenerrmid=31363430303533343837-323030313a313966303a363830313a313964373a353430303a3266663a666537313a62646237-3338303836-53747265616d436865636b426f742f302e312e30",
+    "logo": "https://www.1a-webradio.de/sites/all/themes/webradio/btn/logo-80er.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21190",
+    "name": "5AU 1242",
+    "groups": "60s,70s,80s",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AUG_5AUAAC.aac",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/gpgu3vnzxzky.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "12893",
+    "name": "70 80 90 Italia D'Autore",
+    "groups": "80s,Italian",
+    "url": "https://maggie.torontocast.com:2020/stream/708090italiadautore",
+    "logo": "https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2021-09-06/6c0563a4bb439ddd885e690af1987ba3.ico.png",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "12894",
+    "name": "70 80 90 Vibrazioni Rock Radio",
+    "groups": "80s,Radio",
+    "url": "https://maggie.torontocast.com:2020/stream/vibrazionirockradio",
+    "logo": "https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2021-09-06/ab1cf897abc8e06ed9c1557b028dce66.ico.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21527",
+    "name": "70 80 Disco Funk ModernSoul e Boogie",
+    "groups": "80s,Disco",
+    "url": "https://discofunk.streamingmedia.it/play",
+    "logo": "https://funky.radio/wp-content/uploads/2021/04/7080discofunk_logo_128.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21528",
+    "name": "70 80 Hits HQ",
+    "groups": "80s,Hits",
+    "url": "https://nr8.newradio.it:19574/stream",
+    "logo": "https://api.my-radios.com/images/thumb.php?countryCode=IT&name=29911-919072.png&size=200",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3334",
+    "name": "70s 80s Disco Funk ModernSoul Boogie",
+    "groups": "70s,80s,Disco",
+    "url": "https://discofunk.streamingmedia.it/usa",
+    "logo": "https://funky.radio/wp-content/uploads/2021/04/7080discofunk_logo_128.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3784",
+    "name": "70s 80s Disco Funk ModernSoul Boogie",
+    "groups": "70s,80s,Disco",
+    "url": "https://radiopanther.radiolebowski.com/play",
+    "logo": "http://classichits.radio/wp-content/uploads/2021/03/classichits.radio_logo.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "13575",
+    "name": "80 Houyinyuetai",
+    "groups": "80s",
+    "url": "http://lhttp.qingting.fm/live/20207761/64k.mp3",
+    "logo": "https://media.radiodeck.com/stations/5f74f2b3664ee8400841a0df/profile/606edba09175373112bdb158/xl.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10255",
+    "name": "80er",
+    "groups": "80s",
+    "url": "http://tuner.m1.fm/80er.mp3",
+    "logo": "http://m1.fm/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9914",
+    "name": "80er Radio Harmony",
+    "groups": "80s,Radio",
+    "url": "https://mp3.harmonyfm.de/harmonyfm/hqlivestream.aac",
+    "logo": "https://play-lh.googleusercontent.com/HWrD8Mode7hO-tEC5uE85-BkoU2Ac7h7d5LXPaEWPQSYR_1rVo-s73zTkUQKBFlHaF4",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10256",
+    "name": "80er-Revival",
+    "groups": "80s",
+    "url": "https://80er-revival.stream.laut.fm/80er-revival?t302=2021-12-21_03-04-16&uuid=77fe6e14-15a5-41d5-8723-37294a037978",
+    "logo": "https://www.radio.net/images/broadcasts/67/70/14276/1/c300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "2958",
+    "name": "80s Bylgjan",
+    "groups": "80s",
+    "url": "http://icecast.365net.is:8000/orb80s.aac",
+    "logo": "http://vefutvarp.visir.is/favicons/apple-touch-icon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3342",
+    "name": "80s Drive",
+    "groups": "80s",
+    "url": "http://stream.zeno.fm/td8tr7zzpp8uv?rj-ttl=5&rj-tok=AAABfd4Tc1UAb_g8OS0ui0IiXw",
+    "logo": "https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQv6Hk-QsMCxIOU3RhdGlvblByb2ZpbGUYgIDQn7DQowkMogEEemVubw/image/%3Fresize=500x500&v=1",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16572",
+    "name": "80s Eagle 107.0",
+    "groups": "80s",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM03AAC226_SC",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/JMbavdXun6.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17855",
+    "name": "80s Forever We Keep The 80s Alive",
+    "groups": "80s",
+    "url": "https://premium.shoutcastsolutions.com/radio/8050/256.mp3",
+    "logo": "https://www.80sforever.radio/wp-content/uploads/2019/05/80sFOREVER-Logo_Radio_Block2_cmyk.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16560",
+    "name": "80s Live",
+    "groups": "80s",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM03AAC226_SC?__80sradio__",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/gmtjfmbh44zx.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10257",
+    "name": "80s Mix Radio",
+    "groups": "80s,Mix,Radio",
+    "url": "https://80s-mix-radio.stream.laut.fm/80s-mix-radio",
+    "logo": "https://cdn.onlineradiobox.com/img/l/7/82797.v7.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3343",
+    "name": "80s Radio",
+    "groups": "80s,Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM03AAC226_SC?80sradio",
+    "logo": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/pw64rzwddmzz.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16573",
+    "name": "80s Soundtracks Radio",
+    "groups": "80s,Radio",
+    "url": "http://uk5.internet-radio.com:8256/stream",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s264062d.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10258",
+    "name": "80s-90s",
+    "groups": "80s",
+    "url": "https://80s-90s.stream.laut.fm/80s-90s?t302=2021-12-21_19-05-27&uuid=08bf4e87-f32e-4d6d-9883-afe29d697148",
+    "logo": "https://www.allradio.net/500/mV_x2bJ6WClXzvZGhbZkT.webp",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "691",
+    "name": "80smania",
+    "groups": "80s",
+    "url": "http://158.69.114.190:8024/stream",
+    "logo": "http://resources.live24.gr/resources/images/stations/b7f246d3-780f-4969-8d78-d2c1ec563917.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10274",
+    "name": "94.3 RS2 80's",
+    "groups": "80s",
+    "url": "http://topradio-de-hz-fal-stream01-cluster01.radiohost.de/rs2-80er_mp3-128?ref=internetradio&amsparams=internetradio&listenerrmid=31363430313133363136-326130333a343030303a33373a34323a633466653a346366663a666561373a38393431-3433313734-53747265616d436865636b426f742f302e312e30",
+    "logo": "http://www.rs2.de/_nuxt/icons/icon_64.bw0400g0000.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17172",
+    "name": "947 80s",
+    "groups": "80s",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/947_80S_SC",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s6400d.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16480",
+    "name": "Absolute Radio 80s",
+    "groups": "Radio,80s",
+    "url": "https://edge-bauerall-01-gos2.sharp-stream.com/absolute80shigh.aac",
+    "logo": "https://planetradio.co.uk/tesla/static/favicons/absolute/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3558",
+    "name": "All 80s Man!",
+    "groups": "80s",
+    "url": "http://ice64.securenetsystems.net/ALL80S",
+    "logo": "https://cdn.onlineradiobox.com/img/fblogo/9/7019.v13.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8303",
+    "name": "Allzic 80s",
+    "groups": "French,80s",
+    "url": "http://allzic08.ice.infomaniak.ch/allzic08.mp3",
+    "logo": "https://www.allzicradio.com/icon-normal.png",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17320",
+    "name": "Andy's 80s",
+    "groups": "80s",
+    "url": "http://lin1.san.fast-serv.com:9844/listen.pls",
+    "logo": "http://www.andys80s.com/images/andytape1234.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10342",
+    "name": "Antenne Bayern 80er Kulthits",
+    "groups": "Radio,Deutsch,80s",
+    "url": "http://s9-webradio.antenne.de/80er-kulthits/stream/aacp",
+    "logo": "https://static-media.streema.com/media/cache/11/08/11085c123b1e0e5a67a1c8ce0af960ed.jpg",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10343",
+    "name": "Antenne Bayern 80er Kulthits",
+    "groups": "Radio,Deutsch,80s",
+    "url": "http://s6-webradio.antenne.de/80er-kulthits",
+    "logo": "http://www.antenne.de/assets/icons/antenne-de/apple-touch-icon.png?v=3",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10372",
+    "name": "Antenne Bayern 80er Kulthits",
+    "groups": "Radio,Deutsch,80s",
+    "url": "http://s2-webradio.antenne.de/80er-kulthits.aac",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnT5IVgDBMGfq8cGNPrNWKBpgasZqpdH3OEbm-6yr-eStoKi8w7qS9sA",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10388",
+    "name": "Antenne Niedersachsen 80er",
+    "groups": "Radio,80s",
+    "url": "http://antnds.streamabc.net/ands-antnds80er-mp3-192-3144824?sABC=61p2205s%230%23r4880qrn6s01nn6n263q843o4n00pqq9%23yvahk&amsparams=playerid:linux;skey:1640112223",
+    "logo": "https://static.antenne.com/img/3808/882434/046000/o/480/480/2023_stream-visual_80er_1400x1400px.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10405",
+    "name": "Antenne Thüringen 80er",
+    "groups": "Radio,80s",
+    "url": "http://antenne-th.divicon-stream.net/antth_at80er_yoCy-mp3-192?sABC=61p222r8%230%232qqpnss01895rqr0s8oq129o03s183o0%23&amsparams=playerid:;skey:1640112872",
+    "logo": "http://www.antennethueringen.de//_fileadmin/img/favicon-32x32.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10426",
+    "name": "Arabella 80s",
+    "groups": "80s",
+    "url": "http://edge04.stream.radioarabella.de/radioarabella-80er/stream/mp3?aggregator=RDs24_80er_radioarabella_de",
+    "logo": "https://www.radio.net/images/broadcasts/71/e1/34914/5/c300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10427",
+    "name": "Arabella 80s",
+    "groups": "80s",
+    "url": "http://edge53.stream.radioarabella.de/radioarabella-80er/stream/mp3?aggregator=RDs24_80er_radioarabella_de",
+    "logo": "http://www.radioarabella.de/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "525",
+    "name": "Auckland 80s",
+    "groups": "80s",
+    "url": "https://streamer.radio.co/s81fc850fd/listen",
+    "logo": "http://www.auckland80s.com/uploads/1/1/9/0/119036082/android_orig.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3631",
+    "name": "Back to the 80's Radio",
+    "groups": "80s,Radio",
+    "url": "https://stream.loudspeaker.fm/radio/8030/channel_8",
+    "logo": "https://nocofm.s3.amazonaws.com/image/medium/Channel_8.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "6899",
+    "name": "Baku Retro 93.3",
+    "groups": "60s,70s,80s",
+    "url": "http://5.191.241.101:8000/bakuretrofm",
+    "logo": "https://fmcube.net/images/stations/64f1e8292b2cf.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "15294",
+    "name": "BBC 80s 107.0",
+    "groups": "80s",
+    "url": "http://stream.zeno.fm/hyvv0ya2es8uv",
+    "logo": "https://zenoimages.s3.us-west-001.backblazeb2.com/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICw2NS8gwoMCxIOU3RhdGlvblByb2ZpbGUYgICw2JfF2QkMogEEemVubw/images/logo",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10465",
+    "name": "BDJ Radio 80s & 90s Sound of Your Life",
+    "groups": "Radio,80s,90s",
+    "url": "https://bdjradio-80sand90ssoundofyourlife.stream.laut.fm/bdj_radio_-_80s_and_90s_sound_of_your_life?t302=2021-12-21_20-07-01&uuid=6b077dca-8893-4691-a89a-bfe956324196",
+    "logo": "http://www.bdjradio.com/assets/bdj-favicon-2.png?v=2",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3653",
+    "name": "Best Net Radio 80s Metal",
+    "groups": "Radio,80s",
+    "url": "http://bigrradio-edge1.cdnstream.com/5146_128",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s206297q.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10475",
+    "name": "Best of 80s",
+    "groups": "80s",
+    "url": "https://bestof80s.stream.laut.fm/best_of_80s",
+    "logo": "https://cdn.onlineradiobox.com/img/l/0/42610.v1.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10483",
+    "name": "Best of Rock.FM Zurück in die 80er",
+    "groups": "80s",
+    "url": "https://radio21.streamabc.net/radio21-80errock-mp3-256-6624232?sABC=61p2233r%230%23r4880qrn6s01nn6n263q843o4n00pqq9%23orfgbsebpx.sz&amsparams=playerid:bestofrock.fm;skey:1640112958",
+    "logo": "https://www.best-of-rock.fm/80rock/img/Cover.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3674",
+    "name": "Big R Radio 70s and 80s Pop Mix",
+    "groups": "Radio,70s,80s,Pop,Mix",
+    "url": "http://bigrradio.cdnstream1.com/5181_128",
+    "logo": "http://www.bigrradio.com/image/favicon/apple-touch-icon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3677",
+    "name": "Big R Radio 80s",
+    "groups": "Radio,80s",
+    "url": "http://bigrradio-edge1.cdnstream.com/5184_128",
+    "logo": "http://www.bigrradio.com/image/favicon/apple-touch-icon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3676",
+    "name": "Big R Radio 80s and 90s Pop Mix",
+    "groups": "Radio,80s,90s,Pop,Mix",
+    "url": "http://bigrradio.cdnstream1.com/5183_128",
+    "logo": "http://www.bigrradio.com/image/favicon/apple-touch-icon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3678",
+    "name": "Big R Radio 80s Lite",
+    "groups": "Radio,80s",
+    "url": "http://bigrradio.cdnstream1.com/5185_128",
+    "logo": "http://www.bigrradio.com/image/favicon/apple-touch-icon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3679",
+    "name": "Big R Radio 80s Metal",
+    "groups": "Radio,80s",
+    "url": "http://bigrradio.cdnstream1.com/5186_128",
+    "logo": "http://www.bigrradio.com/image/favicon/apple-touch-icon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "15286",
+    "name": "Bravo 80",
+    "groups": "80s",
+    "url": "http://stream.zeno.fm/hyvv0ya2es8uv",
+    "logo": "https://zeno.fm/static/icons/apple-icon-120x120.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3043",
+    "name": "C97.7 80's Hits",
+    "groups": "80s,Hits",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/977_80_SC",
+    "logo": "https://mytunein.com/images/logos/97780shitsmusicradio.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10558",
+    "name": "Cafe 80s FM",
+    "groups": "80s,Radio",
+    "url": "http://cafe80s.eu:8100/",
+    "logo": "http://www.cafe80s.info/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9137",
+    "name": "Capao 90.7",
+    "groups": "70s,80s,90s",
+    "url": "https://cast4.audiostream.com.br:2656/mp3",
+    "logo": "https://play-lh.googleusercontent.com/1D8qx_h_svve2_0SSai_yYhJX7kfri9LWa6W00u4ID-1hTDYyQLfh95ZRGS6fbjvpvE",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8060",
+    "name": "Chante France 80's",
+    "groups": "French,80s",
+    "url": "https://chantefrance80s.ice.infomaniak.ch/chantefrance80s-128.mp3",
+    "logo": "http://www.chantefrance.com/public/img/logo.png",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8524",
+    "name": "Chérie 80",
+    "groups": "French,80s",
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/30237/mp3_128.mp3",
+    "logo": "https://www.cheriefm.fr/uploads/assets/cherie/icons/apple-icon-120x120.png",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18807",
+    "name": "Classica FM 106.9",
+    "groups": "70s,80s,90s",
+    "url": "http://classicafm.scbbs.net:8000/;",
+    "logo": "https://lh6.googleusercontent.com/proxy/jaYZ1M80TDR_zX7T8lu5f6fg9uAzWPFqq5I9-ctCSjh6tHxYODuXcA1T7pCSocaDO_QCF6AhF6yQuZvxH_Zf_tVDFRIt35jluLZd3rGrjcK1O2KEPGxaKQ",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "12510",
+    "name": "Club Music Radio 70s 80s 90s.",
+    "groups": "Music,Radio,70s,80s",
+    "url": "http://cmr-hosting.com:8030/stream?type=http&nocache=773949",
+    "logo": "https://clubmusic-1.com/wp-content/uploads/2018/01/cropped-FAV-icon-CMR-180x180.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21312",
+    "name": "Coles Radio NSW",
+    "groups": "80s,90s,Pop",
+    "url": "http://coles.streaming.novaentertainment.com.au/nsw_act",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s233776d.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21313",
+    "name": "Coles Radio QLD",
+    "groups": "80s,90s,Pop",
+    "url": "http://coles.streaming.novaentertainment.com.au/qld",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s233776d.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20710",
+    "name": "Darksynth Radio",
+    "groups": "80s,Electro",
+    "url": "http://darksynthradio.stream.laut.fm/darksynthradio?t302=2021-12-21_05-16-32&uuid=74857a75-3061-41f3-9f14-39fd7cf338ba",
+    "logo": "https://static-media.streema.com/media/cache/4c/c9/4cc944100b85deadc5abc8d8f8438897.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "2016",
+    "name": "Discoteca 80",
+    "groups": "80s",
+    "url": "https://pub0302.101.ru:8443/stream/pro/aac/64/1?",
+    "logo": "https://101.ru/touch-icon-ipad.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18968",
+    "name": "Eldoradio 80s",
+    "groups": "80s",
+    "url": "http://shoutcast.rtl.lu/eldo80s",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Eldoradio.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9166",
+    "name": "Energia Retrô",
+    "groups": "70s,80s,90s",
+    "url": "http://stream.zeno.fm/qez1mu8dys8uv?rj-ttl=5&rj-tok=AAABfd5EBHQAV3s8rbgfXahspg",
+    "logo": "https://i.scdn.co/image/ab67616d0000b2732868e7bc98f197750860f259",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9169",
+    "name": "Estudio FM Flash Back",
+    "groups": "80s,Hits,Oldies",
+    "url": "http://stream.zeno.fm/f7p7wg20zf8uv?rj-ttl=5&rj-tok=AAABfd4vdiMA6SEq4QpqXZxYoQ",
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0oVsdTLrzNiKl3XFTA5I2TckkimCpGVTSOAKtIplGht2uDIy1Z1OSYJLK6RvIvUbAaG0fkk3yiwmgq0hmwRdz1wyjzDbt7PK6ANskAh1O9LYK3Ow9r91SKQA3CFRwxnrwKSSm5yKbuXnMVVc3GNhJ75MtT45k0f85OUCmVf3JyM1gxOY93FZkXAwQ2w/w381-h200/01.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20881",
+    "name": "Flash 88.4",
+    "groups": "80s,Pop,Songs",
+    "url": "http://flashfm.ice.infomaniak.ch/flashfm-128",
+    "logo": "https://groover-images.s3.eu-west-3.amazonaws.com/prod/influencer/0.flash-fm/profile_picture/200_200",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "2962",
+    "name": "Flashback 80s 101.5",
+    "groups": "80s",
+    "url": "http://www.radio.is:443/80flashback",
+    "logo": "http://flashback.is/img/channels/80s/channel.svg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10776",
+    "name": "FluxFM 80s Der 80er Channel",
+    "groups": "80s",
+    "url": "http://fluxfm.streamabc.net/flx-80er-mp3-320-9596107?sABC=61p1s275%230%23480403531qsn3q883o6q243r435924np%23fgernzf.syhksz.qr&amsparams=playerid:streams.fluxfm.de;skey:1640100469",
+    "logo": "https://www.fluxfm.de/wp-content/uploads/2016/11/80s_2_ohneclaim-250x250.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10777",
+    "name": "FluxFM 80s Der 80er Channel",
+    "groups": "80s",
+    "url": "http://fluxfm.streamabc.net/flx-80er-mp3-128-8386455?sABC=61p20n54%230%23r4880qrn6s01nn6n263q843o4n00pqq9%23syhksz.qr_jrocynlre&amsparams=playerid:fluxfm.de_webplayer;skey:1640106580",
+    "logo": "https://www.fluxfm.de/wp-content/uploads/2016/11/80s_2_ohneclaim-250x250.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10778",
+    "name": "FluxFM 80s Der 80er Channel",
+    "groups": "80s",
+    "url": "http://fluxfm.streamabc.net/flx-80er-aacplus-64-7776977?sABC=61p10n8q%230%23r4880qrn6s01nn6n263q843o4n00pqq9%23fgernzf.syhksz.qr&amsparams=playerid:streams.fluxfm.de;skey:1640041101",
+    "logo": "https://www.fluxfm.de/wp-content/uploads/2016/11/80s_2_ohneclaim-250x250.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "7389",
+    "name": "FM 80 Funky Music",
+    "groups": "Radio,80s,Music",
+    "url": "http://streamingV2.shoutcast.com/fm-80",
+    "logo": "https://www.fm80.fr/wafx_res/Images/0-230-Logo_FM_80_FUNKY_MUSIC.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8700",
+    "name": "Fun Radio 80's - 90's",
+    "groups": "Radio,80s,90s",
+    "url": "http://stream.funradio.sk:8000/80-90-128.mp3",
+    "logo": "http://www.funradio.sk/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20886",
+    "name": "Gaveromroep Deerlijk 106.4",
+    "groups": "70s,80s,90s",
+    "url": "http://s43.myradiostream.com:18192/",
+    "logo": "http://gaveromroep.be/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "4010",
+    "name": "GotRadio Rockin' 80's",
+    "groups": "80s",
+    "url": "http://pureplay.cdnstream1.com/6008_128.mp3",
+    "logo": "https://gotradio.com/wp-content/themes/roots-master/assets/img/logo.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16725",
+    "name": "Heart 80s",
+    "groups": "80s",
+    "url": "http://icecast.thisisdax.com/Heart80sMP3",
+    "logo": "http://heart.co.uk/assets_v4r/heart/img/favicon-196x196.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16726",
+    "name": "Heart 80s",
+    "groups": "80s",
+    "url": "https://media-ssl.musicradio.com/Heart80sMP3",
+    "logo": "https://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18871",
+    "name": "HitRadio Center 80's",
+    "groups": "80s",
+    "url": "http://stream3.radiocenter.si:8064/;stream/1",
+    "logo": "http://radiocenter.si/public/assets/dist/img/150_center.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20619",
+    "name": "Hits 100FM 100.9",
+    "groups": "80s,News",
+    "url": "https://audio-edge-ey5nr.ams.s.radiomast.io/f4b2dcfb-399c-4650-a64a-e4fb5b32717e",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdRQkYX4s2e1Kw47pFd0NuPY6Y6ZXKj-L3qQ&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "4050",
+    "name": "HitsRadio 80s Hits",
+    "groups": "80s,Hits",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/977_80.mp3",
+    "logo": "https://www.hitsradio.com/img/default/hitsradio.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8482",
+    "name": "Hotmix Radio 80",
+    "groups": "Radio,80s",
+    "url": "http://streaming.hotmix-radio.net/hotmixradio-80-128.mp3",
+    "logo": "http://www.hotmixradios.fr/images/logos/320/HOTMIXRADIO-80s.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9189",
+    "name": "Hunter 80s",
+    "groups": "80s,Hits",
+    "url": "https://live.hunter.fm/80s_high",
+    "logo": "https://cdn.hunter.fm/image/thumb/station/80s-first/1000x1000ht.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "13430",
+    "name": "inetmusic.ca The Big 80's",
+    "groups": "80s",
+    "url": "http://usa7.fastcast4u.com:5880/",
+    "logo": "http://www.inetmusic.ca/uploads/1/1/9/9/119994470/new-big-80s-banner_orig.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20896",
+    "name": "JOE",
+    "groups": "80s,90s,Oldies",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOE.mp3",
+    "logo": "https://cdn-profiles.tunein.com/s25741/images/logog.jpg?t=1",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20895",
+    "name": "JOE 80s & 90s",
+    "groups": "80s,90s,Deutsch",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOE_80S.mp3",
+    "logo": "https://www.radio.net/images/broadcasts/2c/00/116339/2/c300.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9780",
+    "name": "Karnaval 80S",
+    "groups": "80s",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SC094_SO1AAC.aac",
+    "logo": "https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/radio/artist/5YSQoL2yfy1SQ3Dr1E9eBD/en",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17435",
+    "name": "Keizerstad Radio 80s",
+    "groups": "Radio,80s",
+    "url": "http://server-06.stream-server.nl:8800/",
+    "logo": "https://images.streamitter.com/logos/QGSIX6.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "7157",
+    "name": "La Retro 80s Chile",
+    "groups": "Oldies,80s",
+    "url": "https://s2.radio.co:80/s9ecef4f68/listen",
+    "logo": "https://www.laretro.cl/img/cass2.svg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10171",
+    "name": "laut.fm 1000 80er",
+    "groups": "Radio,80s",
+    "url": "https://100080er.stream.laut.fm/100080er",
+    "logo": "https://assets.laut.fm/a7e20992b542fff492f9ff031f593cb8?t=_640x640",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "11110",
+    "name": "Laut.FM 80er Pop",
+    "groups": "Radio,80s,Pop",
+    "url": "https://80er.stream.laut.fm/80er?t302=2021-12-21_15-16-16&uuid=53047b8a-bba0-495e-b7a0-83e214c9388a",
+    "logo": "https://assets.laut.fm/949d21d32b4ce6723473cc1093811d85?t=_640x640",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "11117",
+    "name": "Laut.FM Best of 80's",
+    "groups": "Radio,80s",
+    "url": "https://bestof80s.stream.laut.fm/best_of_80s?t302=2021-12-21_10-18-03&uuid=2d6802d9-619b-4f0a-9f49-20f2c0fb79d4",
+    "logo": "https://assets.laut.fm/89cf3ac2b699793d448f86ff6a584455?t=_640x640",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20011",
+    "name": "Loca FM 80s",
+    "groups": "Radio,80s",
+    "url": "http://s02.fjperezdj.com:8075/live",
+    "logo": "https://www.locafm.com/assets/img/favicon/apple-icon-120x120.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "4917",
+    "name": "Love Radio Only Love Songs 70s 80s 90s",
+    "groups": "Love,Radio,Songs,70s,80s,90s",
+    "url": "https://loveradio.streamingmedia.it/usa",
+    "logo": "https://love.radio/loveradio_logo.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "4918",
+    "name": "Love Radio Only Love Songs 70s 80s 90s",
+    "groups": "Love,Radio,Songs,70s,80s,90s",
+    "url": "http://shoutcast3.streamingmedia.it:3162/",
+    "logo": "https://loveradio.streamingmedia.it/loveradiologo.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8114",
+    "name": "M Radio Années 80 et 90",
+    "groups": "Radio,French,80s",
+    "url": "http://mfmwr-010.ice.infomaniak.ch/mfmwr-010.mp3",
+    "logo": "http://mradio.fr/icon-normal.png",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "7502",
+    "name": "M2 80s",
+    "groups": "80s",
+    "url": "http://live.m2stream.fr/m280-128.mp3",
+    "logo": "https://static-media.streema.com/media/cache/44/74/4474ee4914a3ad27bfcc11a52cc51eef.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20746",
+    "name": "mala-tunes",
+    "groups": "00s,80s,90s",
+    "url": "http://mala-tunes.stream.laut.fm/mala-tunes?t302=2021-12-21_16-02-54&uuid=c6d7d8c0-c830-46a8-8b5b-a47063002fbf",
+    "logo": "https://online-radio.eu/logo/42/42877.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "4941",
+    "name": "Mason Dixon Generation 80s",
+    "groups": "80s",
+    "url": "http://cc.net2streams.com:8260/stream",
+    "logo": "http://is5.mzstatic.com/image/thumb/Purple/v4/81/28/5e/81285e6a-74d6-92b8-262f-84d836a2f90f/source/1200x630bb.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "7512",
+    "name": "Maxi 80",
+    "groups": "80s",
+    "url": "https://audio1.maxi80.com:443/",
+    "logo": "http://www.maxi80.com/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9253",
+    "name": "Musical 105.7",
+    "groups": "00s,80s,90s",
+    "url": "http://stm21.conectastm.com:6892/stream",
+    "logo": "http://radiomusical.net/wp-content/uploads/2018/04/cropped-logo_120_120-270x270.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "11423",
+    "name": "NORA 80er Radio",
+    "groups": "80s,Radio",
+    "url": "http://norawebstreams-stream23.radiohost.de/nora-80er_mp3-128?sabc=61p1442p%230%232qqpnss01895rqr0s8oq129o03s183o0%23ubzrcntr&amsparams=playerid:homepage;skey:1640055852&listenerrmid=31363430303535383532-326130333a343030303a33373a34323a633466653a346366663a666561373a38393431-3530323334-53747265616d436865636b426f742f302e312e30",
+    "logo": "http://www.norawebstreams.de/_nuxt/icons/icon_64.a8000000000.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "11424",
+    "name": "NORA 80er Stream",
+    "groups": "80s",
+    "url": "http://norawebstreams-stream22.radiohost.de/nora-80er_mp3-192?sabc=61p20621%230%232qqpnss01895rqr0s8oq129o03s183o0%23fgernzf.abenjrofgernzf.qr&amsparams=playerid:streams.norawebstreams.de;skey:1640105505&listenerrmid=31363430313035353035-326130333a343030303a33373a34323a633466653a346366663a666561373a38393431-3437323738-53747265616d436865636b426f742f302e312e30",
+    "logo": "http://aggregatorservice.loverad.io/wp-content/uploads/2018/10/nora_80er_600x600.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20928",
+    "name": "Nostalgie Belgique 80",
+    "groups": "80s,Pop,French",
+    "url": "https://25493.live.streamtheworld.com:443/NOSTALGIEWAF80.mp3",
+    "logo": "https://cdn-profiles.tunein.com/s268906/images/logog.png?t=1",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20929",
+    "name": "Nostalgie Extra New Wave",
+    "groups": "80s,New Wave,French",
+    "url": "https://22673.live.streamtheworld.com:443/NOSTALGIEWAFNEWWAVE.mp3",
+    "logo": "https://nl.nostalgie.be/radio-player/images/nostalgie-new-wave.jpg",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20931",
+    "name": "Nostalgie Vlaanderen",
+    "groups": "70s,80s,90s,French",
+    "url": "https://22193.live.streamtheworld.com:443/NOSTALGIEWHATAFEELING.mp3?dist=radiobrowser",
+    "logo": "https://nl.nostalgie.be/favicon-32x32.png",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20932",
+    "name": "Nostalgie+",
+    "groups": "60s,70s,80s",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAF6070.mp3",
+    "logo": "https://media.ngroup.be/IMAGE/IMAGE-S1-00009/16625-cover-nostalgie.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20933",
+    "name": "Nostalgie+",
+    "groups": "60s,70s,80s",
+    "url": "http://streamingp.shoutcast.com/nostaplus-mp3",
+    "logo": "https://media.ngroup.be/IMAGE/IMAGE-S1-00009/16625-cover-nostalgie.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "7548",
+    "name": "ODS Radio Années 80",
+    "groups": "Radio,French,80s",
+    "url": "http://ods-wr01.ice.infomaniak.ch/ods-wr01.mp3",
+    "logo": "https://www.odsradio.com/apple-touch-icon-120x120.png",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "7549",
+    "name": "ODS Radio Années 80",
+    "groups": "Radio,French,80s",
+    "url": "http://ods-wr01.ice.infomaniak.ch/ods-wr01.aac",
+    "logo": "http://www.odsradio.com/favicon.png",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9966",
+    "name": "ON Radio 80s",
+    "groups": "Radio,80s",
+    "url": "http://0n-80s.radionetz.de/0n-80s.aac",
+    "logo": "http://www.0nradio.com/images/favicon/mstile-144x144.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9967",
+    "name": "ON Radio 80s",
+    "groups": "Radio,80s",
+    "url": "http://0n-80s.radionetz.de/0n-80s.mp3",
+    "logo": "http://www.0nradio.com/images/favicon/mstile-144x144.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10128",
+    "name": "Onlineradio 80s",
+    "groups": "80s",
+    "url": "https://stream.0nlineradio.com/80s?ref=radiobrowser",
+    "logo": "https://i.ibb.co/qj15ST9/80s.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10129",
+    "name": "Onlineradio 80s Rock",
+    "groups": "80s",
+    "url": "https://stream.0nlineradio.com/80s-rock?ref=radiobrowser",
+    "logo": "https://i.ibb.co/31QbY3f/80s-rock.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "15738",
+    "name": "Open FM 80s Hits",
+    "groups": "Radio,80s,Hits",
+    "url": "https://stream.open.fm/3",
+    "logo": "http://open.fm/logo/200x200/3",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "15874",
+    "name": "OpenFM 80s Hits",
+    "groups": "Radio,80s,Hits",
+    "url": "http://stream.open.fm/3",
+    "logo": "http://open.fm/logo/200x200/3",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16114",
+    "name": "OpenFM Po Polsku 80",
+    "groups": "Radio,80s",
+    "url": "https://stream.open.fm/79",
+    "logo": "https://cdn.onlineradiobox.com/img/l/3/45773.v7.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "11451",
+    "name": "Ostseewelle 80er Hits",
+    "groups": "80s,Hits",
+    "url": "http://irmedia.streamabc.net/irm-osw80er-mp3-128-3475358?sABC=61p223pn%230%23480403531qsn3q883o6q243r435924np%23jro&amsparams=playerid:web;skey:1640113098",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ostseewelle_Logo.svg/200px-Ostseewelle_Logo.svg.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8097",
+    "name": "OÜI FM Rock 80's",
+    "groups": "French,Radio,80s",
+    "url": "https://ouifmrock80s.ice.infomaniak.ch/ouifmeighties.mp3",
+    "logo": "https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/6fo6l1uD2X/vignette.png",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "12810",
+    "name": "Oxygen The 80s Hits",
+    "groups": "80s,Hits",
+    "url": "https://oxygenmusic.hu:8443/oxygenthe80shits",
+    "logo": "https://oxygenmusic.hu/wp-content/uploads/2021/02/the_80_hits_web_cover.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "11484",
+    "name": "Plant 80s",
+    "groups": "80s",
+    "url": "https://planet80s.stream.laut.fm/planet80s?t302=2021-12-21_14-50-25&uuid=c9b1ad37-acfb-447c-b3b1-c98fe758ccb4",
+    "logo": "https://assets.laut.fm/10503a582f6e5af39292513ec29e89cc?t=_120x120",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "379",
+    "name": "Power Paraná 93.9",
+    "groups": "80s,90s,Hits",
+    "url": "https://player.xcast.com.br/proxy/7232/",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/cegeurgyaas2.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16873",
+    "name": "Pride Radio 80s",
+    "groups": "Radio,80s",
+    "url": "http://tachyon.shoutca.st:9237/stream",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s125540q.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "7588",
+    "name": "Puls'80s Magic Radio 80",
+    "groups": "Radio,80s",
+    "url": "http://212.83.185.113/magicradioAAC64.mp3",
+    "logo": "https://www.pulsradio.com/80/logo.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21740",
+    "name": "Radio 70 80 90",
+    "groups": "Radio,80s",
+    "url": "https://rblive80.it/radiobrand2/8354",
+    "logo": "https://www.radio708090.it/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21741",
+    "name": "Radio 80",
+    "groups": "Radio,80s",
+    "url": "https://sphera.fluidstream.eu/radio80.mp3",
+    "logo": "https://upload.wikimedia.org/wikipedia/it/1/1b/Radio80.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9275",
+    "name": "Rádio 80",
+    "groups": "80s,Pop",
+    "url": "http://104.247.221.130:9020/stream1",
+    "logo": "https://www.radio80fm.com.br/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21742",
+    "name": "Radio 80 Forever Young",
+    "groups": "Radio,80s",
+    "url": "http://nr11.newradio.it:9208/stream",
+    "logo": "http://www.radiottanta.com/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21743",
+    "name": "Radio 80 Forever Young",
+    "groups": "Radio,80s",
+    "url": "https://nr11.newradio.it:19208/stream?1600266195249",
+    "logo": "https://www.radiottanta.com/wp-content/uploads/2020/08/cropped-logo-negativo_Tavola-disegno-1-300x100.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20947",
+    "name": "Radio AKTIEF! 105.2",
+    "groups": "70s,80s,90s",
+    "url": "http://www.clubfmserver.be:8000/aktief.mp3",
+    "logo": "https://thumbnailer.mixcloud.com/unsafe/164x164/profile/1/3/1/7/c781-7872-420c-9c0e-fddf59d61b33",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8717",
+    "name": "Radio Beta Hity 80's a 90's",
+    "groups": "Radio,80s,90s",
+    "url": "http://109.71.67.102:8000/beta_80a90.mp3",
+    "logo": "https://beta.sk/wp-content/uploads/2020/08/cropped-beta-radio-logo-512-180x180.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9309",
+    "name": "Radio Boa Vista 96.5",
+    "groups": "80s,90s,Variety",
+    "url": "http://wz3.dnip.com.br/sc_boavi/sc_boavi.stream/playlist.m3u8",
+    "logo": "https://img.radios.com.br/radio/lg/radio10447_1439401380.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9310",
+    "name": "Radio Bons Tempos",
+    "groups": "70s,80s,90s,French",
+    "url": "https://server02.ouvir.radio.br:8050/stream?1609720768800",
+    "logo": "https://img.radios.com.br/radio/lg/radio37027_1516218896.jpg",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18890",
+    "name": "Radio Capris 80s",
+    "groups": "Radio,80s",
+    "url": "http://stream02.exit.si:8000/80?",
+    "logo": "https://www.radiocapris.si/data/images/favicon/apple-icon-120x120.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21874",
+    "name": "Radio Deejay 80",
+    "groups": "Radio,80s",
+    "url": "http://deejay_wr_01-lh.akamaihd.net/i/WebRadio1_1@315977/master.m3u8",
+    "logo": "https://cdn.gelestatic.it/deejay/www/2017/07/deejay_80-320x320.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "11577",
+    "name": "Radio Diefflen 80er",
+    "groups": "Radio,80s",
+    "url": "http://radiodiefflen80.stream.laut.fm/radiodiefflen80?t302=2021-12-21_00-38-26&uuid=02de50dd-50c3-41db-bd14-c5570af2b780",
+    "logo": "https://radiodiefflen.de/____impro/1/onewebmedia/logo_radiodiefflen.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "11581",
+    "name": "Radio Dresden 80er Kulthitz",
+    "groups": "Radio,80s",
+    "url": "http://streaming.radiodresden.de/radio-dresden_80er_192k_mp3",
+    "logo": "https://www.radiodresden.de/cms/tpl/slp/radiodresden_favicon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "11592",
+    "name": "Radio Erzgebirge 80er Kulthits",
+    "groups": "Radio,80s",
+    "url": "http://streaming.radioerzgebirge.de/radio-erzgebirge_80er_192k_mp3?listenerid=ae2db4a8782ab843b168ffb670e8e377&awparams=companionAds%3Atrue",
+    "logo": "https://cdn-profiles.tunein.com/s291224/images/logog.png?t=158819",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16041",
+    "name": "Radio Forever 80s",
+    "groups": "Radio,80s",
+    "url": "http://s1.slotex.pl:7134/",
+    "logo": "https://dvw7f7sqjk3ag.cloudfront.net/images/radio/51077.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9386",
+    "name": "Radio Hits 80",
+    "groups": "80s,Hits,Oldies",
+    "url": "http://stream.zeno.fm/n4ad115wm8quv?rj-ttl=5&rj-tok=AAABfd42nUwA8BlH1ZM-lAhHjQ",
+    "logo": "https://lh3.googleusercontent.com/wb-OCNutR5gYSZkPn3u4buV21lkPM117nX8_-LVUdnsAfglnYQLV6oddmQ2M9pgrgA=s180-rw",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "430",
+    "name": "Radio Infinity 101.5",
+    "groups": "70s,80s,90s",
+    "url": "https://sonic.dattalive.com/8192/stream",
+    "logo": "https://thumbs.subefotos.com/634f3edbcae10d0bd98fe2649e4ce896o.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21621",
+    "name": "Radio Italia Anni 80",
+    "groups": "Radio,Italian,80s",
+    "url": "https://icy.unitedradio.it/um016.mp3",
+    "logo": "http://www.unitedmusic.it/favicon_6.ico?v=1558694480000",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "11644",
+    "name": "Radio Lausitz 80er Kulthits",
+    "groups": "Radio,80s",
+    "url": "https://hermes.bcs-systems.de/radio-lausitz_80er_192k_mp3",
+    "logo": "https://webradio.radiolausitz.de/local/FB_80er_300x300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "11650",
+    "name": "Radio Leipzig 80er",
+    "groups": "Radio,80s",
+    "url": "https://hermes.bcs-systems.de/radio-leipzig_80er_64k_aac",
+    "logo": "https://www.radioleipzig.de///cms/tpl/slp/radioleipzig_favicon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "11649",
+    "name": "Radio Leipzig 80er Kulthits",
+    "groups": "Radio,80s",
+    "url": "https://hermes.bcs-systems.de/radio-leipzig_80er_192k_mp3",
+    "logo": "https://webradio.radioleipzig.de/local/FB_80er_300x300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "446",
+    "name": "Radio Mixer Zone 88.2",
+    "groups": "80s,90s,Dance",
+    "url": "https://essl.turadioinfo.com/8026//;live",
+    "logo": "https://cdnproxy.turadioinfo.com/media/webp/0/800/100/externos/app_logos/1589657842.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20970",
+    "name": "Radio Music Sambre 105.8",
+    "groups": "70s,80s,Pop,French",
+    "url": "http://radiomusicsambre.ice.infomaniak.ch/radiomusicsambre-128.mp3",
+    "logo": "http://www.radiomusicsambre.be/medias/site/mobilefavicon/logo-music-sambre-1.png?fx=c_114_114",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20973",
+    "name": "Radio Plus Gent 107.7",
+    "groups": "70s,80s,90s",
+    "url": "http://live.radiostudio.be/plus",
+    "logo": "http://www.radioplusgent.be/images/logo.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "11690",
+    "name": "Radio Regenbogen 80er",
+    "groups": "Radio,80s",
+    "url": "http://streams.regenbogen.de/rr-80er-128-mp3",
+    "logo": "http://static.radio.de/images/broadcasts/67/b2/35501/2/c300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "2591",
+    "name": "Radio Rekord 80's Dance",
+    "groups": "Radio,80s,Dance",
+    "url": "https://hls-01-radiorecord.hostingradio.ru/record-1980/playlist.m3u8",
+    "logo": "https://cdn.onlineradiobox.com/img/l/1/77891.v9.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16153",
+    "name": "Radio RMF 80s Disco",
+    "groups": "Radio,80s,Disco",
+    "url": "http://31.192.216.10/80SDISCO",
+    "logo": "https://cdn.onlineradiobox.com/img/l/7/1507.v5.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "11707",
+    "name": "radio SAW 80er",
+    "groups": "Radio,80s",
+    "url": "http://saw-de-hz-fal-stream09-cluster01.radiohost.de/saw-80er_128?ref=radio-browser&amsparams=radio-browser&listenerrmid=31363430313132363138-323030313a313966303a353030313a333261343a353430303a3266663a666533373a37356332-3430303132-53747265616d436865636b426f742f302e312e30",
+    "logo": "http://www.radiosaw.de/sites/default/files/logo_0_1.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "7787",
+    "name": "Radio SCOOP Annees 80's",
+    "groups": "Radio,80s",
+    "url": "http://stream.radioscoop.com/scoop1.mp3",
+    "logo": "http://radioscoop.com/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "22159",
+    "name": "Radio Studio Nord 80 Energia",
+    "groups": "Radio,80s",
+    "url": "https://nr6.newradio.it:19393/listen.pls",
+    "logo": "https://www.rsn.it/images/favicon/144x144.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20980",
+    "name": "Radio Tamara",
+    "groups": "70s,80s,90s",
+    "url": "http://audiostreamen.nl:8006/",
+    "logo": "http://www.radiotamara.be/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "11743",
+    "name": "Radio Ton 80er",
+    "groups": "Radio,80s",
+    "url": "http://radioton-stream27.radiohost.de/radioton-80er_mp3-192?listenerrmid=31363430313039343539-326130333a343030303a33373a34323a633466653a346366663a666561373a38393431-3534383230-53747265616d436865636b426f742f302e312e30",
+    "logo": "https://www.radio.fr/images/broadcasts/45/4c/188843/1/c300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "12463",
+    "name": "Radio TOP 80",
+    "groups": "Radio,80s",
+    "url": "http://live.top80.fm:8086/",
+    "logo": "http://www.top80.fm/novo_logo-complete.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18860",
+    "name": "Radio Transamericana",
+    "groups": "80s,Contemporary",
+    "url": "https://server.laradio.online/proxy/transamericana?mp=/stream",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi95eqeauVAy53hKM5lywURiNtSaiGtczLmQ&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16463",
+    "name": "Radio Vega Sandaski",
+    "groups": "00s,80s,90s",
+    "url": "http://88.80.96.25:8040/",
+    "logo": "http://www.radiovega.bg/images/yootheme/logo.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9918",
+    "name": "RauteMusik 80S",
+    "groups": "Music,80s",
+    "url": "https://rautemusik-de-hz-fal-stream12.radiohost.de/rm-80s_mp3-192?ref=radiobrowser&listenerrmid=31363430313038373438-323030313a313966303a363830313a313964373a353430303a3266663a666537313a62646237-3438343730-53747265616d436865636b426f742f302e312e30",
+    "logo": "https://i.ibb.co/TbS5mh3/80s.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "1324",
+    "name": "Red 80s",
+    "groups": "80s",
+    "url": "https://n01.radiojar.com/red80s?rj-ttl=5&rj-tok=AAABfd0-6zgAb1punAxJOZ0tpA",
+    "logo": "https://mm.aiircdn.com/631/5e1f297b21f88.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "2366",
+    "name": "Retro FM 80s",
+    "groups": "Oldies,Radio,80s",
+    "url": "http://hls-01-retro80.emgsound.ru/2/128/playlist.m3u8",
+    "logo": "https://www.radio.net/300/retrofmrussland.png?version=b3de2772190adc58605fd4c84600f62f",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "22275",
+    "name": "Ritmo 80",
+    "groups": "80s",
+    "url": "http://ice02.fluidstream.net/ritmo80.aac",
+    "logo": "http://www.ritmo80.it/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "7864",
+    "name": "RJFM Club 80",
+    "groups": "80s",
+    "url": "https://listen.radioking.com/radio/2725/stream/72647",
+    "logo": "https://www.radioking.com/api/track/cover/9d6b8060-ab51-44ca-b859-91282cd61982?width=160&height=160",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "22279",
+    "name": "RMC 80",
+    "groups": "French,80s",
+    "url": "http://edge.radiomontecarlo.net/rmcweb008",
+    "logo": "http://www.radiomontecarlo.net/resizer/112/112/true/1474622887378.jpg--.jpg",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16221",
+    "name": "RMF 80s",
+    "groups": "80s",
+    "url": "http://195.150.20.9/80S",
+    "logo": "http://www.rmfon.pl/i/logos/100x100/80s.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16222",
+    "name": "RMF 80s + Fakty",
+    "groups": "80s",
+    "url": "http://195.150.20.9/80SF",
+    "logo": "http://www.rmfon.pl/i/logos/100x100/80s.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16223",
+    "name": "RMF 80s Disco",
+    "groups": "80s,Disco",
+    "url": "http://195.150.20.9/80SDISCO",
+    "logo": "http://www.rmfon.pl/i/logos/100x100/80sdisco.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16224",
+    "name": "RMF 80s Disco + Fakty",
+    "groups": "80s,Disco",
+    "url": "http://195.150.20.9/80SDISCOF",
+    "logo": "http://www.rmfon.pl/i/logos/100x100/80sdisco.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "11851",
+    "name": "Rock Antenne 80er Rock",
+    "groups": "Radio,80s",
+    "url": "https://s1-webradio.rockantenne.de/80er-rock/stream/aacp",
+    "logo": "https://cdn.antenne.de/antenne-de/uploads/images/ra_stream_80er_480.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "11905",
+    "name": "RPR1 80er Rock",
+    "groups": "80s",
+    "url": "https://streams.rpr1.de/rpr-80errock-128-mp3?usid=0-0-H-M-D-60",
+    "logo": "https://cdn.rpr1.de/sites/default/files/thumbnails/image/80er_Rock_agg_300x300.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "11898",
+    "name": "RPR1 Best 80s",
+    "groups": "80s",
+    "url": "https://streams.rpr1.de/rpr-80er-128-mp3?usid=0-0-H-M-D-0",
+    "logo": "https://www.rpr1.de/sites/all/themes/rpr1/assets/images/logos/apple-icon-120x120.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "11913",
+    "name": "RPR1 Best of 80s",
+    "groups": "80s",
+    "url": "https://streams.rpr1.de/rpr-80er-128-aac?usid=0-0-H-M-D-01",
+    "logo": "https://cdn.rpr1.de/sites/all/themes/rpr1/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "11914",
+    "name": "RPR1 Best of 80s",
+    "groups": "80s",
+    "url": "https://streams.rpr1.de/rpr-80er-128-mp3?usid=0-0-H-M-D-01",
+    "logo": "https://cdn.rpr1.de/sites/all/themes/rpr1/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20994",
+    "name": "RTBF Classic 21 80's",
+    "groups": "80s,Rock",
+    "url": "https://radios.rtbf.be/wr-c21-80-128.mp3",
+    "logo": "https://www.radio.fr/images/broadcasts/17/6b/6837/1/c300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10198",
+    "name": "RTL Das Beste der 80er 104.6",
+    "groups": "French,80s",
+    "url": "http://rtlberlin.streamabc.net/rtlb-rtl80er-mp3-128-4091873?sABC=61p217nq%230%23480403531qsn3q883o6q243r435924np%23enqvb-oebjfre.vasb&amsparams=playerid:radio-browser.info;skey:1640109997",
+    "logo": "http://www.104.6rtl.com/assets/icons/apple-touch-icon.png",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20629",
+    "name": "Salsotekaindo",
+    "groups": "60s,70s,80s",
+    "url": "https://stream-178.zeno.fm/734vqdhpha0uv",
+    "logo": "https://static2.mytuner.mobi/media/tvos_radios/9fazapzjbxy4.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5389",
+    "name": "Sanctuary Radio Retro 80s",
+    "groups": "Radio,Oldies,80s",
+    "url": "http://192.111.140.6:9772/stream2",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s121324g.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17596",
+    "name": "Sky Radio 80's Hits",
+    "groups": "Radio,80s,Hits",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR04.mp3",
+    "logo": "http://www.skyradio.nl/icons/apple-icon-120x120.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5520",
+    "name": "SomaFM Underground 80s",
+    "groups": "Underground,80s",
+    "url": "http://ice1.somafm.com/u80s-128-mp3",
+    "logo": "http://somafm.com/img3/u80s-400.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5521",
+    "name": "SomaFM Underground 80s",
+    "groups": "Underground,80s",
+    "url": "https://ice1.somafm.com/u80s-128-mp3",
+    "logo": "https://cdn.onlineradiobox.com/img/l/6/83776.v6.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5522",
+    "name": "SomaFM Underground 80s",
+    "groups": "Underground,80s",
+    "url": "http://ice2.somafm.com/u80s-32-aac",
+    "logo": "https://somafm.com/img3/u80s-400.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5523",
+    "name": "SomaFM Underground 80s",
+    "groups": "Underground,80s",
+    "url": "http://ice1.somafm.com/u80s-256-mp3",
+    "logo": "http://somafm.com/img3/u80s-400.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5524",
+    "name": "SomaFM Underground 80s",
+    "groups": "Underground,80s",
+    "url": "http://ice2.somafm.com/u80s-64-aac",
+    "logo": "https://somafm.com/img3/u80s-400.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10205",
+    "name": "Spreeradio 80er 105.5",
+    "groups": "80s",
+    "url": "http://rtlberlin.streamabc.net/rtlb-spreeradio80s-mp3-128-8241641?sABC=61p1qqs8%230%232qqpnss01895rqr0s8oq129o03s183o0%23enqvb-oebjfre.vasb&amsparams=playerid:radio-browser.info;skey:1640095224",
+    "logo": "http://assets.radioplayer.de/stationimages/492_primary_image.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "12028",
+    "name": "Sunshine Live Die 80er",
+    "groups": "80s",
+    "url": "http://sunsl.streamabc.net/sunsl-sunsl6eifqasv1fngh-mp3-192-9467550?sABC=61p2218s%230%23480403531qsn3q883o6q243r435924np%23&amsparams=playerid:;skey:1640112527",
+    "logo": "https://www.radio.de/images/broadcasts/65/23/117339/1/c300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "12029",
+    "name": "Sunshine Live Die 80er",
+    "groups": "80s",
+    "url": "http://sunsl.streamabc.net/sunsl-sunsl6eifqasv1fngh-mp3-192-9467550?sABC=61p21q07%230%23480403531qsn3q883o6q243r435924np%23fgernz.fhafuvar-yvir.qr&amsparams=playerid:stream.sunshine-live.de;skey:1640111367",
+    "logo": "http://funkyimg.com/i/2Dtmj.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "7936",
+    "name": "Tendance Ouest 80",
+    "groups": "French,80s",
+    "url": "https://tendanceouest-80.ice.infomaniak.ch/quatrevingt.mp3",
+    "logo": "http://www.tendanceouest.com/favicon.ico",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5618",
+    "name": "The Big 80s Station",
+    "groups": "80s",
+    "url": "http://158.69.114.190:8065/listen.pls",
+    "logo": "http://thebig80sstation.com/wp-content/uploads/2018/06/cropped-The-Big-80s-Station-wide-ne-270x270.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "13526",
+    "name": "The Lynx Retro 80s",
+    "groups": "Oldies,80s",
+    "url": "http://80s-lynxradio.radioca.st/stream",
+    "logo": "https://cdn-profiles.tunein.com/s49609/images/logoq.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17017",
+    "name": "The Mix Radio 80s",
+    "groups": "Mix,Radio,80s",
+    "url": "http://51.255.127.128:8016/stream",
+    "logo": "http://themixradio.co.uk/wp-content/uploads/2019/10/cropped-tmr-favicon-01-180x180.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5733",
+    "name": "Underground 80s",
+    "groups": "Underground,80s",
+    "url": "https://ice4.somafm.com/u80s-128-aac",
+    "logo": "https://somafm.com/img3/u80s-400.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5748",
+    "name": "VEVO 80s",
+    "groups": "80s",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8",
+    "logo": "https://www.xumo.tv/favicons/favicon-128.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "7978",
+    "name": "Vibration 80s",
+    "groups": "80s,French",
+    "url": "http://vibration80s.ice.infomaniak.ch/vibration80s.mp3",
+    "logo": "http://ecouter.lesindesradios.fr/logos/orange207.png",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21468",
+    "name": "Vintage 87.8 FM",
+    "groups": "60s,70s,80s",
+    "url": "https://stream.radio.co/sd60e90ab1/listen",
+    "logo": "https://vintagefm.com.au/wp-content/uploads/2019/10/Vintage-Radio-Blue-small.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "7999",
+    "name": "Voltage 80's",
+    "groups": "80s",
+    "url": "http://voltage80s.ice.infomaniak.ch/voltage80s-128.mp3",
+    "logo": "https://bocir-prod-bucket.s3.amazonaws.com/radios/voltage/images/favicon.vnd.microsoft.icon",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18867",
+    "name": "WKM Radio 91.5",
+    "groups": "70s,80s,90s",
+    "url": "https://mdstrm.com/audio/5df7cf305396b836ef541c12/live.m3u8",
+    "logo": "https://img.radios.com.br/radio/lg/radio9810_1700147227.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "12193",
+    "name": "Wunschradio.fm 80er",
+    "groups": "80s",
+    "url": "http://mp3.wunschradio.de/wunschradio-80er.mp3",
+    "logo": "http://wunschradio.de/images/seitenelemente/favicon180.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

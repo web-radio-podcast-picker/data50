@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18637",
+    "name": "Steeleye Span",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/steeleyespan/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/fbb3a4d7-1178-4752-b24d-67b9017eb6eb.jpg",
+    "artist": "Steeleye Span",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

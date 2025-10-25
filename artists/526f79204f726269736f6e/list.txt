@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18600",
+    "name": "Roy Orbison",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/royorbison/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/b53d137d-0048-4df4-88e4-f23ea6ab47eb.jpg",
+    "artist": "Roy Orbison",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18601",
+    "name": "Roy Orbison - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/royorbisonhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/71242c49-d4ee-4846-8353-682a947e0001.jpg",
+    "artist": "Roy Orbison",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

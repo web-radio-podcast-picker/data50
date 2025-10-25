@@ -1,0 +1,212 @@
+[
+  {
+    "id": "17287",
+    "name": "BUDMC RTV FM",
+    "groups": "French,Kirundi,Variety",
+    "url": "https://stream-173.zeno.fm/uy9g742c0hhvv",
+    "logo": "https://play-lh.googleusercontent.com/KufXmLLJX5zWYq6UBgAsDVpo6fpUr7I9flDTQKBh6iZuHFuWLtQpBXob627SwgGJOHgv",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17290",
+    "name": "Menya Live Online Radio",
+    "groups": "Afrikaans,Kirundi,Variety",
+    "url": "https://stream-176.zeno.fm/387qyxsn0c9uv",
+    "logo": "https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgwcSl3gkMCxIOU3RhdGlvblByb2ZpbGUYgIDwidvK6AgMogEEemVubw/image/?u=1724769302000",
+    "artist": null,
+    "lang": "Kinyarwanda",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17295",
+    "name": "Radio Homewood",
+    "groups": "Kirundi,Swahili,Variety",
+    "url": "https://stream-176.zeno.fm/b9zg6ceg5ehvv",
+    "logo": "https://www.homewoodburundi.com/web/image/1558-e0814b2e/HOMEWOODburundi.webp",
+    "artist": null,
+    "lang": "Swahili",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17296",
+    "name": "Radio Inkinzo",
+    "groups": "French,Kirundi,Variety",
+    "url": "https://stream-175.zeno.fm/x3ktdppgx98uv",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY3VDfyHZOOqkx1kDMJJv8DrdS4THmiA2UnQ&s",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17303",
+    "name": "Regional Vibez Media",
+    "groups": "English,Kirundi,Variety",
+    "url": "https://stream-179.zeno.fm/p4r2f5wc8f0uv",
+    "logo": "https://mytunein.com/images/logos/regionalvibezmedia.jpg",
+    "artist": null,
+    "lang": "English",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17304",
+    "name": "RTRI",
+    "groups": "French,Kirundi,Variety",
+    "url": "https://stream-175.zeno.fm/wbdf30rtxd0uv",
+    "logo": "https://cdn.onlineradiobox.com/img/l/4/145604.v1.png",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

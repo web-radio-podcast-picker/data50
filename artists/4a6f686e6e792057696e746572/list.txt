@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18430",
+    "name": "Johnny Winter",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/johnnywinter/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/96468f9e-62ba-4d56-9884-baed7aaf82ba.jpg",
+    "artist": "Johnny Winter",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

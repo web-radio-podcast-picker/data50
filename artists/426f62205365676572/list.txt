@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18209",
+    "name": "Bob Seger",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/bobseger/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/c6b6af85-456f-427b-8693-e58a692b698a.jpg",
+    "artist": "Bob Seger",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18398",
+    "name": "James Taylor",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/jamestaylor/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/e66c65c6-3e83-4d42-b41a-a7cc198a4f88.jpg",
+    "artist": "James Taylor",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18399",
+    "name": "James Taylor - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/jamestaylorhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/52584fa0-a9f4-4f8d-95ee-727e5513b52d.jpg",
+    "artist": "James Taylor",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

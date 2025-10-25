@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18416",
+    "name": "Joe Bonamassa",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/joebonamassa/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/6d2bf6c5-9575-4035-b643-270552fd9470.jpg",
+    "artist": "Joe Bonamassa",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

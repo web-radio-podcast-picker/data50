@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18657",
+    "name": "Talking Heads",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/talkingheads/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/cc50da2d-7a57-41c0-9ebe-d9c1bd283745.jpg",
+    "artist": "Talking Heads",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18658",
+    "name": "Talking Heads - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/talkingheadshits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/48d1ec85-3201-4ac9-927b-48608c03f228.jpg",
+    "artist": "Talking Heads",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

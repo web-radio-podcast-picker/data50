@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18237",
+    "name": "Cardi B",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/cardib/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/8449a6a3-a1c2-4b7b-b7f3-6fd4b2e35f64.jpg",
+    "artist": "Cardi B",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

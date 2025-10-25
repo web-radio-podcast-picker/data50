@@ -1,0 +1,37 @@
+[
+  {
+    "id": "12506",
+    "name": "Yezidi Radio",
+    "groups": "World,Yazidi",
+    "url": "http://46.182.174.131:8002/music",
+    "logo": "https://static-media.streema.com/media/cache/9d/c6/9dc6bb3da869441ee9bc666111714919.jpg",
+    "artist": null,
+    "lang": "Kurdish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

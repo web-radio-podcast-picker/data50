@@ -1,0 +1,2697 @@
+[
+  {
+    "id": "21180",
+    "name": "4OUR 101.5",
+    "groups": "Country,Folk",
+    "url": "http://streaming.lava.net.au/au_qld_4our_caboolture1015",
+    "logo": "https://1015fm.com.au/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20861",
+    "name": "ARL Radio",
+    "groups": "Community,Folk,Variety",
+    "url": "https://arlradio.ice.infomaniak.ch/poste01.mp3",
+    "logo": "https://cdn.onlineradiobox.com/img/l/6/88346.v7.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "6893",
+    "name": "ASAN Radio 100",
+    "groups": "Folk,Talk,World",
+    "url": "http://94.20.74.206:4448/stream1",
+    "logo": "https://play-lh.googleusercontent.com/f84zKSqbh56R_U3YHO6Sv4cgFMSQKuPoDSXITsPIyIxnGY8wqq2yctN4pjbfyITSlOpk",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "6897",
+    "name": "Azerbayan Radiosu 105.0",
+    "groups": "Folk,News,World",
+    "url": "https://str.yodacdn.net/radio_respublica/tracks-a1/mono.m3u8",
+    "logo": "https://yt3.googleusercontent.com/lqHCohSSuQd8yO9LPWAwkG8nrrvCD9bxhR_ErWDE-wc-kJpcnEzIykHDDdEWnTDQhopTYmM_=s900-c-k-c0x00ffffff-no-rj",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16403",
+    "name": "BG Estrada",
+    "groups": "Folk,Pop",
+    "url": "http://149.13.0.81/bgestrada",
+    "logo": "http://www.predavatel.com/bg/radio/online/bgradio-estrada.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "6677",
+    "name": "Big Radio 2",
+    "groups": "Folk,Pop,World",
+    "url": "http://big2.bigportal.ba:8100/big2",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s70058q.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "6679",
+    "name": "Big Radio 4 Domaćica",
+    "groups": "Folk,Pop",
+    "url": "http://domacica.bigportal.ba:8100/domacica",
+    "logo": "https://bigportal.ba/wp-content/uploads/2019/03/cropped-bigportal-logo-1-270x270.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20707",
+    "name": "Blechradio 1",
+    "groups": "Folk,World",
+    "url": "https://streamt.at/radio/8000/blechradio1.mp3",
+    "logo": "https://cdn.onlineradiobox.com/img/logo/5/83425.v1.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16411",
+    "name": "BNR Radio Burgas 92.5",
+    "groups": "Folk,Hits,Talk",
+    "url": "http://stream.bnr.bg:8037/radio-burgas.aac",
+    "logo": "https://bnr.bg/img/logos/burgas.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20866",
+    "name": "BRF 2",
+    "groups": "Deutsch,Folk",
+    "url": "http://streaming.brf.be/brf2-high.mp3",
+    "logo": "http://2.brf.be/wp-content/themes/brf-zwei/assets/img/favicons/Icon-60@3x.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "1991",
+    "name": "Buryad 90.8",
+    "groups": "Folk,Mongolian,World",
+    "url": "https://buryadfm.hostingradio.ru:8018/buryadfm128.mp3",
+    "logo": "https://dvw7f7sqjk3ag.cloudfront.net/images/radio/31116.jpg",
+    "artist": null,
+    "lang": "Mongolian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21506",
+    "name": "Capp 99.6",
+    "groups": "Folk,News,Pop",
+    "url": "http://cappfm.ice.infomaniak.ch/cappfm-96.mp3",
+    "logo": "https://i.postimg.cc/qRszBLvJ/Captures-d-cran-20181003-231929-1024x265.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21319",
+    "name": "CroRadio 88.3",
+    "groups": "Folk,News,Talk",
+    "url": "http://stream.swifthosting.com.au:8080/listen.pls",
+    "logo": "http://www.croradio.net/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "6901",
+    "name": "Day.Az Radio",
+    "groups": "Folk,World",
+    "url": "https://radio.day.az:9443/128m",
+    "logo": "https://d371i8ihhgym7w.cloudfront.net/34078259.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19763",
+    "name": "Ekattor Radio 98.4",
+    "groups": "Culture,Folk,Pop",
+    "url": "http://stream.zeno.fm/arm7p58w34zuv?rj-ttl=5&rj-tok=AAABfdx_ZNIAG6fcCQ1gN3djVQ",
+    "logo": "http://www.radio-hitz.com/images/radio-ekattor984-fm.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20714",
+    "name": "ERF Sud",
+    "groups": "Folk,Religion",
+    "url": "https://erfradio.com/ERF_Sued",
+    "logo": "https://www.radio.net/300/erf-sued.png?version=d6b83da9e41c6d46b0bd0cc1f93b52c8",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "287",
+    "name": "Esperanza 107.1",
+    "groups": "Folk,World",
+    "url": "https://streaming.evolucionstreaming.com:10966/stream?icy=http",
+    "logo": "https://www.radiofmesperanza.com/imagenes/banner.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "293",
+    "name": "Full Moon Radio",
+    "groups": "Folk,Metal",
+    "url": "http://stream.zeno.fm/kx5syp3vmyduv?rj-ttl=5&rj-tok=AAABfdn1e4kA1fEcc5uIj0CoVg",
+    "logo": "https://imgproxy.zenomedia.com/insecure/fit/192/192/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICAp7yM0wsMCxIOU3RhdGlvblByb2ZpbGUYgICAgIDyiAoMogEEemVubw/image/%3Fresize=192x192&v=1",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "294",
+    "name": "Futuro 93.1",
+    "groups": "Folk",
+    "url": "http://streaming2.locucionar.com:8682/stream",
+    "logo": "http://fmfuturo.com.ar/images/logo.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "295",
+    "name": "Guajira Radio",
+    "groups": "Folk,Latin,Pop",
+    "url": "http://01.solumedia.com.ar:8252/stream",
+    "logo": "https://guajiraradio.com.ar/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "2495",
+    "name": "Kazak 105.2",
+    "groups": "Folk,World",
+    "url": "https://radio.kazak.fm/kazak_fm.mp3?radiostatistica=sitekfm",
+    "logo": "https://play-lh.googleusercontent.com/4Pv1O2A4kCrSM7Kw0ilqTFavWZtb3Jat3SPnc6o5P1aU4mPWTVTdPHNGTRybckHzGQ",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "12244",
+    "name": "KKMP 92.1",
+    "groups": "Blues,Folk,Jazz",
+    "url": "http://s2.yesstreaming.net/proxy/bluecont/stream",
+    "logo": "https://nebula.wsimg.com/f39a2670bdf2fe5416d7fdd42970de77?AccessKeyId=9DD06624D7844C54FDEF&disposition=0&alloworigin=1",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17201",
+    "name": "Lesedi 106.6 FM",
+    "groups": "Folk,World",
+    "url": "http://27863.live.streamtheworld.com/LESEDIAAC.aac",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/28vtMs5yrP.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9229",
+    "name": "Lightness of Rock",
+    "groups": "Blues,Folk,Rock",
+    "url": "http://stream.zeno.fm/n0dt87vrnd0uv?rj-ttl=5&rj-tok=AAABfd5C_xEADXHYae2fRZm9lw",
+    "logo": "https://imgproxy.zenomedia.com/insecure/fit/192/192/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQvLi93wgMCxIOU3RhdGlvblByb2ZpbGUYgIDQoq3CjwkMogEEemVubw/image/%3Fresize=192x192&v=1",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9239",
+    "name": "MGT Sertanejo",
+    "groups": "Folk",
+    "url": "https://cast.mgtradio.net/radio/8000/aac",
+    "logo": "https://www.mgtradio.net/images/favicon/apple-touch-icon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20747",
+    "name": "Moj Radio",
+    "groups": "Folk,Serbian,World",
+    "url": "http://eu4.fastcast4u.com:5692/stream",
+    "logo": "https://play-lh.googleusercontent.com/le-2v0hk4Ma6sfHwkunypwnDi2Lk7Tl_VyIMM_YJrkVCBTnfC_LTzsdBclQYhL0f3w",
+    "artist": null,
+    "lang": "Serbian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "6909",
+    "name": "Naxcivan Radio 104.1",
+    "groups": "Community,Folk,News",
+    "url": "https://str.yodacdn.net/naxcivanradio/tracks-a1/mono.ts.m3u8",
+    "logo": "https://online-radio.eu/logo/18/18203.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20770",
+    "name": "ORF Radio Burgenland",
+    "groups": "Folk",
+    "url": "http://orf-live.ors-shoutcast.at/bgl-q2a",
+    "logo": "https://radiothek.orf.at/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20780",
+    "name": "ORF Radio Kärnten",
+    "groups": "Folk,Hits",
+    "url": "http://orf-live.ors-shoutcast.at/ktn-q2a",
+    "logo": "https://radiothek.orf.at/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "6700",
+    "name": "ORV Radio",
+    "groups": "Folk,Pop,Variety",
+    "url": "https://otv.ovh/live_radio/orv/icecast.audio",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBwKRIY9HXr59IESaYda77VZDisY6i8DggLg&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "6701",
+    "name": "OSM Radio 93.6",
+    "groups": "Folk,World",
+    "url": "https://de1.internet-radio.com/proxy/radioosm?mp=/stream",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mXIypEpxNifxG2cXn74QFDv_JHeZK1RvXvYX0N75keog=s900-c-k-c0x00ffffff-no-rj",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9262",
+    "name": "Otima 90.3",
+    "groups": "Folk,Pop,World",
+    "url": "https://ice.fabricahost.com.br/otimafm903",
+    "logo": "https://play-lh.googleusercontent.com/Y1ThWZtXXknaKQR_TyYFxkpMpUlkTr4LrFzq9dsndKQ6xOp5DLars1Qm6F36OKvnQfg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16381",
+    "name": "Ouaga 105.2",
+    "groups": "Folk,News,Pop",
+    "url": "http://fluoz-70.radiojar.com:80/qzv5str7mceuv?token=AAABfd3AzCx3-D-sHrDjYBOoX4T4a6tACyNz9o7DANujqQONrw0BIQ",
+    "logo": "http://www.ouagafm.bf/wp-content/uploads/2017/06/ico.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "2809",
+    "name": "Pink Radio 91.3",
+    "groups": "Folk,Pop,World",
+    "url": "http://pink.exyuserver.com/;type=mp3",
+    "logo": "https://ca.radio.net/300/pink.png?version=ae50713029ae6e3b373b2f74a2df868a",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "380",
+    "name": "Profesional 89.9",
+    "groups": "Community,Folk,World",
+    "url": "http://aler.org:8000/radiofmreconquista.ogg",
+    "logo": "https://4.bp.blogspot.com/-l_E5U75LNt0/W6LxWr2pcFI/AAAAAAAAGLU/zIpSaE80TmksLOooksdMr3bAWyacrKbSgCLcBGAs/s1600/fm-reconquista-89-5.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "387",
+    "name": "Radio 21 90.1",
+    "groups": "Folk,Hits",
+    "url": "https://cdn.instream.audio/:9135/stream",
+    "logo": "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcSdXH8pew0nCw8X3ugiDdrf4oSXQ4shLTz1axj6Qv2uCEz2ROKQ7nJpatqG%26s&sp=1591066215Td06401acc4e511243fe13d4505fc8017db16f29db47c21491db309df2e26610c",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "12500",
+    "name": "Radio AYK",
+    "groups": "Folk,Pop",
+    "url": "http://s3.streammonster.com:8117/listen.pls",
+    "logo": "https://static.wixstatic.com/media/b1dfa3_20cf67328cad4a5e9f70d2065d15a9cc.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "6717",
+    "name": "Radio BN",
+    "groups": "Folk,World",
+    "url": "http://stream.rtvbn.com:8522/;.mp3",
+    "logo": "https://www.rtvbn.com/storage/settings/res_1617023473_favicon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "400",
+    "name": "Radio Britannia",
+    "groups": "Folk,Pop,Rock",
+    "url": "http://01.solumedia.com.ar:8472/stream/listen.pls",
+    "logo": "http://radiobritannia.com/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17098",
+    "name": "Radio Emigranti 98.5",
+    "groups": "Folk,Oldies",
+    "url": "http://www.radioemigranti.com:8000/radio",
+    "logo": "https://www.radio-home.net/logos/Radio%20Emigranti%20albania.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18829",
+    "name": "Radio Fides 94.9",
+    "groups": "Folk,News",
+    "url": "http://149.56.175.167:5654/listen.pls",
+    "logo": "http://online.radiofides.com/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18830",
+    "name": "Radio Folklorica de Uyuni",
+    "groups": "Folk,Latin",
+    "url": "https://emiteradio.com/proxy/uyuni?mp=/stream",
+    "logo": "https://emisora.info/radio/folklorica-uyuni.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "2313",
+    "name": "Radio Gordost",
+    "groups": "Folk,World",
+    "url": "https://rgordost.hostingradio.ru/rgordost64.aacp",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2TXEjjsfISjWdb6RyymY9yPmu5Rjuw6P2VA&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16451",
+    "name": "Radio Horo",
+    "groups": "Folk,World",
+    "url": "http://g5.turbohost.eu:8020/stream256",
+    "logo": "https://www.radioexpert.net/radio-logo/bulgaria/radio-horo-23-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D1%80%D0%B0%D0%B4%D0%B8%D0%BE-bulgaria-320.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9391",
+    "name": "Radio Imperial 104.5",
+    "groups": "Folk,World",
+    "url": "http://hts03.kshost.com.br:8430/",
+    "logo": "https://play-lh.googleusercontent.com/HunYEUOBIS67HeiVSFZqb3ThChRqWb_11bjd-i86HkvLHSG3NoUtxeMnJi7lDWpEXikg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "6748",
+    "name": "Radio Kakanj 87.9",
+    "groups": "Folk,Variety",
+    "url": "http://cast2.name.ba:8067/;",
+    "logo": "https://radiokakanj.co.ba/wp-content/uploads/2023/01/RadioKakanj_logo_02.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "6749",
+    "name": "Radio Kalman 91.2",
+    "groups": "Folk,Variety",
+    "url": "http://188.40.62.20:8004/stream",
+    "logo": "https://bosnia-herzegovina.mom-gmr.org/uploads/tx_lfrogmom/media/722-2443_import.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17100",
+    "name": "Radio Kontakt 89.3",
+    "groups": "Folk,Pop",
+    "url": "http://84.20.83.24:88/broadwavehigh.mp3",
+    "logo": "https://img.radios.com.br/radio/xl/radio124009_1572983507.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "433",
+    "name": "Radio La Cacharpaya 101.7",
+    "groups": "Folk,News,News",
+    "url": "http://streaming01.shockmedia.com.ar:9360/stream",
+    "logo": "https://play-lh.googleusercontent.com/QJ7aIkf946_CWKVCs-KMo5DwWVzHL_SjLRQg7UHt9lP5nDqjM9AvLVO2PSAttPI3t0U",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18835",
+    "name": "Radio Libertad",
+    "groups": "Folk,News,Talk",
+    "url": "https://stream-173.zeno.fm/hb5hzkwmky8uv",
+    "logo": "https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICg-7e2qgoMCxIOU3RhdGlvblByb2ZpbGUYgICwgYG38woMogEEemVubw/image/?u=1661754488000",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "6760",
+    "name": "Radio Magic",
+    "groups": "Folk,Pop,Talk",
+    "url": "https://stream.iradio.pro/proxy/magicnarodniradio?mp=/streamig",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb_QcqBUnpUgkn3UJ7Cuq7hCyR7CwGszl8cg&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "6763",
+    "name": "Radio Miljacka 95.2",
+    "groups": "Folk,Variety",
+    "url": "https://radiomiljacka-bhcloud.radioca.st/stream.mp3",
+    "logo": "https://img2.tubidy.fm/img350bf361888400808b9.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "6765",
+    "name": "Radio Mix 90.5",
+    "groups": "Folk,Pop,Variety",
+    "url": "https://stream.rsgmedia.ba/listen/radio_mix/radio.mp3",
+    "logo": "https://play-lh.googleusercontent.com/ktQ7jooxLbOLG629hqdTMTNxOwWjOTIFGhO33eRZeOfiTdVKv6KA65kjl0_L04hllGc8",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9420",
+    "name": "Radio MPB",
+    "groups": "Folk",
+    "url": "http://stream.zeno.fm/qytqk36wm8quv?rj-ttl=5&rj-tok=AAABfd4SaacAyTw2lko_UHhoUw",
+    "logo": "https://lh3.googleusercontent.com/Ncgyq9tGyDOfhJSldhWv8n7bUlyiBuFIy3EXz-Uic9roCe_cWGMXXsHA1eCsRt__DTk=s180-rw",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "448",
+    "name": "Radio Municipal de Toay 94.3",
+    "groups": "Folk,World",
+    "url": "http://servidor.ilive.com.ar:9678/listen.pls",
+    "logo": "https://toay.gob.ar/images/logo.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "451",
+    "name": "Radio Nacional Folklorica 98.7",
+    "groups": "Folk,Talk",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad38",
+    "logo": "https://i3.radionomy.com/radios/400/3716d5e2-8cc5-4325-8970-7b92304c7830.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "6766",
+    "name": "Radio Nevesinje 96.3",
+    "groups": "Folk,Pop,Variety",
+    "url": "https://radio.dukahosting.com/8162/stream",
+    "logo": "https://mediadaily.biz/wp-content/uploads/2025/05/Radio-Nevesinje.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "6767",
+    "name": "Radio Novi Grad 100.0",
+    "groups": "Folk,Pop,Variety",
+    "url": "https://s37.myradiostream.com:8120/;stream.mp3",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyldRBMXxn2MIwWMQqV--zpzmMAT-FxMRGzg&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "6768",
+    "name": "Radio Olovo 95.1",
+    "groups": "Folk,Pop,Variety",
+    "url": "http://sonicpanel.vmakerhost.com:8038/stream;",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkhUY-zvAD8rOeWWqj8IQNhP70raFHIp1fig&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18850",
+    "name": "Radio Patria Nueva",
+    "groups": "Culture,Folk",
+    "url": "https://rponline.presidencia.gob.bo/stream",
+    "logo": "https://cdn.bolivia.com/canales/-3451.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "467",
+    "name": "Radio Popular Rivadavia 105.7 & Mendoza 106.1",
+    "groups": "Folk,News,Pop",
+    "url": "http://audio.bustream.com:8001/stream",
+    "logo": "https://img.radios.com.br/radio/xl/radio42224_1582741533.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20795",
+    "name": "Radio RU",
+    "groups": "Folk,Russian,World",
+    "url": "http://stream.erf.at/radio-ru",
+    "logo": "http://www.radioru.at/apple-icon-120x120.png",
+    "artist": null,
+    "lang": "Russian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18858",
+    "name": "Radio Sucre 1320",
+    "groups": "Contemporary,Folk",
+    "url": "https://ares.disfrutaenlared.com:7791/;",
+    "logo": "https://i.ytimg.com/vi/6dfYLuvXDRM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBUO_MmSIVkBu1YdEuzYOfjBcd-lA",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20979",
+    "name": "Radio Sunshine 97.5",
+    "groups": "Folk,Hits",
+    "url": "http://stream.radio-sunshine.info/live",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYW-nOwJF9WG5_eGCjOfVMNWEi7SOF09zB3g&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "6911",
+    "name": "Radio TMB 100.5",
+    "groups": "Folk,News,Pop",
+    "url": "https://s39.myradiostream.com/:5458/listen.mp3",
+    "logo": "https://turkic.world/media/2022/02/01/radio_tmb_010222_1.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20800",
+    "name": "Radio U1 Tirol",
+    "groups": "Folk",
+    "url": "https://u1-tirol-stream20.radiohost.de/u1-tirol-live_mp3-192?listenerrmid=31363430303437313738-326130333a343030303a33373a34323a633466653a346366663a666561373a38393431-3335313236-53747265616d436865636b426f742f302e312e30",
+    "logo": "https://www.u1-radio.at/fileadmin/templates/images/logo.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16464",
+    "name": "Radio Veronika 96.7",
+    "groups": "Folk,World",
+    "url": "http://stream.metacast.eu/veronika.ogg",
+    "logo": "http://1.bp.blogspot.com/_RoR-1v43z1E/TTlk7rMLNPI/AAAAAAAAAUQ/pptgTF1uKBI/s1600/radioveronika.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "12504",
+    "name": "Radio YAN",
+    "groups": "Folk,Politics",
+    "url": "http://83.169.36.75:8000/stream",
+    "logo": "https://www.radioyan.com/wp-content/uploads/2018/02/cropped-favicon144x144-180x180.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9326",
+    "name": "RadioNOS Chorinho & Cia Channel",
+    "groups": "Contemporary,Folk",
+    "url": "http://channels.radionos.com/stream/11/listen.pls",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s250604q.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21000",
+    "name": "RTBF Jam",
+    "groups": "Alternative,Electro,Folk",
+    "url": "https://radios.rtbf.be/jam-128.mp3",
+    "logo": "https://www.static.rtbf.be/radio/radio/ico/favicon-radio-32x32.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18725",
+    "name": "Sharjah Radio 94.4",
+    "groups": "Arabic,Folk,World",
+    "url": "http://svs.itworkscdn.net/smcradiolive/smcradiolive/chunks.m3u8",
+    "logo": "https://cdn-profiles.tunein.com/s3036/images/logog.png?t=1",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "499",
+    "name": "Sierras Comechingones 107.9",
+    "groups": "Folk",
+    "url": "http://giss.tv:8000/fmsierras.mp3",
+    "logo": "https://4.bp.blogspot.com/-DVRhHjqJfSk/VzNt8F_PJQI/AAAAAAAABaA/fNe9mCLVwfcVTXtLMF6npuXfdNeVHSh_ACLcB/s400/Autocopia_de_seguridad_deLOGO%2B9%2Bcolo.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "15699",
+    "name": "Traditional Radio 95.0",
+    "groups": "Folk,World",
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:radio-95-0_all/media_w329864186_b981072_107757.aac",
+    "logo": "https://radioq.com/img/radio/73376/traditional-fm-950-fm_7695.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16473",
+    "name": "Ultra Sandanski 103.4",
+    "groups": "Folk,Pop",
+    "url": "http://88.80.96.25:8000/",
+    "logo": "http://www.predavatel.com/bg/2/blagoevgrad_snimki/ultra.gif",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9552",
+    "name": "Web Radio Capital Do Tomate",
+    "groups": "Folk",
+    "url": "http://stream.zeno.fm/41hzy27d7tzuv?rj-ttl=5&rj-tok=AAABfdsHj08A-BJwiJ7w4ZnqSQ",
+    "logo": "https://www.radio.net/images/broadcasts/25/d3/131481/1/c300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16393",
+    "name": "WVUV 103.1",
+    "groups": "Folk,World",
+    "url": "https://ice26.securenetsystems.net/WVUV",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/56/WVUV-FM_logo.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "6917",
+    "name": "Yurd 90.7",
+    "groups": "Folk,World",
+    "url": "https://icecast.livetv.az/yurdfm",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmnDnCZ9dFYcgR7-5z2QlnUrDbvJInGnsAO7bHJJTsBH1Vld8NxO_okQyg2AFvTzF_B3Y&usqp=CAU",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

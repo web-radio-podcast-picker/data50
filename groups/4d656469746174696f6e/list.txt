@@ -1,0 +1,177 @@
+[
+  {
+    "id": "15536",
+    "name": "2B! Radio Sangam Meditation",
+    "groups": "Radio,Meditation",
+    "url": "http://djbeat.out.airtime.pro:8000/djbeat_a",
+    "logo": "https://cdn.onlineradiobox.com/img/fblogo/5/64425.v5.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "13462",
+    "name": "Meditation",
+    "groups": "Meditation",
+    "url": "http://prem2.radiotunes.com/meditation_hi?b1e8ab696a279ebb68c48cab",
+    "logo": "https://cdn-images.audioaddict.com/c/9/8/c/7/9/c98c792e458c3416874bc89ed8f29aa6.png?size=300x300",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "1228",
+    "name": "Radio Art Meditation",
+    "groups": "Radio,Arts,Meditation",
+    "url": "http://air-tunein.radioart.com/fMeditation.mp3",
+    "logo": "https://cdn-profiles.tunein.com/s187596/images/logoq.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "1229",
+    "name": "Radio Art Meditation",
+    "groups": "Radio,Arts,Meditation",
+    "url": "http://air.radioart.com/fMeditation.mp3",
+    "logo": "https://cdn-profiles.tunein.com/s187596/images/logoq.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "478",
+    "name": "Radio Saint Germain",
+    "groups": "Meditation,Religion",
+    "url": "http://173.255.205.241:8200/",
+    "logo": "http://www.radiosaintgermain.com/imagejpg/rasg.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "id": "20701",
+    "name": "Antenne Kärnten Partyhitmix",
+    "groups": "Dance,Party",
+    "url": "http://live.antenne.at/ost",
+    "logo": "https://www.antenne.at/assets/img//antenne/logo_kaernten.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16406",
+    "name": "BG Radio",
+    "groups": "Dance,Party,Pop",
+    "url": "http://stream.radioreklama.bg/bgradio.opus",
+    "logo": "http://bgradio.bg/theme_assets/bgradio/images/sharing/radio_default_banner.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "4450",
+    "name": "K-LOVE Birthday Blend",
+    "groups": "Party,Religion",
+    "url": "https://emf-seg001271.cdnstream1.com/seg001271-h128/playlist.m3u8?listeningSessionID=678518822957bbf9_8068893_8UaDBexY_MjE2LjIzNS45My4xOTc6ODA!_0000000L6m8&downloadSessionID=0&platform=web&country=canada&geo_api=gis_db&latitude=44.3136&longitude=-78.24&opawg_result=false&segment=001271&session_id=1744844212607&visitor_id=019640d1ca0b00128eb1b0bb675a05050001e00d00b78&t=1&k=MHsS7HhsQQJqm5pjPWU4yR2wx3o83ytUT68vTADPnv4qeBAbSXj2WYvIIfKuO4Di6CNJS2Gz8jFeGaSo8hIVHEPPlVV8YF3dq18WECR0nsPqlrDUR7-g3e3bl1fLm741BOA",
+    "logo": "https://www.radio.net/300/klovebirthdayblend.png?version=31473348c8a95954e7f6962b1ae7297c",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "6732",
+    "name": "Radio Dzungla 3",
+    "groups": "Party,Urban",
+    "url": "https://cast2.name.ba/proxy/dzungla3/stream;",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYZCyels-3XAnc-6IfSa-448DI5oZzLLm5Sw&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16287",
+    "name": "RMF Party + Fakty",
+    "groups": "Party",
+    "url": "http://195.150.20.7/PARTYF",
+    "logo": "http://www.rmfon.pl/i/logos/100x100/party.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

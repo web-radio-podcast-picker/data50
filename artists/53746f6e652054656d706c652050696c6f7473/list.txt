@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18648",
+    "name": "Stone Temple Pilots",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/stonetemplepilots/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/9815d090-1ab0-4fe9-afe0-ea411f3cda27.jpg",
+    "artist": "Stone Temple Pilots",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

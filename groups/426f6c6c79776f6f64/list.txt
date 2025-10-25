@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18719",
+    "name": "Kadak FM",
+    "groups": "Bollywood,Hindi",
+    "url": "https://vo-live-media.cdb.cdn.orange.com/Content/Channel/kadak_fm/DASH/master.mpd?expires=1734442365&md5=M4FDB57SkWxQYphj0YQPoA",
+    "logo": "https://d371i8ihhgym7w.cloudfront.net/70255703.jpg",
+    "artist": null,
+    "lang": "Hindi",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18723",
+    "name": "Radio Suno 102.4",
+    "groups": "Bollywood,Pop",
+    "url": "http://51.255.235.165:5476/stream?type=http&nocache=78657",
+    "logo": "https://d371i8ihhgym7w.cloudfront.net/48711036.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

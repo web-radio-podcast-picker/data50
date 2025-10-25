@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18270",
+    "name": "Crosby Stills Nash & Young",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/csny/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/b49ea016-ef45-4560-9b42-2a28beef7520.jpg",
+    "artist": "Crosby Stills Nash & Young",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

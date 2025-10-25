@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18212",
+    "name": "Bonnie Raitt",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/bonnieraitt/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/1759413c-3ca7-49ad-a1a8-6f8c510123f9.jpg",
+    "artist": "Bonnie Raitt",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

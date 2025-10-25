@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18341",
+    "name": "Fleetwood Mac",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/fleetwoodmac/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/2e55db5b-2946-4dc8-8887-2d4a024231f8.jpg",
+    "artist": "Fleetwood Mac",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18342",
+    "name": "Fleetwood Mac - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/fleetwoodmachits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/bf40c8ae-d1f8-48f6-9ca2-b88f445b3910.jpg",
+    "artist": "Fleetwood Mac",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

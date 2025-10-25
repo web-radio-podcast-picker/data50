@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18177",
+    "name": "Barry White",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/barrywhite/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/62ba2e6c-9c20-4ba6-a72c-21532d110574.jpg",
+    "artist": "Barry White",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18178",
+    "name": "Barry White - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/barrywhitehits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/c0f0d3a2-c68e-45e3-a6e8-6f65811bb271.jpg",
+    "artist": "Barry White",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

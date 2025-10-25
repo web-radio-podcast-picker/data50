@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18678",
+    "name": "Tina Turner",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/tinaturner/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/00ab6877-83a0-4ca4-a7c8-90cf7842b4c8.jpg",
+    "artist": "Tina Turner",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18679",
+    "name": "Tina Turner - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/tinaturnerhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/9e1901e7-a8ff-49f8-941d-d9f4b4d9bd38.jpg",
+    "artist": "Tina Turner",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

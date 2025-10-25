@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18311",
+    "name": "Eagles",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/eagles/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/ec421cb7-e7ab-49ab-80ea-a2281918a470.jpg",
+    "artist": "Eagles",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18312",
+    "name": "Eagles - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/eagleshits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/b755f407-99c4-4c22-acdc-0d5cf5770f00.jpg",
+    "artist": "Eagles",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

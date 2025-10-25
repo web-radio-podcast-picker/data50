@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18315",
+    "name": "Ed Sheeran",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/edsheeran/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/41745a11-bbfd-4785-b745-f627271b3d81.jpg",
+    "artist": "Ed Sheeran",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18316",
+    "name": "Ed Sheeran - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/edsheeranhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/384051d5-93c6-4dc3-b80b-bdbd4a90159b.jpg",
+    "artist": "Ed Sheeran",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

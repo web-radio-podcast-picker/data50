@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18191",
+    "name": "Bill Withers",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/billwithers/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/19558440-200a-47cb-8b6b-38d6b857c971.jpg",
+    "artist": "Bill Withers",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

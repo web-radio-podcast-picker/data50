@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18236",
+    "name": "Camila Cabello",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/camilacabello/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/9ba8dd4a-9d7c-498c-b6bf-5b7d0ec5704d.jpg",
+    "artist": "Camila Cabello",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

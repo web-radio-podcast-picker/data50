@@ -1,0 +1,37 @@
+[
+  {
+    "id": "20860",
+    "name": "AraBel 106.8",
+    "groups": "Arabic,BerbéR,Pop",
+    "url": "http://arabelfm.ice.infomaniak.ch/arabelprodcastfm.mp3",
+    "logo": "http://www.arabel.fm/wp-content/uploads/logo.jpg",
+    "artist": null,
+    "lang": "Berber languages",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "id": "21210",
+    "name": "96five 96.5",
+    "groups": "Family,Religion",
+    "url": "http://stream2.cnmns.net/96five",
+    "logo": "https://www.96five.com/wp-content/uploads/2017/01/cropped-96five_logo_icon512-270x270.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21213",
+    "name": "98five Sonshine 98.5",
+    "groups": "Community,Family,Religion",
+    "url": "http://stream1.cnmns.net/sfm",
+    "logo": "https://98five.com/wp-content/uploads/2021/04/cropped-siteicon-192x192.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "421",
+    "name": "Radio Escobar 105.1",
+    "groups": "Family,Variety",
+    "url": "http://server4.veemesoft.com.ar:26231//listen.pls",
+    "logo": "https://play-lh.googleusercontent.com/N4cBd18VkqceWRT3OXtz-D8pDsZ9_nP8WcoKyUR-Z6Kzdtl8KrUPAf6uCev8aegMsg=w526-h296-rw",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

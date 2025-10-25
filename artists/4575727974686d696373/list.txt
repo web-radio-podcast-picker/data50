@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18334",
+    "name": "Eurythmics",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/eurythmics/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/e165dec6-171a-4262-80d0-b2ca2ed0159a.jpg",
+    "artist": "Eurythmics",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18335",
+    "name": "Eurythmics - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/eurythmicshits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/e2f7e096-3c95-4e76-b554-642042aee1a8.jpg",
+    "artist": "Eurythmics",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

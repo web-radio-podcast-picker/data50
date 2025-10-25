@@ -1,0 +1,72 @@
+[
+  {
+    "id": "6898",
+    "name": "Baku Jukebox",
+    "groups": "Garage,Psychedelic,Rock",
+    "url": "http://78.109.52.73:8000/bkjbox",
+    "logo": "https://cdn-profiles.tunein.com/s263460/images/logog.png?t=636344",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21376",
+    "name": "Orbital Radio",
+    "groups": "Disco,Electro,Garage",
+    "url": "https://s4.radio.co/s99b8a01f4/listen",
+    "logo": "https://www.weebly.com/uploads/reseller/assets/2071805569-favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

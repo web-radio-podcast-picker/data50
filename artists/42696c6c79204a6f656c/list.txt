@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18194",
+    "name": "Billy Joel",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/billyjoel/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/4e5bc7a7-40e8-4927-8c8a-ccea722fb8ff.jpg",
+    "artist": "Billy Joel",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18195",
+    "name": "Billy Joel - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/billyjoelhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/b41850e1-4443-41d0-9bc1-2a9819a35140.jpg",
+    "artist": "Billy Joel",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

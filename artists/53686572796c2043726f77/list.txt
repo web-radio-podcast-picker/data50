@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18617",
+    "name": "Sheryl Crow",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/sherylcrow/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/16def5fc-fc8e-466e-8c03-507e8c82a452.jpg",
+    "artist": "Sheryl Crow",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

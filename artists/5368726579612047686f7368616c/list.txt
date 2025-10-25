@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18618",
+    "name": "Shreya Ghoshal",
+    "groups": "Artists",
+    "url": "https://drive.uber.radio/uber/bollywoodshreyaghosal/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/53fcc25d-0da8-410c-9899-7e238f7e38f6.jpg",
+    "artist": "Shreya Ghoshal",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

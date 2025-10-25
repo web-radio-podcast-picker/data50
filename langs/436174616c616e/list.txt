@@ -1,0 +1,37 @@
+[
+  {
+    "id": "9559",
+    "name": "Pròxima 94.6",
+    "groups": "Catalan,Pop,World",
+    "url": "http://91.187.93.115:8000/;stream/1",
+    "logo": "http://proximafm.cat/web/shoutcast/js-css/logo-export.png",
+    "artist": null,
+    "lang": "Catalan",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18660",
+    "name": "Taylor Swift",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/taylorswift/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/b22a5836-1d9e-4a6a-abe9-c56af886312e.jpg",
+    "artist": "Taylor Swift",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18661",
+    "name": "Taylor Swift - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/taylorswifthits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/e556f5bc-699f-4b2f-ae6c-73f2a1d074f2.jpg",
+    "artist": "Taylor Swift",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

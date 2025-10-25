@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18689",
+    "name": "Toto",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/toto/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/0fb0f27f-1c5c-46fd-8b2f-e25aca3fb24d.jpg",
+    "artist": "Toto",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

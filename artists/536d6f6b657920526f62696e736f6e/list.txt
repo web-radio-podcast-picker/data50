@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18630",
+    "name": "Smokey Robinson",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/smokeyrobinson/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/443c6132-4b3c-49ac-9474-067b3c18ee37.jpg",
+    "artist": "Smokey Robinson",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18631",
+    "name": "Smokey Robinson - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/smokeyrobinsonhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/e3707bfe-4a63-4799-91b1-2f4fb1983ac9.jpg",
+    "artist": "Smokey Robinson",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

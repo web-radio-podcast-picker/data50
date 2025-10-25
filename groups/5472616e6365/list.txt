@@ -1,0 +1,72 @@
+[
+  {
+    "id": "21031",
+    "name": "Vibration 107.2",
+    "groups": "Techno,Trance",
+    "url": "http://broadcast.infomaniak.ch/vibrationbelgique-high.mp3",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEIfiA8JnByRVZ4JBOLvZmLAD_nqDJx1OfHQ&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "12243",
+    "name": "ZFV Vibe 103 103.3",
+    "groups": "Dance,R'N'B,Trance",
+    "url": "https://cp11.serverse.com/proxy/fwincknq/stream",
+    "logo": "https://www.vibe103.com/wp-content/uploads/2020/06/cropped-VibeFavicon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

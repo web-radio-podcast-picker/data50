@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18694",
+    "name": "Ub40",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/ub40/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/00bd6877-a9cb-4a35-bee3-da4cb262d596.jpg",
+    "artist": "Ub40",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

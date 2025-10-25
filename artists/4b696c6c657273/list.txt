@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18457",
+    "name": "Killers",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/thekillers/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/83b63fb4-5d51-44d0-9aac-cebba86325a5.jpg",
+    "artist": "Killers",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18458",
+    "name": "Killers - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/killershits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/a41e2864-8cf7-4265-9fef-12cb7a18d412.jpg",
+    "artist": "Killers",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

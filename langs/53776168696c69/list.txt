@@ -1,0 +1,72 @@
+[
+  {
+    "id": "4012",
+    "name": "Gran Carpa Cathedral Swahili",
+    "groups": "Swahili",
+    "url": "http://s10.voscast.com:9030/listen.pls",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s242105q.png",
+    "artist": null,
+    "lang": "Swahili",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17295",
+    "name": "Radio Homewood",
+    "groups": "Kirundi,Swahili,Variety",
+    "url": "https://stream-176.zeno.fm/b9zg6ceg5ehvv",
+    "logo": "https://www.homewoodburundi.com/web/image/1558-e0814b2e/HOMEWOODburundi.webp",
+    "artist": null,
+    "lang": "Swahili",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

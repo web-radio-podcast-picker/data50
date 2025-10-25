@@ -1,0 +1,212 @@
+[
+  {
+    "id": "21172",
+    "name": "4K1G 107.1",
+    "groups": "Comedy,Oldies,Rock",
+    "url": "https://usa4.fastcast4u.com/proxy/4k1g?mp=/stream",
+    "logo": "https://cdn.onlineradiobox.com/img/fblogo/9/26799.v9.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18812",
+    "name": "Radio Activa 91.9",
+    "groups": "Comedy,Hits",
+    "url": "https://radio02.com/7002/stream",
+    "logo": "https://i.scdn.co/image/ab6765630000ba8abc27fc3dccff71410f61eacb",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18813",
+    "name": "Radio Atlantica 88.9",
+    "groups": "Comedy,Hits",
+    "url": "https://solo.disfrutaenlared.com:7788/stream",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxlTk01SQ9saI1RsezpyEmgk8wpeX9t3g8ag&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9505",
+    "name": "Radio Verdinha 92.5",
+    "groups": "Comedy,Culture,Sport",
+    "url": "https://5a1c76baf08c0.streamlock.net/z18-live/stream/chunklist_w1729115384.m3u8",
+    "logo": "https://yt3.googleusercontent.com/UbEL_tpuofs8VYCXseMkpAZD3-9YTWHmbRAn99mkWPOhNSZgcVO0e-nFxE0wGwzEqialnvjEHA=s900-c-k-c0x00ffffff-no-rj",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20825",
+    "name": "Toilette LIVE",
+    "groups": "Comedy,Talk",
+    "url": "http://n0c.radiojar.com/ya73ubvq6yzuv?rj-ttl=5&rj-tok=AAABfdpqsksApzgfoXHfKDJ_eA",
+    "logo": "https://www.radio.at/images/broadcasts/a5/8a/126875/2/c300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17306",
+    "name": "Yantu FM",
+    "groups": "Comedy,Variety",
+    "url": "https://stream-173.zeno.fm/6ezvc5a44bhvv",
+    "logo": "https://static-media.streema.com/media/cache/d3/6a/d36a470ee229034a117372f95a01065f.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

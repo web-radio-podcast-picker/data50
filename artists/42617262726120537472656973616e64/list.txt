@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18174",
+    "name": "Barbra Streisand",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/streisand/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/b1976ff8-47a3-4789-904a-4d3a4184a24a.jpg",
+    "artist": "Barbra Streisand",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18175",
+    "name": "Barbra Streisand - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/streisandhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/562bb3c5-962c-40ff-b5a6-8b9953b5f8a8.jpg",
+    "artist": "Barbra Streisand",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

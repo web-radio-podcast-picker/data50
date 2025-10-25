@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18557",
+    "name": "Peter Frampton",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/peterframpton/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/d42b1a14-363a-4c02-a55d-c1d9ac9091dc.jpg",
+    "artist": "Peter Frampton",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

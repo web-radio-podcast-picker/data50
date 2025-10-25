@@ -1,0 +1,1857 @@
+[
+  {
+    "id": "1946",
+    "name": "101.ru Bard Songs Author's Song",
+    "groups": "Radio,Songs",
+    "url": "https://ic6.101.ru:8000/stream/pro/aac/64/35",
+    "logo": "https://101.ru/touch-icon-ipad.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "1942",
+    "name": "101.ru French Chanson",
+    "groups": "Radio,French,Songs",
+    "url": "http://ic6.101.ru:8000/stream/pro/aac/64/146",
+    "logo": "https://kuasark.com/files/stations-logos/101ru-french-chanson.png",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10238",
+    "name": "1A Rock Songs",
+    "groups": "Songs",
+    "url": "http://saw-de-hz-fal-stream09-cluster01.radiohost.de/saw-rock_48?ref=radiosure-1a&amsparams=radiosure-1a&listenerrmid=31363430313132343936-323030313a313966303a353030313a333261343a353430303a3266663a666533373a37356332-3339303632-53747265616d436865636b426f742f302e312e30",
+    "logo": "http://www.1a-webradio.de/sites/all/themes/webradio/btn/logo-rock.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10239",
+    "name": "1A Rock Songs",
+    "groups": "Songs",
+    "url": "http://saw-stream26.radiohost.de/saw-rock_128?ref=radio-browser-1a&amsparams=radio-browser-1a&listenerrmid=31363430313131303931-323030313a313966303a363830313a313964373a353430303a3266663a666537313a62646237-3539393530-53747265616d436865636b426f742f302e312e30",
+    "logo": "http://www.1a-webradio.de/sites/all/themes/webradio/btn/logo-rock.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "13978",
+    "name": "500 Chinese Golden Songs",
+    "groups": "Chinese,Songs",
+    "url": "http://ls.qingting.fm/live/3412131.m3u8?bitrate=64",
+    "logo": "https://sss.qingting.fm/v3/qt-logo.png",
+    "artist": null,
+    "lang": "Chinese",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3528",
+    "name": "Abiding Radio Kids' Songs and Bible Stories",
+    "groups": "Radio,Songs,Religion",
+    "url": "http://streams.abidingradio.org:7810/1",
+    "logo": "http://static.radio.net/images/broadcasts/12/4c/32212/c300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8969",
+    "name": "ceol.fm Songs",
+    "groups": "Songs",
+    "url": "http://ceol.fm:8000/songs.mp3",
+    "logo": "https://www.ceol.fm/apple-touch-icon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "1998",
+    "name": "Chanson Radio",
+    "groups": "Songs,Radio",
+    "url": "http://chanson.hostingradio.ru:8041/chanson128.mp3?md5=2eMCvcYXPx0fjyorGnLWuw&e=1545675080",
+    "logo": "https://www.radio.net/300/chansonru.png?version=f4a34774252dfaf84660f3817ae48a80",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "1999",
+    "name": "Chanson Radio",
+    "groups": "Songs,Radio",
+    "url": "http://chanson.hostingradio.ru:8041/chanson256.mp3?md5=oVvCwE7WBb8Y7wl1S_2xCQ&e=1549278452",
+    "logo": "https://www.radio.net/300/chansonru.png?version=f4a34774252dfaf84660f3817ae48a80",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16643",
+    "name": "Classic Hits The Greatest Songs On Earth",
+    "groups": "Classic,Hits,Songs",
+    "url": "https://n04.radiojar.com/xgbg3anx3zquv?TGT=TuneIn&maxServers=2&rj-ttl=5&DIST=TuneIn&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzOTM1MjU1OSwiaXNzIjoidGlzcnYifQ.DKSUboMiZijwS_ZRm_CGDW7fJRNUzs2hSuIvYuil98g&gdpr=0&rj-tok=AAABfdpiPZkAwFWqo3J332Z81Q",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgD_F7BNQXwBfRBhnR5BBDyUVarEMafQ7tTJN8SL_vdE7MGYUfYmIYyGdA5AlvTv2gTmU&usqp=CAU",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "12720",
+    "name": "COOLFM Love Songs",
+    "groups": "Love,Songs",
+    "url": "https://mediagw.e-tiger.net/stream/zc21",
+    "logo": "https://coolfm.hu/radio/wp-content/uploads/2021/01/love-songs.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "2027",
+    "name": "Donat FM Chanson",
+    "groups": "Radio,Songs",
+    "url": "http://c6.radioboss.fm:8096/stream",
+    "logo": "https://www.radiobells.com/stations/donatfmshanson.webp",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16677",
+    "name": "Driving Songs",
+    "groups": "Songs",
+    "url": "https://hls-prem.planetradio.co.uk/pr_webcast16.aac/playlist.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE5ebUpkMMcdrXfGrVtttIb8LgNn1holxjHP3ivmEaVHHdhQsPxbTwXyiz1zSunFLQVhg&usqp=CAU",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "213",
+    "name": "European Hit Radio Love Songs",
+    "groups": "Hits,Radio,Love,Songs",
+    "url": "http://stream.europeanhitradio.com:8000/Stream_28.aac",
+    "logo": "http://funkyimg.com/i/2E52E.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20881",
+    "name": "Flash 88.4",
+    "groups": "80s,Pop,Songs",
+    "url": "http://flashfm.ice.infomaniak.ch/flashfm-128",
+    "logo": "https://groover-images.s3.eu-west-3.amazonaws.com/prod/influencer/0.flash-fm/profile_picture/200_200",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9776",
+    "name": "Kalp FM 102.2",
+    "groups": "Ballad,Songs,Turk",
+    "url": "https://yayin.kalpfm.com:8080/",
+    "logo": "https://radyodinle.com/wp-content/uploads/2025/02/kalpfm.jpg",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "4917",
+    "name": "Love Radio Only Love Songs 70s 80s 90s",
+    "groups": "Love,Radio,Songs,70s,80s,90s",
+    "url": "https://loveradio.streamingmedia.it/usa",
+    "logo": "https://love.radio/loveradio_logo.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "4918",
+    "name": "Love Radio Only Love Songs 70s 80s 90s",
+    "groups": "Love,Radio,Songs,70s,80s,90s",
+    "url": "http://shoutcast3.streamingmedia.it:3162/",
+    "logo": "https://loveradio.streamingmedia.it/loveradiologo.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "4919",
+    "name": "Love Songs",
+    "groups": "Love,Songs",
+    "url": "http://ice55.securenetsystems.net/DASH66",
+    "logo": "https://dashradio.com/wp-content/themes/dash-2.2.5/favicon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8115",
+    "name": "M Radio Chansons d'Amour",
+    "groups": "Radio,Songs",
+    "url": "http://mfmwr-026.ice.infomaniak.ch/mfmwr-026.mp3",
+    "logo": "https://uk.radio.net/images/broadcasts/03/34/131223/1/c300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "14539",
+    "name": "Melodious Folk Songs",
+    "groups": "Songs",
+    "url": "https://lhttp.qingting.fm/live/15318585/64k.mp3",
+    "logo": "https://pic.qingting.fm/2016/1223/2016122312183297.jpg!200",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5107",
+    "name": "Outpost Radio 57 Chevy Love Songs",
+    "groups": "Radio,Love,Songs",
+    "url": "http://icecast.opost.com/chevylsa874e1916104eb69b571743be17fd86d",
+    "logo": "http://outpostradio.com/img/OutpostRadio-v1-250.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5114",
+    "name": "Outpost Radio Love Songs Cafe",
+    "groups": "Radio,Love,Songs",
+    "url": "http://icecast.opost.com/lscafea874e1916104eb69b571743be17fd86d",
+    "logo": "http://outpostradio.com/img/OutpostRadio-v1-250.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "12804",
+    "name": "Oxygen Love Songs",
+    "groups": "Love,Songs",
+    "url": "https://oxygenmusic.hu:8443/oxygenlovesongs",
+    "logo": "https://oxygenmusic.hu/wp-content/uploads/2021/02/love_songs_web_cover.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "1267",
+    "name": "Radio Art Songs & Lieder",
+    "groups": "Radio,Arts,Songs",
+    "url": "http://air.radioart.com/fSongs_and_Lieder.mp3",
+    "logo": "https://d1iyh67kzf6t3o.cloudfront.net/images/channels/Songs_and_Lieder.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20955",
+    "name": "Radio Contact 102.2/102.0/104.7",
+    "groups": "70s,Songs",
+    "url": "http://audiostream.rtl.be/contactfr",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/c/ce/Radiocontact.gif",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21873",
+    "name": "Radio Deejay 30 Songs",
+    "groups": "Radio,Songs",
+    "url": "http://deejay_wr_06-lh.akamaihd.net/i/WebRadio6_1@315983/master.m3u8",
+    "logo": "http://cdn.gelestatic.it/deejay/www/2015/05/webradio_30_songs.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "15655",
+    "name": "Radio Mirchi 90s Hit Songs",
+    "groups": "Radio,90s,Hits,Songs",
+    "url": "https://pehlanashahdlive-lh.akamaihd.net/i/PehlaNashaHDLive_1@335229/master.m3u8",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/kjf54mmfy63u.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "2661",
+    "name": "Radio Romantika 98.8",
+    "groups": "Ballad,Songs",
+    "url": "https://srv12.gpmradio.ru:8443/stream/air/aac/64/101?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXkiOiJkZmEzNzhlZDA5ZWUyNTM0MWNhZTQyZTE3ZjNmNjE4YyIsIklQIjoiNzIuMzkuMjA3Ljc0IiwiVUEiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzcuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzcuMCIsIlJlZiI6Imh0dHBzOi8vd3d3LnJhZGlvcm9tYW50aWthLnJ1LyIsInVpZF9jaGFubmVsIjoiMTAxIiwidHlwZV9jaGFubmVsIjoiY2hhbm5lbCIsInR5cGVEZXZpY2UiOiJQQyIsIkJyb3dzZXIiOiJGaXJlZm94IiwiQnJvd3NlclZlcnNpb24iOiIxMzcuMCIsIlN5c3RlbSI6IldpbmRvd3MgMTAiLCJleHAiOjE3NDM1ODE3NDh9.m9iXK7RF6CxLK9NZJEuza004gaH069A59uoD7ecWE0c",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWBW55DwcdcTafT8pp7dQfLcb3_LcLQOHt1A&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20975",
+    "name": "Radio Salamandre ASBL 107.9",
+    "groups": "Oldies,Rock,Songs",
+    "url": "http://radiosalamandre.ice.infomaniak.ch/radiosalamandre.aac",
+    "logo": "https://craxx.be/wp-content/uploads/2020/05/salamandre.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "13505",
+    "name": "RDMIX Love Songs",
+    "groups": "Love,Songs",
+    "url": "http://maggie.torontocast.com:8022/stream",
+    "logo": "https://radiodimensionemix.torontocast.stream/wp-content/uploads/2020/09/RDMIX-LOVE_SONGS_512_OK-150x150.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8672",
+    "name": "RIRE & CHANSONS",
+    "groups": "Songs",
+    "url": "https://scdn.nrjaudio.fm/audio1/fr/40192/aac_576.mp3",
+    "logo": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/rire/logos/173x173/P_LOGOR&C_FILET_CMJN.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8689",
+    "name": "RIRE ET CHANSONS 100% Live",
+    "groups": "Songs",
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/30409/mp3_128.mp3",
+    "logo": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/rire/logos/173x173/P-RIRE-WR-100-Live.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8677",
+    "name": "RIRE ET CHANSONS Blagues",
+    "groups": "Songs",
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/30411/mp3_128.mp3",
+    "logo": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/rire/logos/173x173/P-RIRE-WR-Blagues.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8676",
+    "name": "RIRE ET CHANSONS Canulars",
+    "groups": "Songs",
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/30413/mp3_128.mp3",
+    "logo": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/rire/logos/173x173/P-RIRE-WR-Canulars.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8685",
+    "name": "RIRE ET CHANSONS Collectors",
+    "groups": "Songs",
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/30421/mp3_128.mp3",
+    "logo": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/rire/logos/173x173/P-RIRE-WR-Collectors.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8679",
+    "name": "RIRE ET CHANSONS Duos",
+    "groups": "Songs",
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/55601/mp3_128.mp3",
+    "logo": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/rire/logos/173x173/P-RIRE-WR-Duos.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8678",
+    "name": "RIRE ET CHANSONS Francophonie",
+    "groups": "Songs",
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/57107/mp3_128.mp3",
+    "logo": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/rire/logos/173x173/P-RIRE-WR-Francophonie.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8687",
+    "name": "RIRE ET CHANSONS Hommage A Coluche",
+    "groups": "Songs",
+    "url": "https://scdn.nrjaudio.fm/audio1/fr/55670/mp3_128.mp3",
+    "logo": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/rire/logos/173x173/P-RIRE-WR-Hommage-a-Coluche.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8684",
+    "name": "RIRE ET CHANSONS Humour Du Sud",
+    "groups": "Songs",
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/55514/mp3_128.mp3",
+    "logo": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/rire/logos/173x173/P-RIRE-WR-Humour-du-Sud.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8682",
+    "name": "RIRE ET CHANSONS Nouveautes",
+    "groups": "Songs",
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/55818/mp3_128.mp3",
+    "logo": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/rire/logos/173x173/P-RIRE-WR-Nouveautes.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8674",
+    "name": "RIRE ET CHANSONS Nouvelle Generation",
+    "groups": "Songs",
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/30405/mp3_128.mp3",
+    "logo": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/rire/logos/173x173/RIRE-WR-Nouvelle-Generation-sans-jeu.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8683",
+    "name": "RIRE ET CHANSONS One Woman Show",
+    "groups": "Songs",
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/55576/mp3_128.mp3",
+    "logo": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/rire/logos/173x173/P-RIRE-WR-One-Woman-Show.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8675",
+    "name": "RIRE ET CHANSONS Open du Rire",
+    "groups": "Songs",
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/30443/mp3_128.mp3",
+    "logo": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/rire/logos/173x173/P-RIRE-WR-Open-du-Rire.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8686",
+    "name": "RIRE ET CHANSONS Rock & Rire",
+    "groups": "Songs",
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/57970/mp3_128.mp3",
+    "logo": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/rire/logos/173x173/P-RIRE-WR-Rock-&-Rire.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8688",
+    "name": "RIRE ET CHANSONS Semoun",
+    "groups": "Songs",
+    "url": "https://scdn.nrjaudio.fm/audio1/fr/30427/mp3_128.mp3",
+    "logo": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/rire/logos/173x173/RIRE-WR-Semoun.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8673",
+    "name": "RIRE ET CHANSONS Sketches",
+    "groups": "Songs",
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/30407/mp3_128.mp3",
+    "logo": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/rire/logos/173x173/P-RIRE-WR-Sketches.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8680",
+    "name": "RIRE ET CHANSONS Stand Up",
+    "groups": "Songs",
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/30417/mp3_128.mp3",
+    "logo": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/rire/logos/173x173/P-RIRE-WR-Stand-Up.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "22288",
+    "name": "RMC Love Songs",
+    "groups": "French,Love,Songs",
+    "url": "http://edge.radiomontecarlo.net/rmcweb006",
+    "logo": "http://www.radiomontecarlo.net/resizer/112/112/true/1474622939528.jpg--.jpg",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21001",
+    "name": "RTBF La Première",
+    "groups": "Culture,Songs,World",
+    "url": "https://radios.rtbf.be/laprem1ere-64.aac",
+    "logo": "https://www.static.rtbf.be/radio/lapremiere/ico/favicon-lapremiere-192x192.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21002",
+    "name": "RTBF La Première",
+    "groups": "Culture,Songs,World",
+    "url": "https://radios.rtbf.be/vivabxl-128.mp3",
+    "logo": "https://www.static.rtbf.be/news/common/images/radio/logo/1400x1400/lapremiere-1400x1400.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21003",
+    "name": "RTBF La Première",
+    "groups": "Culture,Songs,World",
+    "url": "http://radios.rtbf.be/laprem1erebxl-128.mp3",
+    "logo": "https://www.static.rtbf.be/news/common/images/radio/logo/1400x1400/lapremiere-1400x1400.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18096",
+    "name": "Vibration Chanson Française",
+    "groups": "Songs",
+    "url": "http://vibration.stream2net.eu:8510/;stream/1",
+    "logo": "http://www.vibration108.ch/wp-content/uploads/2014/06/favicon.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

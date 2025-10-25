@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18495",
+    "name": "Marvin Gaye",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/marvingaye/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/6bb0927d-f160-4b1b-adc6-288290c30f44.jpg",
+    "artist": "Marvin Gaye",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18496",
+    "name": "Marvin Gaye - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/marvingayehits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/6873a10d-b1f2-41ab-9f6b-faefafe5fa89.jpg",
+    "artist": "Marvin Gaye",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

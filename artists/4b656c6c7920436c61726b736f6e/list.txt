@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18450",
+    "name": "Kelly Clarkson",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/kellyclarkson/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/b03e9d1b-cde3-4b6e-bebe-fdc02dd7204a.jpg",
+    "artist": "Kelly Clarkson",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

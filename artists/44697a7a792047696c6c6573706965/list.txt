@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18294",
+    "name": "Dizzy Gillespie",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/dizzygillespie/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/0eb87383-349f-4901-9124-c4600859a107.jpg",
+    "artist": "Dizzy Gillespie",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

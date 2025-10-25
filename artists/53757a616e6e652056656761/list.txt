@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18653",
+    "name": "Suzanne Vega",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/suzannevega/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/f995ebbc-6e19-49f4-8a60-cc9cda5416fe.jpg",
+    "artist": "Suzanne Vega",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

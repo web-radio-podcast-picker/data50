@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18559",
+    "name": "Peter Green'S Fleetwood Mac",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/pgfleetwood/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/7e839a22-884a-4e45-a372-299c4f6bee11.jpg",
+    "artist": "Peter Green'S Fleetwood Mac",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

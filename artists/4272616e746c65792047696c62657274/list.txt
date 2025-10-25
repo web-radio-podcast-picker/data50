@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18217",
+    "name": "Brantley Gilbert",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/brantleygilbert/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/dce483b7-e2b9-4ba4-9c88-9a247a4f4232.jpg",
+    "artist": "Brantley Gilbert",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

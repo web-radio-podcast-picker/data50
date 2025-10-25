@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18121",
+    "name": "10Cc",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/10cc/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/67e34ab0-2235-4bc6-9e23-7f9d47338765.jpg",
+    "artist": "10Cc",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18122",
+    "name": "10Cc - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/tencchits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/fa7472fb-6de4-46ed-b256-beef49c7867e.jpg",
+    "artist": "10Cc",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

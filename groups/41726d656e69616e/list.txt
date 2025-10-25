@@ -1,0 +1,142 @@
+[
+  {
+    "id": "20864",
+    "name": "BelgaHAY Radio",
+    "groups": "Armenian,Variety",
+    "url": "https://streamer.radio.co/sa1357f891/listen?ver=667093",
+    "logo": "https://play-lh.googleusercontent.com/ARGlwX6TosZUsLaB0e_Jkjjp896HdBXEiZ6jm-l3zZHu_GI2etKYODIDs8e2SqZ8XABu=w240-h480-rw",
+    "artist": null,
+    "lang": "Armenian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8936",
+    "name": "Freedom R/C RFE/RL in Armenian Channel 2",
+    "groups": "Armenian",
+    "url": "http://n0d.radiojar.com/k8z93x3nn3quv?rj-ttl=5&rj-tok=AAABfd5j18oA1FTWIVFuOSvDPQ",
+    "logo": "http://www.azatutyun.am/Content/responsive/RFE/img/top_logo_news.png",
+    "artist": null,
+    "lang": "Armenian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "15599",
+    "name": "Jesus Coming FM Armenian",
+    "groups": "Religion,Radio,Armenian",
+    "url": "http://live.jesuscomingfm.com:8566/listen.pls",
+    "logo": "http://jesuscomingfm.com/templates/life_journey/favicon.ico",
+    "artist": null,
+    "lang": "Armenian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3998",
+    "name": "Radio Jan Armenian Radio 107.5",
+    "groups": "Radio,Armenian",
+    "url": "http://s4.voscast.com:8864/stream",
+    "logo": "http://radiojan.com/wp-content/uploads/2021/01/logowhite.svg",
+    "artist": null,
+    "lang": "Armenian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

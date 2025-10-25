@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18611",
+    "name": "Shah Rukh Khan",
+    "groups": "Artists",
+    "url": "https://drive.uber.radio/uber/bollywoodshahrukhkhan/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/30a18c39-b997-4746-9860-7ef578047ac4.jpg",
+    "artist": "Shah Rukh Khan",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

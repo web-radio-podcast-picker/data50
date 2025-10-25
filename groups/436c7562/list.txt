@@ -1,0 +1,142 @@
+[
+  {
+    "id": "12494",
+    "name": "Lav Radio Mix",
+    "groups": "Club,Dance,Top 40",
+    "url": "https://eu.stream4cast.com/proxy/lavradiomix/stream",
+    "logo": "https://www.lavradio.am/wp-content/uploads/2020/08/mix350.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16433",
+    "name": "Metro DANCE Radio",
+    "groups": "Club,Dance,News",
+    "url": "https://eu1.reliastream.com/proxy/mdr?mp=/MDR",
+    "logo": "https://metrocast.top/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21018",
+    "name": "Studio Brussel",
+    "groups": "Club,Dance,House",
+    "url": "http://icecast-servers.vrtcdn.be/stubru_tgs-high.mp3",
+    "logo": "https://stubru.be//images/ios/touch-icon-iphone.png?v=2019",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16471",
+    "name": "Traffic Radio Station",
+    "groups": "Club,House",
+    "url": "http://radio.networx.bg:8000/TrafficRadio",
+    "logo": "https://i0.wp.com/trafficradio.org/wp-content/uploads/2011/09/cropped-175x175-75.jpg?fit=270%2C270",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18402",
+    "name": "Jason Derulo",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/jasonderulo/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/ae2fd75f-fd9a-4e22-8275-26f167986934.jpg",
+    "artist": "Jason Derulo",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

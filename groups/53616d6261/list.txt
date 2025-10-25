@@ -1,0 +1,247 @@
+[
+  {
+    "id": "9185",
+    "name": "Gabriela 102.9",
+    "groups": "Pop,Samba,World",
+    "url": "https://servidor24-1.brlogic.com:7734/live",
+    "logo": "https://public-rf-upload.minhawebradio.net/130832/editor/d49fd67521e1321543c63bbb8abb9daa.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9283",
+    "name": "Radio A Tarde 103.9",
+    "groups": "Samba",
+    "url": "http://sh.upx.com.br:8120/listen.pls",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s144627g.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9313",
+    "name": "Rádio Bossa Nova",
+    "groups": "Bossa Nova,Samba",
+    "url": "http://54.38.43.201:8009/stream-128kmp3-BossaNovaBrazil",
+    "logo": "https://cdn-profiles.tunein.com/s304824/images/logoq.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9436",
+    "name": "Radio Pagode",
+    "groups": "News,Samba,Talk",
+    "url": "http://stream.zeno.fm/ffup286wm8quv?rj-ttl=5&rj-tok=AAABfd4sWPIAirB2mSLVxNNMtQ",
+    "logo": "https://lh3.googleusercontent.com/8nFAeEVQsByh5cwPtxvAMu-q_3w2OM7cnyEhBLEn1pkclS9x8ldx9pnK5Y2x1AOsrS2F=s180-rw",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9439",
+    "name": "Radio Paredão PAGODAO",
+    "groups": "Samba",
+    "url": "http://stream.zeno.fm/3vwwc66wm8quv?rj-ttl=5&rj-tok=AAABfdtGICsAqinEej6JqcGD4Q",
+    "logo": "https://lh3.googleusercontent.com/1UICJJF7mmJnoAcaujKiPw_uKvJtjAgBdX40vNDKYQn6vn4q48AeSTz9TroxuHeZeWo=s180-rw",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9460",
+    "name": "Rádio Saudade 99.7",
+    "groups": "Oldies,Pop,Samba",
+    "url": "http://stream.zeno.fm/aye8zg6wm8quv?rj-ttl=5&rj-tok=AAABfd2PVUYA_uZUqzTX4Fo4lA",
+    "logo": "https://lh3.googleusercontent.com/IHF1bxYR2IFY9aCVhCdpcOnoBdLJbgLSQu3XwJEyGivFeuH30iNL-r4rb_k1xYWH5Q=s180-rw",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9507",
+    "name": "Radio Vitrola Musical",
+    "groups": "Bossa Nova,Samba",
+    "url": "http://stream.zeno.fm/5ce4f53pbc9uv?rj-ttl=5&rj-tok=AAABfd4YkGgARIXR0x5zWDZfKg",
+    "logo": "https://http2.mlstatic.com/D_NQ_NP_677327-MLU70810041297_082023-O.webp",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18563",
+    "name": "Pink",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/pink/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/704aa090-22cb-4ad4-9c94-dc7683f0c6d5.jpg",
+    "artist": "Pink",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

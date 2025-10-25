@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18319",
+    "name": "Elo",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/elo/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/d2f41d7b-eb91-4c4e-baad-b8f97b1c4383.jpg",
+    "artist": "Elo",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18320",
+    "name": "Elo - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/elohits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/8c5e5137-4184-419a-97b3-cdbabbebfb25.jpg",
+    "artist": "Elo",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

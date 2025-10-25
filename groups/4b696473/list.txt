@@ -1,0 +1,107 @@
+[
+  {
+    "id": "21228",
+    "name": "ABC Kids Listen",
+    "groups": "Education,Kids,Youth",
+    "url": "https://mediaserviceslive.akamaized.net/hls/live/2038321/abcextra/masterhq.m3u8",
+    "logo": "https://play-lh.googleusercontent.com/9haVzHF-gjg0yexoCM0A2CoSidbcb9ul6J7wt_STUit_1GjkXnZny7MYdWyN_wuRJMbU",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20762",
+    "name": "Radino Mein Kinderradio 103.2",
+    "groups": "Kids,Youth",
+    "url": "http://stream01.zogl.net:8906/stream",
+    "logo": "http://meinkinderradio.at/cms_files/siteadmin/site-design/header.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "12498",
+    "name": "Radio Arevik 97.3",
+    "groups": "Kids,Youth",
+    "url": "http://31.7.166.58:8003/stream",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Radio_Arevik.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

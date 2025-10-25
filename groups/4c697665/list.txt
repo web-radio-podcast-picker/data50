@@ -1,0 +1,212 @@
+[
+  {
+    "id": "21009",
+    "name": "RTBF Viva Cité Bruxelles",
+    "groups": "French,Live,Pop",
+    "url": "https://radios.rtbf.be/vivabxl-64.aac",
+    "logo": "https://www.static.rtbf.be/radio/vivacite/ico/favicon-vivacite-32x32.png",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21010",
+    "name": "RTBF Viva Cité Charleroi",
+    "groups": "French,Live,Pop",
+    "url": "https://radios.rtbf.be/vivacharleroi-64.aac",
+    "logo": "https://www.static.rtbf.be/radio/vivacite/ico/favicon-vivacite-32x32.png",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21011",
+    "name": "RTBF Viva Cité Hainaut",
+    "groups": "French,Live,Pop",
+    "url": "https://radios.rtbf.be/vivahainaut-64.aac",
+    "logo": "https://www.static.rtbf.be/radio/vivacite/ico/favicon-vivacite-32x32.png",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21012",
+    "name": "RTBF Viva Cité Liège",
+    "groups": "French,Live,Pop",
+    "url": "https://radios.rtbf.be/vivaliege-64.aac",
+    "logo": "https://www.static.rtbf.be/radio/vivacite/ico/favicon-vivacite-32x32.png",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21013",
+    "name": "RTBF Viva Cité Luxembourg",
+    "groups": "French,Live,Pop",
+    "url": "https://radios.rtbf.be/vivalux-64.aac",
+    "logo": "https://www.static.rtbf.be/radio/vivacite/ico/favicon-vivacite-32x32.png",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21014",
+    "name": "RTBF Viva Cité Namur & Brabant Wallon",
+    "groups": "French,Live,Pop",
+    "url": "https://radios.rtbf.be/vivanamurbw-64.aac",
+    "logo": "https://www.static.rtbf.be/radio/vivacite/ico/favicon-vivacite-32x32.png",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

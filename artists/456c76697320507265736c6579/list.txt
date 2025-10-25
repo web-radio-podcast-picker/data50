@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18324",
+    "name": "Elvis Presley",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/elvispresley/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/28c52de3-8405-4072-b44c-7cfc0aa7c6b5.jpg",
+    "artist": "Elvis Presley",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18325",
+    "name": "Elvis Presley - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/elvispresleyhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/0fc3275d-b0a9-4582-8d58-7f36be067825.jpg",
+    "artist": "Elvis Presley",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

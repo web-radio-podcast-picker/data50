@@ -1,0 +1,3222 @@
+[
+  {
+    "id": "20855",
+    "name": "1 Mini 2",
+    "groups": "Culture,News,Variety",
+    "url": "http://centauri.shoutca.st:9064/listen.pls",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSzelF4ogs_a6kyoGtn4oJD7imOEQQ-slYt8mdS7xL31KFQ1inbI5_uuv7NkhnVcbd2Rs&usqp=CAU",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20856",
+    "name": "1 Mini 3",
+    "groups": "Culture,News,Variety",
+    "url": "http://centauri.shoutca.st:9060/listen.pls",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSzelF4ogs_a6kyoGtn4oJD7imOEQQ-slYt8mdS7xL31KFQ1inbI5_uuv7NkhnVcbd2Rs&usqp=CAU",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21074",
+    "name": "1ART ArtSound FM 90.3",
+    "groups": "Classic,Culture",
+    "url": "https://stream.artsound.fm/mp3",
+    "logo": "https://artsound.fm/wp-content/uploads/2024/07/artsound-512x512-2-300x300-1.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21076",
+    "name": "1CMS CMS 91.1",
+    "groups": "Community,Culture",
+    "url": "https://c13.radioboss.fm:18190/stream",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR43niHAKhSxQSQ8m1Lgqc47rLRaK0_nNw0KA&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20857",
+    "name": "48FM 100.1",
+    "groups": "Arts,Culture,Rock",
+    "url": "https://stream.48fm.com:8000/48fm-64?rp_source=1&=&&___cb=592738638262229",
+    "logo": "https://48fm.com/wp-content/uploads/48FM_Logo-e1675251583838.webp",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16414",
+    "name": "BNR Radio Shumen 87.6",
+    "groups": "Culture,Pop",
+    "url": "http://stream.bnr.bg:8033/radio-shumen.aac",
+    "logo": "http://bnr.bg/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "14367",
+    "name": "Chengdu Culture and Leisure Broadcasting 94.6",
+    "groups": "Culture",
+    "url": "http://livecdn.pull.cdbs.com.cn/live/fm946/playlist.m3u8",
+    "logo": "http://www.cdbs.com.cn/statics/images/weixin/fm94.6.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "13720",
+    "name": "Culture & Arts Radio 100.8",
+    "groups": "Culture,Arts,Radio",
+    "url": "http://ls.qingting.fm/live/1713.m3u8",
+    "logo": "http://pic.qingting.fm/2016/1109/20161109112456190.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3841",
+    "name": "Culture Failure",
+    "groups": "Culture",
+    "url": "http://209.63.239.148:8000/listen.pls",
+    "logo": "https://emrl.com/app/uploads/2021/02/cf.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "14110",
+    "name": "Dali Prefecture Tourism Culture Broadcasting 90.2",
+    "groups": "Culture",
+    "url": "http://lhttp.qingting.fm/live/20207748/64k.mp3",
+    "logo": "http://www.dalitv.net/template/qim_vr3/img/icon/img_footer_logochanpin@2x.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9064",
+    "name": "Education FM 92",
+    "groups": "Culture,Education",
+    "url": "http://www.moeradiothai.net:1935/live/moe32.sdp/playlist.m3u8",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/RgZwkGWveY.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19763",
+    "name": "Ekattor Radio 98.4",
+    "groups": "Culture,Folk,Pop",
+    "url": "http://stream.zeno.fm/arm7p58w34zuv?rj-ttl=5&rj-tok=AAABfdx_ZNIAG6fcCQ1gN3djVQ",
+    "logo": "http://www.radio-hitz.com/images/radio-ekattor984-fm.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8455",
+    "name": "France Culture",
+    "groups": "French,Culture",
+    "url": "https://icecast.radiofrance.fr/franceculture-hifi.aac",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c9/France_Culture_-_2008.svg/1024px-France_Culture_-_2008.svg.png",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8456",
+    "name": "France Culture",
+    "groups": "French,Culture",
+    "url": "https://stream.radiofrance.fr/franceculture/franceculture.m3u8?id=radiofrance",
+    "logo": "https://www.franceculture.fr//favicons/android-icon-192x192.png",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "14275",
+    "name": "Guangdong Cultural and Sports Broadcasting 107.7",
+    "groups": "Culture,Sport,Traffic",
+    "url": "http://satellitepull.cnr.cn/live/wxgdwtgb/playlist.m3u8",
+    "logo": "https://pic.qtfm.cn/sso/198/1567411393720_vdCUW70Lt.jpeg!200",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17192",
+    "name": "Ikwekwezi FM",
+    "groups": "Culture,Variety",
+    "url": "https://27873.live.streamtheworld.com/IKWEKWEZIAAC.aac",
+    "logo": "https://yt3.googleusercontent.com/i8CylDwFR4vvaJd4YR2FmsIT7aj127SRnMFuABMUsWdtHmPTR_xr6LUrwnGDFKybRGW2mZdc3A=s900-c-k-c0x00ffffff-no-rj",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21511",
+    "name": "KiffFM",
+    "groups": "Culture,Sport,World",
+    "url": "https://listen.radioking.com/radio/613798/stream/675604",
+    "logo": "https://www.lyngsat.com/logo/radio/kk/kiff-fm-bj.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9789",
+    "name": "Lalegul FM 88.4",
+    "groups": "Culture,Top 40",
+    "url": "https://icecast.netmedya.net/lalegulfm",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-4Z0R3twTaL_sPQFXcui7L4awWUWh0PD8rA&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20624",
+    "name": "Mas 105.1",
+    "groups": "Culture,World",
+    "url": "https://whooshserver.net:9917/masfm",
+    "logo": "https://liveonlineradio.net/wp-content/uploads/2022/09/Mas-105.1-FM.webp",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "337",
+    "name": "Nacional Concepción del Uruguay LT11 1560",
+    "groups": "Culture,News,Sport",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad45",
+    "logo": "http://www.radionacional.com.ar/apple-icon-120x120.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "338",
+    "name": "Nacional Córdoba LRA7 750",
+    "groups": "Culture,News,Sport",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad7",
+    "logo": "http://www.radionacional.com.ar/apple-icon-120x120.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "339",
+    "name": "Nacional El Bolsón LRA57 1160",
+    "groups": "Culture,News,Sport",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad57",
+    "logo": "http://cdn-sp.radionacional.com.ar/wp-content/uploads/2018/04/19164102/Facebook.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "340",
+    "name": "Nacional Esquel LRA9 560",
+    "groups": "Culture,News,Sport",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad9",
+    "logo": "http://cdn-sp.radionacional.com.ar/wp-content/uploads/2018/04/19164102/Facebook.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "341",
+    "name": "Nacional Formosa LRA8 820",
+    "groups": "Culture,News,Sport",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad8",
+    "logo": "http://cdn-sp.radionacional.com.ar/wp-content/uploads/2018/04/19164102/Facebook.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "342",
+    "name": "Nacional Gob. Gregores LRA59 720",
+    "groups": "Culture,News,Sport",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad59",
+    "logo": "http://cdn-sp.radionacional.com.ar/wp-content/uploads/2018/04/19164102/Facebook.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "343",
+    "name": "Nacional Gualeguaychú LRA42 1310",
+    "groups": "Culture,News,Sport",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad31",
+    "logo": "http://cdn-sp.radionacional.com.ar/wp-content/uploads/2018/04/19164102/Facebook.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "344",
+    "name": "Nacional La Rioja LRA28 620",
+    "groups": "Culture,News,Sport",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad28",
+    "logo": "http://cdn-sp.radionacional.com.ar/wp-content/uploads/2018/04/19164102/Facebook.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "345",
+    "name": "Nacional Lago Argentino LU23 730",
+    "groups": "Culture,News,Sport",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad49",
+    "logo": "http://cdn-sp.radionacional.com.ar/wp-content/uploads/2018/04/19164102/Facebook.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "346",
+    "name": "Nacional Libertador LV8 780",
+    "groups": "Culture,News,Sport",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad48",
+    "logo": "http://www.radionacional.com.ar/apple-icon-120x120.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "347",
+    "name": "Nacional Malargüe LV19 790",
+    "groups": "Culture,News,Sport",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad47",
+    "logo": "http://cdn-sp.radionacional.com.ar/wp-content/uploads/2018/04/19164102/Facebook.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "348",
+    "name": "Nacional Mendoza LRA6 97.1",
+    "groups": "Culture,News,Sport",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad6",
+    "logo": "http://cdn-sp.radionacional.com.ar/wp-content/uploads/2018/04/19164102/Facebook.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "349",
+    "name": "Nacional Neuquén LRA43 103.3",
+    "groups": "Culture,News,Sport",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad73",
+    "logo": "http://www.radionacional.com.ar/apple-icon-120x120.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "350",
+    "name": "Nacional Paraná LT14 1260",
+    "groups": "Culture,News,Sport",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad44",
+    "logo": "http://www.radionacional.com.ar/apple-icon-120x120.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "351",
+    "name": "Nacional Paso de los Libres LT12 840",
+    "groups": "Culture,News,Sport",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad43",
+    "logo": "http://cdn-sp.radionacional.com.ar/wp-content/uploads/2018/04/19164102/Facebook.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "352",
+    "name": "Nacional Perito Moreno LRA56 860",
+    "groups": "Culture,News,Sport",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad34",
+    "logo": "http://cdn-sp.radionacional.com.ar/wp-content/uploads/2018/04/19164102/Facebook.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "353",
+    "name": "Nacional Resistencia LRA26 620",
+    "groups": "Culture,News,Sport",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad26",
+    "logo": "http://cdn-sp.radionacional.com.ar/wp-content/uploads/2018/04/19164102/Facebook.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "354",
+    "name": "Nacional Río Grande LRA24 640",
+    "groups": "Culture,News,Sport",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad24",
+    "logo": "http://www.radionacional.com.ar/apple-icon-120x120.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "355",
+    "name": "Nacional Río Mayo LRA58 1020",
+    "groups": "Culture,News,Sport",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad58",
+    "logo": "http://cdn-sp.radionacional.com.ar/wp-content/uploads/2018/04/19164102/Facebook.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "356",
+    "name": "Nacional Río Senguer LRA55 740",
+    "groups": "Culture,News,Sport",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad55",
+    "logo": "http://cdn-sp.radionacional.com.ar/wp-content/uploads/2018/04/19164102/Facebook.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "357",
+    "name": "Nacional Río Turbio LRA18 620",
+    "groups": "Culture,News,Sport",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad18",
+    "logo": "http://cdn-sp.radionacional.com.ar/wp-content/uploads/2018/04/19164102/Facebook.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "358",
+    "name": "Nacional Rosario LRA5 1300",
+    "groups": "Culture,News,Sport",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad5",
+    "logo": "http://cdn-sp.radionacional.com.ar/wp-content/uploads/2018/04/19164102/Facebook.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "359",
+    "name": "Nacional Salta LRA4 690",
+    "groups": "Culture,News,Sport",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad4",
+    "logo": "http://cdn-sp.radionacional.com.ar/wp-content/uploads/2018/04/19164102/Facebook.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "360",
+    "name": "Nacional San Juan LRA23 910",
+    "groups": "Culture,News,Sport",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad23",
+    "logo": "http://cdn-sp.radionacional.com.ar/wp-content/uploads/2018/04/19164102/Facebook.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "361",
+    "name": "Nacional San Martín de los Andes LRA53 1440",
+    "groups": "Culture,News,Sport",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad53",
+    "logo": "http://cdn-sp.radionacional.com.ar/wp-content/uploads/2018/04/19164102/Facebook.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "362",
+    "name": "Nacional San Rafael LV4 620",
+    "groups": "Culture,News,Sport",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad46",
+    "logo": "http://cdn-sp.radionacional.com.ar/wp-content/uploads/2018/04/19164102/Facebook.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "363",
+    "name": "Nacional Santa Fe LRA14 540",
+    "groups": "Culture,News,Sport",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad14",
+    "logo": "http://www.radionacional.com.ar/apple-icon-120x120.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "364",
+    "name": "Nacional Santa Rosa LRA3 730",
+    "groups": "Culture,News,Sport",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad3",
+    "logo": "http://cdn-sp.radionacional.com.ar/wp-content/uploads/2018/04/19164102/Facebook.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "365",
+    "name": "Nacional Ushuaia e Islas Malvinas LRA10 780",
+    "groups": "Culture,News,Sport",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad82",
+    "logo": "http://cdn-sp.radionacional.com.ar/wp-content/uploads/2018/04/19164102/Facebook.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "366",
+    "name": "Nacional Zapala LRA17 710",
+    "groups": "Culture,News,Sport",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad17",
+    "logo": "http://cdn-sp.radionacional.com.ar/wp-content/uploads/2018/04/19164102/Facebook.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5079",
+    "name": "North Carolina Reading Service",
+    "groups": "Culture,Education,Talk",
+    "url": "https://audio-mp3.ibiblio.org/trrs.mp3",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjJ2tIVJZ23lOllhKd-dmy3kqMu-8GCGQbnw&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "15093",
+    "name": "Ordos Traffic Culture and Sports Broadcasting 100.8",
+    "groups": "Traffic,Culture,Sport",
+    "url": "http://lhttp.qingting.fm/live/20352/64k.mp3",
+    "logo": "https://pic4.zhimg.com/v2-8488a4cb582b12c05f7cbb99cf5c480b_b.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20755",
+    "name": "ORF Ö1",
+    "groups": "Culture,News,Oldies",
+    "url": "https://orf-live.ors-shoutcast.at/oe1-q2a",
+    "logo": "http://oe1.orf.at/static/img/logo_oe1.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21380",
+    "name": "PAKAM",
+    "groups": "Culture,Indigenous,Variety",
+    "url": "https://firstnationsmedia.stream:7001/stream",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2KibzT3n4gtNhvELI2KUkkEvWz6V54TI0eRjnN44_-aUNov5Z92tAzHOaG5mN2Lng2aw&usqp=CAU",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21382",
+    "name": "PAW Radio",
+    "groups": "Culture,Indigenous,Variety",
+    "url": "https://firstnationsmedia.stream/8016/stream",
+    "logo": "https://i1.sndcdn.com/avatars-000086455490-cb2ws0-t1080x1080.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9266",
+    "name": "Piauí Gospel",
+    "groups": "Culture,Religion,Religion",
+    "url": "http://stream.zeno.fm/k4pw9r36mhruv?rj-ttl=5&rj-tok=AAABfdrzIC4AGgqd0l0zHO8wnQ",
+    "logo": "https://www.radioscast.com.br/public/img/radio/66391-2019-04-05.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "388",
+    "name": "Radio 750",
+    "groups": "Culture,World",
+    "url": "https://mdstrm.com/audio/6237761f64b72676f05cf6ab/live.m3u8",
+    "logo": "https://i1.wp.com/750.am/wp-content/uploads/2019/04/cropped-favicon.jpg?fit=180%2c180&#038;ssl=1",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "389",
+    "name": "Radio Activa 96.9",
+    "groups": "Culture",
+    "url": "http://streaming01.shockmedia.com.ar:9332/stream",
+    "logo": "http://html5player.shockmedia.com.ar/reproductores/img/portadas/7048.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "396",
+    "name": "Radio Belgrano 650",
+    "groups": "Culture,News,Sport",
+    "url": "http://server.laradio.online:25223/live.mp3",
+    "logo": "http://am570radioargentina.com.ar/wp-content/themes/radio/images/logo_650.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "12313",
+    "name": "Radio Culture",
+    "groups": "Radio,Culture",
+    "url": "https://culture.ice.infomaniak.ch/culture.aac",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScux81DOJwbDehXpYEi0pA7TgLSI6QYQwTbqfLTD0-Ng&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9348",
+    "name": "Radio Digasalinas",
+    "groups": "Culture,News,World",
+    "url": "http://stream.zeno.fm/2tvndms5v7zuv?rj-ttl=5&rj-tok=AAABfdpjqk0AtkVEGsZlWgjkfQ",
+    "logo": "https://1.bp.blogspot.com/-ee1t8Eqxiys/X1eHnouA1sI/AAAAAAAAObo/hyY7wx4rLt0lrDSs0bQQORRKiSbmgGfRQCLcBGAsYHQ/s0/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18825",
+    "name": "Radio Encuentro 96.1",
+    "groups": "Culture,Variety",
+    "url": "https://solo.disfrutaenlared.com:1936/encuentro/encuentro/playlist.m3u8",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mQk1cvqVYLGXWpFMEoPaQ7HqsQXlfFUktGwQdZ0zQ1dVA=s900-c-k-c0x00ffffff-no-rj",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9359",
+    "name": "Rádio Estação Gospel",
+    "groups": "Culture,Gospel",
+    "url": "http://stream.zeno.fm/ahu7876hhbruv?rj-ttl=5&rj-tok=AAABfdq0D_AA-RrxDSoOADaxSA",
+    "logo": "https://www.radio.net/images/broadcasts/73/9a/35354/1/c300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9360",
+    "name": "Radio Estação Pop",
+    "groups": "Culture,Pop",
+    "url": "https://s46.hstbr.net:8026/live?id=1530746592431",
+    "logo": "https://radioestacaopop.com/imagens/693884b7af5baf0502c3d93b8e410784.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20774",
+    "name": "Radio FRO",
+    "groups": "Arts,Culture,Variety",
+    "url": "http://www.fro.at:8008/fro-128.ogg",
+    "logo": "http://www.fro.at/images/fro_logo2016.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9373",
+    "name": "Rádio Gaudéria",
+    "groups": "Culture,World",
+    "url": "http://hts08.kshost.com.br:12036/stream",
+    "logo": "https://spaceks.net/sites/radiogauderia.com.br/images/icone/user_393528648.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18831",
+    "name": "Radio Guadalupe 103.1",
+    "groups": "Culture,Education,Religion",
+    "url": "http://radios.istbolivia.com:9304/stream",
+    "logo": "https://play-lh.googleusercontent.com/ydh_sePu_qQOituVjIKjcvfZ2Li__ujd7-GoFx8QZE4WootHAxCG0rUZJ8StF6UBMQ",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "441",
+    "name": "Radio Maestra 97.3",
+    "groups": "Culture,News,Talk",
+    "url": "http://streamall.alsolnet.com:443/radiomaestra",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s85013d.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "444",
+    "name": "Radio Mitre 790",
+    "groups": "Culture,News,Politics",
+    "url": "https://buecrplb01.cienradios.com.ar/Mitre790.aac",
+    "logo": "https://images-cienradios-arc.s3.amazonaws.com/radiomitre/logo/logo-widget.svg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "12502",
+    "name": "Radio Mshakuyt",
+    "groups": "Classic,Culture",
+    "url": "https://eu1.stream4cast.com/proxy/aamiry01/stream/;",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2s4oIczSojt-MNiwQRDuvurX19bhYeR6VQQ&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "449",
+    "name": "Radio Nacional 870",
+    "groups": "Culture,News",
+    "url": "http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/00/Nacional_AM_870_2016.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18850",
+    "name": "Radio Patria Nueva",
+    "groups": "Culture,Folk",
+    "url": "https://rponline.presidencia.gob.bo/stream",
+    "logo": "https://cdn.bolivia.com/canales/-3451.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18853",
+    "name": "Radio Qhana 98.5",
+    "groups": "Culture,News,Talk",
+    "url": "https://emiteradio.com/proxy/khana?mp=/stream",
+    "logo": "https://www.qhana.org.bo/assets/images/_smarty/logo_dark.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9666",
+    "name": "Radio Romania Cultural",
+    "groups": "Radio,Culture",
+    "url": "http://stream2.srr.ro:8012/",
+    "logo": "http://radioromaniacultural.ro/wp-content/uploads/2016/08/logo_radiocultural_dark.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9667",
+    "name": "Radio Romania Cultural",
+    "groups": "Radio,Culture",
+    "url": "http://stream2.srr.ro:8016/",
+    "logo": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/7/a/5/8/6420-8e15-43a0-9f25-4ae32602ee27",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9475",
+    "name": "Rádio Talian",
+    "groups": "Culture,Variety",
+    "url": "https://r6.ciclano.io:15080/stream",
+    "logo": "https://www.allradio.net/500/3RD2vB3G8vt_myvUUitF1.webp",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17104",
+    "name": "Radio Tirana 1",
+    "groups": "Culture,Sport,Talk",
+    "url": "http://79.106.48.2:8000/radiotirana1.m3u",
+    "logo": "https://www.radio.net/300/tirana1.png?version=ec5282fc41115646ba48d567bcee14d9",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17781",
+    "name": "Rádio UnIA 92.3",
+    "groups": "Culture,Education,University",
+    "url": "https://radios.vpn.sapo.pt/AO/radio2.mp3",
+    "logo": "https://www.radio.net/images/broadcasts/27/a3/27672/1/c300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9499",
+    "name": "Rádio Universitária 107.9",
+    "groups": "Culture,Variety",
+    "url": "http://200.129.35.230:8081/stream",
+    "logo": "https://www.radiouniversitariafm.com.br/wp-content/uploads/2014/07/logonew.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "487",
+    "name": "Radio UNR 103.3",
+    "groups": "Culture,Education,University",
+    "url": "https://cdn.instream.audio/:9202/stream",
+    "logo": "https://radio.unr.edu.ar/apple-touch-icon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9505",
+    "name": "Radio Verdinha 92.5",
+    "groups": "Comedy,Culture,Sport",
+    "url": "https://5a1c76baf08c0.streamlock.net/z18-live/stream/chunklist_w1729115384.m3u8",
+    "logo": "https://yt3.googleusercontent.com/UbEL_tpuofs8VYCXseMkpAZD3-9YTWHmbRAn99mkWPOhNSZgcVO0e-nFxE0wGwzEqialnvjEHA=s900-c-k-c0x00ffffff-no-rj",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20804",
+    "name": "Radio Waltl",
+    "groups": "Culture,Talk",
+    "url": "http://live.datamatix.at:8024/listen.pls",
+    "logo": "http://static.radio.at/images/broadcasts/82/d8/34064/c300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "2700",
+    "name": "Radio Zvezda 95.6",
+    "groups": "60s,70s,Culture",
+    "url": "https://zvezda-radio-rzv.mediacdn.ru/radio/zvezda/zvezda_128",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREzXmcCsIH9pepOLa9WGMsAIhZju3wMuX25Q&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20809",
+    "name": "RES.RADIO",
+    "groups": "Culture",
+    "url": "https://edge.mixlr.com/channel/zwtuo",
+    "logo": "https://res.radio/img/RES.Vektor.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21001",
+    "name": "RTBF La Première",
+    "groups": "Culture,Songs,World",
+    "url": "https://radios.rtbf.be/laprem1ere-64.aac",
+    "logo": "https://www.static.rtbf.be/radio/lapremiere/ico/favicon-lapremiere-192x192.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21002",
+    "name": "RTBF La Première",
+    "groups": "Culture,Songs,World",
+    "url": "https://radios.rtbf.be/vivabxl-128.mp3",
+    "logo": "https://www.static.rtbf.be/news/common/images/radio/logo/1400x1400/lapremiere-1400x1400.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21003",
+    "name": "RTBF La Première",
+    "groups": "Culture,Songs,World",
+    "url": "http://radios.rtbf.be/laprem1erebxl-128.mp3",
+    "logo": "https://www.static.rtbf.be/news/common/images/radio/logo/1400x1400/lapremiere-1400x1400.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "6889",
+    "name": "Salam Watander",
+    "groups": "Culture,News",
+    "url": "http://s10.myradiostream.com:12238/listen.pls",
+    "logo": "https://pbs.twimg.com/profile_images/1424693155509714945/orNEHShv_400x400.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21483",
+    "name": "SBS Radio 3",
+    "groups": "Culture,News,Talk",
+    "url": "https://sbs-hls.streamguys1.com/hls/sbs3/playlist.m3u8",
+    "logo": "https://media.info/l/f/6/6041.1510455545.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "14978",
+    "name": "Xiangyang Cultural and Educational Broadcasting 91.8",
+    "groups": "Culture,Education",
+    "url": "http://lhttp.qingting.fm/live/5057/64k.mp3",
+    "logo": "http://img.cjyun.org/a/10125/202104/2955a623aac374f1aec99ee42faa6d68.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "14416",
+    "name": "Xinjiang Culture and Tourism Broadcasting 92.9",
+    "groups": "Culture",
+    "url": "http://satellitepull.cnr.cn/live/wxxjsjcgb/playlist.m3u8",
+    "logo": "http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576572218290.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "15083",
+    "name": "Zhengzhou People's Broadcasting Station Culture and Entertainment Broadcasting",
+    "groups": "Culture",
+    "url": "http://lhttp.qingting.fm/live/1222/64k.mp3",
+    "logo": "http://www.zzradio.cn/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "14924",
+    "name": "Zigong Culture and Tourism Broadcasting 90.8",
+    "groups": "Culture",
+    "url": "https://lhttp.qtfm.cn/live/20529/64k.mp3",
+    "logo": "https://m.mlzhongguo.com/uploads/image/05/15895095011935.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

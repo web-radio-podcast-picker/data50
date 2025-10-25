@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18365",
+    "name": "Gershwin",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/gershwin/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/7948ba99-ac65-48f1-a0e9-50cf5931ab55.jpg",
+    "artist": "Gershwin",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

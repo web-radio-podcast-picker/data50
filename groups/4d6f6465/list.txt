@@ -1,0 +1,317 @@
+[
+  {
+    "id": "8877",
+    "name": "ABradio Depeche Mode",
+    "groups": "Mode",
+    "url": "http://mp3stream4.abradio.cz/depeche128.mp3",
+    "logo": "https://play-lh.googleusercontent.com/Td4Q6Sds87iRTPAjacmDsV26q60uXzscwzOiixxoEmN5vM1bdymPUDUoJYo_KXeI-oc=w480-h960",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8140",
+    "name": "Generations En Mode Brand New",
+    "groups": "French,Mode",
+    "url": "http://gene-wr10.ice.infomaniak.ch/gene-wr10.mp3",
+    "logo": "http://generations.fr/media/radio/thumb/90x90_brandnew.png",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8141",
+    "name": "Generations En Mode Brand New",
+    "groups": "French,Mode",
+    "url": "http://gene-wr10.ice.infomaniak.ch/gene-wr10.aac",
+    "logo": "http://generations.fr/media/radio/thumb/90x90_brandnew.png",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17691",
+    "name": "La Radio de Moda",
+    "groups": "Radio,Mode",
+    "url": "http://stream.zeno.fm/z0ep8kaffseuv?rj-ttl=5&rj-tok=AAABfd3zMBsAtopsUHJOcO1EYA",
+    "logo": "https://www.radio.net/images/broadcasts/7c/a7/27499/1/c300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20405",
+    "name": "MyRadio Depeche Mode",
+    "groups": "Mode",
+    "url": "https://radio-stream-0.obozrevatel.com/depechemode128.mp3",
+    "logo": "http://myradio.com.ua/assets/img/apple-touch-icon-120x120.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "6970",
+    "name": "Radio Moda 97.3",
+    "groups": "Radio,Mode",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MOD.mp3?dist=20004",
+    "logo": "https://cdn-profiles.tunein.com/s97140/images/logog.png?t=1655925722000",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9464",
+    "name": "Radio Sertanejo Só Modão",
+    "groups": "Mode",
+    "url": "http://stream.zeno.fm/6knukz6wm8quv?rj-ttl=5&rj-tok=AAABfdr3UEIA382JJn7tYX3yOg",
+    "logo": "https://lh3.googleusercontent.com/xLOneYUAADyDp4yGEjMAcjyIpfesGHJ_ITSmE3OxxFuYZCnG_d4ty2MKOF6fGM5SGWY=s180-rw",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16255",
+    "name": "RMF Depeche Mode",
+    "groups": "Mode",
+    "url": "http://31.192.216.7/DEPECHEMODE",
+    "logo": "http://www.rmfon.pl/i/logos/100x100/depechemode.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16256",
+    "name": "RMF Depeche Mode + Fakty",
+    "groups": "Mode",
+    "url": "http://31.192.216.7/DEPECHEMODEF",
+    "logo": "http://www.rmfon.pl/i/logos/100x100/depechemode.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

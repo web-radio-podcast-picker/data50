@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18213",
+    "name": "Booker T & The Mg'S",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/bookert/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/4c18ce0f-9e44-4e7d-9ee3-03071eb7c6ca.jpg",
+    "artist": "Booker T & The Mg'S",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

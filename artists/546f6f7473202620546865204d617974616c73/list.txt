@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18688",
+    "name": "Toots & The Maytals",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/tootsandthemaytals/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/d65e04f7-d167-4c9d-8251-e5713a57769f.jpg",
+    "artist": "Toots & The Maytals",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

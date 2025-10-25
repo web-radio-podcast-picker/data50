@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18235",
+    "name": "Calvin Harris",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/calvinharris/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/627a0028-940e-4769-86f4-59007fe99780.jpg",
+    "artist": "Calvin Harris",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

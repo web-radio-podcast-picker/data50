@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18403",
+    "name": "Jay-Z",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/jay-z/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/9c1b1e47-a699-466c-8148-873114d5d0ad.jpg",
+    "artist": "Jay-Z",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

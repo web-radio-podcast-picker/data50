@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18541",
+    "name": "One Direction",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/onedirection/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/a8083432-0198-4795-bb67-cd3e38dfe50f.jpg",
+    "artist": "One Direction",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18542",
+    "name": "One Direction - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/onedirectionhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/e8139dcf-8676-4fa6-ada4-41eef363c572.jpg",
+    "artist": "One Direction",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18289",
+    "name": "Diana Ross",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/dianaross/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/2ab7a04b-e341-4575-ae59-27a3cab0ef2c.jpg",
+    "artist": "Diana Ross",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18290",
+    "name": "Diana Ross - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/dianarosshits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/4ad0582b-7357-466f-bd19-3b64ace462bf.jpg",
+    "artist": "Diana Ross",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

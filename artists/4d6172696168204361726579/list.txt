@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18492",
+    "name": "Mariah Carey",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/mariahcarey/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/5b76acd3-9b5f-44fd-a1da-b1d59eb8014b.jpg",
+    "artist": "Mariah Carey",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18493",
+    "name": "Mariah Carey - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/mariahcareyhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/57cdff0e-0f3a-4cf2-a3f0-921d62d2a968.jpg",
+    "artist": "Mariah Carey",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

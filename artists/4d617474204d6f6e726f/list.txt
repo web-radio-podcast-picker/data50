@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18498",
+    "name": "Matt Monro",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/mattmonro/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/97258e06-b0da-426b-b328-46d0fd8d7e4d.jpg",
+    "artist": "Matt Monro",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

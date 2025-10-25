@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18504",
+    "name": "Michael Bolton",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/michaelbolton/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/905bb60e-3f60-4d2d-a85d-8eaa4f8069cd.jpg",
+    "artist": "Michael Bolton",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18271",
+    "name": "Crowded House",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/crowdedhouse/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/9bcf9d30-a9b9-44c7-9ef4-ccee8582fc65.jpg",
+    "artist": "Crowded House",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

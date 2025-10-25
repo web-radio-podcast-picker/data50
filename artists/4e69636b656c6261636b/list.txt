@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18531",
+    "name": "Nickelback",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/nickelback/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/ee8d23c4-082b-483b-a70e-ae61eebc349e.jpg",
+    "artist": "Nickelback",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

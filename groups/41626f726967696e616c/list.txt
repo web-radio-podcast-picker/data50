@@ -1,0 +1,72 @@
+[
+  {
+    "id": "21328",
+    "name": "First Nations Radio 94.5",
+    "groups": "Aboriginal,Community,World",
+    "url": "http://stream.radiolarrakia.org:8000/radiolarrakia",
+    "logo": "https://store-images.s-microsoft.com/image/apps.5027.14343190908724800.98ef5ae3-fc39-42b3-b5cb-8c67ecd6b7f7.8e52cc54-02eb-4015-82c4-c1c5a4d4cce7",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21360",
+    "name": "Koori Radio 93.7",
+    "groups": "Aboriginal,Indigenous",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/2LNDAAC.aac",
+    "logo": "https://www.kooriradio.com/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

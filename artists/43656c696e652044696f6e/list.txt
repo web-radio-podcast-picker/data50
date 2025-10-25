@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18245",
+    "name": "Celine Dion",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/celinedion/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/97ca646d-b6e2-4cce-bbfd-ed389d99251e.jpg",
+    "artist": "Celine Dion",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18246",
+    "name": "Celine Dion - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/celinedionhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/5897a6c1-f867-4e9c-885f-76a5f91d21ef.jpg",
+    "artist": "Celine Dion",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

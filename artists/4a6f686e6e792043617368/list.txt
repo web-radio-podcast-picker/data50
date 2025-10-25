@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18426",
+    "name": "Johnny Cash",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/johnnycash/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/72e949a8-be67-416b-a954-1ff9023bed39.jpg",
+    "artist": "Johnny Cash",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18427",
+    "name": "Johnny Cash - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/johnnycashhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/3d0fe910-bd46-4816-b806-c903e82daecc.jpg",
+    "artist": "Johnny Cash",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "id": "15569",
+    "name": "Bollywood Punjabi Radio",
+    "groups": "Punjabi,Radio",
+    "url": "http://stream.zeno.fm/1k0y9f0cm0quv?rj-ttl=5&rj-tok=AAABfd4xjmgA4bfeLBbLE_gDDQ",
+    "logo": "http://2.bp.blogspot.com/-xk7G3Nvc4JY/XV9YrKrcrYI/AAAAAAAAFUA/-vPY7nFl0GMP5mEr2o6l-S00wnvZdSl_QCK4BGAYYCw/s558/logod.png",
+    "artist": null,
+    "lang": "Panjabi",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "13034",
+    "name": "CHDP Radio Dilon Punjabi",
+    "groups": "Radio,Punjabi",
+    "url": "https://cp3.shoutcheap.com:18247/stream",
+    "logo": "https://radiodilse.files.wordpress.com/2020/09/wire-2020-09-19-at-19-09-10.jpg?w=350&zoom=2",
+    "artist": null,
+    "lang": "Panjabi",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21339",
+    "name": "Harman Radio Australia",
+    "groups": "Punjabi,World",
+    "url": "http://harmanradio.net:8000/main_48.mp3",
+    "logo": "https://play-lh.googleusercontent.com/vm4MNLoGipHAGWqkjedwLyLmuMJFUC0bsXmm6Cos21uOGzGaNaZfBjv8oAxc7m8dug=w240-h480-rw",
+    "artist": null,
+    "lang": "Panjabi",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5078",
+    "name": "Non Stop Punjabi Radio",
+    "groups": "Punjabi,Radio",
+    "url": "http://74.50.122.103:7020/stream/1/",
+    "logo": "https://www.punjabiradiousa.com/favicon.ico",
+    "artist": null,
+    "lang": "Panjabi",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "15641",
+    "name": "Punjabi Haryanvi DJ",
+    "groups": "Punjabi",
+    "url": "http://stream.zeno.fm/5ywhyectsf9uv?rj-ttl=5&rj-tok=AAABfdvolqsAl7AUA4l-m4l-iA",
+    "logo": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FAAzo1HELUrW2ErLhaGDlrLHsKNKd26xc3g0h-g-rsUg%2Frs%3Afit%3A250%3A250%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRFF3Wk9TbUFvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRHcwOWJFa2dnTW9nRUVlbVZ1YncvaW1hZ2UvP3Jlc2l6ZT0yNTB4MjUwJnVwZGF0ZWQ9MTY0MDA2OTg2MTAwMA.webp&w=640&q=75.png",
+    "artist": null,
+    "lang": "Panjabi",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "15642",
+    "name": "Punjabi Mirchi",
+    "groups": "Punjabi",
+    "url": "https://yopunjabihdlive-lh.akamaihd.net/i/YoPunjabiHDLive_1_1@345454/index_1_a-p.m3u8?sd=10&rebase=on",
+    "logo": "https://a10.gaanacdn.com/gn_img/m_radio_circle/XzVWRLKdqR/XzVWRLKdqR/size_l_1637661317.webp",
+    "artist": null,
+    "lang": "Panjabi",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "15643",
+    "name": "Radio Punjabi Today",
+    "groups": "Radio,Punjabi",
+    "url": "http://stream.zeno.fm/5canbwkagwzuv?rj-ttl=5&rj-tok=AAABfd2AyA0A8-vvPlpl87Q2jQ",
+    "logo": "https://onlineradiofm.in/assets/image/radio/180/logo2.png",
+    "artist": null,
+    "lang": "Panjabi",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5300",
+    "name": "Radio Punjabi USA",
+    "groups": "Radio,Punjabi",
+    "url": "http://198.178.123.5:7016/;stream.mp3",
+    "logo": "http://punjabiradiousa.com/wp-content/uploads/2015/04/PRUSA-Transparent-LOGO-300x151.png",
+    "artist": null,
+    "lang": "Panjabi",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

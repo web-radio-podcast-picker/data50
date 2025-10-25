@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "21228",
+    "name": "ABC Kids Listen",
+    "groups": "Education,Kids,Youth",
+    "url": "https://mediaserviceslive.akamaized.net/hls/live/2038321/abcextra/masterhq.m3u8",
+    "logo": "https://play-lh.googleusercontent.com/9haVzHF-gjg0yexoCM0A2CoSidbcb9ul6J7wt_STUit_1GjkXnZny7MYdWyN_wuRJMbU",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20609",
+    "name": "AFM Aruba",
+    "groups": "Education,Top 40",
+    "url": "http://ice1.securenetsystems.net/DEMOSTN",
+    "logo": "http://afmaruba.com//web/templates/radiowave/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "14573",
+    "name": "Education and Rural",
+    "groups": "Education",
+    "url": "http://lhttp.qingting.fm/live/4606/64k.mp3",
+    "logo": "https://pic.qtfm.cn/2015/0409/20150409162701998.jpg!200",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9064",
+    "name": "Education FM 92",
+    "groups": "Culture,Education",
+    "url": "http://www.moeradiothai.net:1935/live/moe32.sdp/playlist.m3u8",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/RgZwkGWveY.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19811",
+    "name": "Educational Radio Kaohsiung Branch",
+    "groups": "Education,Radio",
+    "url": "https://cast.ner.gov.tw/5",
+    "logo": "https://bkimg.cdn.bcebos.com/pic/8694a4c27d1ed21b0ef455cbc127cac451da81cb91ce?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U4MA==,g_7,xp_5,yp_5/format,f_auto",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19803",
+    "name": "Educational Radio Station Changhua Branch FM",
+    "groups": "Education,Radio",
+    "url": "https://cast.ner.gov.tw/4",
+    "logo": "https://bkimg.cdn.bcebos.com/pic/8694a4c27d1ed21b0ef455cbc127cac451da81cb91ce?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U4MA==,g_7,xp_5,yp_5/format,f_auto",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19806",
+    "name": "Educational Radio Station FM",
+    "groups": "Education,Radio",
+    "url": "https://cast.ner.gov.tw/1",
+    "logo": "https://www.ner.gov.tw/assets/images/logo.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19809",
+    "name": "Educational Radio Station Hualien Branch FM-1",
+    "groups": "Education,Radio",
+    "url": "https://cast.ner.gov.tw/8",
+    "logo": "https://bkimg.cdn.bcebos.com/pic/8694a4c27d1ed21b0ef455cbc127cac451da81cb91ce?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U4MA==,g_7,xp_5,yp_5/format,f_auto",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19810",
+    "name": "Educational Radio Station Hualien Branch FM-2",
+    "groups": "Education,Radio",
+    "url": "https://cast.ner.gov.tw/9",
+    "logo": "https://bkimg.cdn.bcebos.com/pic/8694a4c27d1ed21b0ef455cbc127cac451da81cb91ce?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U4MA==,g_7,xp_5,yp_5/format,f_auto",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19805",
+    "name": "Educational Radio Station Main Station AM",
+    "groups": "Education,Radio",
+    "url": "https://cast.ner.gov.tw/2",
+    "logo": "https://www.ner.gov.tw/assets/images/logo.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19804",
+    "name": "Educational Radio Station Taichung AM",
+    "groups": "Education,Radio",
+    "url": "https://cast.ner.gov.tw/3",
+    "logo": "https://bkimg.cdn.bcebos.com/pic/8694a4c27d1ed21b0ef455cbc127cac451da81cb91ce?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U4MA==,g_7,xp_5,yp_5/format,f_auto",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19807",
+    "name": "Educational Radio Station Taitung Branch FM",
+    "groups": "Education,Radio",
+    "url": "https://cast.ner.gov.tw/6",
+    "logo": "https://bkimg.cdn.bcebos.com/pic/8694a4c27d1ed21b0ef455cbc127cac451da81cb91ce?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U4MA==,g_7,xp_5,yp_5/format,f_auto",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19808",
+    "name": "Educational Radio Station Taitung Branch FM-2",
+    "groups": "Education,Radio",
+    "url": "https://cast.ner.gov.tw/7",
+    "logo": "https://bkimg.cdn.bcebos.com/pic/8694a4c27d1ed21b0ef455cbc127cac451da81cb91ce?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U4MA==,g_7,xp_5,yp_5/format,f_auto",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "15014",
+    "name": "Ganzhou Rural Science and Education Broadcasting 99.2",
+    "groups": "Education",
+    "url": "https://lhttp.qingting.fm/live/4941/64k.mp3?",
+    "logo": "https://pic.baike.soso.com/ugc/baikepic2/0/20210519125233-852703689_jpeg_483_483_30047.jpg/0",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "14295",
+    "name": "Guangxi Education Broadcasting 93.0",
+    "groups": "Education",
+    "url": "http://satellitepull.cnr.cn/live/wx32gbjyshgb/playlist.m3u8",
+    "logo": "https://m.mlzhongguo.com/uploads/image/05/15894344339323.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "14619",
+    "name": "Henan Education Broadcasting 106.6",
+    "groups": "Education",
+    "url": "http://satellitepull.cnr.cn/live/wxhnlygb/playlist.m3u8",
+    "logo": "https://pic.qingting.fm/2017/1010/20171010044601.jpeg!200",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "14620",
+    "name": "Henan Education Broadcasting 106.6",
+    "groups": "Education",
+    "url": "http://lhttp.qingting.fm/live/1215/64k.mp3",
+    "logo": "https://pic.qingting.fm/2017/1010/20171010044601.jpeg!200",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "14035",
+    "name": "Jilin Education Broadcasting 96.3",
+    "groups": "Education",
+    "url": "https://live.xmcdn.com/live/437/64.m3u8",
+    "logo": "https://imagev2.xmcdn.com/group76/M0A/90/7C/wKgO3l6BzPnBIkTKAABVij9KWPY652.png!strip=1&quality=7&magick=webp&op_type=5&upload_type=cover&name=web_large&device_type=ios",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "4727",
+    "name": "KUCV 91.1 Nebraska Educational Telecommunications",
+    "groups": "Education",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KUCVFM_SC",
+    "logo": "http://static.radio.net/images/broadcasts/6a/6a/31196/c300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "4728",
+    "name": "KUCV HD2 Nebraska Educational Telecommunications",
+    "groups": "Education",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KUCVHD2_SC",
+    "logo": "http://is4.mzstatic.com/image/thumb/Purple128/v4/1c/25/b4/1c25b418-9de7-3173-782b-1ed0b0e22102/source/175x175bb.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17147",
+    "name": "Mazingira FM 91.7",
+    "groups": "Education,News",
+    "url": "https://radiotadio.co.tz/mazingira-fm-stream",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpWjU5RBSMRkPcL0reKDddbmZj1eL9AACjDQ&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5079",
+    "name": "North Carolina Reading Service",
+    "groups": "Culture,Education,Talk",
+    "url": "https://audio-mp3.ibiblio.org/trrs.mp3",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjJ2tIVJZ23lOllhKd-dmy3kqMu-8GCGQbnw&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "252",
+    "name": "Radio Educativa 103.1",
+    "groups": "Radio,Education",
+    "url": "https://radios.vpn.sapo.pt/CV/radio11.mp3",
+    "logo": "https://www.balai.cv/wp-content/uploads/2021/10/w_rcv-1.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18826",
+    "name": "Radio Erbol 100.9",
+    "groups": "Education,News,Talk",
+    "url": "https://radio.erbol.com.bo/",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyl11ASNdIUvsUZl5PKT7fIhjEX4z0LuqIVA&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18831",
+    "name": "Radio Guadalupe 103.1",
+    "groups": "Culture,Education,Religion",
+    "url": "http://radios.istbolivia.com:9304/stream",
+    "logo": "https://play-lh.googleusercontent.com/ydh_sePu_qQOituVjIKjcvfZ2Li__ujd7-GoFx8QZE4WootHAxCG0rUZJ8StF6UBMQ",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18855",
+    "name": "Radio San Miguel 99.1",
+    "groups": "Community,Education",
+    "url": "https://stream-179.zeno.fm/n0gybrq4k0hvv",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5wNmTt9gjCXgWgKPqYm-LPxox5TuxvSFryA&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9488",
+    "name": "Radio UCP 106.3",
+    "groups": "Education,Pop,University",
+    "url": "https://www.ucpfm.com.br/player/getSom.php",
+    "logo": "https://static-media.streema.com/media/cache/ba/f7/baf7cd838ceafae48970948bfdaad9c6.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9490",
+    "name": "Radio UDESC 100.1",
+    "groups": "Education,Variety",
+    "url": "https://cast.youngtech.radio.br/radio/8350/radio",
+    "logo": "https://static-media.streema.com/media/cache/77/cb/77cb57a377444f51bfe5332d06cb9b29.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9491",
+    "name": "Radio UFMG Educativa 104.5",
+    "groups": "Education,Variety",
+    "url": "http://150.164.63.210:8000/aovivo.mp3",
+    "logo": "https://ufmg.br////120.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17781",
+    "name": "Rádio UnIA 92.3",
+    "groups": "Culture,Education,University",
+    "url": "https://radios.vpn.sapo.pt/AO/radio2.mp3",
+    "logo": "https://www.radio.net/images/broadcasts/27/a3/27672/1/c300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9498",
+    "name": "Rádio Universitária 100.7",
+    "groups": "Education,Talk",
+    "url": "http://paineldj5.com.br:12330/stream?type=.mp3",
+    "logo": "https://play-lh.googleusercontent.com/4BMH7_WVw0qba-CiuQx_ataUjuOSrRIZpWIJym7qduc3NxYynZtqkCSbmoW7Wlezpvg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "487",
+    "name": "Radio UNR 103.3",
+    "groups": "Culture,Education,University",
+    "url": "https://cdn.instream.audio/:9202/stream",
+    "logo": "https://radio.unr.edu.ar/apple-touch-icon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9509",
+    "name": "Radio Web Nas Ondas do Saber",
+    "groups": "Education,Science",
+    "url": "https://s06.maxcast.com.br:8090/live",
+    "logo": "https://play-lh.googleusercontent.com/VXidN0-fjqYkjfx6rFKFaXpydwiGhlSesSgr9HxO0vxwO8UfYDnNDIw9RZZwvtRsSlk=w526-h296-rw",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "14992",
+    "name": "Tibet Science and Education Broadcasting",
+    "groups": "Education",
+    "url": "http://media.vtibet.com/masvod/HLSLive/49/kejiaoRadio.m3u8",
+    "logo": "http://www.vtibet.com/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21464",
+    "name": "TSIMA Radio 4MW 1260",
+    "groups": "Community,Country,Education",
+    "url": "https://firstnationsmedia.stream/8024/stream",
+    "logo": "http://www.tsima4mw.org.au/wp-content/uploads/2019/02/Website-Logo-Header.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9543",
+    "name": "UESB 97.5",
+    "groups": "Education,News,Pop",
+    "url": "http://200.128.67.125:8001/stream",
+    "logo": "https://tudoradio.com/img/uploads/radios/5eaaff2101d9d.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9544",
+    "name": "UFC Rádio Universitária 107.9",
+    "groups": "Education,University",
+    "url": "http://200.129.35.230:8081/;?type=http&nocache=2705",
+    "logo": "http://hdmais.com.br/universitariafm/wp-content/themes/theme48301/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9545",
+    "name": "Unijuí 106.9",
+    "groups": "Education,University,Variety",
+    "url": "http://fm.unijui.edu.br:8000/stream",
+    "logo": "https://www.unijui.edu.br/images/stories/unijuiFM/logo-radio.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "14978",
+    "name": "Xiangyang Cultural and Educational Broadcasting 91.8",
+    "groups": "Culture,Education",
+    "url": "http://lhttp.qingting.fm/live/5057/64k.mp3",
+    "logo": "http://img.cjyun.org/a/10125/202104/2955a623aac374f1aec99ee42faa6d68.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "13870",
+    "name": "Yunnan Education Broadcasting 100.0",
+    "groups": "Education",
+    "url": "http://satellitepull.cnr.cn/live/wxynjygb/playlist.m3u8",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s131726d.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

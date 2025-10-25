@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18463",
+    "name": "Kraftwerk",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/kraftwerk/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/ed567ae1-3f04-4b55-bf98-5493c929aed6.jpg",
+    "artist": "Kraftwerk",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

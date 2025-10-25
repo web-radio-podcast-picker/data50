@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18405",
+    "name": "Jefferson Airplane",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/jeffersonairplane/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/3c0b6395-f20a-4c39-9f23-b2b7bdf9e838.jpg",
+    "artist": "Jefferson Airplane",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

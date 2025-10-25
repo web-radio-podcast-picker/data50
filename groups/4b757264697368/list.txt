@@ -1,0 +1,72 @@
+[
+  {
+    "id": "20982",
+    "name": "Radyo Denge Gel 11510",
+    "groups": "Kurdish,Variety,World,Turk",
+    "url": "https://dengegel-rojavaradio.radioca.st/stream",
+    "logo": "https://denge-gel.org/wp-content/uploads/2024/02/logo-removebg-preview.png",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9895",
+    "name": "TRT Radyo Kurdi",
+    "groups": "Kurdish,Variety,Turk",
+    "url": "https://radio-trtradyo6.medya.trt.com.tr/master_128.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-DR0YkgM2OVWXN1ayHyCULMnGVIF9DIZ0HA&s",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

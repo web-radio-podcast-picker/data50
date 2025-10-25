@@ -1,0 +1,37 @@
+[
+  {
+    "id": "20747",
+    "name": "Moj Radio",
+    "groups": "Folk,Serbian,World",
+    "url": "http://eu4.fastcast4u.com:5692/stream",
+    "logo": "https://play-lh.googleusercontent.com/le-2v0hk4Ma6sfHwkunypwnDi2Lk7Tl_VyIMM_YJrkVCBTnfC_LTzsdBclQYhL0f3w",
+    "artist": null,
+    "lang": "Serbian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

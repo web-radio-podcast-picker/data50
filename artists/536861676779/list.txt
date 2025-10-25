@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18610",
+    "name": "Shaggy",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/shaggy/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/9bdccd89-d993-46e3-a86c-2e67fffd6e4b.jpg",
+    "artist": "Shaggy",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18691",
+    "name": "Twenty One Pilots",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/twentyonepilots/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/c100eec4-10d7-462f-a5c7-2e8f47391ff5.jpg",
+    "artist": "Twenty One Pilots",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

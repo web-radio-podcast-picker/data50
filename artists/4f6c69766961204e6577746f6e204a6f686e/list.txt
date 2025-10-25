@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18539",
+    "name": "Olivia Newton John",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/onj/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/f33dbb53-05fe-427c-99d0-a7e7e1e3e46a.jpg",
+    "artist": "Olivia Newton John",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

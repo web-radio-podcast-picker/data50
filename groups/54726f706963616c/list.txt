@@ -1,0 +1,37 @@
+[
+  {
+    "id": "9196",
+    "name": "Hunter Tropical",
+    "groups": "Tropical,World",
+    "url": "https://live.hunter.fm/tropical_high",
+    "logo": "https://cdn.hunter.fm/image/thumb/station/tropical-first/1000x1000ht.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

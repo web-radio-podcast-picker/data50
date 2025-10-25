@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18366",
+    "name": "Glen Campbell",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/glencampbell/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/80a9da50-8cc9-41b4-b566-5328f94f77b7.jpg",
+    "artist": "Glen Campbell",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18367",
+    "name": "Glen Campbell - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/glencampbellhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/f5c52af6-c608-4336-9fdb-7f1fed445e8d.jpg",
+    "artist": "Glen Campbell",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

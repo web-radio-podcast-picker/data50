@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18337",
+    "name": "Everly Brothers",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/everlybrothers/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/81d8d7c3-e213-49c3-a3ce-e8c531434864.jpg",
+    "artist": "Everly Brothers",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18338",
+    "name": "Everly Brothers - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/everlybrothershits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/cbb70be9-6931-42fd-8c2e-bd39c79fcab1.jpg",
+    "artist": "Everly Brothers",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

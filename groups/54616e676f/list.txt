@@ -1,0 +1,107 @@
+[
+  {
+    "id": "298",
+    "name": "La 2x4 92.7",
+    "groups": "Latin,Spanish,Tango",
+    "url": "https://storage.googleapis.com/m-infra.appspot.com/public/webchat/sent.mp3",
+    "logo": "https://www.phonostar.de/images/auto_created/la_2x4184x184.png",
+    "artist": null,
+    "lang": "Spanish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "299",
+    "name": "La 2x4 92.7",
+    "groups": "Latin,Spanish,Tango",
+    "url": "https://tus.radios.ar/9270/stream",
+    "logo": "https://www.phonostar.de/images/auto_created/la_2x4184x184.png",
+    "artist": null,
+    "lang": "Spanish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "435",
+    "name": "Radio La Luna 1140",
+    "groups": "Dance,Latin,Tango",
+    "url": "https://server.ohradio.com.ar/9344/stream",
+    "logo": "https://radiolaluna.com.ar/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

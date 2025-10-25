@@ -1,0 +1,282 @@
+[
+  {
+    "id": "9121",
+    "name": "ApaBossaJazz",
+    "groups": "Bossa Nova,Jazz",
+    "url": "http://centova2.ipstm.net:9317/stream",
+    "logo": "https://cdn-profiles.tunein.com/s211763/images/logog.png?t=1",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9218",
+    "name": "JP Bossa Nova Jovem Pan",
+    "groups": "Bossa Nova,Sport,Sport",
+    "url": "http://6d9a.webradio.upx.net.br:9974/stream",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s196948q.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9250",
+    "name": "MPBdoVinilAoDigital",
+    "groups": "Bossa Nova,Pop",
+    "url": "http://192.99.14.210:8339/stream",
+    "logo": "https://play-lh.googleusercontent.com/wNm1qcW9HRZQ2IzuXNpEv1MygQTRIh8TrE_0k7jV5k2vwTg_wVmfSZhWcSziATLgXFc=w526-h296-rw",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9265",
+    "name": "Paul In Rio",
+    "groups": "Bossa Nova",
+    "url": "https://usa10.fastcast4u.com/paulinrio",
+    "logo": "https://static-media.streema.com/media/cache/a6/48/a64877873262d4f2558cae7d28560cb4.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9312",
+    "name": "Radio Bossa Jazz Brasil",
+    "groups": "Bossa Nova,Jazz",
+    "url": "https://centova5.transmissaodigital.com:20104/live",
+    "logo": "https://bossajazzbrasil.com/wp-content/uploads/2020/12/bjs-app.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9313",
+    "name": "Rádio Bossa Nova",
+    "groups": "Bossa Nova,Samba",
+    "url": "http://54.38.43.201:8009/stream-128kmp3-BossaNovaBrazil",
+    "logo": "https://cdn-profiles.tunein.com/s304824/images/logoq.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9455",
+    "name": "Rádio Rio Verde 96.5",
+    "groups": "Bossa Nova,Jazz",
+    "url": "http://paineldj5.com.br:8147/stream",
+    "logo": "https://www.cxradio.com.br/img/Radio/Logo/f571e1c16986782863070ef2db2bfa32.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9507",
+    "name": "Radio Vitrola Musical",
+    "groups": "Bossa Nova,Samba",
+    "url": "http://stream.zeno.fm/5ce4f53pbc9uv?rj-ttl=5&rj-tok=AAABfd4YkGgARIXR0x5zWDZfKg",
+    "logo": "https://http2.mlstatic.com/D_NQ_NP_677327-MLU70810041297_082023-O.webp",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

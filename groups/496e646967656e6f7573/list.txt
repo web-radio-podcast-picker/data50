@@ -1,0 +1,422 @@
+[
+  {
+    "id": "21091",
+    "name": "2CUZ 106.5 FM",
+    "groups": "Community,Indigenous",
+    "url": "http://us4new.listen2myradio.com:2199/proxy/mudaabor/;stream/1",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vuo6Ilj-4giGcAsvbNSt8etp_MtVLyAxfw&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21138",
+    "name": "3KND 1503",
+    "groups": "Community,Indigenous",
+    "url": "https://23093.live.streamtheworld.com/3KNDAAC.aac",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS19JIw29yP2qZSzOYqimRaZmewt0UJF4Q8ZQ&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21158",
+    "name": "4AAA 98.9",
+    "groups": "Community,Indigenous",
+    "url": "https://28863.live.streamtheworld.com/989FMAAC.aac",
+    "logo": "https://nz.radio.net/300/4aaa.jpeg?version=d69274dcfd980597622d215a82ebbec7",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21167",
+    "name": "4CIM 98.7",
+    "groups": "Community,Indigenous",
+    "url": "https://audio-edge-vqwx4.yyz.g.radiomast.io/8793edda-b581-48e9-bf45-b045bbdc4224?t=nightvision&cachebuster=1372003720832893.8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR5aOTzRdyljaTssLbxa5gVgO82DLFwid9OA&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21212",
+    "name": "98.9 Brisbane Indigenous Media Association",
+    "groups": "Community,Indigenous",
+    "url": "https://live-stream.bimacreative.com.au/",
+    "logo": "https://989fm.com.au/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21360",
+    "name": "Koori Radio 93.7",
+    "groups": "Aboriginal,Indigenous",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/2LNDAAC.aac",
+    "logo": "https://www.kooriradio.com/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21366",
+    "name": "Noongar Radio 100.9",
+    "groups": "Indigenous,Talk",
+    "url": "https://firstnationsmedia.stream/8028/stream",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_lsBqIQRF4ZeoXJaqgasapocL7YrGZrovKr1VjSh_aMiQ=s900-c-k-c0x00ffffff-no-rj",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21380",
+    "name": "PAKAM",
+    "groups": "Culture,Indigenous,Variety",
+    "url": "https://firstnationsmedia.stream:7001/stream",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2KibzT3n4gtNhvELI2KUkkEvWz6V54TI0eRjnN44_-aUNov5Z92tAzHOaG5mN2Lng2aw&usqp=CAU",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21382",
+    "name": "PAW Radio",
+    "groups": "Culture,Indigenous,Variety",
+    "url": "https://firstnationsmedia.stream/8016/stream",
+    "logo": "https://i1.sndcdn.com/avatars-000086455490-cb2ws0-t1080x1080.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21473",
+    "name": "Wangki Yupurnanupurru Radio 936",
+    "groups": "Community,Indigenous",
+    "url": "https://firstnationsmedia.stream/8022/stream",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Wangki_Radio_Logo.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21487",
+    "name": "Waringarri Radio 6WR 693",
+    "groups": "Community,Indigenous,Variety",
+    "url": "https://firstnationsmedia.stream:8048/stream",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxXIpqCTNAjc2Vcxm0FZTlzBVymMAeZmjYmQ&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21491",
+    "name": "Yolngu Radio 88.9",
+    "groups": "Community,Indigenous",
+    "url": "https://firstnationsmedia.stream/8040/stream",
+    "logo": "https://images.squarespace-cdn.com/content/v1/601ca6b1c0fb3c52683df2e1/f42a0c26-61a8-4896-b912-534319480df1/YR+Square+logo.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

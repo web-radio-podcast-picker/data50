@@ -1,0 +1,212 @@
+[
+  {
+    "id": "13582",
+    "name": "Amur River Korean Radio",
+    "groups": "Korean,Radio",
+    "url": "http://satellitepull.cnr.cn/live/wx32hljcygb/playlist.m3u8",
+    "logo": "https://play-lh.googleusercontent.com/hItjBJlvY2PetmtK5_MAjtTu5KBTk1tUXoUqYB9nZnL2HgRWu9islSiwGmpfLz_rrAb2",
+    "artist": null,
+    "lang": "Korean",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3644",
+    "name": "BBN Korean",
+    "groups": "Korean",
+    "url": "http://stream2.bbnradio.org:8000/korean.aac",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s20438d.png",
+    "artist": null,
+    "lang": "Korean",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "13688",
+    "name": "Heilongjiang Korean Radio",
+    "groups": "Korean,Radio",
+    "url": "http://stream3.hljtv.com/hljrdcy/sd/live.m3u8",
+    "logo": "http://nettv.live/uploads/19/1-1Z322140P4623.jpg",
+    "artist": null,
+    "lang": "Korean",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "14039",
+    "name": "Jilin Korean Broadcasting",
+    "groups": "Korean",
+    "url": "http://lhttp.qingting.fm/live/5022532/64k.mp3",
+    "logo": "https://pic.qingting.fm/2015/0909/20150909151613760.jpg!200",
+    "artist": null,
+    "lang": "Korean",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "14318",
+    "name": "Yanbian Korean Comprehensive Broadcasting 94.9/1206",
+    "groups": "Korean",
+    "url": "http://live.ybtvyun.com/audio/s10016-a3311e38bd6e/index.m3u8",
+    "logo": "http://img.ybtvyun.com/a/10016/201806/d2947ed638e17ec875944c2f80a193b5.png?20180613113050",
+    "artist": null,
+    "lang": "Korean",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "14317",
+    "name": "Yanbian Korean Literature and Art Broadcasting 94.9",
+    "groups": "Korean,Arts",
+    "url": "http://satellitepull.cnr.cn/live/wxybwyshgb/playlist.m3u8",
+    "logo": "http://www.dt968.com/201911/27/2019112716524717233.jpg",
+    "artist": null,
+    "lang": "Korean",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

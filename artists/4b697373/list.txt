@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18462",
+    "name": "Kiss",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/kiss/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/a384502b-d2f3-4a38-a12e-cc6f4275b8f1.png",
+    "artist": "Kiss",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

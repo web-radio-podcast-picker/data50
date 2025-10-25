@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18606",
+    "name": "Sam Smith",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/samsmith/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/c0b4a5a6-7a91-4cfe-95a1-46c78fb2f5d2.jpg",
+    "artist": "Sam Smith",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

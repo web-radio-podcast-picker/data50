@@ -1,0 +1,107 @@
+[
+  {
+    "id": "18564",
+    "name": "Pink Floyd",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/pinkfloyd/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/c51ff47c-9925-4cb8-bc1d-24bceaa7047a.jpg",
+    "artist": "Pink Floyd",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18565",
+    "name": "Pink Floyd - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/pinkfloydhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/1584b05e-a90d-4562-85b6-1c3f04aa6040.jpg",
+    "artist": "Pink Floyd",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9547",
+    "name": "VagalumeFM O Melhor de Pink Floyd",
+    "groups": "Artists,Oldies,Rock",
+    "url": "https://stream.vagalume.fm/hls/1498583990653093/aac.m3u8",
+    "logo": "https://img.vagalume.fm/1498583990653093/default",
+    "artist": "Pink Floyd",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

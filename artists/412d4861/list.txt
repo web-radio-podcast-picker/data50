@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18125",
+    "name": "A-Ha",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/aha/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/0ef0466b-b8a1-40b7-ab7c-e065a4217ab2.jpg",
+    "artist": "A-Ha",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

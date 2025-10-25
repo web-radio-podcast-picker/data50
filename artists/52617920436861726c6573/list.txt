@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18582",
+    "name": "Ray Charles",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/raycharles/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/7254cc1f-f7cf-4e06-b051-83535670223d.jpg",
+    "artist": "Ray Charles",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18583",
+    "name": "Ray Charles - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/raycharleshits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/0b297675-d5fa-4bfd-8eaf-a2c0b504d21b.jpg",
+    "artist": "Ray Charles",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

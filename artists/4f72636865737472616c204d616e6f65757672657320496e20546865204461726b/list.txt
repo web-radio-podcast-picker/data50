@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18544",
+    "name": "Orchestral Manoeuvres In The Dark",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/omd/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/bc0b1409-825e-412c-8bf0-607368a1c178.jpg",
+    "artist": "Orchestral Manoeuvres In The Dark",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

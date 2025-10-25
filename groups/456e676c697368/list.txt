@@ -1,0 +1,1367 @@
+[
+  {
+    "id": "16524",
+    "name": "BBC Radio London",
+    "groups": "Radio,English",
+    "url": "http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_london/bbc_london.isml/master.norewind.m3u8",
+    "logo": "http://www.bbc.co.uk/favicon.ico",
+    "artist": null,
+    "lang": "English",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16604",
+    "name": "Bloop London Radio",
+    "groups": "English,Radio",
+    "url": "https://radio.canstream.co.uk:8058/live.mp3",
+    "logo": "https://blooplondon.com/wp-content/themes/bloop-child/img/favicon.jpg",
+    "artist": null,
+    "lang": "English",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16624",
+    "name": "Capital FM London",
+    "groups": "Radio,English",
+    "url": "http://media-ice.musicradio.com/CapitalMP3",
+    "logo": "http://assets6.capitalfm.com/2016/11/capital-3d-network-logo-large-canvas-1458228638-herowidev4-0.jpg",
+    "artist": null,
+    "lang": "English",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16652",
+    "name": "Congregation Room 22 London",
+    "groups": "English",
+    "url": "http://orbit.citrus3.com:8182/stream",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfDf5wV7MgSa8CZ_dTgRFROcN2gQ3hjuL_5g&s",
+    "artist": null,
+    "lang": "English",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16672",
+    "name": "Divine Radio London",
+    "groups": "Radio,English",
+    "url": "https://uk2.internet-radio.com/proxy/divinestream?mp=/stream",
+    "logo": "https://www.divineradiolondon.co.uk/favicon.ico",
+    "artist": null,
+    "lang": "English",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16719",
+    "name": "Groove London Radio",
+    "groups": "English,Radio",
+    "url": "http://eu10.fastcast4u.com/groovelondon",
+    "logo": "https://static.wixstatic.com/media/564981_5da0da4ef5af4e06a36b91435bd87691%7emv2_d_1440_1440_s_2.jpg/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/564981_5da0da4ef5af4e06a36b91435bd87691%7emv2_d_1440_1440_s_2.jpg",
+    "artist": null,
+    "lang": "English",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16681",
+    "name": "Heart FM London 106.2",
+    "groups": "Radio,English",
+    "url": "http://ice-the.musicradio.com/HeartLondonMP3",
+    "logo": "https://uk.radio.net/images/broadcasts/51/ec/9458/c300.png",
+    "artist": null,
+    "lang": "English",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16739",
+    "name": "Heart London 106.2",
+    "groups": "English",
+    "url": "http://media-ice.musicradio.com/HeartLondon",
+    "logo": "http://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png",
+    "artist": null,
+    "lang": "English",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16740",
+    "name": "Heart London 106.2",
+    "groups": "English",
+    "url": "http://ice-sov.musicradio.com/HeartLondonMP3",
+    "logo": "https://cdn-profiles.tunein.com/s2846/images/logoq.jpg",
+    "artist": null,
+    "lang": "English",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16772",
+    "name": "Jazz London Radio",
+    "groups": "English,Radio",
+    "url": "http://radio.canstream.co.uk:8075/live.mp3",
+    "logo": "https://cdn-profiles.tunein.com/s225199/images/logog.png?t=160460",
+    "artist": null,
+    "lang": "English",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16773",
+    "name": "Jazz London Radio",
+    "groups": "English,Radio",
+    "url": "http://radio.canstream.co.uk:8075/live.aac",
+    "logo": "https://cdn-profiles.tunein.com/s225199/images/logog.png?t=160460",
+    "artist": null,
+    "lang": "English",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16784",
+    "name": "Kool London",
+    "groups": "English",
+    "url": "http://uk1-pn.mixstream.net:8698/listen.pls",
+    "logo": "http://undergroundbass.co.uk/image/koollondon.png",
+    "artist": null,
+    "lang": "English",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16790",
+    "name": "LBC London",
+    "groups": "English",
+    "url": "http://media-sov.musicradio.com/LBCLondon",
+    "logo": "http://www.lbc.co.uk/assets_v4r/lbc/img/favicon-196x196.png",
+    "artist": null,
+    "lang": "English",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16791",
+    "name": "LBC London",
+    "groups": "English",
+    "url": "http://media-ice.musicradio.com/LBCLondonMP3Low",
+    "logo": "http://www.lbc.co.uk/assets_v4r/lbc/img/favicon-196x196.png",
+    "artist": null,
+    "lang": "English",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16792",
+    "name": "LBC London National Stream",
+    "groups": "English",
+    "url": "http://media-ice.musicradio.com/LBCUKMP3Low",
+    "logo": "http://lbc.co.uk/assets_v4r/lbc/img/favicon-196x196.png",
+    "artist": null,
+    "lang": "English",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16793",
+    "name": "LBC London News",
+    "groups": "English,News",
+    "url": "http://icecast.thisisdax.com/LBC1152",
+    "logo": "http://lbc.co.uk/assets_v4r/lbc/img/favicon-196x196.png",
+    "artist": null,
+    "lang": "English",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16801",
+    "name": "London Greek Radio 103.3",
+    "groups": "English,Greek,Radio",
+    "url": "http://eco.onestreaming.com:8203/stream",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4e/LGR_Current.png",
+    "artist": null,
+    "lang": "Greek, Modern (1453-)",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16802",
+    "name": "London Music Radio",
+    "groups": "English,Music,Radio",
+    "url": "https://stream.londonmusicradio.com:8005/listen",
+    "logo": "https://londonmusicradio.com/wp-content/uploads/2017/04/thumbnail_Logo2-2-copyY-copy-black-e1519168864488.jpg",
+    "artist": null,
+    "lang": "English",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16803",
+    "name": "London Music Radio",
+    "groups": "English,Music,Radio",
+    "url": "https://radiobossrelay.radioca.st/stream",
+    "logo": "https://londonmusicradio.com/wp-content/uploads/2017/04/thumbnail_Logo2-2-copyY-copy-black-e1519168864488.jpg",
+    "artist": null,
+    "lang": "English",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16804",
+    "name": "London Soul Radio",
+    "groups": "English,Radio",
+    "url": "http://londonsoulradio.out.airtime.pro:8000/londonsoulradio_a",
+    "logo": "https://cdn-profiles.tunein.com/s137728/images/logog.jpg?t=1",
+    "artist": null,
+    "lang": "English",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16831",
+    "name": "Nation Radio London",
+    "groups": "Radio,English",
+    "url": "http://edge-ads-04-thn.sharp-stream.com/thamesradio.mp3?",
+    "logo": "https://uk.radio.net/images/broadcasts/4b/45/12537/c300.png",
+    "artist": null,
+    "lang": "English",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21512",
+    "name": "Ocean FM 88.6",
+    "groups": "English,Variety",
+    "url": "https://stream-174.zeno.fm/2r2208h4ekhvv",
+    "logo": "https://play-lh.googleusercontent.com/47cbOh4C4wY8oyvlE_rOBZHwgsJUuXbcCcxF-0CqFVG_jysURzUaXcTdML_PetNkgw=w240-h480-rw",
+    "artist": null,
+    "lang": "English",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16843",
+    "name": "Pure FM London",
+    "groups": "Radio,English",
+    "url": "http://phoebe.streamerr.co:1140/listen.pls",
+    "logo": "https://dbs.radioline.fr/pictures/radio_8305fa78219abc63076064e8ddd68395/logo600.jpg",
+    "artist": null,
+    "lang": "English",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "15697",
+    "name": "Radio Bahrain English 96.5",
+    "groups": "Variety,World,English",
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:radio-96-5_all/chunklist_w1103927351_b981072.m3u8",
+    "logo": "https://cdn-profiles.tunein.com/s14118/images/logog.jpg?t=158921",
+    "artist": null,
+    "lang": "English",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "142",
+    "name": "Radio Kabbalah English",
+    "groups": "Radio,English",
+    "url": "http://icecast.kab.tv/live1-eng-574bcfd5.mp3",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/4/46/Bnei_Baruch.png",
+    "artist": null,
+    "lang": "English",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "581",
+    "name": "Radio Karpata",
+    "groups": "English,Variety",
+    "url": "https://stream-174.zeno.fm/fpc440mz3tzuv",
+    "logo": "https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQwPGB8ggMCxIOU3RhdGlvblByb2ZpbGUYgIDg35XokgoMogEEemVubw/image/?u=1661505071000",
+    "artist": null,
+    "lang": "English",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17300",
+    "name": "Radio Peace 93.6",
+    "groups": "English,French,Variety",
+    "url": "https://stream-176.zeno.fm/f08xxutefg8uv",
+    "logo": "https://d371i8ihhgym7w.cloudfront.net/37110576.jpg",
+    "artist": null,
+    "lang": "English",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16917",
+    "name": "Radio X London",
+    "groups": "Radio,English",
+    "url": "http://media-the.musicradio.com/RadioXLondon",
+    "logo": "http://www.radiox.co.uk/assets_v4r/xfm/img/favicon-196x196.png",
+    "artist": null,
+    "lang": "English",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16918",
+    "name": "Radio X London",
+    "groups": "Radio,English",
+    "url": "http://media-the.musicradio.com/RadioXLondonMP3",
+    "logo": "http://www.radiox.co.uk/assets_v4r/xfm/img/favicon-196x196.png",
+    "artist": null,
+    "lang": "English",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16941",
+    "name": "RadioBG London",
+    "groups": "English",
+    "url": "http://live.radiobg.co.uk:8000/live",
+    "logo": "http://www.radiobg.co.uk/images/RadioBG_Logo_380x60.png",
+    "artist": null,
+    "lang": "English",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5324",
+    "name": "RadioMv.com English",
+    "groups": "English",
+    "url": "http://en-low.radiomv.co:2146/listen.pls",
+    "logo": "https://cdn.radiomv.com/de/wp-content/uploads/2016/01/favicon.ico",
+    "artist": null,
+    "lang": "English",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17303",
+    "name": "Regional Vibez Media",
+    "groups": "English,Kirundi,Variety",
+    "url": "https://stream-179.zeno.fm/p4r2f5wc8f0uv",
+    "logo": "https://mytunein.com/images/logos/regionalvibezmedia.jpg",
+    "artist": null,
+    "lang": "English",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "7844",
+    "name": "RFI English",
+    "groups": "Radio,English",
+    "url": "http://rfienanglais64k.ice.infomaniak.ch/rfienanglais-64.mp3",
+    "logo": "https://play-lh.googleusercontent.com/0jUIFASWEr_nDKedibiA6fRJtZaLYfdlKN7JWi597DlpdnvUN386MObJx1Kg6TxnV-t0",
+    "artist": null,
+    "lang": "English",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16964",
+    "name": "Rude FM London 128k Link 1",
+    "groups": "English",
+    "url": "http://78.129.228.187:8034/listen.pls",
+    "logo": "https://i1.sndcdn.com/avatars-O4iDDmBm1vh3xQec-7ei7bw-t1080x1080.jpg",
+    "artist": null,
+    "lang": "English",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16965",
+    "name": "Rude FM London 128k Link 2",
+    "groups": "English",
+    "url": "http://78.129.228.187:8042/listen.pls",
+    "logo": "https://i1.sndcdn.com/avatars-O4iDDmBm1vh3xQec-7ei7bw-t1080x1080.jpg",
+    "artist": null,
+    "lang": "English",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16980",
+    "name": "Smooth Radio London 102.2",
+    "groups": "Radio,English",
+    "url": "http://media-the.musicradio.com/SmoothLondonMP3",
+    "logo": "https://www.smoothradio.com/assets_v4r/smooth/img/favicon-196x196.png",
+    "artist": null,
+    "lang": "English",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19777",
+    "name": "Spice 96.4",
+    "groups": "Bengali,English,Variety",
+    "url": "https://stream.spicefmbd.com/stream.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi4PstD_tkT7GzkOL824P1_6IXlPdKfX1KJw&s",
+    "artist": null,
+    "lang": "English",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16472",
+    "name": "Ultra Blagoevgrad 92.6",
+    "groups": "English,Pop",
+    "url": "http://88.80.96.25:3060/",
+    "logo": "http://www.predavatel.com/bg/2/blagoevgrad_snimki/ultra.gif",
+    "artist": null,
+    "lang": "English",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "6599",
+    "name": "WYFQ BBN English 93.5",
+    "groups": "English",
+    "url": "http://stream2.bbnradio.org:8000/english.aac",
+    "logo": "https://cdn-profiles.tunein.com/s20438/images/logog.png?t=1",
+    "artist": null,
+    "lang": "English",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

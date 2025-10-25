@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18415",
+    "name": "Joan Jett",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/joanjett/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/9e3484f5-ec1e-4d74-8539-1e6189f6e4ec.jpg",
+    "artist": "Joan Jett",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

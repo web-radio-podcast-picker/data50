@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18681",
+    "name": "Tom Jones",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/tomjones/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/ea5e5fd4-a195-40b4-be19-00ad33d127a7.jpg",
+    "artist": "Tom Jones",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18682",
+    "name": "Tom Jones - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/tomjoneshits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/bf24b561-21e1-430c-bb46-f55f2513ae25.jpg",
+    "artist": "Tom Jones",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18561",
+    "name": "Phil Collins",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/philcollins/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/8295d9af-a934-4042-9653-04438faa23bd.jpg",
+    "artist": "Phil Collins",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18562",
+    "name": "Phil Collins - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/philcollinshits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/a6f7cbf0-12da-4db7-a933-85262dd7f562.jpg",
+    "artist": "Phil Collins",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

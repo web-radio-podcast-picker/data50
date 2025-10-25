@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18225",
+    "name": "Bryan Adams",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/bryanadams/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/f7faa493-e6ac-4d7c-9a1e-8798b01a7435.jpg",
+    "artist": "Bryan Adams",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18226",
+    "name": "Bryan Adams - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/bryanadamshits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/dcd259c9-6713-428c-9272-d6257106e798.jpg",
+    "artist": "Bryan Adams",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

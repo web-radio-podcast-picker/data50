@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18154",
+    "name": "Annie Lennox",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/annielennox/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/25e252ff-b828-44d2-8e80-39324dd02b09.jpg",
+    "artist": "Annie Lennox",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18155",
+    "name": "Annie Lennox - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/annielennoxhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/630d2912-bf09-435a-ada3-a9210f0e51bd.jpg",
+    "artist": "Annie Lennox",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18494",
+    "name": "Maroon 5",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/maroon5/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/95ac8c62-3d8a-44f1-b42f-17d566d62246.jpg",
+    "artist": "Maroon 5",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

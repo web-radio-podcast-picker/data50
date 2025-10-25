@@ -1,0 +1,4587 @@
+[
+  {
+    "id": "9913",
+    "name": "100% Deutsch",
+    "groups": "Deutsch",
+    "url": "https://streams.schlagerplanetradio.com/schlager/mp3-192",
+    "logo": "https://www.radio.net/300/100prozentdeutsch.png?version=402418123c1bebde57dc5398eaadd66a",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10085",
+    "name": "1A Deutsch Pop",
+    "groups": "Deutsch,Pop",
+    "url": "http://1a-deutschpop.radionetz.de/1a-deutschpop.aac",
+    "logo": "http://www.1aradio.com/images/favicon/favicon-32x32.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10086",
+    "name": "1A Deutsch Pop",
+    "groups": "Deutsch,Pop",
+    "url": "http://1a-deutschpop.radionetz.de/1a-deutschpop.mp3",
+    "logo": "http://www.1aradio.com/images/favicon/favicon-32x32.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10087",
+    "name": "1A Deutsch Rap",
+    "groups": "Deutsch",
+    "url": "http://1a-deutschrap.radionetz.de/1a-deutschrap.mp3",
+    "logo": "http://www.1aradio.com/images/favicon/favicon-32x32.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10088",
+    "name": "1A Deutsch Rap",
+    "groups": "Deutsch",
+    "url": "http://1a-deutschrap.radionetz.de/1a-deutschrap.aac",
+    "logo": "http://www.1aradio.com/images/favicon/apple-touch-icon.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10267",
+    "name": "89.0 RTL Deutsch House",
+    "groups": "French,Deutsch",
+    "url": "https://fhhalle.streamabc.net/fhhal-rtldeutschhouse-mp3-128-5887373?sABC=5nn63373%231%23s0115pq7r125o1o27s344rnqnqrnrors%23enqvbcynlreUC&listenerid=a953ab66ebd3a12b38f20e85fb7a7306&awparams=companionAds:true&amsparams=playerid:radioplayerHP;skey:1520841587",
+    "logo": "https://www.89.0rtl.de/assets/icons/icon-152x152.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10280",
+    "name": "98.8 Kiss FM German Beats",
+    "groups": "Radio,Deutsch",
+    "url": "http://topradio-de-hz-fal-stream01-cluster01.radiohost.de/kissfm-germanbeats_mp3-128?ref=internetradio&amsparams=internetradio&listenerrmid=31363430303531363231-323030313a313966303a353030313a333261343a353430303a3266663a666533373a37356332-3530313338-53747265616d436865636b426f742f302e312e30",
+    "logo": "https://www.kissfm.de/_nuxt/icons/icon_64.be8y2280000.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10337",
+    "name": "Antenne Bayern",
+    "groups": "Radio,Deutsch",
+    "url": "http://s4-webradio.antenne.de/antenne/stream/aacp",
+    "logo": "http://www.antenne.de//assets/icons/antenne-de/favicon-32x32.png?v=3",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10338",
+    "name": "Antenne Bayern",
+    "groups": "Radio,Deutsch",
+    "url": "http://s3-webradio.antenne.de/antenne",
+    "logo": "https://www.antenne.de/assets/icons/antenne-de/apple-touch-icon.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10412",
+    "name": "Antenne Bayern",
+    "groups": "Radio,Deutsch",
+    "url": "http://s2-webradio.antenne.de/antenne.aac",
+    "logo": "https://www.antenne.de//assets/icons/antenne-de/favicon-32x32.png?v=3",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10339",
+    "name": "Antenne Bayern 2000er Hits",
+    "groups": "Radio,Deutsch,Hits",
+    "url": "https://s2-webradio.antenne.de/2000er-hits",
+    "logo": "https://www.antenne.de/assets/templates/antenne-de//img/logo-antenne-de-header-2.svg",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10340",
+    "name": "Antenne Bayern 2010er Hits",
+    "groups": "Radio,Deutsch,Hits",
+    "url": "https://s8-webradio.antenne.de/2010er-hits/stream/mp3",
+    "logo": "https://www.antenne.de/assets/templates/antenne-de//img/logo-antenne-de-header-2.svg",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10341",
+    "name": "Antenne Bayern 70er Hits",
+    "groups": "Radio,Deutsch,70s,Hits",
+    "url": "http://s3-webradio.antenne.de/70er-hits/stream/aacp",
+    "logo": "https://ca.radio.net/images/broadcasts/57/c5/127918/1/c300.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10342",
+    "name": "Antenne Bayern 80er Kulthits",
+    "groups": "Radio,Deutsch,80s",
+    "url": "http://s9-webradio.antenne.de/80er-kulthits/stream/aacp",
+    "logo": "https://static-media.streema.com/media/cache/11/08/11085c123b1e0e5a67a1c8ce0af960ed.jpg",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10343",
+    "name": "Antenne Bayern 80er Kulthits",
+    "groups": "Radio,Deutsch,80s",
+    "url": "http://s6-webradio.antenne.de/80er-kulthits",
+    "logo": "http://www.antenne.de/assets/icons/antenne-de/apple-touch-icon.png?v=3",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10372",
+    "name": "Antenne Bayern 80er Kulthits",
+    "groups": "Radio,Deutsch,80s",
+    "url": "http://s2-webradio.antenne.de/80er-kulthits.aac",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnT5IVgDBMGfq8cGNPrNWKBpgasZqpdH3OEbm-6yr-eStoKi8w7qS9sA",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10344",
+    "name": "Antenne Bayern 90er",
+    "groups": "Radio,Deutsch,90s",
+    "url": "http://s3-webradio.antenne.de/90er-hits",
+    "logo": "http://streamitter.com/images/logos/KKXZQX.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10345",
+    "name": "Antenne Bayern 90er",
+    "groups": "Radio,Deutsch,90s",
+    "url": "http://s2-webradio.antenne.de/90er-hits.aac",
+    "logo": "http://www.antenne.de//assets/icons/antenne-de/favicon-32x32.png?v=3",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10346",
+    "name": "Antenne Bayern Black Beatz",
+    "groups": "Radio,Deutsch",
+    "url": "http://s3-webradio.antenne.de/black-beatz",
+    "logo": "http://www.antenne.de/assets/icons/antenne-de/apple-touch-icon.png?v=3",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10413",
+    "name": "Antenne Bayern Black Beatz",
+    "groups": "Radio,Deutsch",
+    "url": "http://s4-webradio.antenne.de/black-beatz.aac",
+    "logo": "https://www.antenne.de//assets/icons/antenne-de/favicon-32x32.png?v=3",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10347",
+    "name": "Antenne Bayern Chillout",
+    "groups": "Radio,Deutsch",
+    "url": "http://s4-webradio.antenne.de/chillout/stream/aacp",
+    "logo": "http://www.chip.de/ii/1/5/5/8/2/8/6/7/3dff994f8c5b7352.jpg",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10348",
+    "name": "Antenne Bayern Chillout",
+    "groups": "Radio,Deutsch",
+    "url": "http://s1-webradio.antenne.de/chillout",
+    "logo": "http://www.chip.de/ii/1/5/5/8/2/8/6/7/3dff994f8c5b7352.jpg",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10414",
+    "name": "Antenne Bayern Chillout",
+    "groups": "Radio,Deutsch",
+    "url": "http://s2-webradio.antenne.de/chillout.aac",
+    "logo": "https://www.antenne.de//assets/icons/antenne-de/favicon-32x32.png?v=3",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10349",
+    "name": "Antenne Bayern Classic Rock Live",
+    "groups": "Radio,Deutsch,Classic",
+    "url": "http://s10-webradio.antenne.de/classic-rock-live",
+    "logo": "https://www.antenne.de/assets/icons/antenne-de/apple-touch-icon.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10373",
+    "name": "Antenne Bayern Classic Rock Live",
+    "groups": "Radio,Deutsch,Classic",
+    "url": "http://s1-webradio.antenne.de/classic-rock-live.aac",
+    "logo": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/YAFS7P9pQb.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10350",
+    "name": "Antenne Bayern CoffeeMusic",
+    "groups": "Radio,Deutsch",
+    "url": "http://s6-webradio.antenne.de/coffee/stream/aacp",
+    "logo": "https://www.radio.net/images/broadcasts/05/c9/116104/1/c300.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10351",
+    "name": "Antenne Bayern CoffeeMusic",
+    "groups": "Radio,Deutsch",
+    "url": "https://s3-webradio.webradio.de/coffee",
+    "logo": "https://cdn.antenne.de/thumbs/home/nfs-data/vhosts/cdn/antenne-de/uploads/2018/09/aby_streamlogo_webradio_hd_large_coffeemusic.38c0d2f7.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10415",
+    "name": "Antenne Bayern CoffeeMusic",
+    "groups": "Radio,Deutsch",
+    "url": "http://s6-webradio.antenne.de/coffee.aac",
+    "logo": "https://www.antenne.de//assets/icons/antenne-de/favicon-32x32.png?v=3",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10352",
+    "name": "Antenne Bayern Event",
+    "groups": "Radio,Deutsch",
+    "url": "http://s6-webradio.antenne.de/event",
+    "logo": "https://cdn-profiles.tunein.com/s107509/images/logog.jpg?t=1",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10411",
+    "name": "Antenne Bayern Event",
+    "groups": "Radio,Deutsch",
+    "url": "http://s1-webradio.antenne.de/event.aac",
+    "logo": "https://www.antenne.de//assets/icons/antenne-de/favicon-32x32.png?v=3",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10353",
+    "name": "Antenne Bayern Fresh",
+    "groups": "Radio,Deutsch",
+    "url": "http://s4-webradio.antenne.de/fresh/stream/aacp",
+    "logo": "https://www.radio.net/images/broadcasts/34/57/33844/2/c300.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10354",
+    "name": "Antenne Bayern Fresh 4 You",
+    "groups": "Radio,Deutsch",
+    "url": "http://s9-webradio.antenne.de/fresh",
+    "logo": "http://www.antenne.de/assets/icons/antenne-de/apple-touch-icon.png?v=3",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10355",
+    "name": "Antenne Bayern Greatest Hits",
+    "groups": "Radio,Deutsch,Hits",
+    "url": "http://s10-webradio.antenne.de/greatest-hits/stream/aacp",
+    "logo": "https://www.radio.net/images/broadcasts/0e/76/127917/1/c300.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10356",
+    "name": "Antenne Bayern Herbst Hits",
+    "groups": "Radio,Deutsch,Hits",
+    "url": "http://s5-webradio.antenne.de/herbst-hits/stream/aacp",
+    "logo": "https://cdn-profiles.tunein.com/s309506/images/logog.jpg?t=160200",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10357",
+    "name": "Antenne Bayern Hitmix",
+    "groups": "Radio,Deutsch",
+    "url": "http://s9-webradio.antenne.de/hitmix",
+    "logo": "http://www.antenne.de/assets/icons/antenne-de/apple-touch-icon.png?v=3",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10416",
+    "name": "Antenne Bayern Hitmix",
+    "groups": "Radio,Deutsch",
+    "url": "http://s8-webradio.antenne.de/hitmix.aac",
+    "logo": "https://www.antenne.de//assets/icons/antenne-de/favicon-32x32.png?v=3",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10358",
+    "name": "Antenne Bayern Hits für Kids",
+    "groups": "Radio,Deutsch,Hits",
+    "url": "http://s10-webradio.antenne.de/hits-fuer-kids",
+    "logo": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/vzvQkVkWCJ.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10417",
+    "name": "Antenne Bayern Hits für Kids",
+    "groups": "Radio,Deutsch,Hits",
+    "url": "http://s10-webradio.antenne.de/hits-fuer-kids.aac",
+    "logo": "https://www.antenne.de//assets/icons/antenne-de/favicon-32x32.png?v=3",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10359",
+    "name": "Antenne Bayern Lounge",
+    "groups": "Radio,Deutsch,Lounge",
+    "url": "http://s3-webradio.antenne.de/lounge/stream/aacp",
+    "logo": "https://www.radio.net/images/broadcasts/0d/91/124497/10/c300.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10360",
+    "name": "Antenne Bayern Lovesongs",
+    "groups": "Radio,Deutsch,Love",
+    "url": "http://s4-webradio.antenne.de/lovesongs/stream/aacp",
+    "logo": "http://db.radioline.fr/pictures/radio_c5b2c7cebbf9662c8480fbf0f2347fc2/logo200.jpg?size=200",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10361",
+    "name": "Antenne Bayern Lovesongs",
+    "groups": "Radio,Deutsch,Love",
+    "url": "http://s1-webradio.antenne.de/lovesongs",
+    "logo": "http://db.radioline.fr/pictures/radio_c5b2c7cebbf9662c8480fbf0f2347fc2/logo200.jpg?size=200",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10418",
+    "name": "Antenne Bayern Lovesongs",
+    "groups": "Radio,Deutsch,Love",
+    "url": "http://s2-webradio.antenne.de/lovesongs.aac",
+    "logo": "https://www.antenne.de//assets/icons/antenne-de/favicon-32x32.png?v=3",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10374",
+    "name": "Antenne Bayern Munich City Nights",
+    "groups": "Radio,Deutsch",
+    "url": "https://s5-webradio.rockantenne.de/munich-city-nights/stream/mp3",
+    "logo": "https://www.rockantenne.de/assets/icons/rockantenne-de/apple-touch-icon-120x120.png?v=2",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10362",
+    "name": "Antenne Bayern Nur die Musik",
+    "groups": "Radio,Deutsch",
+    "url": "http://s3-webradio.antenne.de/nur-die-musik/stream/aacp",
+    "logo": "https://cdn-profiles.tunein.com/s309505/images/logog.jpg?t=160200",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10363",
+    "name": "Antenne Bayern Oldies but Goldies",
+    "groups": "Radio,Deutsch,Oldies",
+    "url": "http://s3-webradio.antenne.de/oldies-but-goldies/stream/aacp",
+    "logo": "https://www.antenne.de/assets/templates/antenne-de//img/logo-antenne-de-header-2.svg",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10364",
+    "name": "Antenne Bayern Oldies but Goldies",
+    "groups": "Radio,Deutsch,Oldies",
+    "url": "http://s6-webradio.antenne.de/oldies-but-goldies",
+    "logo": "https://www.antenne.de/assets/templates/antenne-de//img/logo-antenne-de-header-2.svg",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10419",
+    "name": "Antenne Bayern Oldies But Goldies",
+    "groups": "Radio,Deutsch,Oldies",
+    "url": "http://s7-webradio.antenne.de/oldies-but-goldies.aac",
+    "logo": "https://www.antenne.de//assets/icons/antenne-de/favicon-32x32.png?v=3",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10420",
+    "name": "Antenne Bayern Radio Fresh",
+    "groups": "Radio,Deutsch",
+    "url": "http://s10-webradio.antenne.de/fresh.aac",
+    "logo": "https://www.antenne.de//assets/icons/antenne-de/favicon-32x32.png?v=3",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10365",
+    "name": "Antenne Bayern Relax",
+    "groups": "Radio,Deutsch,Relaxation",
+    "url": "http://s4-webradio.antenne.de/relax/stream/aacp",
+    "logo": "https://www.radio.net/images/broadcasts/40/76/117283/1/c300.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10366",
+    "name": "Antenne Bayern Relax",
+    "groups": "Radio,Deutsch,Relaxation",
+    "url": "http://s8-webradio.antenne.de/relax",
+    "logo": "http://www.antenne.de//assets/icons/antenne-de/apple-touch-icon.png?v=3",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10421",
+    "name": "Antenne Bayern Relax",
+    "groups": "Radio,Deutsch,Relaxation",
+    "url": "http://s2-webradio.antenne.de/relax.aac",
+    "logo": "https://www.antenne.de//assets/icons/antenne-de/favicon-32x32.png?v=3",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10367",
+    "name": "Antenne Bayern Rockantenne",
+    "groups": "Radio,Deutsch",
+    "url": "http://s5-webradio.antenne.de/rockantenne",
+    "logo": "https://www.rockantenne.bayern/logos/rock-antenne-bayern/station.svg",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10375",
+    "name": "Antenne Bayern Schlagersahne",
+    "groups": "Radio,Deutsch",
+    "url": "http://s3-webradio.antenne.de/das-schlager-karussell",
+    "logo": "http://www.antenne.de/assets/icons/antenne-de/apple-touch-icon.png?v=3",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10378",
+    "name": "Antenne Bayern Schlagersahne",
+    "groups": "Radio,Deutsch",
+    "url": "http://s3-webradio.antenne.de/das-schlager-karussell/stream/aacp",
+    "logo": "http://www.antenne.de/assets/icons/antenne-de/apple-touch-icon.png?v=3",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10422",
+    "name": "Antenne Bayern Schlagersahne",
+    "groups": "Radio,Deutsch",
+    "url": "http://s10-webradio.antenne.de/das-schlager-karussell.aac",
+    "logo": "https://www.antenne.de//assets/icons/antenne-de/favicon-32x32.png?v=3",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10368",
+    "name": "Antenne Bayern Sommer Hits",
+    "groups": "Radio,Deutsch,Hits",
+    "url": "http://s1-webradio.antenne.de/sommer-hits/stream/aacp",
+    "logo": "https://www.radio.net/images/broadcasts/a2/8e/128526/1/c300.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10369",
+    "name": "Antenne Bayern Top 40",
+    "groups": "Radio,Deutsch",
+    "url": "http://s3-webradio.antenne.de/top-40",
+    "logo": "http://www.antenne.de/assets/icons/antenne-de/apple-touch-icon.png?v=3",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10376",
+    "name": "Antenne Bayern Top 40",
+    "groups": "Radio,Deutsch",
+    "url": "http://s4-webradio.antenne.de/top-40.aac",
+    "logo": "http://www.webradio.de//assets/icons/antenne-de/favicon-32x32.png?v=3",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10377",
+    "name": "Antenne Bayern Weihnachts-Hits",
+    "groups": "Radio,Deutsch",
+    "url": "http://s2-webradio.antenne.de/weihnachts-hits.aac",
+    "logo": "http://www.antenne.de//assets/icons/antenne-de/apple-touch-icon.png?v=3",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10370",
+    "name": "Antenne Bayern Weihnachtshits",
+    "groups": "Radio,Deutsch",
+    "url": "http://s2-webradio.antenne.de/weihnachts-hits",
+    "logo": "http://www.antenne.de/assets/icons/antenne-de/apple-touch-icon.png?v=3",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10423",
+    "name": "Antenne Bayern Workout",
+    "groups": "Radio,Deutsch",
+    "url": "http://s9-webradio.antenne.de/workout-hits.aac",
+    "logo": "https://www.antenne.de//assets/icons/antenne-de/favicon-32x32.png?v=3",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10371",
+    "name": "Antenne Bayern Workout Hits",
+    "groups": "Radio,Deutsch,Hits",
+    "url": "http://s9-webradio.antenne.de/workout-hits",
+    "logo": "http://www.antenne.de/assets/icons/antenne-de/apple-touch-icon.png?v=3",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10391",
+    "name": "Antenne Niedersachsen Deutsch",
+    "groups": "Radio,Deutsch",
+    "url": "http://antnds.streamabc.net/ands-antndsdeutsch-mp3-192-5034876?sABC=61p13621%230%23r4880qrn6s01nn6n263q843o4n00pqq9%23yvahk&amsparams=playerid:linux;skey:1640052257",
+    "logo": "https://cdn-profiles.tunein.com/s260084/images/logog.jpg?t=155007",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10408",
+    "name": "Antenne Thüringen Deutsch Pop",
+    "groups": "Radio,Deutsch,Pop",
+    "url": "http://antenne-th.divicon-stream.net/antth_atdeutsch_cbRE-mp3-192?sABC=61p21o1n%230%23480403531qsn3q883o6q243r435924np%23&amsparams=playerid:;skey:1640110874",
+    "logo": "http://www.antennethueringen.de//_fileadmin/img/favicon-32x32.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10444",
+    "name": "Bayern 1",
+    "groups": "Deutsch",
+    "url": "https://d141.rndfnk.com/ard/br/br1/nbopf/mp3/64/stream.mp3?sid=22bZannNqzY2NlhHx6IDodVUDNx&token=5IngW9116fBnjP-fzsLVyvdQpq-pAzPPVj1UG38bPWc&tvf=6P1iFnfpwhZkMTQxLnJuZGZuay5jb20",
+    "logo": "https://ca.radio.net/images/broadcasts/18/95/30466/2/c175.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10445",
+    "name": "Bayern 1 Franken",
+    "groups": "Deutsch",
+    "url": "http://d131.rndfnk.com/ard/br/br1/franken/mp3/64/stream.mp3?sid=22bhgBH9jEFiPeUOr8HFQm9AEFt&token=j1Tltk1Kyj1C-sUbRgUUzSaQpX0f_56yOB4oInAxVIk&tvf=0uzSHBjtwhZkMTMxLnJuZGZuay5jb20",
+    "logo": "https://www.br.de/radio/bayern1/bayern-1-logo-2018-100~_v-img__16__9__xl_-d31c35f8186ebeb80b0cd843a7c267a0e0c81647.jpg?version=54fe4",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10446",
+    "name": "Bayern 1 Mainfranken",
+    "groups": "Deutsch",
+    "url": "https://d131.rndfnk.com/ard/br/br1/mainfranken/aac/64/stream.aac?sid=22ah6ZyU039roiXoZdlBeM9oBL2&token=bjIw0k5sbq5mcfeYp3gl6q4e8glgVe-sje9RIYpv8ks&tvf=bQ90JATRwhZkMTMxLnJuZGZuay5jb20",
+    "logo": "https://www.br.de/static/img/bereich/radio/bayern1/favicon.ico",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10447",
+    "name": "Bayern 1 Mainfranken",
+    "groups": "Deutsch",
+    "url": "https://d121.rndfnk.com/ard/br/br1/mainfranken/mp3/64/stream.mp3?sid=22b3OfUJ1MaNsGnsWZgwOGOSNMy&token=1eyaItVh0hpWX36deYY5iC8queRoNLBo53Ag0m_rvCE&tvf=Pwnt4ATbwhZkMTIxLnJuZGZuay5jb20",
+    "logo": "https://www.br.de/static/img/bereich/radio/bayern1/favicon.ico",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10448",
+    "name": "Bayern 1 Mainfranken",
+    "groups": "Deutsch",
+    "url": "https://d141.rndfnk.com/ard/br/br1/mainfranken/mp3/128/stream.mp3?sid=22b3NkxKOM7AfWVSINLPrXIbt7L&token=mth_sDfR399Fsw_IWJOt4waF7W0YnQYkAf2TBLFhhIQ&tvf=rpCjOAPbwhZkMTQxLnJuZGZuay5jb20",
+    "logo": "https://www.br.de/static/img/bereich/radio/bayern1/favicon.ico",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10449",
+    "name": "Bayern 1 Obberbayern",
+    "groups": "Deutsch",
+    "url": "http://f141.rndfnk.com/ard/br/br1/obb/mp3/128/stream.mp3?sid=22ZnqT9BRU2R5PzWoHJf6AjYBIx&token=y3Jc78u3AqHGiitPeRbZuiyHWw-9c82jVeBlqJ5WkAM&tvf=AdmWpji4whZmMTQxLnJuZGZuay5jb20",
+    "logo": "https://yt3.ggpht.com/a/AATXAJwIGRDADpvLxYotJyaLcJN-JQvQyMMiQ2jKhg=s900-c-k-c0xffffffff-no-rj-mo",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10450",
+    "name": "Bayern 1 Schwaben",
+    "groups": "Deutsch",
+    "url": "https://d111.rndfnk.com/ard/br/br1/schwaben/mp3/128/stream.mp3?sid=22ZltyYgLadTXry5cNrZXRaYOD4&token=oSLrw8YwZnauQGe2PmtTZh3Le3KY-3zAUuGB1GkyOX0&tvf=EO4APFm3whZkMTExLnJuZGZuay5jb20",
+    "logo": "https://www.br.de/radio/bayern1/bayern-1-logo-2018-100~_v-img__16__9__m_-4423061158a17f4152aef84861ed0243214ae6e7.jpg?version=8e522",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10451",
+    "name": "Bayern 2",
+    "groups": "Deutsch",
+    "url": "https://d111.rndfnk.com/ard/br/br2/nord/mp3/64/stream.mp3?sid=22bdI7UcLksVhglEAzT3wgNL60z&token=8B8WIqT_IFi-fUQxnaKfmAGwYVDjKfLpAwqV5w-Zm5A&tvf=hMZpBiDrwhZkMTExLnJuZGZuay5jb20",
+    "logo": "http://www.br.de/static/img/logo/bayern2_thumb.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10452",
+    "name": "Bayern 2 Nord",
+    "groups": "Deutsch",
+    "url": "http://d141.rndfnk.com/ard/br/br2/nord/mp3/64/stream.mp3?sid=22bJh2MA8WTYvDcmIWSJZMUiZAP&token=yBovFNGpdel6DOiKmgPVpW7kdKRrDQTDWBjrEnN0vNc&tvf=o9Vb-FTiwhZkMTQxLnJuZGZuay5jb20",
+    "logo": "https://ca.radio.net/images/broadcasts/75/8a/2246/3/c300.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10453",
+    "name": "Bayern 2 Nord",
+    "groups": "Deutsch",
+    "url": "https://f141.rndfnk.com/ard/br/br2/nord/mp3/64/stream.mp3?sid=22ZmSQl7gWVLqkQXICQK2B74D5W&token=OYoL1WhHvVR5l1ka38Lxwl1sj9CKGMESDvgqOpgllkg&tvf=Dzu7Gpm3whZmMTQxLnJuZGZuay5jb20",
+    "logo": "https://www.br.de/static/img/bereich/radio/bayern2/b2_favicon.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10454",
+    "name": "Bayern 2 Nord",
+    "groups": "Deutsch",
+    "url": "https://d141.rndfnk.com/ard/br/br2/nord/aac/64/stream.aac?sid=22ah6cXdBHlwAVoFjE9BpWfKcBV&token=txYMPnDqaOJgS-Bo1ii3FSXbXw1JR_wW-eRXbWMpJcs&tvf=gOp6SQTRwhZkMTQxLnJuZGZuay5jb20",
+    "logo": "https://www.br.de/static/img/bereich/radio/bayern2/b2_favicon.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10455",
+    "name": "Bayern 2 Süd",
+    "groups": "Deutsch",
+    "url": "http://d111.rndfnk.com/ard/br/br2/sued/mp3/64/stream.mp3?sid=22bhWa5AnOnk6dEqObw6BeyBpq4&token=x8I6X9ZlN-3t7dmGyo6GWBdIJqyp79EeDzsxPZR_3_E&tvf=sFY7kQbtwhZkMTExLnJuZGZuay5jb20",
+    "logo": "http://www.br.de/static/img/logo/bayern2_thumb.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10456",
+    "name": "Bayern 3",
+    "groups": "Deutsch",
+    "url": "https://d141.rndfnk.com/ard/br/br3/live/mp3/128/stream.mp3?aggregator=web&sid=22ahryUFl1VHeZcw8kDhXKJdnnf&token=xgR1cyh4JUJZnJuqaqbTG4ZXx0lUqG-fqcT5xMFVXac&tvf=7mJT7VvRwhZkMTQxLnJuZGZuay5jb20",
+    "logo": "http://www.br.de/static/img/logo/bayern3_thumb.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10457",
+    "name": "Bayern 3",
+    "groups": "Deutsch",
+    "url": "http://d141.rndfnk.com/ard/br/br3/live/mp3/64/stream.mp3?sid=22bbl83W99uqoCkTpa2cABP3Shv&token=9pk6jimzuXd6lRhb90qpWNuNKXPDdsed7hgdNMwDciA&tvf=Aji5BHDqwhZkMTQxLnJuZGZuay5jb20",
+    "logo": "https://bayern3.de/favicon.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10458",
+    "name": "Bayern 3",
+    "groups": "Deutsch",
+    "url": "https://f121.rndfnk.com/ard/br/br3/live/aac/64/stream.aac?sid=22ahRnjRVJHy7QOimHpB79xJD1n&token=pA9FPuzrGvr0ecS1IRGYGCQdKQPPdVdG44-rW5Yph-4&tvf=MHqmsSvRwhZmMTIxLnJuZGZuay5jb20",
+    "logo": "https://www.bayern3.de/favicon.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10459",
+    "name": "Bayern 5",
+    "groups": "Deutsch",
+    "url": "https://d141.rndfnk.com/ard/br/br24/live/mp3/128/stream.mp3?sid=22bgzTktyyrvc6kknTQdMQhmZ72&token=vcPM49oROaxQCwsAoBvSb5_bO2Gkf2iOsT6YK7U9bzo&tvf=PUqhAsnswhZkMTQxLnJuZGZuay5jb20",
+    "logo": "https://de.m.wikipedia.org/wiki/B5_aktuell#/media/Datei%3AB5_aktuell_(2007).svg",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3642",
+    "name": "BBN German",
+    "groups": "Deutsch",
+    "url": "http://stream2.bbnradio.org:8000/german.aac",
+    "logo": "https://www.radio.net/images/broadcasts/48/a2/101105/1/c300.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10478",
+    "name": "Best of Rock.FM Deutsch Rock",
+    "groups": "Deutsch",
+    "url": "https://radio21.streamabc.net/radio21-deutschrock-mp3-256-7466793?sABC=61p20pq4%230%232qqpnss01895rqr0s8oq129o03s183o0%23orfgbsebpx.sz&amsparams=playerid:bestofrock.fm;skey:1640107220",
+    "logo": "https://www.best-of-rock.fm/deutsch/img/Cover.jpg",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10495",
+    "name": "Big FM Deutsch Rap",
+    "groups": "Radio,Deutsch",
+    "url": "http://streams.bigfm.de/bigfm-deutschrap-128-aac",
+    "logo": "http://cdn.bigfm.de/sites/all/themes/bigfm/favicon.ico",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20865",
+    "name": "BRF 1",
+    "groups": "Deutsch,Pop,Rock",
+    "url": "http://streaming.brf.be/brf1-high.mp3",
+    "logo": "http://1.brf.be/wp-content/themes/brf-eins/assets/img/favicons/Icon-60@3x.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20866",
+    "name": "BRF 2",
+    "groups": "Deutsch,Folk",
+    "url": "http://streaming.brf.be/brf2-high.mp3",
+    "logo": "http://2.brf.be/wp-content/themes/brf-zwei/assets/img/favicons/Icon-60@3x.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8964",
+    "name": "Dublin City 103.2",
+    "groups": "Deutsch",
+    "url": "https://stream.btsstream.com:8012/dcfm",
+    "logo": "https://www.dublincityfm.ie/wp-content/media/2018/12/logo2.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8976",
+    "name": "Dublin Digital Radio",
+    "groups": "Deutsch,Radio",
+    "url": "http://dublindigitalradio.out.airtime.pro:8000/dublindigitalradio_a",
+    "logo": "http://listen.dublindigitalradio.com/static/defaultArtistImage.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8977",
+    "name": "Dublin South FM",
+    "groups": "Deutsch,Radio",
+    "url": "https://dublinsouthfm.radioca.st/live",
+    "logo": "https://dublinsouthfm.ie/wp-content/uploads/2021/10/DSFM_Favicon-removebg-preview-300x300.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10692",
+    "name": "DWG Radio German",
+    "groups": "Radio,Deutsch",
+    "url": "http://server23644.streamplus.de/listen.pls",
+    "logo": "http://static.radio.de/images/broadcasts/8b/5c/4150/c175.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10909",
+    "name": "German Gothic Radio",
+    "groups": "Deutsch,Radio",
+    "url": "http://german-gothic-radio.stream.laut.fm/german-gothic-radio?t302=2021-12-21_18-20-19&uuid=9126fbe0-ea87-4738-804a-9767f626d5e0",
+    "logo": "https://www.radio.net/images/broadcasts/be/c7/111729/2/c300.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3989",
+    "name": "German Radio & Television",
+    "groups": "Deutsch,Radio",
+    "url": "http://91.121.65.37:24906/listen.pls",
+    "logo": "http://www.grtvd.com/grtvd.ico",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10910",
+    "name": "German Tuner Radio",
+    "groups": "Deutsch,Radio",
+    "url": "http://german-tuner-radio.stream.laut.fm/german-tuner-radio?t302=2021-12-21_01-40-27&uuid=d176f22d-db0f-4a99-bcea-df190b5e04e3",
+    "logo": "https://assets.laut.fm/090a0900eeee3abf0a6ed79db39e251a?t=_640x640",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "15608",
+    "name": "Jesus Coming FM German",
+    "groups": "Religion,Radio,Deutsch",
+    "url": "http://live.jesuscomingfm.com:8282/listen.pls",
+    "logo": "http://jesuscomingfm.com/templates/life_journey/favicon.ico",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20895",
+    "name": "JOE 80s & 90s",
+    "groups": "80s,90s,Deutsch",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOE_80S.mp3",
+    "logo": "https://www.radio.net/images/broadcasts/2c/00/116339/2/c300.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "615",
+    "name": "KBS World German Radio",
+    "groups": "World,Deutsch,Radio",
+    "url": "http://101.79.244.199:1935/cocotv/_definst_/CH00005/playlist.m3u8",
+    "logo": "http://world.kbs.co.kr/favicon.ico",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20900",
+    "name": "Klara Continuo",
+    "groups": "Classic,Deutsch",
+    "url": "http://icecast-servers.vrtcdn.be/klaracontinuo-high.mp3",
+    "logo": "http://be.radioonline.fm/images/klara-continuo.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "11090",
+    "name": "LandesWelle Deutsch",
+    "groups": "Deutsch",
+    "url": "http://landeswelle-stream29.radiohost.de/lwdemp3-192?ref=rin&amsparams=rin&listenerrmid=31363430303532303734-326130333a343030303a33373a34323a633466653a346366663a666561373a38393431-3533393630-53747265616d436865636b426f742f302e312e30",
+    "logo": "https://www.landeswelle.de///templates/main/favicon.ico",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "11091",
+    "name": "LandesWelle Deutsch",
+    "groups": "Deutsch",
+    "url": "http://landeswelle-de-hz-fal-stream01-cluster01.radiohost.de/lwdemp3-192?listenerrmid=31363430303436373330-323030313a313966303a363830313a313964373a353430303a3266663a666537313a62646237-3431333936-53747265616d436865636b426f742f302e312e30",
+    "logo": "https://www.landeswelle.de///templates/main/favicon.ico",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20916",
+    "name": "MNM Big Hits",
+    "groups": "Deutsch,Pop",
+    "url": "http://icecast-servers.vrtcdn.be/mnm_hits-high.mp3",
+    "logo": "https://mnm.be//images/ios/touch-icon-iphone.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20914",
+    "name": "MNM Radio 89.0",
+    "groups": "Deutsch,Pop",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MNM_128.mp3",
+    "logo": "https://www.mnm.be//images/ios/touch-icon-iphone.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9984",
+    "name": "ON Radio Deutsch Pop",
+    "groups": "Radio,Deutsch,Pop",
+    "url": "http://0n-deutschpop.radionetz.de/0n-deutschpop.aac",
+    "logo": "http://www.0nradio.com/images/favicon/mstile-144x144.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9985",
+    "name": "ON Radio Deutsch Pop",
+    "groups": "Radio,Deutsch,Pop",
+    "url": "http://0n-deutschpop.radionetz.de/0n-deutschpop.mp3",
+    "logo": "http://www.0nradio.com/images/favicon/mstile-144x144.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9986",
+    "name": "ON Radio Deutsch Rap",
+    "groups": "Radio,Deutsch",
+    "url": "http://0n-deutschrap.radionetz.de/0n-deutschrap.mp3",
+    "logo": "http://www.0nradio.com/images/favicon/mstile-144x144.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9987",
+    "name": "ON Radio Deutsch Rap",
+    "groups": "Radio,Deutsch",
+    "url": "http://0n-deutschrap.radionetz.de/0n-deutschrap.aac",
+    "logo": "http://www.0nradio.com/images/favicon/mstile-144x144.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9988",
+    "name": "ON Radio Deutsch Rock",
+    "groups": "Radio,Deutsch",
+    "url": "https://0n-deutschrock.radionetz.de/0n-deutschrock.mp3",
+    "logo": "http://www.0nradio.com/images/favicon/apple-touch-icon.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9989",
+    "name": "ON Radio Deutsch Rock",
+    "groups": "Radio,Deutsch",
+    "url": "https://0n-deutschrock.radionetz.de/0n-deutschrock.aac",
+    "logo": "http://www.0nradio.com/images/favicon/apple-touch-icon.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10138",
+    "name": "Onlineradio Deutsch",
+    "groups": "Deutsch",
+    "url": "https://stream.0nlineradio.com/deutsch?ref=radiobrowser",
+    "logo": "https://i.ibb.co/V9WSktR/deutsch.jpg",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9002",
+    "name": "Phever Dublin",
+    "groups": "Deutsch",
+    "url": "http://uk1.internet-radio.com:8200/live",
+    "logo": "https://www.phever.ie/wp-content/uploads/2019/11/Mix-Cover-Techno-150x150.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20939",
+    "name": "Radio 1",
+    "groups": "Deutsch,Oldies,Pop",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO1_128.mp3",
+    "logo": "http://is1.mzstatic.com/image/thumb/Purple128/v4/d5/2b/2f/d52b2ffe-cc10-1dec-1cf6-f6811949b5ed/source/512x512bb.jpg",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20940",
+    "name": "Radio 2 Antwerpen",
+    "groups": "Deutsch,Pop",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_2_ANTWERP_128.mp3",
+    "logo": "https://www.radio.net/images/broadcasts/a4/d3/4486/c300.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20941",
+    "name": "Radio 2 Limburg",
+    "groups": "Deutsch,Pop",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_2_LIMBURG_128.mp3",
+    "logo": "https://radio2.be//modules/vrt/radio2/radio2_core/images/manifest/icon-512.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20942",
+    "name": "Radio 2 Oost-Vlaanderen",
+    "groups": "Deutsch,Pop",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_2_OOSTVL_128.mp3",
+    "logo": "http://be.radioonline.fm/images/Radio-2-Oost-Vlaanderen.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20943",
+    "name": "Radio 2 Vlaams-Brabant",
+    "groups": "Deutsch,Pop",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_2_VLAAMSBR_128.mp3",
+    "logo": "http://be.radioonline.fm/images/Radio-2-Vlaams-Brabant.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20944",
+    "name": "Radio 700 90.1",
+    "groups": "Deutsch,Hits,Oldies",
+    "url": "https://streaming.radio700.eu/radio700.mp3",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7CV7LIXEZ_Za8SWlHPTBNX8DWWENOT3yqOA&s",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17942",
+    "name": "Radio Freundes-Dienst Deutsch",
+    "groups": "Radio,Deutsch",
+    "url": "http://radiofd.ice.infomaniak.ch/radiofd.mp3",
+    "logo": "https://www.radio.at/images/broadcasts/6f/0c/18776/c300.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "11622",
+    "name": "Radio HCJB German",
+    "groups": "Radio,Deutsch",
+    "url": "http://segenswelle.de:8000/hcjb",
+    "logo": "http://www.webbuilder.hosteurope.de/files/writeable/uploads/hosteurope16446/image/logo.ico",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "11623",
+    "name": "Radio HCJB German",
+    "groups": "Radio,Deutsch",
+    "url": "http://segenswelle.de:8000/hcjb-aac",
+    "logo": "http://www.webbuilder.hosteurope.de/files/writeable/uploads/hosteurope16446/image/logo.ico",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17710",
+    "name": "Radio HCJB German",
+    "groups": "Radio,Deutsch",
+    "url": "http://segenswelle.de:8000/hcjb",
+    "logo": "http://www.webbuilder.hosteurope.de/files/writeable/uploads/hosteurope16446/image/logo.ico",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17711",
+    "name": "Radio HCJB German",
+    "groups": "Radio,Deutsch",
+    "url": "http://segenswelle.de:8000/hcjb-aac",
+    "logo": "http://www.webbuilder.hosteurope.de/files/writeable/uploads/hosteurope16446/image/logo.ico",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "582",
+    "name": "Radio Live 99.9",
+    "groups": "Deutsch,World",
+    "url": "http://162.244.80.220:8000/;stream.mp3",
+    "logo": "http://breakingnews.live99fm.com/wp-content/uploads/2019/01/cropped-liveradiologo-180x180.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20969",
+    "name": "Radio Mol 105.2",
+    "groups": "Deutsch,Pop",
+    "url": "http://radiomol.ice.infomaniak.ch/radiomol-192.mp3",
+    "logo": "http://www.radiomol.be/apple-touch-icon.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "11709",
+    "name": "radio SAW Deutsch",
+    "groups": "Radio,Deutsch",
+    "url": "http://saw-stream19.radiohost.de/saw-deutsch_128?ref=radio-browser&amsparams=radio-browser&listenerrmid=31363430313036313332-323030313a313966303a353030313a333261343a353430303a3266663a666533373a37356332-3532353130-53747265616d436865636b426f742f302e312e30",
+    "logo": "http://www.radiosaw.de/sites/default/files/logo_0_1.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18003",
+    "name": "Radio Swiss Classic German",
+    "groups": "Radio,Classic,Deutsch",
+    "url": "http://stream.srg-ssr.ch/m/rsc_de/mp3_128",
+    "logo": "http://www.radioswissclassic.ch/social-media/rsc-web.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18004",
+    "name": "Radio Swiss Classic German",
+    "groups": "Radio,Classic,Deutsch",
+    "url": "http://stream.srg-ssr.ch/m/rsc_de/aacp_32",
+    "logo": "http://www.radioswissclassic.ch/social-media/rsc-web.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5325",
+    "name": "RadioMv.com German",
+    "groups": "Deutsch",
+    "url": "http://142.44.243.11:2488/listen.pls",
+    "logo": "https://cdn.radiomv.com/de/wp-content/uploads/2016/01/favicon.ico",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5396",
+    "name": "Seismic Radio German",
+    "groups": "Radio,Deutsch",
+    "url": "http://5.63.151.52:7070/listen.pls",
+    "logo": "http://seismicradio.org/home/wp-content/uploads/2017/06/cropped-seismic-colour-d-crack-270x270.jpg",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "12031",
+    "name": "Sunshine Live German Techno",
+    "groups": "Deutsch",
+    "url": "http://sunsl.streamabc.net/sunsl-germantechno-mp3-192-8949784?sABC=61p1q288%230%232qqpnss01895rqr0s8oq129o03s183o0%23&amsparams=playerid:;skey:1640092296",
+    "logo": "http://www.sunshine-live.de//_nuxt/icons/icon_64.964qFBKj2AM.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "12032",
+    "name": "Sunshine Live German Techno",
+    "groups": "Deutsch",
+    "url": "http://sunsl.streamabc.net/sunsl-germantechno-mp3-192-8949784?sABC=61p11215%230%23r4880qrn6s01nn6n263q843o4n00pqq9%23&amsparams=playerid:;skey:1640043029",
+    "logo": "http://www.sunshine-live.de//_nuxt/icons/icon_64.964qFBKj2AM.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "12051",
+    "name": "SW-Radio Deutsch",
+    "groups": "Deutsch",
+    "url": "http://www.segenswelle.de:8000/deutsch",
+    "logo": "http://www.sw-radio.com///templates/yoo_katana/favicon.ico",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "12052",
+    "name": "SW-Radio Deutsch",
+    "groups": "Deutsch",
+    "url": "http://www.segenswelle.de:8000/deutsch-aac",
+    "logo": "http://www.sw-radio.com///templates/yoo_katana/favicon.ico",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21030",
+    "name": "VBRO Radio",
+    "groups": "Deutsch,Pop",
+    "url": "http://stream.vbro.be:9100/vbro",
+    "logo": "https://www.radio.net/images/broadcasts/db/a1/4692/c300.png",
+    "artist": null,
+    "lang": "Deutsch",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

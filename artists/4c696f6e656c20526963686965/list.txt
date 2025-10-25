@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18476",
+    "name": "Lionel Richie",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/lionelrichie/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/b2a16604-de3f-424a-ab0e-3d0e2461d645.jpg",
+    "artist": "Lionel Richie",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18477",
+    "name": "Lionel Richie - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/lionelrichiehits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/0ca4393b-c933-4b1d-a1f7-88bffb0fe1aa.jpg",
+    "artist": "Lionel Richie",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

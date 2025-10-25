@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18142",
+    "name": "Alice Cooper",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/alicecooper/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/e3515acb-b599-4778-9fc9-de5e051b5582.jpg",
+    "artist": "Alice Cooper",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18143",
+    "name": "Alice Cooper - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/alicecooperhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/01fc6c4c-751c-4828-82c2-486bfea54b13.jpg",
+    "artist": "Alice Cooper",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

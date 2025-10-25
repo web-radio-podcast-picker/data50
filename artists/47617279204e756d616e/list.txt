@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18355",
+    "name": "Gary Numan",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/garynuman/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/eee16d26-4135-48b6-ba50-9a7810096f9d.jpg",
+    "artist": "Gary Numan",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

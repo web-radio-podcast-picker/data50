@@ -1,0 +1,807 @@
+[
+  {
+    "id": "17136",
+    "name": "Africa Internet Radio",
+    "groups": "Africa,Radio",
+    "url": "http://stream.zeno.fm/3ydy3cmu88quv?rj-ttl=5&rj-tok=AAABfdpcSyQAElcK8Ny84ZGnUA",
+    "logo": "https://africa-internet-radio.webnode.com/_files/200000006-951fa9615b/200/GIGIGIGIGF-7.gif",
+    "artist": null,
+    "lang": "African languages",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8200",
+    "name": "Africa N°1",
+    "groups": "Africa",
+    "url": "http://african1paris.ice.infomaniak.ch/african1paris-128.mp3",
+    "logo": "https://ca.radio.net/images/broadcasts/40/2b/4397/4/c300.png",
+    "artist": null,
+    "lang": "African languages",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8201",
+    "name": "Africa N°1 Club",
+    "groups": "Africa",
+    "url": "http://webradio5.ice.infomaniak.ch/webradio5-128.mp3",
+    "logo": "https://ca.radio.net/images/broadcasts/40/2b/4397/4/c300.png",
+    "artist": null,
+    "lang": "African languages",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8202",
+    "name": "Africa N°1 Coupé Décalé",
+    "groups": "Africa",
+    "url": "http://webradio1.ice.infomaniak.ch/webradio1-128.mp3",
+    "logo": "https://ca.radio.net/images/broadcasts/40/2b/4397/4/c300.png",
+    "artist": null,
+    "lang": "African languages",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8203",
+    "name": "Africa N°1 Mandingue",
+    "groups": "Africa",
+    "url": "http://webradio2.ice.infomaniak.ch/webradio2-64.mp3",
+    "logo": "https://ca.radio.net/images/broadcasts/40/2b/4397/4/c300.png",
+    "artist": null,
+    "lang": "African languages",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8204",
+    "name": "Africa N°1 Naija",
+    "groups": "Africa",
+    "url": "http://webradio3.ice.infomaniak.ch/webradio3-128.mp3",
+    "logo": "https://ca.radio.net/images/broadcasts/40/2b/4397/4/c300.png",
+    "artist": null,
+    "lang": "African languages",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8205",
+    "name": "Africa N°1 Rumba",
+    "groups": "Africa",
+    "url": "http://webradio4.ice.infomaniak.ch/webradio4-128.mp3",
+    "logo": "https://ca.radio.net/images/broadcasts/40/2b/4397/4/c300.png",
+    "artist": null,
+    "lang": "African languages",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8206",
+    "name": "Africa N°1 Selecta",
+    "groups": "Africa",
+    "url": "http://webradio6.ice.infomaniak.ch/webradio6-128.mp3",
+    "logo": "https://ca.radio.net/images/broadcasts/40/2b/4397/4/c300.png",
+    "artist": null,
+    "lang": "African languages",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17669",
+    "name": "Afrik Info 91.3",
+    "groups": "Africa",
+    "url": "https://stream-175.zeno.fm/mmd6ku3pn8vvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtbWQ2a3UzcG44dnZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjFGZnJ2a0R1UUp1NWVBNlNTcGVGS2ciLCJpYXQiOjE3Mzg3OTcxMzksImV4cCI6MTczODc5NzE5OX0.0QNn8bieFVqTBeF-26hD24N6dxQBFmnt-RwNUYdzOvI",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ9HCBgIqv5XmX4tzYxrvbA_6ELsdOuIwClA&s",
+    "artist": null,
+    "lang": "African languages",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21536",
+    "name": "AfriRadio",
+    "groups": "Africa",
+    "url": "http://s6.mediastreaming.it:9056/;stream.mp3",
+    "logo": "http://www.afriradio.it/favicon.ico",
+    "artist": null,
+    "lang": "African languages",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17768",
+    "name": "AfriRadio 106.1",
+    "groups": "News,Talk,Variety,Africa",
+    "url": "https://cast4.asurahosting.com/proxy/afriradi/stream",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGz5p3E3W4WmVUavKHxexf0kuYtX-ow11XNw&s",
+    "artist": null,
+    "lang": "African languages",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "15520",
+    "name": "AfriRadio Gambia 107.6",
+    "groups": "Africa",
+    "url": "https://usa9-vn.mixstream.net/8120/listen.mp3",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s181972g.png",
+    "artist": null,
+    "lang": "African languages",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8290",
+    "name": "Allzic Africa",
+    "groups": "French,Africa",
+    "url": "http://allzic49.ice.infomaniak.ch/allzic51.mp3",
+    "logo": "https://www.allzicradio.com/apple-touch-icon.png",
+    "artist": null,
+    "lang": "African languages",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17121",
+    "name": "Alpha Bondy 97.9",
+    "groups": "Africa",
+    "url": "https://listen.radioking.com/radio/364633/stream/414370",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7KPzaAIh5oAq1pPqguZONpa2zOAl0O8EATA&s",
+    "artist": null,
+    "lang": "African languages",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17180",
+    "name": "Channel Africa",
+    "groups": "Talk,Variety,Africa",
+    "url": "http://27743.live.streamtheworld.com/CA247AAC.aac",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3FcTmX1nXMN5QkB8IK4XRieyT2dmJ2b-xjA&s",
+    "artist": null,
+    "lang": "African languages",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17140",
+    "name": "East Africa Radio 88.1",
+    "groups": "Africa,Radio",
+    "url": "https://eatv.radioca.st/stream",
+    "logo": "https://www.eastafricaradio.com/sites/default/files/earadio_0.png",
+    "artist": null,
+    "lang": "African languages",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19983",
+    "name": "Hitz Africa FM",
+    "groups": "Africa,Radio",
+    "url": "http://stream.zeno.fm/2s5dd1tzem8uv?rj-ttl=5&rj-tok=AAABfdrPYuAAFYB-7iuw_1gxKA",
+    "logo": "https://cdn.onlineradiobox.com/img/l/5/100455.v5.png",
+    "artist": null,
+    "lang": "African languages",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5021",
+    "name": "New Life Africa",
+    "groups": "Religion,Religion,Africa",
+    "url": "https://xstreamer.galcom.org:8443/NewLifeAfrica",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Ycy14klsp_J9TtcgqxLmIIB-fcld5dC1Ig&s",
+    "artist": null,
+    "lang": "African languages",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17151",
+    "name": "Radio Free Africa 89.8",
+    "groups": "Radio,Africa",
+    "url": "https://s3.radio.co/s8df0149e0/listen",
+    "logo": "http://www.radiofreeafrica.co.tz/templates/radiofreeafrica/images/rfa_160.png",
+    "artist": null,
+    "lang": "African languages",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3012",
+    "name": "RadioPunchline Africa",
+    "groups": "Africa",
+    "url": "https://s2.radio.co/se4988efc3/listen",
+    "logo": "http://punchlineafricatv.com/wp-content/uploads/2020/06/cropped-PATV-Logo-TRANSPARENT-1-192x192.png",
+    "artist": null,
+    "lang": "African languages",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "12449",
+    "name": "RDP Africa",
+    "groups": "Africa",
+    "url": "http://radiocast.rtp.pt/rdpafrica80a.mp3",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s25214d.png",
+    "artist": null,
+    "lang": "African languages",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "2895",
+    "name": "The Today Africa Radio",
+    "groups": "Africa,Radio",
+    "url": "http://stream.zeno.fm/e66eb3qmg48uv?rj-ttl=5&rj-tok=AAABfdxNtHAAXbcoQdxIMj-Ddg",
+    "logo": "https://images.zeno.fm/pVaaA9gOSlcVWJ4-w5q43Z3ZD2MYpfVvtL0i5iAxRDI/rs:fit:440:440/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNnNDVlenBBZ01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNnazRieTdBZ01vZ0VFZW1WdWJ3L2ltYWdlLz9yZXNpemU9NDQweDQ0MCZ1cGRhdGVkPTE2NjE0MzcwMDgwMDA.webp",
+    "artist": null,
+    "lang": "African languages",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "12234",
+    "name": "West Africa Democracy Radio",
+    "groups": "News,World,Africa",
+    "url": "https://westafricademocracyradio.ice.infomaniak.ch/westafricademocracyradio.mp3?westafricaradio",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvsJS9cd1hD81tkmA9SbGtOqq0cPI1it88tQ&s",
+    "artist": null,
+    "lang": "African languages",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

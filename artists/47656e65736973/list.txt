@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18356",
+    "name": "Genesis",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/genesis/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/e82e9b96-c422-49ac-99fc-ae6cf3747bef.jpg",
+    "artist": "Genesis",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18357",
+    "name": "Genesis - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/genesishits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/2e056a5d-8800-41e1-8851-ce047f45a25a.jpg",
+    "artist": "Genesis",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

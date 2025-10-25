@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18285",
+    "name": "Derek Trucks & Susan Tedeschi",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/derekandsusantrucks/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/76bd1996-b36e-455a-9f18-712c8b34bb37.jpg",
+    "artist": "Derek Trucks & Susan Tedeschi",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

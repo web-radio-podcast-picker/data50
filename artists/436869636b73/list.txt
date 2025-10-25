@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18257",
+    "name": "Chicks",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/dixiechicks/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/794f0950-2377-4067-9026-2f5a8e0a81a3.jpg",
+    "artist": "Chicks",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

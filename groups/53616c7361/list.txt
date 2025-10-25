@@ -1,0 +1,142 @@
+[
+  {
+    "id": "20612",
+    "name": "Caliente 90.7",
+    "groups": "Salsa",
+    "url": "https://stream-176.zeno.fm/pdaqkmxu1p8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwZGFxa214dTFwOHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InVnWG9WSzByVFNxM1RRejF0ZllSalEiLCJpYXQiOjE3NDg3NDg1NzksImV4cCI6MTc0ODc0ODYzOX0.a5zhOsKv-lYVrhpNgrl1v7-s_7w_Qq4kNl9Iu5D9DKw",
+    "logo": "https://i1.sndcdn.com/avatars-000097146301-t2n8z2-t1080x1080.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18821",
+    "name": "Radio Cumbia 90s",
+    "groups": "90s,Latin,Salsa",
+    "url": "https://emiteradio.com/proxy/cumbia90s?mp=/stream",
+    "logo": "https://cumbia90.emisora.info/fotos/logo90s.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18843",
+    "name": "Radio Mundial 97.9",
+    "groups": "Latin,Oldies,Salsa",
+    "url": "http://streaming1.locucionar.com:12234/;",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQci37pwT0edoZl1VQPDvfuqSxLKcmwu6X48YpqtWfV_sK2Ms0gBorRWMAT6LpPVc3QSws&usqp=CAU",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "7049",
+    "name": "Radio Panamericana (101.1 FM Lima)",
+    "groups": "Salsa",
+    "url": "https://streaming.gometri.com/stream/8000/stream;/live",
+    "logo": "https://www.radiopanamericana.com/images/logo-pana_blanco.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

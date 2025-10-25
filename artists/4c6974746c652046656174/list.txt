@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18478",
+    "name": "Little Feat",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/littlefeat/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/690f05ce-e391-4e87-a34c-ef75b2944a6a.jpg",
+    "artist": "Little Feat",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

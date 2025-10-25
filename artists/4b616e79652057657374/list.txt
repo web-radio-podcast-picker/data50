@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18443",
+    "name": "Kanye West",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/kanyewest/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/3c63a979-25ef-41e3-bcea-ffd1d9a0ead7.jpg",
+    "artist": "Kanye West",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18444",
+    "name": "Kanye West - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/kanyewesthits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/608401d9-89c0-406d-9f63-d65c22d431e9.jpg",
+    "artist": "Kanye West",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

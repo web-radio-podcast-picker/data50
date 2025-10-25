@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18423",
+    "name": "John Lennon",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/lennon/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/4c22efaf-4e82-4352-8cd1-ec43d7872bbd.jpg",
+    "artist": "John Lennon",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18424",
+    "name": "John Lennon - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/johnlennonhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/9df0d2b2-aad3-4ac6-9603-8ff7ce4a8715.jpg",
+    "artist": "John Lennon",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

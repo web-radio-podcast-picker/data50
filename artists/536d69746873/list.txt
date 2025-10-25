@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18629",
+    "name": "Smiths",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/thesmiths/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/4ca895e2-66ca-46da-9d60-43f8fe435e7b.jpg",
+    "artist": "Smiths",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18281",
+    "name": "Def Leppard",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/defleppard/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/7f704504-cb7d-4b2d-bea2-801647016bb5.jpg",
+    "artist": "Def Leppard",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

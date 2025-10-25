@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18230",
+    "name": "Buddy Holly",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/buddyholly/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/bb819898-26df-4a29-bb3a-94d6ece7bc8d.jpg",
+    "artist": "Buddy Holly",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18231",
+    "name": "Buddy Holly - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/buddyhollyhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/f0faa866-5994-4c42-bb24-f7d76276be16.jpg",
+    "artist": "Buddy Holly",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18577",
+    "name": "R.E.M.",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/rem/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/f1508043-cf7e-4f77-a59e-bc837f93d354.jpg",
+    "artist": "R.E.M.",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18578",
+    "name": "R.E.M. - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/remhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/0efce0d7-e342-4db4-839b-28aab0bc67e5.jpg",
+    "artist": "R.E.M.",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

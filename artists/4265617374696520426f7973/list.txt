@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18182",
+    "name": "Beastie Boys",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/beastieboys/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/13a375c4-3f99-41a1-9191-7b02823ef06f.jpg",
+    "artist": "Beastie Boys",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

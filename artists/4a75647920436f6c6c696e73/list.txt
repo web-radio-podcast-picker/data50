@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18437",
+    "name": "Judy Collins",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/judycollins/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/5e5072f5-536f-4837-a754-33cb377003a2.jpg",
+    "artist": "Judy Collins",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

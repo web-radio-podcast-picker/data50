@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18147",
+    "name": "America",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/america/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/f0c2ba22-a1ac-49e6-bdff-196476d0b0a5.jpg",
+    "artist": "America",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

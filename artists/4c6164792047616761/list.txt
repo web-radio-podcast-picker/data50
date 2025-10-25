@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18466",
+    "name": "Lady Gaga",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/ladygaga/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/09783d18-4d0e-4086-ada7-b237d4b72913.jpg",
+    "artist": "Lady Gaga",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18467",
+    "name": "Lady Gaga - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/ladygagahits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/fc4248d5-b2d7-49cb-87b3-3509c666b9c9.jpg",
+    "artist": "Lady Gaga",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

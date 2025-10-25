@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18370",
+    "name": "Gordon Lightfoot",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/gordonlightfoot/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/7980cd89-dc97-4417-97f1-1809d94cb6a7.jpg",
+    "artist": "Gordon Lightfoot",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

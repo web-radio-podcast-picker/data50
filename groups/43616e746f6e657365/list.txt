@@ -1,0 +1,37 @@
+[
+  {
+    "id": "21419",
+    "name": "SBS PopAsia",
+    "groups": "Cantonese,Chinese,Pop",
+    "url": "https://sbs-ice.streamguys1.com/sbs-popasia-sbs-web",
+    "logo": "https://play-lh.googleusercontent.com/mhYTYPmw-9HSETeTaQJyqgELwE6U45EzRqja6R98C_4gcGAV4vUBDE9B2VDhRXaKJRXx=s512",
+    "artist": null,
+    "lang": "Chinese",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

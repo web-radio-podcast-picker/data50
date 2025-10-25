@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18286",
+    "name": "Desmond Dekker",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/desmonddekker/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/0db9c186-eed2-4857-9c1e-6421a0e4cb2f.jpg",
+    "artist": "Desmond Dekker",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

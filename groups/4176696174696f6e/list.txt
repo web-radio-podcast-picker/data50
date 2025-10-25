@@ -1,0 +1,37 @@
+[
+  {
+    "id": "21480",
+    "name": "YBTL Aviation Townsville 133.5MHz AM ATIS",
+    "groups": "Aviation,Talk",
+    "url": "http://s1-bos.liveatc.net:80/ybtl1_atis?nocache=2021122100534549068",
+    "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0021/4464/brand.gif?itok=k-la5kH4",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

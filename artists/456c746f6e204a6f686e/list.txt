@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18321",
+    "name": "Elton John",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/eltonjohn/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/9d37d47d-e03c-4860-a8a5-40d5ec7ba42f.jpg",
+    "artist": "Elton John",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18322",
+    "name": "Elton John - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/eltonjohnhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/4ef36946-12f2-46b5-a4b6-6a1bda42d620.jpg",
+    "artist": "Elton John",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

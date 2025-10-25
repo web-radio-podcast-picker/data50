@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18593",
+    "name": "Rod Stewart",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/rodstewart/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/78504ef0-cd06-44ef-9935-383b2c599f56.jpg",
+    "artist": "Rod Stewart",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18594",
+    "name": "Rod Stewart - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/rodstewarthits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/b2e1281e-a6ee-48fc-a2a0-6063e9fd9cf3.jpg",
+    "artist": "Rod Stewart",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

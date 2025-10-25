@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18447",
+    "name": "Katy Perry",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/katyperry/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/6d69017a-d429-440a-b347-7e75eb6e384a.jpg",
+    "artist": "Katy Perry",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

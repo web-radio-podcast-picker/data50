@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18134",
+    "name": "Aerosmith",
+    "groups": "Artists",
+    "url": "http://streaming.exclusive.radio/er/aerosmith/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/055f0ffd-956b-4330-bf95-4bd19540afad.jpg",
+    "artist": "Aerosmith",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18135",
+    "name": "Aerosmith - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/aerosmithhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/4b51013f-50d0-47a4-bd6a-1d4d31c05f5a.jpg",
+    "artist": "Aerosmith",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

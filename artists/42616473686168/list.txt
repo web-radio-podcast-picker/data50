@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18173",
+    "name": "Badshah",
+    "groups": "Artists",
+    "url": "https://drive.uber.radio/uber/bollywoodbadshah/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/27340c83-4f6a-4f56-b34f-6d28d7bd9eed.jpg",
+    "artist": "Badshah",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

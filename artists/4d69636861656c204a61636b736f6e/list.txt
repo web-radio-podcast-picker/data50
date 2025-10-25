@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18507",
+    "name": "Michael Jackson",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/michaeljackson/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/da923e7f-0df1-4b6e-847e-f6f2364c45d6.jpg",
+    "artist": "Michael Jackson",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18508",
+    "name": "Michael Jackson - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/michaeljacksonhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/f7d6a937-c36a-428a-afa5-427fd239f672.jpg",
+    "artist": "Michael Jackson",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18655",
+    "name": "Take That",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/takethat/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/e4021c80-6ac0-43a8-85ba-b5ba551e03db.jpg",
+    "artist": "Take That",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18656",
+    "name": "Take That - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/takethathits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/a0a58103-4310-4f05-b992-4dab94a064c4.jpg",
+    "artist": "Take That",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

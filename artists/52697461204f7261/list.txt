@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18588",
+    "name": "Rita Ora",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/ritaora/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/d2f151d1-8ccb-4dc7-bcec-069899ac4019.jpg",
+    "artist": "Rita Ora",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

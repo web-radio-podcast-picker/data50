@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18651",
+    "name": "Sunidhi Chauhan",
+    "groups": "Artists",
+    "url": "https://drive.uber.radio/uber/bollywoodsunidhichauhan/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/6ac36cfb-8fcf-443b-92f1-dd39ba5e9949.jpg",
+    "artist": "Sunidhi Chauhan",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

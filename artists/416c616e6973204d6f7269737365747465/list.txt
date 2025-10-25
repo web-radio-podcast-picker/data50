@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18140",
+    "name": "Alanis Morissette",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/alanismorissette/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/88fcbf9e-421b-401a-9a54-f7d5b0a775a6.jpg",
+    "artist": "Alanis Morissette",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

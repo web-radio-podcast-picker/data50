@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18659",
+    "name": "Tammy Wynette",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/tammywynette/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/933bc24f-fa21-4153-87fe-4b2dec91655a.jpg",
+    "artist": "Tammy Wynette",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

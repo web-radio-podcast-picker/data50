@@ -1,0 +1,37 @@
+[
+  {
+    "id": "9509",
+    "name": "Radio Web Nas Ondas do Saber",
+    "groups": "Education,Science",
+    "url": "https://s06.maxcast.com.br:8090/live",
+    "logo": "https://play-lh.googleusercontent.com/VXidN0-fjqYkjfx6rFKFaXpydwiGhlSesSgr9HxO0vxwO8UfYDnNDIw9RZZwvtRsSlk=w526-h296-rw",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

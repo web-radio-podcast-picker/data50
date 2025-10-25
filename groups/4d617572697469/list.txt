@@ -1,0 +1,37 @@
+[
+  {
+    "id": "9495",
+    "name": "Rádio União 104.9",
+    "groups": "Mauriti",
+    "url": "https://servidor35-2.brlogic.com:7030/live?1599145118524",
+    "logo": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.radios.com.br%2Fradio%2Fxl%2Fradio44322_1490029697.jpg&f=1&nofb=1",
+    "artist": null,
+    "lang": "Mauritian Creole",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18620",
+    "name": "Sidhu Moose Wala",
+    "groups": "Artists",
+    "url": "https://drive.uber.radio/uber/bollywoodsidhumoosewala/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/5c93c780-f7b5-4201-8245-d5b3d4c0b0fc.jpg",
+    "artist": "Sidhu Moose Wala",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

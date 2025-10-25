@@ -1,0 +1,37 @@
+[
+  {
+    "id": "9800",
+    "name": "Meteorolojinin Sesi Radyosu",
+    "groups": "News,Variety,Weather",
+    "url": "http://radyo.yayin.com.tr:6227/stream",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH6eyE2-k6i-PFw9OVrKx9clkSP1jzR0jdVA&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18158",
+    "name": "Aretha Franklin",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/arethafranklin/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/41163ac0-baaa-460f-b96d-934bf4383dc2.jpg",
+    "artist": "Aretha Franklin",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18159",
+    "name": "Aretha Franklin - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/arethafranklinhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/e607c244-6615-48f9-a2e0-38c3a787bfdf.jpg",
+    "artist": "Aretha Franklin",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

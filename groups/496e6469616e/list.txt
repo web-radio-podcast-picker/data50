@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1997",
+    "name": "Radio Caprice Indian Folk",
+    "groups": "Radio,Indian",
+    "url": "http://79.111.14.76:8002/indianfolk",
+    "logo": "https://www.radio.fr/300/capriceindian.png?version=6aaa0b3db77aba3b6178c7ed41560450",
+    "artist": null,
+    "lang": "Hindi",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21484",
+    "name": "SBS South Asian",
+    "groups": "Hits,Indian,World,Asia",
+    "url": "https://sbs-hls.streamguys1.com/hls/popdesi/playlist.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9gPjGeB7YWuoWItNnAYY2xoNnlKXClh2V_Q&s",
+    "artist": null,
+    "lang": "Asian languages",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

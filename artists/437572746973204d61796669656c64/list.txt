@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18272",
+    "name": "Curtis Mayfield",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/curtismayfield/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/07f6aae5-5bfc-4afa-9f0a-2f43385b0790.jpg",
+    "artist": "Curtis Mayfield",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

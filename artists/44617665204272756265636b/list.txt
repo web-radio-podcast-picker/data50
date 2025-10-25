@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18275",
+    "name": "Dave Brubeck",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/davebrubeck/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/15e5f117-a00a-4086-97c5-3cb4a1f3099c.jpg",
+    "artist": "Dave Brubeck",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

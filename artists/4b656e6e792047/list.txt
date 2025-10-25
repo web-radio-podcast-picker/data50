@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18453",
+    "name": "Kenny G",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/kennyg/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/94c6c131-0af4-4bbf-b291-00c6023e1922.jpg",
+    "artist": "Kenny G",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

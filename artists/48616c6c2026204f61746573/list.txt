@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18377",
+    "name": "Hall & Oates",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/hallandoates/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/b0bd8f0e-1496-46bf-941e-5e63ddb0bc9c.jpg",
+    "artist": "Hall & Oates",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18378",
+    "name": "Hall & Oates - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/hallandoateshits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/40ea4875-a5b8-4cb9-9ef3-77f48f4937e2.jpg",
+    "artist": "Hall & Oates",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

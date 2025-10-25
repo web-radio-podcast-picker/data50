@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18408",
+    "name": "Jethro Tull",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/jethrotull/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/cbbd3f3c-8155-4ced-8c0c-ff34e69bd127.jpg",
+    "artist": "Jethro Tull",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

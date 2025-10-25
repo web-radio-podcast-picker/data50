@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18581",
+    "name": "Randy Travis",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/randytravis/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/63864657-2197-406e-a37f-952302f4fd4d.jpg",
+    "artist": "Randy Travis",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

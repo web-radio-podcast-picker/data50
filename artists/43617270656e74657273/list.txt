@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18240",
+    "name": "Carpenters",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/carpenters/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/0a45d0c5-45d4-406f-b979-5b7b2e575663.jpg",
+    "artist": "Carpenters",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18241",
+    "name": "Carpenters - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/carpentershits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/4762adbc-c95e-4521-9a6c-91f5819ae01a.jpg",
+    "artist": "Carpenters",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

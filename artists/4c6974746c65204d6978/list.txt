@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18479",
+    "name": "Little Mix",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/littlemix/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/b7415ea9-9e6e-4b5f-9902-a0bd602f643a.jpg",
+    "artist": "Little Mix",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18480",
+    "name": "Little Mix - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/littlemixhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/4e7b4b3b-6df3-4c21-b3b1-b862ead14c3f.jpg",
+    "artist": "Little Mix",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

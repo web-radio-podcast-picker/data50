@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18410",
+    "name": "Jimi Hendrix",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/hendrix/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/7452d37b-268a-4c48-9b23-a74d2c4ff3fe.jpg",
+    "artist": "Jimi Hendrix",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18411",
+    "name": "Jimi Hendrix - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/jimihendrixhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/7b7dab09-4a72-44ed-83a1-1e6657b580db.jpg",
+    "artist": "Jimi Hendrix",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

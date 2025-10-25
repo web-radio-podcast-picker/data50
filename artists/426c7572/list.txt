@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18202",
+    "name": "Blur",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/blur/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/6fdee581-153d-496d-9ef1-af7cc609ba00.jpg",
+    "artist": "Blur",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18203",
+    "name": "Blur - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/blurhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/45e7e454-6e35-4b23-a241-52526bbf7b67.jpg",
+    "artist": "Blur",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

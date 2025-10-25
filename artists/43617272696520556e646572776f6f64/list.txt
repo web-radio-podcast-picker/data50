@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18242",
+    "name": "Carrie Underwood",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/carrieunderwood/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/a1f2f22a-f7e0-4fd2-8e0f-91040fe35575.jpg",
+    "artist": "Carrie Underwood",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

@@ -1,0 +1,667 @@
+[
+  {
+    "id": "21110",
+    "name": "2MM 1665",
+    "groups": "Greek,World",
+    "url": "http://110.175.9.78:8001/8001",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/51/2mm_radio_logo.png",
+    "artist": null,
+    "lang": "Greek, Modern (1453-)",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "750",
+    "name": "Athens 106.5",
+    "groups": "Greek",
+    "url": "http://89.163.217.252:9400/listen.pls",
+    "logo": "http://resources.live24.gr/resources/images/stations/e017e072-d05a-4d4a-9249-a57900f6ddcc.jpg",
+    "artist": null,
+    "lang": "Greek, Modern (1453-)",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "751",
+    "name": "Athens Deejay 95.2",
+    "groups": "Greek",
+    "url": "http://radiodjlive.mdc.akamaized.net/strmDj952/usrDj952/playlist.m3u8",
+    "logo": "http://cdn.e-radio.gr/logos/gr/big/deejay.png",
+    "artist": null,
+    "lang": "Greek, Modern (1453-)",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "752",
+    "name": "Athens Deejay 95.2",
+    "groups": "Greek",
+    "url": "http://netradio.live24.gr/athensdeejay",
+    "logo": "http://www.athensdeejay.gr/content/assets/favicons/apple-touch-icon-v2.png",
+    "artist": null,
+    "lang": "Greek, Modern (1453-)",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "753",
+    "name": "Athens Jazz",
+    "groups": "Greek",
+    "url": "http://music.wixstatic.com/mp3/6aa018_e43fa27d27c7437fb9306ff8dbb193c9.mp3",
+    "logo": "http://resources.live24.gr/resources/images/stations/5f50ab14-a35f-49c5-b2b0-5df8d93f5a3f.jpg",
+    "artist": null,
+    "lang": "Greek, Modern (1453-)",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "754",
+    "name": "Athens Jukebox",
+    "groups": "Greek",
+    "url": "http://5.189.177.218:8015/listen.pls",
+    "logo": "http://resources.live24.gr/resources/images/stations/0e3aea04-d178-4835-98e8-a9bfb983a957.png",
+    "artist": null,
+    "lang": "Greek, Modern (1453-)",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "755",
+    "name": "Athens Metro Mall",
+    "groups": "Greek",
+    "url": "http://mmr.yourstreaming.gr:9300/listen.pls",
+    "logo": "http://resources.live24.gr/resources/images/stations/37d146e6-dbf3-4d0a-b5bd-0e6f125703a3.png",
+    "artist": null,
+    "lang": "Greek, Modern (1453-)",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "756",
+    "name": "Athens Party",
+    "groups": "Greek",
+    "url": "http://ice.onestreaming.com/athensparty",
+    "logo": "http://www.nextweb.gr/wp-content/uploads/2015/09/AthensParty_black_cm.png",
+    "artist": null,
+    "lang": "Greek, Modern (1453-)",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "757",
+    "name": "Athens Up Radio",
+    "groups": "Greek,Radio",
+    "url": "http://n08.radiojar.com/9ndpdg3c0s8uv?rj-ttl=5&rj-tok=AAABfd3fBJ0AZpls2iaI5ED36g",
+    "logo": "http://1.bp.blogspot.com/-Ei9cCZAh68o/X-czGA__2HI/AAAAAAAAIAw/349CRBjOapggJ3xXq4k7--KyrF477FfzwCK4BGAYYCw/s1600/athensup_logo.png",
+    "artist": null,
+    "lang": "Greek, Modern (1453-)",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "758",
+    "name": "Athens Voice 102.5",
+    "groups": "Greek",
+    "url": "http://netradio.live24.gr/nitro4555",
+    "logo": "https://i.imgur.com/udRf6Hv.png",
+    "artist": null,
+    "lang": "Greek, Modern (1453-)",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "914",
+    "name": "Greek Otaku Radio",
+    "groups": "Greek,Radio",
+    "url": "http://usa2.fastcast4u.com:3684/listen.pls",
+    "logo": "http://goradio.gr/data/icons/mstile-310x310.png",
+    "artist": null,
+    "lang": "Greek, Modern (1453-)",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21341",
+    "name": "Hellenic Radio 1683",
+    "groups": "Greek,World",
+    "url": "https://radio.plegma.host/radio/8000/greekradio.mp3",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/1683am_Hellenic_Radio_Logo.png",
+    "artist": null,
+    "lang": "Greek, Modern (1453-)",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "15609",
+    "name": "Jesus Coming FM Greek",
+    "groups": "Religion,Radio,Greek",
+    "url": "http://live.jesuscomingfm.com:8356/listen.pls",
+    "logo": "http://jesuscomingfm.com/templates/life_journey/favicon.ico",
+    "artist": null,
+    "lang": "Greek, Modern (1453-)",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16801",
+    "name": "London Greek Radio 103.3",
+    "groups": "English,Greek,Radio",
+    "url": "http://eco.onestreaming.com:8203/stream",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4e/LGR_Current.png",
+    "artist": null,
+    "lang": "Greek, Modern (1453-)",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "1200",
+    "name": "Radio Art Greek Art For Kids",
+    "groups": "Radio,Arts,Greek",
+    "url": "http://air.radioart.com/fGreek_art_for_kids.mp3",
+    "logo": "https://d1iyh67kzf6t3o.cloudfront.net/images/channels/Greek_art_for_kids.jpg",
+    "artist": null,
+    "lang": "Greek, Modern (1453-)",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "1201",
+    "name": "Radio Art Greek Art Mood Up",
+    "groups": "Radio,Arts,Greek",
+    "url": "http://air.radioart.com/fGreek_art_contemporary.mp3",
+    "logo": "https://d1iyh67kzf6t3o.cloudfront.net/images/channels/Greek_art_contemporary.jpg",
+    "artist": null,
+    "lang": "Greek, Modern (1453-)",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "11614",
+    "name": "Radio Greek",
+    "groups": "Radio,Greek",
+    "url": "http://radiogreek.out.airtime.pro:8000/radiogreek_a",
+    "logo": "http://radiogreek.airtime.pro/api/show-logo?id=102",
+    "artist": null,
+    "lang": "Greek, Modern (1453-)",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16939",
+    "name": "RadioArt Greek Art for Kids",
+    "groups": "Greek,Arts",
+    "url": "http://live.radioart.com/fGreek_art_for_kids.mp3",
+    "logo": "https://www.radio.net/images/broadcasts/4c/ce/105551/1/c300.png",
+    "artist": null,
+    "lang": "Greek, Modern (1453-)",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21416",
+    "name": "Rythmos Radio",
+    "groups": "Greek,World",
+    "url": "https://n13.radiojar.com/80ywsf43knuvv.mp3",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGYQbVChIDCjlblbn5Ykfg_jKYwoiGtZEUMg&s",
+    "artist": null,
+    "lang": "Greek, Modern (1453-)",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

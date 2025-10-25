@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18183",
+    "name": "Beatles",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/beatles/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/4a84b135-e388-4be8-a79b-5941ed42cb74.jpg",
+    "artist": "Beatles",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18184",
+    "name": "Beatles - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/thebeatleshits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/17be5493-fd50-44bd-970b-8aa3f2929312.jpg",
+    "artist": "Beatles",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

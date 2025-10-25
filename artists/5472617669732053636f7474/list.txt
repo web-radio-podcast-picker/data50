@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18690",
+    "name": "Travis Scott",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/travisscott/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/14d7062c-6d41-4283-9a32-348dc41b4661.jpg",
+    "artist": "Travis Scott",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

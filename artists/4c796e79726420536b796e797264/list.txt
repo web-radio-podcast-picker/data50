@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18487",
+    "name": "Lynyrd Skynyrd",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/lynyrdskynyrd/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/a8fddc52-b67a-4195-91bb-a1d1f7cd6978.jpg",
+    "artist": "Lynyrd Skynyrd",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

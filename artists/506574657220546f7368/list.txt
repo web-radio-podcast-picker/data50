@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18560",
+    "name": "Peter Tosh",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/petertosh/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/54f3e935-a4e1-4ce6-a372-3a1b76b40779.jpg",
+    "artist": "Peter Tosh",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

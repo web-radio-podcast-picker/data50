@@ -1,0 +1,947 @@
+[
+  {
+    "id": "17769",
+    "name": "Beatbox Angola",
+    "groups": "Hip Hop,R'N'B",
+    "url": "https://radios.vpn.sapo.pt/AO/radio11.mp3",
+    "logo": "https://liveonlineradio.net/wp-content/uploads/2021/04/beatbox-angola-220x108.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3711",
+    "name": "Boost Radio",
+    "groups": "R'N'B,Rap",
+    "url": "https://gateway.cdnstream1.com/boost-live",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzorZkaMjdKhgjf-kQgn3s_uAeaie2sNtmIw&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20885",
+    "name": "Fun Radio 104.7",
+    "groups": "Contemporary,Dance,R'N'B",
+    "url": "http://funradiobe.ice.infomaniak.ch/funradiobe-high",
+    "logo": "http://www.funradio.be/wp-content/themes/rise/assets/img/fav/apple-touch-icon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17187",
+    "name": "Gagasi 99.5 FM",
+    "groups": "Afro,Pop,R'N'B",
+    "url": "https://streaming.fabrik.fm/gagasi/echocast/audio/low/index.m3u8",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/VX5aRhaLnK.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "15525",
+    "name": "Global 99.5",
+    "groups": "R'N'B,Soul",
+    "url": "http://ice64.securenetsystems.net/GLOBALBS",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s206590q.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20307",
+    "name": "ITT 90.9 FM",
+    "groups": "Oldies,Pop,R'N'B",
+    "url": "https://stream-175.zeno.fm/fgkkktft6rhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmZ2tra3RmdDZyaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjF0b3FqQm9iUkxHYjFsc3Vhb19pZ2ciLCJpYXQiOjE3NDUzOTE0ODMsImV4cCI6MTc0NTM5MTU0M30.mPkK7db0x_wLPh413o5bjzgZu6LzXm1NXcPYcrmflXo",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhRj4mVMt2vWvSVDCvvwwhAjm85VTOINMi6A&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20917",
+    "name": "MNM UrbaNice",
+    "groups": "R'N'B,Soul,Urban",
+    "url": "http://icecast-servers.vrtcdn.be/mnm_urb-high.mp3",
+    "logo": "https://mnm.be/favicons/favicon-128.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17210",
+    "name": "Motsweding FM",
+    "groups": "Blues,R'N'B,Soul",
+    "url": "http://28933.live.streamtheworld.com/MOTSWEDINGAAC.aac",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/mcT8nm7JPJ.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16435",
+    "name": "NJS Radio New Jack Swing",
+    "groups": "R'N'B,Urban",
+    "url": "http://162.244.80.106:11198/",
+    "logo": "http://njsradio.com/wp-content/uploads/2019/04/njsavatar.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21379",
+    "name": "Oz Urban Radio 87.8",
+    "groups": "R'N'B,Urban",
+    "url": "https://streaming.radio.co/s53f27469e/listen",
+    "logo": "https://nz.radio.net/300/ozarabradio.png?version=f02ba8bf78ecc6e90121e8cee74fcaf2",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20964",
+    "name": "Radio KIF 97.8",
+    "groups": "Hip Hop,R'N'B,Rap",
+    "url": "https://broadcast.sksgroup.com/kif_mp3",
+    "logo": "https://assets.radioplayer.org/056/0561133/600/600/kyess3iv.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17099",
+    "name": "Radio Klan 92.9",
+    "groups": "Pop,R'N'B,Rock",
+    "url": "https://klanradio.tvklan.al/live/klanmusicradio1/playlist.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrus3XNx0ZAM0HXeQB1tI0HHE2UGnfULBbOw&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21406",
+    "name": "Radio Metro 105.7",
+    "groups": "Dance,R'N'B,Top 40",
+    "url": "https://stream.radiometro.com.au/",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/72/Trans-RadioMetro-Solid.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20797",
+    "name": "Radio SOL 95.5",
+    "groups": "Latin,R'N'B,Soul",
+    "url": "http://sol.anw.at:8023/stream",
+    "logo": "http://www.radiosol.at/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20977",
+    "name": "Radio Stad 107.8",
+    "groups": "R'N'B,Urban",
+    "url": "http://stream2.radiostad.org:8344/",
+    "logo": "https://www.radio.net/images/broadcasts/06/35/6823/1/c300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20807",
+    "name": "Radio Ypsilon 94.5",
+    "groups": "Oldies,R'N'B,Rock",
+    "url": "http://mp3.radioypsilon.at:8000/mp3-160",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6aAMGMD_U3V_4noHFgkqUHsu9LlpyRVmLcw&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9832",
+    "name": "Radyo BoomBox 100.2",
+    "groups": "R'N'B,Rap,Turk",
+    "url": "https://ssldyg2.radyotvonline.com/boombox/boombox.stream/playlist.m3u8",
+    "logo": "https://static-media.streema.com/media/cache/f5/ee/f5ee88c98c8c01030dd597cccf939930.jpg",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20999",
+    "name": "RTBF Classic 21 Soul Power",
+    "groups": "R'N'B,Soul",
+    "url": "https://radios.rtbf.be/wr-c21-soul-128.mp3",
+    "logo": "https://www.allzicradio.com/media/radios/classic21-soulpower-allzicradio.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17107",
+    "name": "Top Gold Radio 100.8",
+    "groups": "Pop,R'N'B,Rock",
+    "url": "https://live.topgold.al/topgold",
+    "logo": "https://www.radio.net/300/topgold.png?version=dd6bba7cde6796af27ea730c5b04c369",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17233",
+    "name": "Tru FM",
+    "groups": "Pop,R'N'B,Talk",
+    "url": "http://27743.live.streamtheworld.com/TRUFMAAC.aac",
+    "logo": "https://za.radio.net/300/tru-fm.png?version=bbd3b2d794ead13e52a21d35432018dd",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21027",
+    "name": "ULTRASON",
+    "groups": "Hip Hop,R'N'B,Rap,French",
+    "url": "http://broadcast.infomaniak.ch/ultrason-high.mp3",
+    "logo": "https://www.radio.net/images/broadcasts/d3/5a/9479/1/c300.png",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "511",
+    "name": "Urbana BA",
+    "groups": "R'N'B,Soul,Urban",
+    "url": "http://server.ohradio.com.ar:9610/",
+    "logo": "http://www.urbanaba.com.ar/wp-content/themes/urbanaba/images/urbanaLogo.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "6915",
+    "name": "Xezer 103.0",
+    "groups": "Hip Hop,Pop,R'N'B",
+    "url": "https://s40.myradiostream.com/:22546/listen.mp3",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEkAlzrERS2sqF6ZryR1JEzW7uI8N-iqIvkg&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17243",
+    "name": "You 89.8 FM",
+    "groups": "House,R'N'B,World",
+    "url": "https://streaming.fabrik.fm/youfm/echocast/audio/low/index.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNmUfiUpwWKuv9Ig5jwW08ZK4emksWP-ZzDA&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "12241",
+    "name": "ZFH Hott 107.5",
+    "groups": "Pop,R'N'B,Rock",
+    "url": "https://iic.streamguys1.com/HOTT",
+    "logo": "https://media-cdn.socastsrm.com/uploads/station/1687/fbShare.png?r=48528",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "12243",
+    "name": "ZFV Vibe 103 103.3",
+    "groups": "Dance,R'N'B,Trance",
+    "url": "https://cp11.serverse.com/proxy/fwincknq/stream",
+    "logo": "https://www.vibe103.com/wp-content/uploads/2020/06/cropped-VibeFavicon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20641",
+    "name": "Zoom Radio 95.7 [Not 24/7]",
+    "groups": "Jazz,R'N'B,Soul",
+    "url": "http://108.178.13.122:8170/listen.pls",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s240017d.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18248",
+    "name": "Charli Xcx",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/charlixcx/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/2d54a231-f3bd-4416-bcc3-c8dc6f6bd281.jpg",
+    "artist": "Charli Xcx",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

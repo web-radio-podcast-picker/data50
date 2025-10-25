@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18421",
+    "name": "John Lee Hooker",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/johnleehooker/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/eba1aa86-22ec-459f-90ce-9c11eba339fa.jpg",
+    "artist": "John Lee Hooker",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

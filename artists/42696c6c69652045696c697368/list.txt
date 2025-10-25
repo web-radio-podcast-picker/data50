@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18192",
+    "name": "Billie Eilish",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/billyeilish/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/e4f2944e-3d9f-486e-9dd3-5833653dc08c.jpg",
+    "artist": "Billie Eilish",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18641",
+    "name": "Steve Miller Band",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/stevemillerband/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/cd9e9186-281d-49ff-912b-d0a97cb6bae9.jpg",
+    "artist": "Steve Miller Band",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

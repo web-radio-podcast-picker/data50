@@ -1,0 +1,37 @@
+[
+  {
+    "id": "10",
+    "name": "Dansbandskanalen",
+    "groups": "Swedish",
+    "url": "http://stream.dbmedia.se/dbk96",
+    "logo": "http://dansbandskanalen.se/wp-content/uploads/2016/10/cropped-dbkikon-270x270.png",
+    "artist": null,
+    "lang": "Swedish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

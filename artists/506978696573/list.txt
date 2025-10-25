@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18566",
+    "name": "Pixies",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/pixies/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/ceb73275-d3b3-45ef-beba-86f892e6f027.jpg",
+    "artist": "Pixies",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

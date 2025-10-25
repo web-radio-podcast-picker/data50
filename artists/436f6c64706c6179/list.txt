@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18265",
+    "name": "Coldplay",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/coldplay/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/7503bc30-cffd-4f0c-99ed-ef6b0583dbfb.jpg",
+    "artist": "Coldplay",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18266",
+    "name": "Coldplay - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/coldplayhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/6b8c94a6-a843-449f-9c9a-35384fbff17b.jpg",
+    "artist": "Coldplay",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

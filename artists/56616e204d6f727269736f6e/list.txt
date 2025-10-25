@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18697",
+    "name": "Van Morrison",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/vanmorrison/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/febc6cdb-3923-452d-b417-ca51ee4d9f65.jpg",
+    "artist": "Van Morrison",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18698",
+    "name": "Van Morrison - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/vanmorrisonhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/357ccdb3-fa48-4920-bc5c-8656bd6cf1a1.jpg",
+    "artist": "Van Morrison",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "id": "9128",
+    "name": "Band FM Triangulo 99.9",
+    "groups": "Funk,Pop",
+    "url": "https://27403.live.streamtheworld.com/BANDFM_SPAAC/HLS/84527a35-aa8d-4ba7-98ab-e3ce69377fe4/0/playlist.m3u8",
+    "logo": "https://bandfmtriangulo.com/wp-content/uploads/2023/02/Cabecalho-do-logotipo-opaco.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21325",
+    "name": "DiscoRhythm",
+    "groups": "Disco,Funk,Soul",
+    "url": "http://c3.radioboss.fm:8018/stream",
+    "logo": "https://us0-cdn.onlineradiobox.com/img/logo/0/70580.v4.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9184",
+    "name": "Funk Favela",
+    "groups": "Funk,World",
+    "url": "http://stream.zeno.fm/07z9dqmz0uquv?rj-ttl=5&rj-tok=AAABfd4UPkIA065e8QVtSsu4Yg",
+    "logo": "https://lh3.googleusercontent.com/S4quE33UlxpSq3xn54EsvOfK8U4yoA164U5kHzai3ch_vGiBRDfMXNYBfhT1cCFSrTw=s180-rw",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9350",
+    "name": "Rádio Disco Funk",
+    "groups": "Disco,Funk",
+    "url": "http://streaming12.hstbr.net:8084/live",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5_ryClXiZ9lQPe0nxzmjE3BSCPdNTTheFNnJ6TzfDPT6U-T8KWCrPciSgKjOLo6nuyRs&usqp=CAU",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20818",
+    "name": "Radio Superfly 98.3",
+    "groups": "Funk,Hip Hop,Pop",
+    "url": "http://stream01.superfly.fm:8080/live128",
+    "logo": "http://www.superfly.fm/templates/superflyfm/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

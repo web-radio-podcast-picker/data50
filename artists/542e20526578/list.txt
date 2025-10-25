@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18654",
+    "name": "T. Rex",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/trex/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/0c366605-a314-4795-90ba-0e8b1c475529.jpg",
+    "artist": "T. Rex",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

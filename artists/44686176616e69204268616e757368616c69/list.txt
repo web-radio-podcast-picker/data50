@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18287",
+    "name": "Dhavani Bhanushali",
+    "groups": "Artists",
+    "url": "https://drive.uber.radio/uber/bollywooddhavanibhanushali/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/38d15cb4-6ced-4afe-a272-97c9a0712805.png",
+    "artist": "Dhavani Bhanushali",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

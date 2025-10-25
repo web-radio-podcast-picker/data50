@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18435",
+    "name": "Journey",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/journey/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/55871645-e5b4-4d2d-b652-ef8a8bc4c3f8.jpg",
+    "artist": "Journey",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18663",
+    "name": "Temptations",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/thetemptations/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/32fca8a2-a3bc-4471-aa8a-291509def01d.jpg",
+    "artist": "Temptations",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18664",
+    "name": "Temptations - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/temptationshits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/0b7366bd-c171-4ed0-ace8-6f52da381269.jpg",
+    "artist": "Temptations",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

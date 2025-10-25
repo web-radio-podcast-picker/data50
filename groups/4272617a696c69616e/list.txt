@@ -1,0 +1,72 @@
+[
+  {
+    "id": "10540",
+    "name": "Brazilian Birds Radio",
+    "groups": "Brazilian,Radio",
+    "url": "http://sc-brazilianbirds.1.fm:10076/",
+    "logo": "https://www.radio.net/images/broadcasts/2a/d5/106820/1/c300.png",
+    "artist": null,
+    "lang": "Portuguese",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17776",
+    "name": "RNA Radio Luanda 99.9",
+    "groups": "Brazilian,Religion,Variety",
+    "url": "https://paineldj5.com.br:20089/stream",
+    "logo": "https://dvw7f7sqjk3ag.cloudfront.net/images/radio/61124631.jpg",
+    "artist": null,
+    "lang": "Portuguese",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

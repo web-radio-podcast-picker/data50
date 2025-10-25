@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18292",
+    "name": "Dire Straits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/direstraits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/6fbeb789-537d-46b5-8862-83d4e948b520.jpg",
+    "artist": "Dire Straits",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18293",
+    "name": "Dire Straits - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/direstraitshits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/d7318b9a-aa05-47a3-91e0-fe566986dac1.jpg",
+    "artist": "Dire Straits",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

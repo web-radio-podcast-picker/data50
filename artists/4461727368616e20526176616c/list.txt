@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18274",
+    "name": "Darshan Raval",
+    "groups": "Artists",
+    "url": "https://drive.uber.radio/uber/bollywooddarshanraval/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/a6677405-5d97-4ac8-8d5c-88f4caa9c0eb.jpg",
+    "artist": "Darshan Raval",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

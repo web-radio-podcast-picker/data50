@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18532",
+    "name": "Nicki Minaj",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/nickiminaj/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/9a82c0e2-5c25-4f33-b1c9-eff256f04bce.jpg",
+    "artist": "Nicki Minaj",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18533",
+    "name": "Nicki Minaj - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/nickiminajhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/cef397ad-38b0-447c-8376-f072c3f492d4.jpg",
+    "artist": "Nicki Minaj",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

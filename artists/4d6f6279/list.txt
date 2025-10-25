@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18515",
+    "name": "Moby",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/moby/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/63e0bf3d-1863-48d6-a49e-cc48e89eef2e.jpg",
+    "artist": "Moby",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

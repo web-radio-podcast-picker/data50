@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18585",
+    "name": "Red Hot Chili Peppers",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/chilipeppers/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/151d0c32-2dbe-4010-9de2-2a93dfdf58fa.jpg",
+    "artist": "Red Hot Chili Peppers",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

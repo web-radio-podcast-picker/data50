@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18612",
+    "name": "Shakira",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/shakira/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/7cd12f20-f694-4d65-8171-6ddd7c9f0b38.jpg",
+    "artist": "Shakira",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18613",
+    "name": "Shakira - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/shakirahits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/9f6345fc-d050-4b1f-b4a6-17c719dcf6b4.jpg",
+    "artist": "Shakira",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

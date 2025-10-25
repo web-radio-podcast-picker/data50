@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18300",
+    "name": "Doors",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/doors/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/4131988d-e659-4e16-bc37-104d15b4cc01.jpg",
+    "artist": "Doors",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

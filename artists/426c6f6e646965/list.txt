@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18200",
+    "name": "Blondie",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/blondie/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/36a25195-51f7-49b1-a0ed-6d7c33fc9c45.jpg",
+    "artist": "Blondie",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18201",
+    "name": "Blondie - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/blondiehits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/7d2cd314-e784-4dd9-a118-5e5c3185f756.jpg",
+    "artist": "Blondie",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

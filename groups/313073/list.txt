@@ -1,0 +1,37 @@
+[
+  {
+    "id": "488",
+    "name": "Radio Urbana FM",
+    "groups": "10s,Dance",
+    "url": "http://cast3.asurahosting.com:7218/listen.pls",
+    "logo": "https://radiourbanafm.com/wp-content/uploads/2017/01/281-.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

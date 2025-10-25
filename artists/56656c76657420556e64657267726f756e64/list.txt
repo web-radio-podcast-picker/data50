@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18699",
+    "name": "Velvet Underground",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/velvetunderground/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/80d1f7e5-772d-4a4b-bc83-5ca725cecba9.jpg",
+    "artist": "Velvet Underground",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18546",
+    "name": "Otis Redding",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/otisredding/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/61681cb8-f45e-4f05-ac2b-eb1749baf58e.jpg",
+    "artist": "Otis Redding",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18547",
+    "name": "Otis Redding - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/otisreddinghits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/a29a849b-4535-4f4e-a9ca-05a92fc4dac7.jpg",
+    "artist": "Otis Redding",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

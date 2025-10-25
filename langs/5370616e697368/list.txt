@@ -1,0 +1,1157 @@
+[
+  {
+    "id": "17850",
+    "name": "1.FM Total Hits En Español Radio",
+    "groups": "Radio,Hits,Spanish",
+    "url": "http://strm112.1.fm/spanishtophits_mobile_mp3",
+    "logo": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "artist": null,
+    "lang": "Spanish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3641",
+    "name": "BBN Español",
+    "groups": "Spanish",
+    "url": "http://stream2.bbnradio.org:8000/spanish.aac",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_jJA4HIVhJ3tBvhDLJG_a6MDrhtVl4XVBuNllrMrbf758qjK99HGs4KFB9RIWCe416Ds&usqp=CAU",
+    "artist": null,
+    "lang": "Spanish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3646",
+    "name": "BBN Spanish",
+    "groups": "Spanish",
+    "url": "https://audio-edge-5bkfj.fra.h.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f",
+    "logo": "https://bbn1.bbnradio.org/spanish/wp-content/uploads/sites/5/2020/12/50thLogoSP.png",
+    "artist": null,
+    "lang": "Spanish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16361",
+    "name": "BRN Radio Spanish Channel",
+    "groups": "Radio,Spanish",
+    "url": "http://192.241.185.108:8100/stream",
+    "logo": "http://brnradio.com/favicon.ico",
+    "artist": null,
+    "lang": "Spanish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "271",
+    "name": "Cadena 3 Argentina",
+    "groups": "Hits,Spanish",
+    "url": "https://c3ny1.mediainbox.net/cadena3.mp3",
+    "logo": "https://static-media.streema.com/media/cache/e9/b2/e9b22a236c6baf447a2557cadecd6f31.jpg",
+    "artist": null,
+    "lang": "Spanish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "15303",
+    "name": "Colombia Bohemia",
+    "groups": "Spanish",
+    "url": "http://64.37.50.226:8024/listen.pls",
+    "logo": "https://cdn.onlineradiobox.com/img/logo/2/44772.v12.png",
+    "artist": null,
+    "lang": "Spanish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "15304",
+    "name": "Colombia Vallenata",
+    "groups": "Spanish",
+    "url": "http://64.37.50.226:8042/stream/1/",
+    "logo": "https://colombiavallenatos.blogspot.com/favicon.ico",
+    "artist": null,
+    "lang": "Spanish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "15305",
+    "name": "Colombia Vallenata",
+    "groups": "Spanish",
+    "url": "http://64.37.50.226:8042/listen.pls",
+    "logo": "https://cdn.onlineradiobox.com/img/logo/6/68976.v10.png",
+    "artist": null,
+    "lang": "Spanish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "15306",
+    "name": "Colombia Vallenata En Vivo",
+    "groups": "Spanish",
+    "url": "http://64.37.50.226:8042/listen.pls",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/ujdf4tajgxsf.jpg",
+    "artist": null,
+    "lang": "Spanish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3896",
+    "name": "ESNE Radio",
+    "groups": "Religion,Spanish",
+    "url": "https://s1.voscast.com:10601/xstream",
+    "logo": "https://rbr.com/wp-content/uploads/logo-ESNE.jpg",
+    "artist": null,
+    "lang": "Spanish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "15301",
+    "name": "HJGL Caracol Radio Colombia 100.9",
+    "groups": "Radio,Spanish",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CARACOL_RADIOAAC_SC",
+    "logo": "http://cr00.epimg.net/iconos/v1.x/v1.0/promos/promo_og_radio.png",
+    "artist": null,
+    "lang": "Spanish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "618",
+    "name": "KBS World Spanish Radio",
+    "groups": "World,Spanish,Radio",
+    "url": "http://101.79.244.199:1935/cocotv/_definst_/CH00010/playlist.m3u8",
+    "logo": "http://world.kbs.co.kr/favicon.ico",
+    "artist": null,
+    "lang": "Spanish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "4739",
+    "name": "KUNM 89.9 New Mexico Public Radio",
+    "groups": "Spanish,Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KUNMFM_128_SC",
+    "logo": "http://mediad.publicbroadcasting.net/p/kunm/files/201608/AndroidIcon72.ico",
+    "artist": null,
+    "lang": "Spanish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "298",
+    "name": "La 2x4 92.7",
+    "groups": "Latin,Spanish,Tango",
+    "url": "https://storage.googleapis.com/m-infra.appspot.com/public/webchat/sent.mp3",
+    "logo": "https://www.phonostar.de/images/auto_created/la_2x4184x184.png",
+    "artist": null,
+    "lang": "Spanish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "299",
+    "name": "La 2x4 92.7",
+    "groups": "Latin,Spanish,Tango",
+    "url": "https://tus.radios.ar/9270/stream",
+    "logo": "https://www.phonostar.de/images/auto_created/la_2x4184x184.png",
+    "artist": null,
+    "lang": "Spanish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "307",
+    "name": "La Patriada 102.1",
+    "groups": "Rock,Spanish",
+    "url": "http://server4.stweb.tv:1935/lapatriada/live/playlist.m3u8",
+    "logo": "http://www.fmlapatriada.com.ar/wp-content/uploads/2017/10/FM-La-Patriada-Logos-01-300x204.jpg",
+    "artist": null,
+    "lang": "Spanish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "325",
+    "name": "Mega 98.3",
+    "groups": "Rock,Spanish",
+    "url": "https://s9.stweb.tv/mega983/live/chunks.m3u8",
+    "logo": "https://www.minutouno.com/css-custom/150/images/favicon/apple-icon-120x120.png",
+    "artist": null,
+    "lang": "Spanish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19437",
+    "name": "Mexico Alfa 91.3 XHFAJ",
+    "groups": "Spanish",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHFAJ_FM_SC",
+    "logo": "http://alfaenlinea.com/wp-content/uploads/2019/08/cropped-logo_alfa_913-270x270.png",
+    "artist": null,
+    "lang": "Spanish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19438",
+    "name": "Mexico Beat 100.9 XHSON",
+    "groups": "Spanish",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHSONFM_SC",
+    "logo": "https://imgsvr.radiocut.com.ar/get/crop/center/200/200/radio_logos/20/84/2084c5cd-1271-4c83-9c20-f3cb84af9c8b.jpg",
+    "artist": null,
+    "lang": "Spanish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "377",
+    "name": "Pobre Johnny 88.9",
+    "groups": "Rock,Spanish",
+    "url": "https://stream4.suenas.net/pobrejohnny",
+    "logo": "https://static.wixstatic.com/media/3e84df_ec590205fae242a7b22feb981c2e1114%7Emv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/3e84df_ec590205fae242a7b22feb981c2e1114%7Emv2.png",
+    "artist": null,
+    "lang": "Spanish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "409",
+    "name": "Radio Comunitaria La Quinta Pata 93.9",
+    "groups": "Community,Spanish",
+    "url": "http://server3.veemesoft.com.ar:26429/listen.pls",
+    "logo": "https://imgsvr.radiocut.site/get/thumb/900/900/cuts_logos/67/ea/67eaf289-9a66-4843-a630-954e093fd4a5.jpg",
+    "artist": null,
+    "lang": "Spanish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "410",
+    "name": "Radio Comunitaria Punta del Indio 100.3",
+    "groups": "Community,Spanish",
+    "url": "http://streaming.conexionproductora.com.ar:9650/",
+    "logo": "http://www.fmpuntadelindio.com.ar/proyecto%20web%20fm%20100.3/logo%20de%20la%20radio.jpg",
+    "artist": null,
+    "lang": "Spanish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "417",
+    "name": "Radio Dinamo Salta 100.9",
+    "groups": "Rock,Spanish",
+    "url": "http://01.solumedia.com.ar:8144/listen.pls",
+    "logo": "https://static-media.streema.com/media/cache/14/9e/149e3c5c4cde9e00f21520da20ee58f2.jpg",
+    "artist": null,
+    "lang": "Spanish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "427",
+    "name": "Radio Garin 106.1",
+    "groups": "Hits,Oldies,Spanish",
+    "url": "http://stream.zeno.fm/zw7k9qzuweruv?rj-ttl=5&rj-tok=AAABfd3x_ZIAVp_Yu9-cwfqFjA",
+    "logo": "https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgnLGmjwgMCxIOU3RhdGlvblByb2ZpbGUYgIDgnNKO0QgMogEEemVubw/image/?keep=w&lu=Sat%20Mar%2020%2016:46:05%20UTC+0000%202021&resize=350x350",
+    "artist": null,
+    "lang": "Spanish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "13488",
+    "name": "Radio Maria Canada Spanish",
+    "groups": "Radio,Spanish",
+    "url": "http://rmcesp.radiomaria.ca:8050/;stream.mp3",
+    "logo": "https://www.radiomaria.ca/wp-content/uploads/2016/10/rm-favicon.png",
+    "artist": null,
+    "lang": "Spanish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19551",
+    "name": "Radio Mexico Internacional",
+    "groups": "Radio,Spanish,International",
+    "url": "https://s2.mexside.net/8020/stream",
+    "logo": "https://www.imer.mx/wp-content/uploads/sites/36/cvr_rmi_2017.jpg",
+    "artist": null,
+    "lang": "Spanish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "15368",
+    "name": "Radio Nacional de Colombia",
+    "groups": "Radio,Spanish",
+    "url": "http://shoutcast.rtvc.gov.co:8000/;",
+    "logo": "https://www.radio.net/300/naccolombia.png?version=a6eee1689aa5c8b4c976c44df40ac58e",
+    "artist": null,
+    "lang": "Spanish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5256",
+    "name": "Radio Nueva Vida",
+    "groups": "Religion,Spanish",
+    "url": "https://ice10.securenetsystems.net/KMRO",
+    "logo": "https://www.radio.net/300/kmro.png?version=34ecf63e1ab137c14b31e4f2968f3dd1",
+    "artist": null,
+    "lang": "Spanish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5257",
+    "name": "Radio Nuevo Tiempo",
+    "groups": "Religion,Spanish",
+    "url": "https://stream.live.novotempo.com/radio/smil:radionuevotiempo.smil/playlist.m3u8",
+    "logo": "https://nuevotiemporadio.com.ar/wp-content/uploads/2022/04/cropped-cropped-logont.png",
+    "artist": null,
+    "lang": "Spanish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "498",
+    "name": "Si 98.9",
+    "groups": "Pop,Spanish",
+    "url": "http://server.laradio.online:8202/listen.pls",
+    "logo": "https://static-media.streema.com/media/cache/60/5d/605db89064dcdbed36bb01a581b04e7d.jpg",
+    "artist": null,
+    "lang": "Spanish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17004",
+    "name": "talkSPORT Spanish",
+    "groups": "Spanish",
+    "url": "http://live.talksport.com/channel1m-es",
+    "logo": "https://talksport.com/wp-content/uploads/sites/5/2018/06/cropped-App-Icon2.png?strip=all&w=192",
+    "artist": null,
+    "lang": "Spanish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "503",
+    "name": "Tango Radio CAFF",
+    "groups": "Dance,Latin,Spanish",
+    "url": "https://streams.radio.co/s6b80bc417/listen",
+    "logo": "https://radiocaff.com.ar/img/favicon.ico",
+    "artist": null,
+    "lang": "Spanish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5761",
+    "name": "VOA Español",
+    "groups": "Spanish",
+    "url": "https://n01.radiojar.com/wer329ngq3quv?rj-ttl=5&rj-tok=AAABfdryAksARDbl43jGqc8LyA",
+    "logo": "https://www.voanoticias.com/Content/responsive/VOA/es/img/logo.png",
+    "artist": null,
+    "lang": "Spanish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

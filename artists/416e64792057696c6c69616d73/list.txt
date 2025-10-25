@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18152",
+    "name": "Andy Williams",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/andywilliams/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/243466f2-557d-4d13-9ce2-cb4d78d5d4cf.jpg",
+    "artist": "Andy Williams",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18153",
+    "name": "Andy Williams - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/andywilliamshits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/a1540183-9c77-4f5c-8324-236871b66872.jpg",
+    "artist": "Andy Williams",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

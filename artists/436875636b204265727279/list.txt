@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18260",
+    "name": "Chuck Berry",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/chuckberry/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/e69d51dd-b79e-4c13-872a-45bab40864fd.jpg",
+    "artist": "Chuck Berry",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18261",
+    "name": "Chuck Berry - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/chuckberryhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/d6073b92-26ff-44c9-8b51-4349292c57b1.jpg",
+    "artist": "Chuck Berry",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18188",
+    "name": "Beyonce",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/beyonce/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/32a34cf5-b5af-4e02-9c00-6b665c76e4a2.jpg",
+    "artist": "Beyonce",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18189",
+    "name": "Beyonce - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/beyoncehits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/c79bddd1-d037-4bcc-8245-979e7c33ec32.jpg",
+    "artist": "Beyonce",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

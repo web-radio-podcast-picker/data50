@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18343",
+    "name": "Florida Georgia Line",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/floridageorgialine/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/42a9026f-96df-48e9-9166-69421eaf8ea4.jpg",
+    "artist": "Florida Georgia Line",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

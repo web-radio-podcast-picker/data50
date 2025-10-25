@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18461",
+    "name": "Kishore Kumar",
+    "groups": "Artists",
+    "url": "https://drive.uber.radio/uber/bollywoodkishorekumar/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/ee80c7f8-29d8-451a-8d9d-8c91654a12f5.jpg",
+    "artist": "Kishore Kumar",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

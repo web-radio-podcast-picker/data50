@@ -1,0 +1,212 @@
+[
+  {
+    "id": "12321",
+    "name": "ABC Portugal",
+    "groups": "Portuguese",
+    "url": "http://centova.radio.com.pt:8547/listen.pls",
+    "logo": "http://us0-cdn.onlineradiobox.com/img/logo/9/20179.png",
+    "artist": null,
+    "lang": "Portuguese",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "12337",
+    "name": "BBN Portuguese",
+    "groups": "Portuguese",
+    "url": "https://audio-edge-5bkfj.fra.h.radiomast.io/ec065d59-f358-48c9-a288-4efc797e5860",
+    "logo": "https://bbn1.bbnradio.org/portuguese/wp-content/uploads/sites/6/2020/12/50thLogoPO.png",
+    "artist": null,
+    "lang": "Portuguese",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "12338",
+    "name": "BBN Portuguese",
+    "groups": "Portuguese",
+    "url": "http://stream2.bbnradio.org:8000/portuguese",
+    "logo": "https://bbn1.bbnradio.org/favicon.ico",
+    "artist": null,
+    "lang": "Portuguese",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21386",
+    "name": "Portuguese Radio Australia",
+    "groups": "Portuguese,World",
+    "url": "https://s2.radio.co/sdff54b89f/listen",
+    "logo": "https://airableassets.wifiradiofrontier.com/png@150x150/31/91/053532529622.png",
+    "artist": null,
+    "lang": "Portuguese",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5248",
+    "name": "Radio Mast Portuguese",
+    "groups": "Radio,Portuguese",
+    "url": "https://audio-edge-cmc51.fra.h.radiomast.io/ec065d59-f358-48c9-a288-4efc797e5860",
+    "logo": "https://bbn1.bbnradio.org/portuguese/wp-content/uploads/sites/6/2020/12/50thLogoPO.png",
+    "artist": null,
+    "lang": "Portuguese",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5602",
+    "name": "Taste of Portugal Radio",
+    "groups": "Portuguese,Radio",
+    "url": "http://s1.nexuscast.com:8145/listen.pls",
+    "logo": "http://heartbeatofflagler.com/images/atasteofportugal_006.jpg",
+    "artist": null,
+    "lang": "Portuguese",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

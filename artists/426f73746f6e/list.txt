@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18214",
+    "name": "Boston",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/boston/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/d14a6cd0-4faf-4689-9290-721f34e4f026.jpg",
+    "artist": "Boston",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

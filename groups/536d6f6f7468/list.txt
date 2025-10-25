@@ -1,0 +1,72 @@
+[
+  {
+    "id": "17602",
+    "name": "Sky Radio Smooth Hits",
+    "groups": "Smooth",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR15AAC_SC",
+    "logo": "http://www.skyradio.nl/icons/apple-icon-120x120.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21426",
+    "name": "Smooth 90s",
+    "groups": "90s,Hits,Smooth",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_90S_AAC.aac?dist=neweb&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&sbmid=abef4b80-f919-4890-d5fd-a5499445c36d",
+    "logo": "https://i.scdn.co/image/ab67616d0000b2731fcab5220aa669082bf3e4e6",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

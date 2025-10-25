@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18509",
+    "name": "Mike & The Mechanics",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/mikeandthemechanics/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/8f6a9d56-d768-4aa5-8427-46577313da91.jpg",
+    "artist": "Mike & The Mechanics",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18510",
+    "name": "Mike & The Mechanics - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/mikeandthemechanicshits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/089039ac-3f15-48e6-96f9-991d953895d2.jpg",
+    "artist": "Mike & The Mechanics",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

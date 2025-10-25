@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18521",
+    "name": "Muse",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/muse/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/28ee76bc-8456-48d9-97c7-3e9e1224e713.jpg",
+    "artist": "Muse",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

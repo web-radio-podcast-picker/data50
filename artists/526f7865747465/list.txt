@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18598",
+    "name": "Roxette",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/roxette/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/9f4eee99-7426-478d-ba2c-07734ab24250.jpg",
+    "artist": "Roxette",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18599",
+    "name": "Roxette - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/roxettehits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/de6f1989-f1b4-4a9e-953a-93a5818b4de8.jpg",
+    "artist": "Roxette",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

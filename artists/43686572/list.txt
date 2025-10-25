@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18251",
+    "name": "Cher",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/cher/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/16dcacce-15f0-438d-8c8f-3ee5fa24d7f5.jpg",
+    "artist": "Cher",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

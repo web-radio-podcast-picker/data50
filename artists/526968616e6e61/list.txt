@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18586",
+    "name": "Rihanna",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/rihanna/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/3608a415-b2a6-4e78-9824-e30dc4a1a6cb.jpg",
+    "artist": "Rihanna",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18587",
+    "name": "Rihanna - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/rihannahits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/b7a2c206-0c60-4de1-91d6-b7f19e5deb38.jpg",
+    "artist": "Rihanna",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

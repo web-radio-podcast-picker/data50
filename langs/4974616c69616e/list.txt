@@ -1,0 +1,2487 @@
+[
+  {
+    "id": "17832",
+    "name": "1.FM Italia On Air Radio",
+    "groups": "Radio,Italian",
+    "url": "http://strm112.1.fm/italiaonair_mobile_mp3",
+    "logo": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "12893",
+    "name": "70 80 90 Italia D'Autore",
+    "groups": "80s,Italian",
+    "url": "https://maggie.torontocast.com:2020/stream/708090italiadautore",
+    "logo": "https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2021-09-06/6c0563a4bb439ddd885e690af1987ba3.ico.png",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8323",
+    "name": "Allzic Italia",
+    "groups": "French,Italian",
+    "url": "http://allzic35.ice.infomaniak.ch/allzic35.mp3",
+    "logo": "https://www.allzicradio.com/icon-normal.png",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21614",
+    "name": "Auditorium Radio Italia",
+    "groups": "Radio,Italian",
+    "url": "https://icy.unitedradio.it/um015.mp3",
+    "logo": "http://www.unitedmusic.it/favicon_6.ico?v=1558694480000",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10567",
+    "name": "Charivari 95.5 Italo Hits",
+    "groups": "Italian,Hits",
+    "url": "http://rs24.stream24.net/italohits?ref=charivari.de",
+    "logo": "https://www.radio.net/images/broadcasts/bb/c5/20964/4/c300.png",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10575",
+    "name": "Charivari Italo Hits",
+    "groups": "Italian,Hits",
+    "url": "http://rs24.stream24.net/italohits",
+    "logo": "https://www.charivari.de/favicon.ico",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21559",
+    "name": "Classic Hits Radio italia",
+    "groups": "Classic,Hits,Radio,Italian",
+    "url": "https://classichitsradio.streamingmedia.it/play",
+    "logo": "http://classichits.radio/wp-content/uploads/2021/03/classichits_it_logo_512.png",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21586",
+    "name": "Energy Web Radio Italia",
+    "groups": "Radio,Italian",
+    "url": "http://s9.myradiostream.com:5824/",
+    "logo": "https://static.wixstatic.com/media/348eb4_5a13fb1a294044fda83fbb7580ed3526~mv2.jpg/v1/fill/w_408,h_288,al_c,q_80,usm_0.66_1.00_0.01/348eb4_5a13fb1a294044fda83fbb7580ed3526~mv2.jpg",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21590",
+    "name": "FM Italia",
+    "groups": "Radio,Italian",
+    "url": "https://stream5.xdevel.com/audio1s975817-360/stream/icecast.audio",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s73498q.png",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21615",
+    "name": "Italia Dance Music",
+    "groups": "Italian,Dance,Music",
+    "url": "http://sr2.inmystream.info:8032/stream",
+    "logo": "https://ca.radio.net/images/broadcasts/6a/9a/19446/3/c300.png",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21616",
+    "name": "Italia Dance Music",
+    "groups": "Italian,Dance,Music",
+    "url": "http://sr2.inmystream.info:8032/listen.pls",
+    "logo": "https://ca.radio.net/images/broadcasts/6a/9a/19446/3/c300.png",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21617",
+    "name": "Italia Dance Music Radio",
+    "groups": "Italian,Dance,Music,Radio",
+    "url": "http://91.121.118.99:8032/stream2",
+    "logo": "https://ca.radio.net/images/broadcasts/6a/9a/19446/3/c300.png",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21618",
+    "name": "ITALIA Hits Italia",
+    "groups": "Italian,Hits",
+    "url": "https://icy.unitedradio.it/um011.mp3",
+    "logo": "http://www.unitedmusic.it/favicon_6.ico?v=1558694480000",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21350",
+    "name": "ItaliaFM",
+    "groups": "Italian,Pop",
+    "url": "http://andromeda.shoutca.st:8634/stream",
+    "logo": "https://storage.googleapis.com/wzukusers/user-27173994/images/58b118eda1abdgoQWCAr/ItaliaFm3.1.2.1_d200.png",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21627",
+    "name": "Italian Dance Network",
+    "groups": "Italian,Dance",
+    "url": "http://radio.italiandancenetwork.com:8000/stream.mp3",
+    "logo": "http://italiandancenetwork.com/favicon.ico",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21628",
+    "name": "Italian Radio",
+    "groups": "Italian,Radio",
+    "url": "https://italianradio.streamingmedia.it/play",
+    "logo": "https://italianradio.streamingmedia.it/italianradio-logo.png",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21629",
+    "name": "Italo Sound Radio",
+    "groups": "Italian,Radio",
+    "url": "http://stream.italosound.com:8000/italosound",
+    "logo": "https://italosound.com/logo-cover.png",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21647",
+    "name": "Lolli Radio Italia",
+    "groups": "Radio,Italian",
+    "url": "https://stream.lolliradio.net/lolli_italia.mp3",
+    "logo": "http://www.lolliradio.net/wp-content/uploads/2016/02/logo_italia-150x150.jpg",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18809",
+    "name": "Megatron Mix",
+    "groups": "Dance,Disco,Italian",
+    "url": "http://stream.zeno.fm/rw67aty148quv?rj-ttl=5&rj-tok=AAABfdoDVqAA7fBfH9-8xVT7qA",
+    "logo": "https://zeno.fm/static/icons/apple-icon-120x120.png",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "15919",
+    "name": "OpenFM Italo Disco",
+    "groups": "Radio,Italian,Disco",
+    "url": "http://stream.open.fm/27",
+    "logo": "http://open.fm/logo/200x200/27",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16112",
+    "name": "OpenFM Italo Disco",
+    "groups": "Radio,Italian,Disco",
+    "url": "https://stream.open.fm/27",
+    "logo": "https://cdn.onlineradiobox.com/img/l/3/45623.v6.png",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "12801",
+    "name": "Oxygen Italo Hits",
+    "groups": "Italian,Hits",
+    "url": "https://oxygenmusic.hu:8443/oxygenitalohits",
+    "logo": "https://oxygenmusic.hu/wp-content/uploads/2021/02/italo_hits_web_cover.jpg",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21726",
+    "name": "Radio 105 Rap Italia",
+    "groups": "Radio,Italian",
+    "url": "http://icy.unitedradio.it/105RapItalia.mp3",
+    "logo": "http://www.105.net/resizer/380/380/true/1432888443087.png--.png?1432888443000",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21613",
+    "name": "Radio Amore Italia 94.3",
+    "groups": "Radio,Italian",
+    "url": "https://icy.unitedradio.it/um012.mp3",
+    "logo": "http://www.unitedmusic.it/favicon_6.ico?v=1558694480000",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "11786",
+    "name": "Radio Bit Italia",
+    "groups": "Radio,Italian",
+    "url": "http://radiobititalia.stream.laut.fm/radiobititalia?t302=2021-12-21_01-49-24&uuid=68efea5b-63b4-433c-916e-c64dad75a1b8",
+    "logo": "https://static-media.streema.com/media/cache/e8/f6/e8f67e9876b7be939bbff6c78b858ad1.jpg",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18896",
+    "name": "Radio Capris Italia",
+    "groups": "Radio,Italian",
+    "url": "http://stream02.exit.si:8000/ITA?",
+    "logo": "https://www.radiocapris.si/data/images/favicon/apple-icon-120x120.png",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21866",
+    "name": "Radio CRC Targato Italia",
+    "groups": "Radio,Italian",
+    "url": "http://onair11.xdevel.com:9998/;stream.mp3",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s95018q.png",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21878",
+    "name": "Radio Deejay Suona Italia",
+    "groups": "Radio,Italian",
+    "url": "http://deejay_wr_07-lh.akamaihd.net/i/WebRadio7_1@315984/master.m3u8",
+    "logo": "https://cdn.gelestatic.it/deejay/www/2015/05/webradio_deejay_suona_italia-320x320.png",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21908",
+    "name": "Radio Evangelo Italia",
+    "groups": "Radio,Italian",
+    "url": "http://onair15.xdevel.com:8088/stream",
+    "logo": "http://www.radioevangeloitalia.it/rei/images/logo_rei_def2.png",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20960",
+    "name": "Radio Internazionale 105.8",
+    "groups": "Italian,Pop",
+    "url": "http://str01.fluidstream.net/fluid06.mp3",
+    "logo": "http://www.radiointernazionale.be/images/apple-touch-icon-72x72.png",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20961",
+    "name": "Radio Internazionale 105.8",
+    "groups": "Italian,Pop",
+    "url": "http://ice07.fluidstream.net:8080/fluid713.aac",
+    "logo": "http://www.radiointernazionale.be/images/logo-seo-fb.jpg",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20962",
+    "name": "Radio Italia 105.2",
+    "groups": "Italian,Pop",
+    "url": "https://str01.fluidstream.net/ric.mp3",
+    "logo": "http://players.fluidstream.it/RadioItaliaCharleroi/images/cover_default.jpg",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21619",
+    "name": "Radio Italia Anni 60",
+    "groups": "Radio,Italian",
+    "url": "https://icy.unitedradio.it/um014.mp3",
+    "logo": "http://www.unitedmusic.it/favicon_6.ico?v=1558694480000",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21956",
+    "name": "Radio Italia Anni 60 Calabria",
+    "groups": "Radio,Italian",
+    "url": "http://ice12.fluidstream.net/ria60_cz.aac",
+    "logo": "http://www.radioitaliaannisessanta.it/images/ria60/RIAS-logo-try.svg",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21957",
+    "name": "Radio Italia Anni 60 Emilia-Romagna/Marche",
+    "groups": "Radio,Italian",
+    "url": "http://ice12.fluidstream.net/ria60_bo.aac",
+    "logo": "http://www.radioitaliaannisessanta.it/images/ria60/RIAS-logo-try.svg",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21958",
+    "name": "Radio Italia Anni 60 Lazio",
+    "groups": "Radio,Italian",
+    "url": "http://ice12.fluidstream.net/ria60_rm.aac",
+    "logo": "http://www.radioitaliaannisessanta.it/images/ria60/RIAS-logo-try.svg",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21959",
+    "name": "Radio Italia Anni 60 Lombardia/Liguria",
+    "groups": "Radio,Italian",
+    "url": "http://ice12.fluidstream.net/ria60_mi.aac",
+    "logo": "http://www.radioitaliaannisessanta.it/images/ria60/RIAS-logo-try.svg",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21962",
+    "name": "Radio Italia Anni 60 Messina",
+    "groups": "Radio,Italian",
+    "url": "http://ice12.fluidstream.net/ria60_me.aac",
+    "logo": "http://www.radioitaliaannisessanta.it/images/ria60/RIAS-logo-try.svg",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21963",
+    "name": "Radio Italia Anni 60 Orientale",
+    "groups": "Radio,Italian",
+    "url": "https://ice37.fluidstream.net/ria60_ct.aac",
+    "logo": "https://www.radioitaliaannisessanta.it/images/ria60/RIAS-logo-try.svg",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21960",
+    "name": "Radio Italia Anni 60 Piemonte",
+    "groups": "Radio,Italian",
+    "url": "http://ice12.fluidstream.net/ria60_to.aac",
+    "logo": "http://www.radioitaliaannisessanta.it/images/ria60/RIAS-logo-try.svg",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21961",
+    "name": "Radio Italia Anni 60 Puglia/Basilicata",
+    "groups": "Radio,Italian",
+    "url": "http://ice12.fluidstream.net/ria60_ba.aac",
+    "logo": "http://www.radioitaliaannisessanta.it/images/ria60/RIAS-logo-try.svg",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21964",
+    "name": "Radio Italia Anni 60 Trentino Alto Adige",
+    "groups": "Radio,Italian",
+    "url": "http://ice10.fluidstream.net/anni60tn.aac",
+    "logo": "http://www.radioitaliaannisessanta.it/images/ria60/RIAS-logo-try.svg",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21620",
+    "name": "Radio Italia Anni 70",
+    "groups": "Radio,Italian",
+    "url": "https://icy.unitedradio.it/um020.mp3",
+    "logo": "http://www.unitedmusic.it/favicon_6.ico?v=1558694480000",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21621",
+    "name": "Radio Italia Anni 80",
+    "groups": "Radio,Italian,80s",
+    "url": "https://icy.unitedradio.it/um016.mp3",
+    "logo": "http://www.unitedmusic.it/favicon_6.ico?v=1558694480000",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21622",
+    "name": "Radio Italia Anni 90",
+    "groups": "Radio,Italian",
+    "url": "https://icy.unitedradio.it/um018.mp3",
+    "logo": "http://www.unitedmusic.it/favicon_6.ico?v=1558694480000",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "13486",
+    "name": "Radio Italia Canada",
+    "groups": "Radio,Italian",
+    "url": "https://streaming.radiostreamlive.com/radioitaliacanada_devices",
+    "logo": "http://www.radiostreamlive.com/images/logos_radioitaliacanada.png",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21624",
+    "name": "Radio Italia Festival",
+    "groups": "Radio,Italian",
+    "url": "https://icy.unitedradio.it/um073.mp3",
+    "logo": "http://www.unitedmusic.it/favicon_6.ico?v=1558694480000",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21623",
+    "name": "Radio Italia Millenials",
+    "groups": "Radio,Italian",
+    "url": "https://icy.unitedradio.it/um021.mp3",
+    "logo": "http://www.unitedmusic.it/favicon_6.ico?v=1558694480000",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21625",
+    "name": "Radio Italia Rock",
+    "groups": "Radio,Italian",
+    "url": "https://icy.unitedradio.it/um076.mp3",
+    "logo": "http://www.unitedmusic.it/favicon_6.ico?v=1558694480000",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21955",
+    "name": "Radio Italia Solo Musica Italiana",
+    "groups": "Radio,Italian",
+    "url": "http://radioitaliasmi-lh.akamaihd.net/i/radioitaliasmi_1@329643/master.m3u8",
+    "logo": "http://www.radioitalia.it/images/apple-icon-120x120.png",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21965",
+    "name": "Radio Italia Uno",
+    "groups": "Radio,Italian",
+    "url": "http://stream15.top-ix.org/radioitaliauno",
+    "logo": "https://www.radioitaliauno.org/wp-content/uploads/2021/09/cropped-1296702-180x180.png?x40432",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21626",
+    "name": "Radio Italia Viva Napoli",
+    "groups": "Radio,Italian",
+    "url": "https://icy.unitedradio.it/um017.mp3",
+    "logo": "http://www.unitedmusic.it/favicon_6.ico?v=1558694480000",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21405",
+    "name": "Radio Italian Music",
+    "groups": "Italian,Pop",
+    "url": "https://streaming.radiostreamlive.com/radioitalianmusic_devices",
+    "logo": "http://www.radiostreamlive.com/images/logos_radioitalianmusic.png",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21975",
+    "name": "Radio Kiss Kiss Italia",
+    "groups": "Radio,Italian",
+    "url": "http://wma06.fluidstream.net:3614/;listen.pls",
+    "logo": "https://kisskissitalia.it/wp-content/uploads/2021/07/cropped-favicon-kisskissitalia-180x180.png",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5243",
+    "name": "Radio Maria USA Italian",
+    "groups": "Radio,Italian",
+    "url": "http://dreamsiteradiocp.com:8078/live",
+    "logo": "http://www.radiomaria.org/favicon.ico",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16092",
+    "name": "Radio Mirage Italo Dance",
+    "groups": "Radio,Italian,Dance",
+    "url": "https://ssl-1.radiohost.pl:9569/stream",
+    "logo": "https://i1.wp.com/www.radiomirage.net/wp-content/uploads/2017/06/cropped-r.mirage-1.png?fit=180%2c180&#038;ssl=1",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17119",
+    "name": "Radio Monte Carlo Italia",
+    "groups": "Radio,Italian",
+    "url": "https://icy.unitedradio.it/rmcweb005",
+    "logo": "https://www.radiomontecarlo.net/resizer/60/60/true/1550132994165.jpg--.jpg?1550132994000",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "22030",
+    "name": "Radio Mozart Italia",
+    "groups": "Radio,Italian",
+    "url": "http://onair15.xdevel.com:7064/1/listen.pls",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/2hmkscvmvsbg.jpg",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "22050",
+    "name": "Radio Onda Ligure Italia",
+    "groups": "Radio,Italian",
+    "url": "http://onair20.xdevel.com:8098/;stream.mp3",
+    "logo": "http://www.ondaligure.it/images/skin3/logo.gif",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "22125",
+    "name": "Radio Show Italia 103.5",
+    "groups": "Radio,Italian",
+    "url": "http://onair15.xdevel.com:8496/;stream.mp3",
+    "logo": "http://www.radioshowitalia103e5.it/assets/images/radioshowitalia1035-logo.png",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18005",
+    "name": "Radio Swiss Classic Italian",
+    "groups": "Radio,Classic,Italian",
+    "url": "http://stream.srg-ssr.ch/m/rsc_it/aacp_32",
+    "logo": "http://www.radioswissclassic.ch/social-media/rsc-web.png",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "22210",
+    "name": "Radio Web Italia",
+    "groups": "Radio,Italian",
+    "url": "http://188.165.206.81:10030/stream",
+    "logo": "http://www.radiowebitalia.it/wp-content/uploads/2016/02/favicon.ico",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16186",
+    "name": "Radio ZET Gold Italo",
+    "groups": "Radio,Italian",
+    "url": "https://zg03.cdn.eurozet.pl/ZGLITA.mp3?redirected=03",
+    "logo": "https://cdn.onlineradiobox.com/img/l/7/1597.v6.png",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "13504",
+    "name": "RDMIX Italian Vintage",
+    "groups": "Italian",
+    "url": "https://maggie.torontocast.com:2020/stream/rdmixitalianvintage",
+    "logo": "https://radiodimensionemix.torontocast.stream/wp-content/uploads/2020/02/RDMIX_ITALIAN-VINTAGE-708090_512px.jpg",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21410",
+    "name": "Rete Italia 1620",
+    "groups": "Italian,World",
+    "url": "https://nicherad.radioca.st/stream",
+    "logo": "https://play-lh.googleusercontent.com/u8xpTunhjjHgqQUZBrJVOAniFzg4h2qrynYy5s5KacLUGTBNgEWtGPGh0-fXvVNa9Tk=w240-h480-rw",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "22286",
+    "name": "RMC Italia",
+    "groups": "French,Italian",
+    "url": "http://edge.radiomontecarlo.net/rmcweb005",
+    "logo": "http://www.radiomontecarlo.net/resizer/112/112/true/1474622909566.jpg--.jpg",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18035",
+    "name": "Rouge Italia",
+    "groups": "Italian",
+    "url": "http://rouge-italia.ice.infomaniak.ch/rouge-italia-128.mp3",
+    "logo": "http://www.rougefm.com/imgs/webradios/italia.png",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "22318",
+    "name": "RVS Italia",
+    "groups": "Italian",
+    "url": "https://stream.radiorvs.it/rvs.it",
+    "logo": "https://dx7vbl8yjmzxy.cloudfront.net/new_images/radioapp_75718.jpg",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "22363",
+    "name": "Top Italia Radio",
+    "groups": "Italian,Radio",
+    "url": "http://streaming.cst98.com:8000/tir.mp3",
+    "logo": "https://www.topitaliaradio.it/wp-content/uploads/2018/06/cropped-Logo-Tir_2018_-270x270.gif",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "22371",
+    "name": "United Music Italia 2000",
+    "groups": "Music,Italian",
+    "url": "https://icy.unitedradio.it/um013.mp3",
+    "logo": "https://www.unitedmusic.com/favicon_6.ico?v=1558694480000",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "22379",
+    "name": "Virgin Radio Italia",
+    "groups": "Radio,Italian",
+    "url": "http://icecast.unitedradio.it/Virgin.mp3",
+    "logo": "http://www.virginradio.it/upload/1429513004299.png",
+    "artist": null,
+    "lang": "Italian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

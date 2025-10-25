@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18303",
+    "name": "Drake",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/drake/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/e83ef8f4-3659-40c1-8150-ac8abdfeff71.jpg",
+    "artist": "Drake",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18304",
+    "name": "Drake - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/drakehits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/b8795332-1f34-4f81-98ab-dffb7508cb96.jpg",
+    "artist": "Drake",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

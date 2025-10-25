@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18672",
+    "name": "The Weeknd",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/theweeknd/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/87935793-006d-4eb1-8998-237ebf56cf7d.jpg",
+    "artist": "The Weeknd",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18673",
+    "name": "The Weeknd - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/theweekndhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/b920a93f-a0bb-41ad-a704-6445be226287.jpg",
+    "artist": "The Weeknd",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

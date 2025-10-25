@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18550",
+    "name": "Paul Mccartney",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/paulmccartney/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/3315f676-52ae-41c7-bbf7-dcc4ca6412ae.jpg",
+    "artist": "Paul Mccartney",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18551",
+    "name": "Paul Mccartney - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/paulmccartneyhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/bf9f1cb5-f4f9-4d35-afcf-2edd90ea0c06.jpg",
+    "artist": "Paul Mccartney",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

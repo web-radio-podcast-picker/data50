@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18283",
+    "name": "Dennis Brown",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/dennisbrown/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/5c18a4eb-8b01-45c0-af1d-af7e367a6225.jpg",
+    "artist": "Dennis Brown",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

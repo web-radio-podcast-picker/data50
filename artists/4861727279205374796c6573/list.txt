@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18382",
+    "name": "Harry Styles",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/harrystyles/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/a3120948-f08c-489e-9ad9-1588f13588c9.jpg",
+    "artist": "Harry Styles",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

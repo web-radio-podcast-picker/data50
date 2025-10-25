@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18626",
+    "name": "Slade",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/slade/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/6692fec5-a1bd-45d8-965e-b63d5a2c79b2.jpg",
+    "artist": "Slade",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18627",
+    "name": "Slade - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/sladehits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/0ef9c35a-aa0c-420b-b0f7-0570c4896f41.jpg",
+    "artist": "Slade",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18571",
+    "name": "Prince",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/prince/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/d4386513-584e-420e-bcb7-5b22abebe006.jpg",
+    "artist": "Prince",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18572",
+    "name": "Prince - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/princehits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/394a9c38-e5fc-42c8-8be5-501bb60046a5.jpg",
+    "artist": "Prince",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

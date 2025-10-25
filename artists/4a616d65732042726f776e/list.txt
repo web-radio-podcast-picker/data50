@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18396",
+    "name": "James Brown",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/jamesbrown/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/9542d084-9775-4a12-b523-89f186705281.jpg",
+    "artist": "James Brown",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18397",
+    "name": "James Brown - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/jamesbrownhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/58ff2baa-b396-4888-ae9f-a66c6ea53f55.jpg",
+    "artist": "James Brown",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

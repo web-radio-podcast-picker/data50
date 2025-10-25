@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18136",
+    "name": "Air Supply",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/airsupply/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/5b0548e1-ebf2-49c7-8e8c-efdfa4456fe2.jpg",
+    "artist": "Air Supply",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

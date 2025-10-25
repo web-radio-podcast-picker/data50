@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18686",
+    "name": "Tony Bennett",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/tonybennett/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/37cca399-3f5d-4ff3-823a-9704241f7663.jpg",
+    "artist": "Tony Bennett",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18687",
+    "name": "Tony Bennett - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/tonybennethits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/4492c92b-bf74-4d05-9aa8-dbc2d18e5433.jpg",
+    "artist": "Tony Bennett",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

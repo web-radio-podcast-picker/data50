@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18409",
+    "name": "Jim Reeves",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/jimreeves/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/7e371437-62e6-43ab-9a95-4c13bacab011.jpg",
+    "artist": "Jim Reeves",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

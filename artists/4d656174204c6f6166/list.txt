@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18500",
+    "name": "Meat Loaf",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/meatloaf/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/28d2843c-ade2-4338-bcdd-72f4fe7ea02c.jpg",
+    "artist": "Meat Loaf",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18501",
+    "name": "Meat Loaf - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/meatloafhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/03df9c3d-67c6-45a2-b90b-d5e5b0d08841.jpg",
+    "artist": "Meat Loaf",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

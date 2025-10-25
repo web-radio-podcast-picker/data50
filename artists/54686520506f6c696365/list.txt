@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18670",
+    "name": "The Police",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/police/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/77820383-5775-446d-a5b1-f4eb41ab0d41.jpg",
+    "artist": "The Police",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18671",
+    "name": "The Police - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/policehits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/51dd2d6f-0f4f-4e35-8950-e6bdb0bab300.jpg",
+    "artist": "The Police",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

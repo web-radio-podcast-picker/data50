@@ -1,0 +1,37 @@
+[
+  {
+    "id": "3707",
+    "name": "Bob Dylan Tracks",
+    "groups": "Artists",
+    "url": "http://listen1.outpostradio.com/dtracks",
+    "logo": "http://www.outpostradio.com/bobdylantracks/dylantracks-web-400.jpg",
+    "artist": "Bob Dylan Tracks",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

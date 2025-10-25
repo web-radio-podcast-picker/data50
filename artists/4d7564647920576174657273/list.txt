@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18520",
+    "name": "Muddy Waters",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/muddywaters/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/89b7545c-2e75-4e7a-a265-029d934da2b5.png",
+    "artist": "Muddy Waters",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1926",
+    "name": "Radio Asharq",
+    "groups": "Arabic,Business,Talk",
+    "url": "https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8",
+    "logo": "https://yt3.googleusercontent.com/kCXlfS-PwscnTIeeDIIf-75eVtaZciXjvwy3Ee4mDJomOSLJ2mUZvZDYpN25_Y660zpdRM1AXg=s900-c-k-c0x00ffffff-no-rj",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "12233",
+    "name": "Walf FM 99.0",
+    "groups": "Business,Talk,French",
+    "url": "https://10gb1.acangroup.org:8000/walffm",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk9XAZ8zHfcgacbeOoFpbdPNUsAGrUabLlSw&s",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

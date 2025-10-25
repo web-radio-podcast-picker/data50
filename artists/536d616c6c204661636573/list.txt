@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18628",
+    "name": "Small Faces",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/smallfaces/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/44359190-4e03-476f-a5d8-95d12f5b39e1.jpg",
+    "artist": "Small Faces",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

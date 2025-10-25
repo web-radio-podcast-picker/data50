@@ -1,0 +1,37 @@
+[
+  {
+    "id": "21191",
+    "name": "5EBI 103.1",
+    "groups": "Community,Ethnic",
+    "url": "https://icecast1.myradio.click/cast2_64k.aacp",
+    "logo": "https://play-lh.googleusercontent.com/rl8EVj9DGKGjcDAnAqK7QNoDkk7Pq134heYFdCSIrogeEIj48s0QVFCEdZJGVS6bBMk=w240-h480-rw",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

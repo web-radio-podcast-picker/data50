@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18624",
+    "name": "Simply Red",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/simplyred/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/d5b40e1a-dee2-4e82-b4fd-e9014fae4239.jpg",
+    "artist": "Simply Red",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18625",
+    "name": "Simply Red - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/simplyredhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/b48f370f-c55d-4e1d-a0b9-c597ba297c8d.jpg",
+    "artist": "Simply Red",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

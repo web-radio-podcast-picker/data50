@@ -1,0 +1,72 @@
+[
+  {
+    "id": "15729",
+    "name": "Mandarin Channel",
+    "groups": "Mandarin",
+    "url": "https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8",
+    "logo": "https://www.rthk.hk/favicon.ico",
+    "artist": null,
+    "lang": "Chinese",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21430",
+    "name": "Sound of Hope Australia Mandarin",
+    "groups": "Mandarin,Talk",
+    "url": "http://livecast1.soundofhope.org:2086/SYDNEY?DIST=TuneIn&TGT=TuneIn&maxServers=2&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzNzEzMDYzMSwiaXNzIjoidGlzcnYifQ.QwRoZTsz_NPXxnuSwo_uR7b_ANDbYEAKOVzHyMC-MtE",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s267339g.png",
+    "artist": null,
+    "lang": "Chinese",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

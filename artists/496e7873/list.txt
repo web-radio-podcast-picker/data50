@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18390",
+    "name": "Inxs",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/INXS/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/56763e89-2847-4334-86b8-151f05f511f0.jpg",
+    "artist": "Inxs",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

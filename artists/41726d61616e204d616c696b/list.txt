@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18163",
+    "name": "Armaan Malik",
+    "groups": "Artists",
+    "url": "https://drive.uber.radio/uber/bollywoodarmaanmalik/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/92227c1a-9244-4725-8827-33c4e5fc5525.jpg",
+    "artist": "Armaan Malik",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

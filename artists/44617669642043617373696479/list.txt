@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18278",
+    "name": "David Cassidy",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/davidcassidy/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/5cb5b6e1-b267-440c-a46a-955aeb3dd865.jpg",
+    "artist": "David Cassidy",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

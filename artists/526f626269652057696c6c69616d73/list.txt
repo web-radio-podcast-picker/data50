@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18589",
+    "name": "Robbie Williams",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/robbiewilliams/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/0bcfcf32-828a-41b7-9ba9-a3d8be73f380.jpg",
+    "artist": "Robbie Williams",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18590",
+    "name": "Robbie Williams - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/robbiewilliamshits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/28c5d7d2-5a58-4a82-bcb0-101478291df1.jpg",
+    "artist": "Robbie Williams",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

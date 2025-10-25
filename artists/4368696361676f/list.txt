@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18254",
+    "name": "Chicago",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/chicago/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/53622bfc-56e3-4a3d-8fb8-e686bb24f50d.jpg",
+    "artist": "Chicago",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18255",
+    "name": "Chicago - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/chicagohits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/b9bafcb0-284e-460d-8263-e72d4cd9d9e3.jpg",
+    "artist": "Chicago",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

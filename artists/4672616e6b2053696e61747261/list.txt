@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18348",
+    "name": "Frank Sinatra",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/franksinatra/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/c1dddbeb-24eb-4f77-8fe4-594956fc5c68.jpg",
+    "artist": "Frank Sinatra",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18349",
+    "name": "Frank Sinatra - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/franksinatrahits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/286978e7-3837-4a7f-8bff-51546ddbd2f3.jpg",
+    "artist": "Frank Sinatra",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

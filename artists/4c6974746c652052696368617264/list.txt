@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18481",
+    "name": "Little Richard",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/littlerichard/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/402c487c-3676-49bb-acb8-e18ac9fd74e6.jpg",
+    "artist": "Little Richard",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18482",
+    "name": "Little Richard - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/littlerichardhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/921e68ba-01ac-45a8-ae94-c5336a21b1fe.jpg",
+    "artist": "Little Richard",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

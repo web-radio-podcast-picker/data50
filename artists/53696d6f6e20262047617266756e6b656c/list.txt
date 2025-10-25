@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18621",
+    "name": "Simon & Garfunkel",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/simongarfunkle/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/90d0abb4-122d-4d32-ab45-b7961da3034d.jpg",
+    "artist": "Simon & Garfunkel",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18622",
+    "name": "Simon & Garfunkel - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/simongarfunklehits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/df60b2a0-3285-4821-be61-dab5a5100ca2.jpg",
+    "artist": "Simon & Garfunkel",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

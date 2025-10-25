@@ -1,0 +1,1122 @@
+[
+  {
+    "id": "21176",
+    "name": "4MBS Classic FM 103.7",
+    "groups": "Classic,Jazz",
+    "url": "http://s9.viastreaming.net:9620/;stream.mp3",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/ddb7jJ29HV.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21221",
+    "name": "ABC Double J",
+    "groups": "Jazz,Pop,Rock",
+    "url": "http://live-radio01.mediahubaustralia.com/DJDW/mp3/",
+    "logo": "https://live-production.wcms.abc-cdn.net.au/d24f59c36c64ffc8e13dfcd28278e16c?impolicy=wcms_crop_resize&cropH=1125&cropW=1125&xPos=437&yPos=0&width=400&height=400",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21226",
+    "name": "ABC Jazz",
+    "groups": "Jazz,Talk",
+    "url": "http://live-radio01.mediahubaustralia.com/JAZW/aac/",
+    "logo": "https://resize.abcradio.net.au/FC3Fs-IEYwfjVqQz8fxKBPJ7U2c=/100x100/center/middle/http://www.abc.net.au/radio/images/service/jazz.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21227",
+    "name": "ABC Jazz",
+    "groups": "Jazz,Talk",
+    "url": "http://live-radio01.mediahubaustralia.com/JAZW/mp3/",
+    "logo": "https://resize.abcradio.net.au/FC3Fs-IEYwfjVqQz8fxKBPJ7U2c=/100x100/center/middle/http://www.abc.net.au/radio/images/service/jazz.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9121",
+    "name": "ApaBossaJazz",
+    "groups": "Bossa Nova,Jazz",
+    "url": "http://centova2.ipstm.net:9317/stream",
+    "logo": "https://cdn-profiles.tunein.com/s211763/images/logog.png?t=1",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18803",
+    "name": "ATB Radio 107.2",
+    "groups": "Jazz,Latin",
+    "url": "https://streamingenbolivia.com/8006/stream",
+    "logo": "https://play-lh.googleusercontent.com/0_8zfe5e0gYR87QaAApHXakXjr41IRwnjgom7Yl3MkvlEDGYP0s9JaksXU146ZpfBVI",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "6894",
+    "name": "AutoLife",
+    "groups": "90s,Acid,Jazz",
+    "url": "http://radio.autoliferadio.com:8090/radio",
+    "logo": "https://autoliferadio.com/wp-content/uploads/2020/10/logo-165.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18715",
+    "name": "Classic FM 91.6",
+    "groups": "Classic,Jazz",
+    "url": "https://vo-live-media.cdb.cdn.orange.com/Content/Channel/classic_fm/DASH/master.mpd?expires=1734441066&md5=5yiYwF9LCSpOygMQKBr-IQ",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTQs-4UOeAElI-HH-DEODUpLcrPnpqGgHTeg&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9158",
+    "name": "Digital Jazz",
+    "groups": "Blues,Jazz",
+    "url": "http://stm01.virtualcast.com.br:8190/live",
+    "logo": "https://ca.radio.net/images/broadcasts/70/f1/103530/1/c300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20718",
+    "name": "Freies Radio Salzkammergut 100.2",
+    "groups": "Community,Jazz",
+    "url": "http://stream.xaok.org:8000/frs.mp3",
+    "logo": "https://freiesradio.at/wp-content/uploads/2016/11/cropped-favicon-180x180.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16429",
+    "name": "Jazz FM",
+    "groups": "Blues,Jazz,Soul",
+    "url": "https://cdn.bweb.bg/radio/jazz-fm.mp3",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/972/jazz-fm-bulgaria.4fc08b51.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9204",
+    "name": "Jazz Medley Webradio",
+    "groups": "Blues,Jazz",
+    "url": "http://server01.ouvir.radio.br:8006/stream",
+    "logo": "http://www.umbertovettori.com/images/layout/logo-novo_1542311908.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8045",
+    "name": "Jazz Radio New Orleans",
+    "groups": "Jazz",
+    "url": "http://jazz-wr03.ice.infomaniak.ch/jazz-wr03-128.mp3",
+    "logo": "http://www.jazzradio.fr/media/radio/thumb/90x90_new-orleans.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20722",
+    "name": "JazzW3",
+    "groups": "Blues,Jazz",
+    "url": "http://jazz.w3.at:8000/w3jazz.mp3",
+    "logo": "http://jazz.w3.at/logo.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "12244",
+    "name": "KKMP 92.1",
+    "groups": "Blues,Folk,Jazz",
+    "url": "http://s2.yesstreaming.net/proxy/bluecont/stream",
+    "logo": "https://nebula.wsimg.com/f39a2670bdf2fe5416d7fdd42970de77?AccessKeyId=9DD06624D7844C54FDEF&disposition=0&alloworigin=1",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20899",
+    "name": "Klara",
+    "groups": "Classic,Jazz,World",
+    "url": "http://icecast-servers.vrtcdn.be/klara-high.mp3",
+    "logo": "http://is5.mzstatic.com/image/thumb/Purple128/v4/83/b7/ce/83b7ceb7-3cc3-2278-67e6-3c85887b6cbd/source/1200x630bb.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16392",
+    "name": "KSBS 92.1 CH2 Island Groove",
+    "groups": "Jazz",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3429070.mp3",
+    "logo": "https://static-media.streema.com/media/cache/62/e0/62e0d954f4d8875ad915198c8de35261.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "6907",
+    "name": "Mak Online",
+    "groups": "Country,Jazz,Rock",
+    "url": "https://s05.volnorez.com/live-app/cid/843862/5205ffbe084c295e",
+    "logo": "https://static2.mytuner.mobi/media/tvos_radios/284/mak-online.cf54c746.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9245",
+    "name": "MKK Web Radio",
+    "groups": "Jazz,Soul",
+    "url": "https://servidor34-1.brlogic.com:8096/live?source=site",
+    "logo": "https://play-lh.googleusercontent.com/n5_tWLnZC3M0gs4h7T2XTa2x4kG0UzPRhzszaz4Ox-ycOSOhtiUJ3Gop_nebkkwUURdg=w600-h300-pc0xffffff-pd",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9312",
+    "name": "Radio Bossa Jazz Brasil",
+    "groups": "Bossa Nova,Jazz",
+    "url": "https://centova5.transmissaodigital.com:20104/live",
+    "logo": "https://bossajazzbrasil.com/wp-content/uploads/2020/12/bjs-app.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20952",
+    "name": "Radio Campus 92.1",
+    "groups": "Jazz,University",
+    "url": "http://streamer.radiocampus.be:8000/stream.aacplus",
+    "logo": "https://www.radiocampus.be/wp-content/uploads/2019/04/logo-RC-final-bxl-declinaison-03-300x212.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "401",
+    "name": "Radio Cantilo 101.9",
+    "groups": "Jazz,Pop,Rock",
+    "url": "http://radio.solumedia.com.ar:7231/stream",
+    "logo": "https://www.radiocantilo.com/live/radio-cantilo-com-live.svg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9335",
+    "name": "Rádio Comércio 1450",
+    "groups": "Jazz,Pop,Rock",
+    "url": "http://servidor26.brlogic.com:8066/live",
+    "logo": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/fcy4cecnnlke.gif",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "447",
+    "name": "Radio Monk",
+    "groups": "Jazz",
+    "url": "http://streaming01.shockmedia.com.ar:9858/listen.pls",
+    "logo": "http://www.radiomonk.com.ar/img/logo.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20792",
+    "name": "Radio OE1",
+    "groups": "Classic,Jazz,World",
+    "url": "http://orf-live.ors-shoutcast.at/oe1-q2a",
+    "logo": "https://oe1.orf.at/static/img/logo_oe1.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "472",
+    "name": "Radio Provincia del Chaco 101.5",
+    "groups": "Jazz,Pop,Rock",
+    "url": "https://debred5.ecomchaco.com.ar:8443/radioecom",
+    "logo": "https://yt3.googleusercontent.com/onS01BQexuLhAwER9phM_NCCAkn0L23q09XYun5GkgtreuEGFjI2yhnZO2FU1EqPFTi2Knom=s900-c-k-c0x00ffffff-no-rj",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9455",
+    "name": "Rádio Rio Verde 96.5",
+    "groups": "Bossa Nova,Jazz",
+    "url": "http://paineldj5.com.br:8147/stream",
+    "logo": "https://www.cxradio.com.br/img/Radio/Logo/f571e1c16986782863070ef2db2bfa32.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "483",
+    "name": "Radio UCASAL",
+    "groups": "Electro,Instrumental,Jazz",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3051188.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&sbmid=7f71a5bd-660f-45ea-d1c7-e1f9b3db3470",
+    "logo": "https://www.radioucasal.com.ar/images/favicon.ico?crc=472475579",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20816",
+    "name": "Styrialounge",
+    "groups": "Blues,Jazz,Lounge",
+    "url": "http://styrialounge.out.airtime.pro:8000/styrialounge_a",
+    "logo": "https://styrialounge.com/assets/images/card.jpg?v78616770366451",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20817",
+    "name": "Styrialounge",
+    "groups": "Blues,Jazz,Lounge",
+    "url": "https://styrialounge.out.airtime.pro/styrialounge_a",
+    "logo": "https://styrialounge.com/assets/images/card.jpg?v78616770366451",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17105",
+    "name": "Tirana Jazz Radio",
+    "groups": "Blues,Jazz",
+    "url": "http://live.tiranajazzradio.com:8000/stream",
+    "logo": "https://tiranajazzradio.com/img/logo.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20641",
+    "name": "Zoom Radio 95.7 [Not 24/7]",
+    "groups": "Jazz,R'N'B,Soul",
+    "url": "http://108.178.13.122:8170/listen.pls",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s240017d.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

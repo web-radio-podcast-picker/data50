@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18439",
+    "name": "Justin Bieber",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/justinbieber/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/c445e2f9-c3ab-4f7f-b8a4-cd6e399ad684.jpg",
+    "artist": "Justin Bieber",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18440",
+    "name": "Justin Bieber - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/justinbieberhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/9fa82194-6b1f-4339-97e9-a82647914a6b.jpg",
+    "artist": "Justin Bieber",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

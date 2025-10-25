@@ -1,0 +1,4692 @@
+[
+  {
+    "id": "3063",
+    "name": "100hitz The Mix 80s 90s & Today's Hits",
+    "groups": "Mix,80s,90s,Hits",
+    "url": "https://pureplay.cdnstream1.com/6038_128.mp3",
+    "logo": "https://100hitz.com/wp-content/uploads/2018/07/favicon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3095",
+    "name": "101 Smooth Jazz Mellow Mix",
+    "groups": "Mix",
+    "url": "http://ais-sa5.cdnstream1.com/b48071_128mp3",
+    "logo": "http://www.101smoothjazz.com/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3243",
+    "name": "181.FM Christmas Mix",
+    "groups": "Radio,Religion,Mix",
+    "url": "http://listen.181fm.com/181-xmix_128k.mp3",
+    "logo": "http://www.181.fm/images/playerlanding/181.FM.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3290",
+    "name": "181.FM The Mix",
+    "groups": "Radio,Mix",
+    "url": "http://listen.181fm.com/181-themix_128k.mp3",
+    "logo": "http://www.181.fm/images/playerlanding/181.FM.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10257",
+    "name": "80s Mix Radio",
+    "groups": "80s,Mix,Radio",
+    "url": "https://80s-mix-radio.stream.laut.fm/80s-mix-radio",
+    "logo": "https://cdn.onlineradiobox.com/img/l/7/82797.v7.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10262",
+    "name": "89 Hit FM Mix",
+    "groups": "Hits,Radio,Mix",
+    "url": "http://stream.hitfm.de:9050/hitmixfm",
+    "logo": "https://image.jimcdn.com/app/cms/image/transf/none/path/sc0fc92ce0c32e802/backgroundarea/i2a1b09bffe92a641/version/1491489327/image.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10268",
+    "name": "89.0 RTL In The Mix",
+    "groups": "French,Mix",
+    "url": "http://fhhalle.streamabc.net/fhhal-rtlinthemix-mp3-256-1489633?sABC=61p20rnn%230%23480403531qsn3q883o6q243r435924np%23qverxgyvaxUC&amsparams=playerid:direktlinkHP;skey:1640107690",
+    "logo": "http://www.89.0rtl.de/assets/icons/icon-152x152.png",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10269",
+    "name": "89.0 RTL In The Mix",
+    "groups": "French,Mix",
+    "url": "http://fhhalle.streamabc.net/fhhal-rtlinthemix-mp3-128-9206825?sABC=61p1rsqo%230%232qqpnss01895rqr0s8oq129o03s183o0%23qverxgyvaxUC&amsparams=playerid:direktlinkHP;skey:1640099803",
+    "logo": "http://www.89.0rtl.de/assets/icons/icon-152x152.png",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "1970",
+    "name": "Anima Amoris Dub Techno Mix",
+    "groups": "Dub,Mix",
+    "url": "http://amoris.sknt.ru/dubtechnomix.mp3",
+    "logo": "https://dx7vbl8yjmzxy.cloudfront.net/new_images/radioapp_75467.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10464",
+    "name": "BDJ Maxi Mix",
+    "groups": "Mix",
+    "url": "https://bdjmaximix.stream.laut.fm/bdjmaximix?t302=2021-12-21_11-41-30&uuid=4883cded-5002-4f51-a3a5-8db40cc9a766",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpp7DYoPAW6v7bL1Q1w09FYbzjSW2PLjYwF9ZJceBUnQ&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3658",
+    "name": "Best Net Radio Country Mix",
+    "groups": "Radio,Country,Mix",
+    "url": "http://bigrradio.cdnstream1.com/5157_128?listenerid=43889c39c8ecf4f87725056b0d737597&cb=179472.mp3",
+    "logo": "https://cdn.onlineradiobox.com/img/fblogo/2/31532.v1.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3661",
+    "name": "Best Net Radio The Mix",
+    "groups": "Radio,Mix",
+    "url": "http://bigrradio.cdnstream1.com/5169_128?listenerid=43889c39c8ecf4f87725056b0d737597&cb=180023.mp3",
+    "logo": "https://cdn.onlineradiobox.com/img/fblogo/5/10255.v2.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3673",
+    "name": "Big R Radio 100.3 The Rock Mix",
+    "groups": "Radio,Mix",
+    "url": "http://bigrradio.cdnstream1.com/5172_128",
+    "logo": "https://static-media.streema.com/media/cache/11/ba/11baadec58fe660b923d638317686c32.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3674",
+    "name": "Big R Radio 70s and 80s Pop Mix",
+    "groups": "Radio,70s,80s,Pop,Mix",
+    "url": "http://bigrradio.cdnstream1.com/5181_128",
+    "logo": "http://www.bigrradio.com/image/favicon/apple-touch-icon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3676",
+    "name": "Big R Radio 80s and 90s Pop Mix",
+    "groups": "Radio,80s,90s,Pop,Mix",
+    "url": "http://bigrradio.cdnstream1.com/5183_128",
+    "logo": "http://www.bigrradio.com/image/favicon/apple-touch-icon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3685",
+    "name": "Big R Radio Country Mix",
+    "groups": "Radio,Country,Mix",
+    "url": "http://bigrradio.cdnstream1.com/5196_128",
+    "logo": "http://www.bigrradio.com/image/favicon/apple-touch-icon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3051",
+    "name": "C97.7 The Mix",
+    "groups": "Mix",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/977_MIX_SC",
+    "logo": "https://mytunein.com/images/logos/97780shitsmusicradio.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "13020",
+    "name": "CFVR Mix 103.7",
+    "groups": "Mix",
+    "url": "http://ais-sa1.streamon.fm/7253_64k.aac",
+    "logo": "http://media.socastsrm.com/uploads/station/299/fbShare.png?r=11905",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "13118",
+    "name": "CHYR MIX 96.7",
+    "groups": "Mix",
+    "url": "http://live.leanstream.co/CHYRFM",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/47/CHYR_MIX96.7_logo.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "13130",
+    "name": "CIGL 97.1 MIX 97",
+    "groups": "Mix",
+    "url": "http://live.leanstream.co/CIGLFM-MP3",
+    "logo": "http://www.mix97.com/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "13168",
+    "name": "CIXK MIX 106.5",
+    "groups": "Mix",
+    "url": "http://bayshore.leanstream.co/CIXKFM",
+    "logo": "http://www.mix106.ca//favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "13273",
+    "name": "CKEC Mix 94.1",
+    "groups": "Mix",
+    "url": "https://newcap.leanstream.co/CKECFM",
+    "logo": "https://media.socastsrm.com/uploads/station/1916/home_screen_logo-5c5a2cc3bafbd.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "13349",
+    "name": "CKUL Mix 96.5",
+    "groups": "Mix",
+    "url": "http://newcap.leanstream.co/CKULFM",
+    "logo": "http://media.socastsrm.com/wordpress/wp-content/blogs.dir/1000/files/2017/08/mix965herologoV6.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "13404",
+    "name": "Frequency5FM Mix Radio",
+    "groups": "Mix,Radio",
+    "url": "https://usa11.fastcast4u.com/proxy/frequency5fm3?mp=/1",
+    "logo": "https://www.streamtastic.com/static/images/stations/frequency_5_fm.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "7419",
+    "name": "Galaxie Mix",
+    "groups": "Mix",
+    "url": "https://listen.radioking.com/radio/187063/stream/229186",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/xjqlagpksykv.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "7421",
+    "name": "Génération Mix",
+    "groups": "Mix",
+    "url": "https://ecmanager2.pro-fhi.net/generationmix",
+    "logo": "https://www.radio.fr/images/broadcasts/62/e7/139914/1/c300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19187",
+    "name": "Hits and Mix Radio",
+    "groups": "Hits,Mix,Radio",
+    "url": "http://stream.zeno.fm/nwn4ruznd24tv?rj-ttl=5&rj-tok=AAABfd5fEakAdWYA7L3VblTlSA",
+    "logo": "https://f4d4c3ff-a-62cb3a1a-s-sites.googlegroups.com/site/djkolofox888/home/FAV-icon-310x310.png?attachauth=ANoY7cpU8NMHhZriTR_-pZsr-CbXsM2EcQEVe1ccyJ1IgRRuYcF-D2Wkq24rIcvr0NJH8fj6etmqj1stkjB8urXpxpZ-PCC8WaRHF5K_LJPDU_eufCFwvrDoa_eXomz4XnOt-ZjSELylXBKDoPCaU1AQpn51PfbOPsXzMZDJnALohLyifxZEnffl1oFx4JeEnj7xwguQVSDsVymDpnYsPXbmNIX1zv9zilEtt3Lrfw6LJLcAUfsKNN0%3D&attredirects=0",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19188",
+    "name": "Hits and Mix Radio Stream 2",
+    "groups": "Hits,Mix,Radio",
+    "url": "http://stream.zeno.fm/8e9hhkq1vy5tv?rj-ttl=5&rj-tok=AAABfd40drUAF2o371WzXsK_1A",
+    "logo": "https://f4d4c3ff-a-62cb3a1a-s-sites.googlegroups.com/site/djkolofox888/home/FAV-icon-310x310.png?attachauth=ANoY7cpU8NMHhZriTR_-pZsr-CbXsM2EcQEVe1ccyJ1IgRRuYcF-D2Wkq24rIcvr0NJH8fj6etmqj1stkjB8urXpxpZ-PCC8WaRHF5K_LJPDU_eufCFwvrDoa_eXomz4XnOt-ZjSELylXBKDoPCaU1AQpn51PfbOPsXzMZDJnALohLyifxZEnffl1oFx4JeEnj7xwguQVSDsVymDpnYsPXbmNIX1zv9zilEtt3Lrfw6LJLcAUfsKNN0%3D&attredirects=0",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19189",
+    "name": "Hits and Mix Radio Stream 3",
+    "groups": "Hits,Mix,Radio",
+    "url": "http://stream.zeno.fm/4rd0aff2e4duv?rj-ttl=5&rj-tok=AAABfdoV1ZkAJEPuHW0zcOJGRQ",
+    "logo": "https://f4d4c3ff-a-62cb3a1a-s-sites.googlegroups.com/site/djkolofox888/home/FAV-icon-310x310.png?attachauth=ANoY7cpU8NMHhZriTR_-pZsr-CbXsM2EcQEVe1ccyJ1IgRRuYcF-D2Wkq24rIcvr0NJH8fj6etmqj1stkjB8urXpxpZ-PCC8WaRHF5K_LJPDU_eufCFwvrDoa_eXomz4XnOt-ZjSELylXBKDoPCaU1AQpn51PfbOPsXzMZDJnALohLyifxZEnffl1oFx4JeEnj7xwguQVSDsVymDpnYsPXbmNIX1zv9zilEtt3Lrfw6LJLcAUfsKNN0%3D&attredirects=0",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3403",
+    "name": "KCVM 93.5 The Mix",
+    "groups": "Mix",
+    "url": "https://ice7.securenetsystems.net/THEMIX",
+    "logo": "https://radiostationusa.fm/assets/image/radio/180/KCVM.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "4290",
+    "name": "KDXN The Mix 105.7",
+    "groups": "Mix",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KDXNFMAAC_SC",
+    "logo": "http://www.themix1057.com/uploads/mix/logo.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "4353",
+    "name": "KHND The Mix 1470",
+    "groups": "Mix",
+    "url": "http://ice8.securenetsystems.net/KHND",
+    "logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/ef/84/25663/c300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "4964",
+    "name": "KIMN Mix 100",
+    "groups": "Mix",
+    "url": "https://18493.live.streamtheworld.com:443/KIMNFMAAC.aac",
+    "logo": "https://radiostationusa.fm/assets/image/radio/180/mix100.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20897",
+    "name": "Kiosk Radio",
+    "groups": "Mix",
+    "url": "https://kioskradiobxl.out.airtime.pro/kioskradiobxl_b",
+    "logo": "https://kioskradio.com/images/logo.svg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "4966",
+    "name": "KIOW Mix 107.3",
+    "groups": "Mix",
+    "url": "https://ice23.securenetsystems.net/KIOW",
+    "logo": "https://radiostationusa.fm/assets/image/radio/180/KIOW.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3419",
+    "name": "KMGE 94.5 Mix FM",
+    "groups": "Mix,Radio",
+    "url": "http://www.ophanim.net:8970/live",
+    "logo": "https://radiostationusa.fm/assets/image/radio/180/KMGEFM.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "2875",
+    "name": "Konpa Mix Radio",
+    "groups": "Mix,Radio",
+    "url": "http://ais-edge08-live365-dal02.cdnstream.com/a15951",
+    "logo": "http://konpamix.com/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "4767",
+    "name": "KVLY 107.9 Mix FM",
+    "groups": "Mix,Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KVLYFMAAC_SC",
+    "logo": "https://s3.amazonaws.com/1079mixfm/wp-content/uploads/2014/09/logo100.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "13922",
+    "name": "Liuhe District MIX 103.5",
+    "groups": "Mix",
+    "url": "https://live.xmcdn.com/live/551/64.m3u8",
+    "logo": "http://pic.qingting.fm/2019/0329/20190329020341.jpeg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "11254",
+    "name": "MDR Jump In The Mix",
+    "groups": "Radio,Mix",
+    "url": "http://d111.rndfnk.com/ard/mdr/284321/2/mp3/128/stream.mp3?sid=22bU9Xp6U0pnYeOSZbyz3qm9CHp&token=yhHDJd5cKf7Z4IwsuV20GdkWRg2A-Uf9sa0jWNgL4DM&tvf=GMKUoQbnwhZkMTExLnJuZGZuay5jb20",
+    "logo": "http://www.jumpradio.de/musik/channel/channel132-resimage_v-variantSmall1x1_w-512.jpg?version=54774",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "11255",
+    "name": "MDR Jump In The Mix",
+    "groups": "Radio,Mix",
+    "url": "http://d121.rndfnk.com/ard/mdr/284321/2/aac/128/stream.aac?sid=22b9afGvY6aR7Sz0Z1yUo13KczT&token=cBym6_Mrbz_P04o9wOZRG8dlby3xZBkysJgDtsjRNyc&tvf=C2HNeMzdwhZkMTIxLnJuZGZuay5jb20",
+    "logo": "http://www.jumpradio.de/musik/channel/channel132-resimage_v-variantSmall1x1_w-512.jpg?version=54774",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "11256",
+    "name": "MDR Jump In The Mix",
+    "groups": "Radio,Mix",
+    "url": "http://d111.rndfnk.com/ard/mdr/284321/2/mp3/64/stream.mp3?sid=22bdTPGQOF9VRtuZvl7z1Z7sPoU&token=l4a08YkxDGDyoVuEQZT6eq4S3EETnbbxtlTWgjyiTo8&tvf=axqUJDXrwhZkMTExLnJuZGZuay5jb20",
+    "logo": "http://www.jumpradio.de/musik/channel/channel132-resimage_v-variantSmall1x1_w-512.jpg?version=54774",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "545",
+    "name": "Mix",
+    "groups": "Mix",
+    "url": "https://ais-nzme.streamguys1.com/nz_012/playlist.m3u8",
+    "logo": "http://www.mixonline.co.nz//content/images/interface/icons/Easymix/apple-touch-icon-iphone-60x60.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19452",
+    "name": "Mix 101.7 XHEMM",
+    "groups": "Mix",
+    "url": "https://17853.live.streamtheworld.com:443/XHEMMAAC.aac",
+    "logo": "https://i.iheart.com/v3/re/new_assets/9a46fddb-921b-41a9-b09b-750dd8f9bc9e?ops=fit(240%2C240)",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19450",
+    "name": "Mix 102.3 XHAGE",
+    "groups": "Mix",
+    "url": "https://24063.live.streamtheworld.com:443/XHAGEFMAAC.aac",
+    "logo": "https://i.iheart.com/v3/re/new_assets/d633e92b-f130-406c-b022-09f7f170cf34?ops=fit(240%2C240)",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19693",
+    "name": "Mix 102.3 XHAGE",
+    "groups": "Mix",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHAGEFMAAC_SC",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfkm1tW0-18-ruKOqUXYhilT_8BhRV34e4jw&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20033",
+    "name": "Mix 106",
+    "groups": "Mix",
+    "url": "http://radionetz.de:8000/mixfm.mp3",
+    "logo": "https://radiomix106.com/wp-content/uploads/2018/02/Mix106-logosquare-170x170.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19451",
+    "name": "Mix 106.5 XHDFM",
+    "groups": "Mix",
+    "url": "https://25093.live.streamtheworld.com:443/XHDFMFMAAC.aac",
+    "logo": "https://i.iheart.com/v3/re/new_assets/77b18faf-00b4-483d-bb24-377cdd4b4998?ops=fit(240%2C240)",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19456",
+    "name": "Mix 106.5 XHGV",
+    "groups": "Mix",
+    "url": "https://18443.live.streamtheworld.com:443/XHGVAAC.aac",
+    "logo": "https://i.iheart.com/v3/re/new_assets/40d588aa-508e-4f16-ae4b-7155b1db6de1?ops=fit(240%2C240)",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19458",
+    "name": "Mix 90.1 XHENO",
+    "groups": "Mix",
+    "url": "https://25103.live.streamtheworld.com:443/XHENOFMAAC.aac",
+    "logo": "https://i.iheart.com/v3/re/new_assets/cd0f1c63-8349-45d6-ab41-3281bea2cccb?ops=fit(240%2C240)",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19702",
+    "name": "Mix 90.1 XHENO",
+    "groups": "Mix",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHENOFMAAC_SC",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/XHSAT_90.1MIX_logo.png/220px-XHSAT_90.1MIX_logo.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19459",
+    "name": "Mix 90.1 XHSAT",
+    "groups": "Mix",
+    "url": "https://23113.live.streamtheworld.com:443/XHSATFMAAC.aac",
+    "logo": "https://i.iheart.com/v3/re/new_assets/cd0f1c63-8349-45d6-ab41-3281bea2cccb",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19729",
+    "name": "Mix 90.1 XHSAT",
+    "groups": "Mix",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHSATFMAAC_SC",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/XHSAT_90.1MIX_logo.png/150px-XHSAT_90.1MIX_logo.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19723",
+    "name": "Mix 90.3 XHPVA",
+    "groups": "Mix",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPVAFMAAC_SC",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/3/3c/Mix903vallarta.png/revision/latest/scale-to-width-down/200?cb=20120320183852",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20681",
+    "name": "Mix 91.0",
+    "groups": "Mix",
+    "url": "https://stream.rcs.revma.com/v5pq3htbv4uvv/4_1p3ya61t8dog002/playlist.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE832O98sHY0TYtImbT1kLy9s6a5B4NdCmdQ&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19454",
+    "name": "Mix 91.7 XHRC",
+    "groups": "Mix",
+    "url": "https://25023.live.streamtheworld.com:443/XHRCFMAAC.aac",
+    "logo": "https://i.iheart.com/v3/re/new_assets/5bd34da7b81494900fc9e152?ops=fit(240%2C240)",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19725",
+    "name": "Mix 91.7 XHRC",
+    "groups": "Mix",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHRCFMAAC_SC",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/6/6e/XHRC_91.7MIX_logo.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19453",
+    "name": "Mix 92.5 XHPK",
+    "groups": "Mix",
+    "url": "https://14923.live.streamtheworld.com:443/XHPKFMAAC.aac",
+    "logo": "https://i.iheart.com/v3/re/new_assets/c5a4465f-68df-45ac-b8df-c385b53d729c?ops=fit(240%2C240)",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19449",
+    "name": "Mix 92.7 XHVAY",
+    "groups": "Mix",
+    "url": "https://14023.live.streamtheworld.com:443/XHVAYFMAAC_SC",
+    "logo": "https://cdn.webrad.io/images/logos/emisoras-com-mx/amor-vallarta.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19455",
+    "name": "Mix 92.7 XHVAY",
+    "groups": "Mix",
+    "url": "https://14023.live.streamtheworld.com:443/XHVAYFMAAC.aac",
+    "logo": "https://i.iheart.com/v3/re/new_assets/5e55c5f1f2e817641ab904b2?ops=fit(240%2C240)",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17209",
+    "name": "Mix 93.8",
+    "groups": "Mix",
+    "url": "https://edge.iono.fm/xice/113_medium.aac",
+    "logo": "https://mixfm.co.za/wp-content/uploads/2019/05/fav-icon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19457",
+    "name": "Mix 98.5 XHQK",
+    "groups": "Mix",
+    "url": "https://16603.live.streamtheworld.com:443/XHQKFMAAC.aac",
+    "logo": "https://i.iheart.com/v3/re/new_assets/5e55c944f2e817641ab904b4?ops=fit(240%2C240)",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19734",
+    "name": "Mix 99.3 XHTL",
+    "groups": "Mix",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHTLFMAAC_SC",
+    "logo": "https://i.ytimg.com/vi/TCzEbOjKy6g/maxresdefault.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "24",
+    "name": "Mix Megapol",
+    "groups": "Mix",
+    "url": "http://edge-bauerse-03-gos2.sharp-stream.com/mixmegapol_instream_se_mp3?ua=WEB&",
+    "logo": "https://www.radio.net/300/mixmegapol.png?version=33da03fbada59e4023df61b8adeb9b42",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "2",
+    "name": "Mix Music Radio",
+    "groups": "Mix,Music,Radio",
+    "url": "https://s4.radio.co/s32835e59d/listen",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/632/mix-music-radio-sweden.a2221343.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "15341",
+    "name": "Mix Radio 103.9",
+    "groups": "Mix,Radio",
+    "url": "https://master.letio.com/io/?gs=9156&type=master.m3u8",
+    "logo": "http://mixradio.co/wp-content/uploads/2019/04/texto-1.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20032",
+    "name": "Mix Radio Gran Canaria",
+    "groups": "Mix,Radio",
+    "url": "https://mixfm.radionetz.de/mixfm.mp3",
+    "logo": "https://mixradio.eu/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8351",
+    "name": "Mouv' 100% Mix",
+    "groups": "French,Mix",
+    "url": "https://icecast.radiofrance.fr/mouv100p100mix-hifi.aac",
+    "logo": "https://www.mouv.fr//favicons/mouv-180-180.png",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8352",
+    "name": "Mouv' 100% Mix",
+    "groups": "French,Mix",
+    "url": "https://stream.radiofrance.fr/mouv100p100mix/mouv100p100mix.m3u8?id=radiofrance",
+    "logo": "https://www.mouv.fr//favicons/mouv-180-180.png",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17902",
+    "name": "my105 DJ Mixes",
+    "groups": "Mix",
+    "url": "http://stream01.my105.ch/my105djnights.mp3",
+    "logo": "http://www.my105.ch/fileadmin/templates/img/my105_logo.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "11420",
+    "name": "nice - MIX mit Enrico Ostendorf",
+    "groups": "Mix",
+    "url": "http://ice.cr6.streamzilla.xlcdn.com:8000/sz%3Dnice-broadcast-media-gmbh%3Dnice-DJ-CHANNEL-128-mp3?token=f8b05e875c35ca8040ef49184e53cfe4&time=61c15eec",
+    "logo": "http://www.nicetv.de/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8571",
+    "name": "NRJ Hits Electro Mix",
+    "groups": "Radio,Music,Hits,Electro,Mix",
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/58587/mp3_128.mp3",
+    "logo": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/173x173/NRJ-WR-Hit-Electro-mix.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8546",
+    "name": "NRJ Les Hits Mixes",
+    "groups": "Radio,Music,Hits,Mix",
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/58704/mp3_128.mp3",
+    "logo": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/nrj/logos/173x173/NRJ-WR-Les-Hits-Mixes.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "1892",
+    "name": "P24-7 Mix",
+    "groups": "Mix",
+    "url": "https://live-bauerno.sharp-stream.com/p247mix_no_mp3",
+    "logo": "https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/342.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "8711",
+    "name": "Party Mix Radio",
+    "groups": "Mix,Radio",
+    "url": "http://stream.zeno.fm/rw6ckefezs8uv?rj-ttl=5&rj-tok=AAABfdvyOO8AcOMF3WNai61MSQ",
+    "logo": "https://images.zeno.fm/Gk497WiGwyIC6z-oMe_0X0WNAnWIXLUjRgAlgKTZLO4/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvMzM3M2E0ZWYtNTUwYy00ODAzLWI2OGItNmI1Y2ZjMDU0MjgwL2ltYWdlLz91PTE3MjMxNjg2MjkwMDA.webp",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21795",
+    "name": "Radio Balloitaliano Mix",
+    "groups": "Radio,Mix",
+    "url": "http://balloitalianonetwork.com/proxy/rcerru19?mp=/stream",
+    "logo": "https://www.balloitaliano.com/radioballoitalianomix.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5191",
+    "name": "Radio Cadena Mix",
+    "groups": "Radio,Mix",
+    "url": "http://stream.zeno.fm/17qka9nun2zuv?rj-ttl=5&rj-tok=AAABfdrJZ1MAWvJY342Xz0optA",
+    "logo": "https://www.radio.net/images/broadcasts/49/de/177730/1/c300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "7000",
+    "name": "Radio Cumbia Mix",
+    "groups": "Radio,Mix",
+    "url": "https://streaming.gometri.com/stream/8017/stream",
+    "logo": "https://radiocumbiamix.com/img/logo_3.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "6969",
+    "name": "Radio Maxi Mix",
+    "groups": "Radio,Mix",
+    "url": "http://stream.zeno.fm/znv7mhnuaxquv?rj-ttl=5&rj-tok=AAABfd3REaEAyB7DXE4EHkqiDg",
+    "logo": "https://zenoimages.s3.us-west-001.backblazeb2.com/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDA35mPtAsMCxIOU3RhdGlvblByb2ZpbGUYgIDAv5K17wsMogEEemVubw/images/logo",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "7038",
+    "name": "Radio Megatron Mix",
+    "groups": "Radio,Mix",
+    "url": "http://stream.zeno.fm/rw67aty148quv?rj-ttl=5&rj-tok=AAABfdqSppkAsJS163f9vb9Y1Q",
+    "logo": "https://zeno.fm/static/icons/apple-icon-120x120.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "7040",
+    "name": "Radio Mix 103.5",
+    "groups": "Radio,Mix",
+    "url": "http://stream.zeno.fm/ug8papw4nbruv?rj-ttl=5&rj-tok=AAABfdppkoMANK5-qsnLtCcufg",
+    "logo": "https://zeno.fm/static/icons/apple-icon-120x120.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5262",
+    "name": "Radio Paradise Eclectic Mix",
+    "groups": "Radio,Mix",
+    "url": "http://stream.radioparadise.com/eclectic-320",
+    "logo": "https://new.radioparadise.com/rpassets/images/logo/rp_icon_400.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5267",
+    "name": "Radio Paradise Eclectic Mix",
+    "groups": "Radio,Mix",
+    "url": "http://stream.radioparadise.com/eclectic-192",
+    "logo": "https://new.radioparadise.com/rpassets/images/logo/rp_icon_400.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5268",
+    "name": "Radio Paradise Eclectic Mix",
+    "groups": "Radio,Mix",
+    "url": "http://stream.radioparadise.com/eclectic-128",
+    "logo": "https://new.radioparadise.com/rpassets/images/logo/rp_icon_400.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5284",
+    "name": "Radio Paradise Eclectic Mix FLAC",
+    "groups": "Radio,Mix",
+    "url": "http://icy-4.radioparadise.com/eclectic-flac",
+    "logo": "https://new.radioparadise.com/rpassets/images/logo/rp_icon_400.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5270",
+    "name": "Radio Paradise Main Mix",
+    "groups": "Radio,Mix",
+    "url": "http://stream.radioparadise.com/mp3-128",
+    "logo": "https://new.radioparadise.com/rpassets/images/logo/rp_icon_400.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5271",
+    "name": "Radio Paradise Main Mix",
+    "groups": "Radio,Mix",
+    "url": "http://stream.radioparadise.com/aac-128",
+    "logo": "https://new.radioparadise.com/rpassets/images/logo/rp_icon_400.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5272",
+    "name": "Radio Paradise Main Mix",
+    "groups": "Radio,Mix",
+    "url": "http://stream.radioparadise.com/mp3-192",
+    "logo": "https://new.radioparadise.com/rpassets/images/logo/rp_icon_400.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5285",
+    "name": "Radio Paradise Main Mix FLAC",
+    "groups": "Radio,Mix",
+    "url": "https://stream.radioparadise.com/flac",
+    "logo": "https://radioparadise.com/apple-touch-icon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5273",
+    "name": "Radio Paradise Mellow Mix",
+    "groups": "Radio,Mix",
+    "url": "http://stream.radioparadise.com/mellow-128",
+    "logo": "https://new.radioparadise.com/rpassets/images/logo/rp_icon_400.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5274",
+    "name": "Radio Paradise Mellow Mix",
+    "groups": "Radio,Mix",
+    "url": "http://stream.radioparadise.com/mellow-192",
+    "logo": "https://new.radioparadise.com/rpassets/images/logo/rp_icon_400.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5286",
+    "name": "Radio Paradise Mellow Mix",
+    "groups": "Radio,Mix",
+    "url": "https://stream.radioparadise.com/mellow-64",
+    "logo": "https://radioparadise.com/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5287",
+    "name": "Radio Paradise Mellow Mix",
+    "groups": "Radio,Mix",
+    "url": "http://stream.radioparadise.com/mellow-320",
+    "logo": "https://new.radioparadise.com/rpassets/images/logo/rp_icon_400.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5288",
+    "name": "Radio Paradise Mellow Mix FLAC",
+    "groups": "Radio,Mix",
+    "url": "https://stream.radioparadise.com/mellow-flac",
+    "logo": "https://radioparadise.com/apple-touch-icon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5289",
+    "name": "Radio Paradise Mellow Mix FLAC",
+    "groups": "Radio,Mix",
+    "url": "http://stream.radioparadise.com/mellow-flac",
+    "logo": "https://radioparadise.com/apple-touch-icon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5263",
+    "name": "Radio Paradise Rock Mix",
+    "groups": "Radio,Mix",
+    "url": "http://stream.radioparadise.com/rock-320",
+    "logo": "https://new.radioparadise.com/rpassets/images/logo/rp_icon_400.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5281",
+    "name": "Radio Paradise Rock Mix",
+    "groups": "Radio,Mix",
+    "url": "http://stream.radioparadise.com/rock-128",
+    "logo": "https://new.radioparadise.com/rpassets/images/logo/rp_icon_400.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5282",
+    "name": "Radio Paradise Rock Mix",
+    "groups": "Radio,Mix",
+    "url": "http://stream.radioparadise.com/rock-192",
+    "logo": "https://new.radioparadise.com/rpassets/images/logo/rp_icon_400.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5292",
+    "name": "Radio Paradise Rock Mix",
+    "groups": "Radio,Mix",
+    "url": "https://stream.radioparadise.com/rock-64",
+    "logo": "https://radioparadise.com/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5291",
+    "name": "Radio Paradise Rock Mix FLAC",
+    "groups": "Radio,Mix",
+    "url": "http://icy-4.radioparadise.com/rock-flac",
+    "logo": "https://new.radioparadise.com/rpassets/images/logo/rp_icon_400.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5293",
+    "name": "Radio Paradise Rock Mix FLAC",
+    "groups": "Radio,Mix",
+    "url": "https://stream.radioparadise.com/rock-flac",
+    "logo": "https://radioparadise.com/apple-touch-icon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5294",
+    "name": "Radio Paradise World/Etc Mix",
+    "groups": "Radio,Mix",
+    "url": "https://stream.radioparadise.com/world-etc-320",
+    "logo": "https://radioparadise.com/rpassets/images/logo/icon_flat_black_padded_62x50.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5295",
+    "name": "Radio Paradise World/Etc Mix",
+    "groups": "Radio,Mix",
+    "url": "https://stream.radioparadise.com/world-etc-64",
+    "logo": "https://radioparadise.com/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5296",
+    "name": "Radio Paradise World/Etc Mix FLAC",
+    "groups": "Radio,Mix",
+    "url": "https://stream.radioparadise.com/world-etc-flac",
+    "logo": "https://radioparadise.com/apple-touch-icon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16199",
+    "name": "Radio Party DJ Mixes Party",
+    "groups": "Radio,Mix",
+    "url": "http://djmixes.radioparty.pl:8035/",
+    "logo": "http://radioparty.pl//favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "7052",
+    "name": "Radio Pirata Mix",
+    "groups": "Radio,Mix",
+    "url": "http://167.114.118.120:7628/listen.pls",
+    "logo": "https://3.bp.blogspot.com/-d2h26kkRjiE/U48F33pEriI/AAAAAAAAE3Q/7nedM8GI51M/s1600/radio-pirata.JPG",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "2332",
+    "name": "Radio Record Russian Mix",
+    "groups": "Radio,Russian,Mix",
+    "url": "https://radiorecord.hostingradio.ru/rus96.aacp",
+    "logo": "https://www.radiorecord.ru/components/Header/img/desktop_logo.png?109479708dc38d9dd97e6d8093e6bc65",
+    "artist": null,
+    "lang": "Russian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "2637",
+    "name": "Radio Rekord Russian Mix",
+    "groups": "Radio,Russian,Mix",
+    "url": "http://radiorecord.hostingradio.ru/rus96.aacp",
+    "logo": "https://i.postimg.cc/xjWgDmRV/images.png",
+    "artist": null,
+    "lang": "Russian",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "11699",
+    "name": "Radio Salü in the Mix",
+    "groups": "Radio,Mix",
+    "url": "http://internetradio.salue.de:8000/channel1",
+    "logo": "http://www.salue.de/musik/webradio/in-the-mix/logo-280.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5306",
+    "name": "Radio Shadow Rock Mix",
+    "groups": "Radio,Mix",
+    "url": "http://162.244.80.131:8052/",
+    "logo": "https://i3.radionomy.com/document/contacts/e/e9b5/e9b5bf04-02d6-42b4-b9cb-2f4dfb9e7489.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "22157",
+    "name": "Radio Studio Mix",
+    "groups": "Radio,Mix",
+    "url": "http://91.121.38.216:8006/listen.pls",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s106378q.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "11738",
+    "name": "Radio Teddy Soft Mix",
+    "groups": "Radio,Mix",
+    "url": "http://irmedia.streamabc.net/irm-rtsoftmix-mp3-128-8012560?sABC=61p1r85s%231%23cynl.zc3%23jro&amsparams=playerid:web;skey:1640097887",
+    "logo": "http://www.radioteddy.de/assets/icons/apple-touch-icon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "6960",
+    "name": "Radio The Best Mix",
+    "groups": "Radio,Mix",
+    "url": "http://stream.zeno.fm/v1qe5y1vetzuv?rj-ttl=5&rj-tok=AAABfd4j0BUAa7AxGoaJGlESWw",
+    "logo": "https://myradioenvivo.pe/public/uploads/radio_img/radio-mix/fb_cover.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "7077",
+    "name": "Radio Turbo Mix 710",
+    "groups": "Radio,Mix",
+    "url": "http://167.114.118.120:7626/stream",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbw4GVsH6pJTxPbUe52WE064ql_fo8Txsn0A&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "7078",
+    "name": "Radio Turbo Mix 92.5",
+    "groups": "Radio,Mix",
+    "url": "http://167.114.118.120:7624/stream",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/767/radio-turbomix-fm.2943a767.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17737",
+    "name": "Radio Ultimito Mix",
+    "groups": "Radio,Mix",
+    "url": "https://usa4.fastcast4u.com/proxy/rwrw1?mp=/1",
+    "logo": "http://rw1.epizy.com/Logo%202019%20(300%20x%20300).png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "5358",
+    "name": "Retro Hit Mix",
+    "groups": "Oldies,Hits,Mix",
+    "url": "http://hestia.cdnstream.com/1340_128",
+    "logo": "https://static.wixstatic.com/media/bab08c_d1b0665eb22f4b048b9c8be23ef28b24~mv2_d_3133_1929_s_2.png/v1/crop/x_0,y_73,w_3133,h_1792/fill/w_343,h_196,al_c,usm_0.66_1.00_0.01/bab08c_d1b0665eb22f4b048b9c8be23ef28b24~mv2_d_3133_1929_s_2.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19601",
+    "name": "Sabrosita Mix Radio",
+    "groups": "Mix,Radio",
+    "url": "https://server3.sit-mexico.com:2199/proxy/sabrositamix?mp=/stream",
+    "logo": "https://i.ibb.co/hdSXpQv/Sabrosita-Mix.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "12035",
+    "name": "Sunshine Live Mix Mission",
+    "groups": "Mix",
+    "url": "http://sunsl.streamabc.net/sunsl-mixmission-mp3-192-2059291?sABC=61p225pr%230%232qqpnss01895rqr0s8oq129o03s183o0%23&amsparams=playerid:;skey:1640113614",
+    "logo": "http://www.sunshine-live.de//_nuxt/icons/icon_64.964qFBKj2AM.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "12036",
+    "name": "Sunshine Live Mix Mission",
+    "groups": "Mix",
+    "url": "http://sunsl.streamabc.net/sunsl-mixmission-mp3-192-2059291?sABC=61p219n4%230%23480403531qsn3q883o6q243r435924np%23&amsparams=playerid:;skey:1640110500",
+    "logo": "http://www.sunshine-live.de//_nuxt/icons/icon_64.964qFBKj2AM.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17017",
+    "name": "The Mix Radio 80s",
+    "groups": "Mix,Radio,80s",
+    "url": "http://51.255.127.128:8016/stream",
+    "logo": "http://themixradio.co.uk/wp-content/uploads/2019/10/cropped-tmr-favicon-01-180x180.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "12116",
+    "name": "Top 100 Mix Station",
+    "groups": "Mix",
+    "url": "http://substream.top100station.com/top100mixstation.mp3",
+    "logo": "https://top100station.de/wp-content/uploads/2018/05/Top-100-Mix-Station-ColourBlack_WEB-272x182.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17088",
+    "name": "Weekend Mix Radio",
+    "groups": "Mix,Radio",
+    "url": "http://stream.zeno.fm/xnp3npkkvg0uv?rj-ttl=5&rj-tok=AAABfd5lMNIANNEZEhFgoEzmdQ",
+    "logo": "https://cdn.onlineradiobox.com/img/l/8/100438.v2.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3194",
+    "name": "WFMX 107.9 The Mix",
+    "groups": "Mix",
+    "url": "https://stream.radio.co/s5c993fa61/listen",
+    "logo": "https://radiostationusa.fm/assets/image/radio/180/WFMX.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "4968",
+    "name": "WHYN MIX 93.1",
+    "groups": "Mix",
+    "url": "https://n06b-e2.revma.ihrhls.com/zc1101?rj-ttl=5&rj-tok=AAABfd45-70AB8OqbOeLnRuDVg",
+    "logo": "https://radiostationusa.fm/assets/image/radio/180/WHYN-FM.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "6115",
+    "name": "WJXA Mix 92.9",
+    "groups": "Mix",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WJXAFMAAC_SC",
+    "logo": "https://cdn-profiles.tunein.com/s30029/images/logog.png?t=158756",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "3099",
+    "name": "WKRD 101.3 Rockford's Best Mix",
+    "groups": "Mix",
+    "url": "http://ice24.securenetsystems.net/WRKD",
+    "logo": "https://static.wixstatic.com/media/46cb3f_9b883733978a459bb8b7bc00f94e32fc~mv2.png/v1/fill/w_152,h_80,al_c,usm_0.66_1.00_0.01,blur_3/46cb3f_9b883733978a459bb8b7bc00f94e32fc~mv2.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "6201",
+    "name": "WMGI 100.7 Mix FM",
+    "groups": "Mix,Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WMGIFMAAC_SC",
+    "logo": "https://media.socastsrm.com/uploads/station/2109/home_screen_logo-5e343ac2acb70.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "4967",
+    "name": "WMXD Mix 92.3",
+    "groups": "Mix",
+    "url": "https://n05b-e2.revma.ihrhls.com/zc1149?rj-ttl=5&rj-tok=AAABfd40efIAuLppufdmwTlqEA",
+    "logo": "https://radiostationusa.fm/assets/image/radio/180/Mix 92.3.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "4965",
+    "name": "WMXS Mix 103.3",
+    "groups": "Mix",
+    "url": "https://20603.live.streamtheworld.com:443/WMXSFMAAC.aac",
+    "logo": "https://radiostationusa.fm/assets/image/radio/180/WMXS.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "4970",
+    "name": "WMXY Mix 98.9",
+    "groups": "Mix",
+    "url": "https://n11b-e2.revma.ihrhls.com/zc2772/hls.m3u8?rj-ttl=5&rj-tok=AAABfdsETMYA6Ei9FwRfTAwMBw",
+    "logo": "https://www.iheart.com/static/assets/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "6323",
+    "name": "WPSU HD2 Public Radio Mix Stream",
+    "groups": "Radio,Mix",
+    "url": "http://wpsu-ice.streamguys1.com/wpsu2",
+    "logo": "http://wpsu.org//mstile-144x144.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "4969",
+    "name": "WWRZ Mix 98.3",
+    "groups": "Mix",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WWRZFMAAC_SC",
+    "logo": "https://radiostationusa.fm/assets/image/radio/180/WRTO-FM.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "6568",
+    "name": "WXAJ 99.7 The Mix",
+    "groups": "Mix",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WXAJFMAAC_SC",
+    "logo": "http://images.tritondigitalcms.com/9850/sites/36/2017/11/01115211/99-7-The-Mix_-effects-300x176.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

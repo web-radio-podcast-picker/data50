@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18376",
+    "name": "Guru Randhawa",
+    "groups": "Artists",
+    "url": "https://drive.uber.radio/uber/bollywoodgururandhawa/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/9d7029c5-3741-46eb-a31b-110e5a7eaa52.jpg",
+    "artist": "Guru Randhawa",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

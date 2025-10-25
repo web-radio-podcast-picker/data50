@@ -1,0 +1,1122 @@
+[
+  {
+    "id": "17769",
+    "name": "Beatbox Angola",
+    "groups": "Hip Hop,R'N'B",
+    "url": "https://radios.vpn.sapo.pt/AO/radio11.mp3",
+    "logo": "https://liveonlineradio.net/wp-content/uploads/2021/04/beatbox-angola-220x108.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "12236",
+    "name": "Bermuda College Radio",
+    "groups": "Hip Hop,University",
+    "url": "http://streaming.radio.co/sbba10f75f/listen",
+    "logo": "https://abs.twimg.com/favicons/twitter.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20880",
+    "name": "Fantasy Dance 96.7",
+    "groups": "Dance,Hip Hop,House",
+    "url": "https://comeon.stream.laut.fm/comeon",
+    "logo": "https://www.radioszene.de/wp-content/uploads/2020/02/fantasy-967-dancefm-fb2.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "6691",
+    "name": "Internet Radio GVM",
+    "groups": "Hip Hop,Pop,Rock",
+    "url": "http://178.33.135.246:5726/arabellavie",
+    "logo": "https://www.internet-radio-gvm.com/images/Web/gvm_novi_logo.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16390",
+    "name": "KKBT 104.7",
+    "groups": "Contemporary,Hip Hop",
+    "url": "https://ice25.securenetsystems.net/KKBT",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVu7LrzJpGTzp3yFvXCa_lxWY5AAuI79RiHg&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "4679",
+    "name": "KSZR 97.5 The Vibe",
+    "groups": "Hip Hop",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KSZRFMAAC_SC",
+    "logo": "http://cumulus.pro.poolb.tritondigitalcms.com/kszr-fm/wp-content/uploads/sites/1236/2015/06/kszr-logo.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17202",
+    "name": "Ligwalagwala FM",
+    "groups": "Hip Hop,Pop,Soul",
+    "url": "http://29083.live.streamtheworld.com/LIGWALAGWALAAAC.aac",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/55/Ligwalagwala_FM_%28Logo_2013%29.gif",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20906",
+    "name": "Louisplayz inc",
+    "groups": "Hip Hop,Pop,Rock",
+    "url": "http://stream.zeno.fm/my78wz87em0uv?rj-ttl=5&rj-tok=AAABfdrYXpoAhfd8Y87Gzq-lLw",
+    "logo": "https://play-lh.googleusercontent.com/xXbflTsPWzGaUR08gsblq4MK2EFGr_I5T3chfTGIxYfn9XaLLS24jSCB6dhlwIFSPxg=w600-h300-pc0xffffff-pd",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20748",
+    "name": "Mountain Reggae Radio",
+    "groups": "Hip Hop,Reggae",
+    "url": "https://mountainreggaeradio.stream.laut.fm/mountainreggaeradio",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s276382d.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17216",
+    "name": "Pheli FM 95.0",
+    "groups": "Community,Gospel,Hip Hop",
+    "url": "http://live.streammedia.org.za/proxy/phelifm/stream",
+    "logo": "https://tvradiotuner.com/radio/wp-content/uploads/Pheli-FM.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "262",
+    "name": "Pilihan FM 95.9",
+    "groups": "Dance,Hip Hop,Oldies",
+    "url": "https://d2kziuzkf9oizb.cloudfront.net/rd003/playlist.m3u8?id=7",
+    "logo": "https://rtb-images.glueapi.io/320x0/radio/pilihan-title.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "16437",
+    "name": "Power FM 91.1",
+    "groups": "Hip Hop,Pop,Rock",
+    "url": "http://a1.virtualradio.eu:8000/powerfm.mp3",
+    "logo": "https://www.powerfm.bg/assets/images/logo.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18815",
+    "name": "Radio Beat Fox",
+    "groups": "Hip Hop,Pop,Rock",
+    "url": "http://stream.zeno.fm/0966xr1y8p8uv?rj-ttl=5&rj-tok=AAABfdz-tqcAefh6wEwjxYEfIA",
+    "logo": "https://play-lh.googleusercontent.com/QZ1E7hLafESbgiOxn5YPn9WhcNvxDQDYV2KJDIrrpHBt9krJJxfF6QmawgagU91SGnsD",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17775",
+    "name": "Radio Escola 88.5",
+    "groups": "Hip Hop,House",
+    "url": "https://radios.vpn.sapo.pt/AO/radio1.mp3",
+    "logo": "http://imgs.sapo.pt/radiosonlineao/content/img/radio_escola.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20964",
+    "name": "Radio KIF 97.8",
+    "groups": "Hip Hop,R'N'B,Rap",
+    "url": "https://broadcast.sksgroup.com/kif_mp3",
+    "logo": "https://assets.radioplayer.org/056/0561133/600/600/kyess3iv.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17773",
+    "name": "Radio Kuia Bue",
+    "groups": "Hip Hop,World",
+    "url": "http://hts03.kshost.com.br:9126/;stream.nsv",
+    "logo": "https://www.radio.net/images/broadcasts/43/91/39903/9/c300.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17777",
+    "name": "Radio Mais 99.1",
+    "groups": "Hip Hop,House",
+    "url": "https://radios.vpn.sapo.pt/AO/radio10.mp3",
+    "logo": "http://imgs.sapo.pt/radiosonlineao/content/img/radio_mais.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9418",
+    "name": "Rádio Metropolitana 98.5",
+    "groups": "Electro,Hip Hop,Top 40",
+    "url": "https://f32.fabricahost.com.br/metropolitana985sp?f=1640105220N788e9ba99181baae5eaaa0321d2f252d",
+    "logo": "https://metropolitanafm.com.br/wp-content/themes/metro/assets/imgs/favicon/favicon-96x96-2.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9449",
+    "name": "Rádio Rap",
+    "groups": "Hip Hop,Rap",
+    "url": "http://stream.zeno.fm/7c83b37e32quv?rj-ttl=5&rj-tok=AAABfdtq7xAAOWh6QHpltpoFrQ",
+    "logo": "https://www.cxradio.com.br/img/Radio/Logo/b19ffdd754e420fb23873c3613c3bfd1.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9448",
+    "name": "Radio Rap A Voz do Gueto",
+    "groups": "Hip Hop,Rap",
+    "url": "https://bissau.radio/listen/10047",
+    "logo": "https://bissau.radio/_next/image?url=%2Fstatic%2Fstations%2Fradio-rap-a-voz-do-gueto.png&w=384&q=75",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9450",
+    "name": "Radio Rap Nacional",
+    "groups": "Hip Hop,Rap",
+    "url": "http://stream.zeno.fm/spzru5axm8quv?rj-ttl=5&rj-tok=AAABfdof_4sANZX9R6j0mODEoA",
+    "logo": "https://lh3.googleusercontent.com/AZhjhxeNP7NR5Nq1Gi6jGZbOfobvTqFCpWba2VkzbSCzNz8Cy7xQXxpKW0cu9ALGznU=w720-h310-rw",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9470",
+    "name": "Rádio Studio Souto Rap Nacional",
+    "groups": "Hip Hop,Rap",
+    "url": "https://centova5.transmissaodigital.com:20031/stream",
+    "logo": "https://www.cxradio.com.br/img/Radio/Logo/37dd7ed692a8bb880b555b0f297d1f2e.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20818",
+    "name": "Radio Superfly 98.3",
+    "groups": "Funk,Hip Hop,Pop",
+    "url": "http://stream01.superfly.fm:8080/live128",
+    "logo": "http://www.superfly.fm/templates/superflyfm/favicon.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9334",
+    "name": "RadioCom 104.5",
+    "groups": "Hip Hop,Pop,Rock",
+    "url": "http://www.radiocom.org.br:8000/aovivo",
+    "logo": "https://img.radios.com.br/radio/xl/radio12103_1517482529.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9512",
+    "name": "Rap Nacional 24 Horas",
+    "groups": "Hip Hop,Rap",
+    "url": "https://bissau.radio/listen/11099",
+    "logo": "https://bissau.radio/_next/image?url=%2Fstatic%2Fstations%2Frap-nacional-24-horas.png&w=384&q=75",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21006",
+    "name": "RTBF Tarmac",
+    "groups": "Hip Hop,Rap,Urban",
+    "url": "https://radios.rtbf.be/tarmac-128.mp3",
+    "logo": "https://assets.radioplayer.org/056/056210/600/600/kyeqxr80.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9529",
+    "name": "SpaceX 101.5",
+    "groups": "Hip Hop,Pop,Rock",
+    "url": "https://everest.radionanet.com/spacesex?cc=1626715766319",
+    "logo": "https://www.hfnews.com.br/img/radios/logo_spacesex.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20814",
+    "name": "Stadlpowerradio",
+    "groups": "Hip Hop,Pop,Rock",
+    "url": "https://stadlpowerradio82.stream.laut.fm/stadlpowerradio82?t302=2021-12-21_08-42-08&uuid=b46e9cd3-f986-44d7-a55c-178a3b7f3afc",
+    "logo": "https://limitededt.com/cdn/shop/files/IG1724-1_800x.jpg?v=1696492689",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21027",
+    "name": "ULTRASON",
+    "groups": "Hip Hop,R'N'B,Rap,French",
+    "url": "http://broadcast.infomaniak.ch/ultrason-high.mp3",
+    "logo": "https://www.radio.net/images/broadcasts/d3/5a/9479/1/c300.png",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21028",
+    "name": "Urgent.fm 105.3",
+    "groups": "Electro,Hip Hop",
+    "url": "http://urgentstream.radiostudio.be:8000/live",
+    "logo": "https://urgent.fm/sites/default/files/favicon_1.ico",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "6915",
+    "name": "Xezer 103.0",
+    "groups": "Hip Hop,Pop,R'N'B",
+    "url": "https://s40.myradiostream.com/:22546/listen.mp3",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEkAlzrERS2sqF6ZryR1JEzW7uI8N-iqIvkg&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "12240",
+    "name": "ZFB Power 95 94.9",
+    "groups": "Hip Hop,Talk",
+    "url": "http://us3.internet-radio.com:8026/live",
+    "logo": "http://cdn-radiotime-logos.tunein.com/s13330q.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

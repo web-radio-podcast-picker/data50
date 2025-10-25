@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18193",
+    "name": "Billy Idol",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/billyidol/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/8827bc84-147d-48b4-9578-846936158311.jpg",
+    "artist": "Billy Idol",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

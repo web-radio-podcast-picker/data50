@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18503",
+    "name": "Metallica",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/metallica/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/1e0ce121-8e14-4e5f-a259-b3d80babbdf2.jpg",
+    "artist": "Metallica",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

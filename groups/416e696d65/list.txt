@@ -1,0 +1,142 @@
+[
+  {
+    "id": "267",
+    "name": "AiMoChi Radio",
+    "groups": "Anime,Asia,Japanese",
+    "url": "https://stream.zeno.fm/ndqw2pfrcseuv",
+    "logo": "https://static-media.streema.com/media/cache/3a/54/3a54a6f812651caa47d5e55b71ce1899.jpg",
+    "artist": null,
+    "lang": "Japanese",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "10333",
+    "name": "AnimeRadio",
+    "groups": "Anime",
+    "url": "http://stream.animeradio.de/animeradio.mp3",
+    "logo": "https://www.animeradio.de/img/favicon.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "13590",
+    "name": "Anison Anime Music Station",
+    "groups": "Anime,Music",
+    "url": "http://pool.anison.fm:9000/AniSonFM(320)?",
+    "logo": "https://cn.anison.fm/images/logo_f.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "19488",
+    "name": "Radio Anime Nexus",
+    "groups": "Radio,Anime",
+    "url": "http://radio.animenexus.mx:8000/animenexus",
+    "logo": "https://www.radio.net/300/animenexus.png?version=3f13c2c7e644616fb76b252bff97df4b",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

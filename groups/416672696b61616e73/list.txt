@@ -1,0 +1,72 @@
+[
+  {
+    "id": "17290",
+    "name": "Menya Live Online Radio",
+    "groups": "Afrikaans,Kirundi,Variety",
+    "url": "https://stream-176.zeno.fm/387qyxsn0c9uv",
+    "logo": "https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDgwcSl3gkMCxIOU3RhdGlvblByb2ZpbGUYgIDwidvK6AgMogEEemVubw/image/?u=1724769302000",
+    "artist": null,
+    "lang": "Kinyarwanda",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "17215",
+    "name": "Phalaphala FM",
+    "groups": "Afrikaans,Pop",
+    "url": "http://29083.live.streamtheworld.com/PHALAPHALAAAC.aac",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/a/ad/Phalaphala_FM_Logo.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

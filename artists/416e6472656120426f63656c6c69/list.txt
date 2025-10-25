@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18151",
+    "name": "Andrea Bocelli",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/andreabocelli/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/dc250a30-e311-4b84-a1e8-58053caae569.jpg",
+    "artist": "Andrea Bocelli",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

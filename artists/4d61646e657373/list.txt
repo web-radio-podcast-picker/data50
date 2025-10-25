@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18489",
+    "name": "Madness",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/madness/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/f2c5fec3-a4b6-4c50-86cb-d45f01b68782.jpg",
+    "artist": "Madness",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

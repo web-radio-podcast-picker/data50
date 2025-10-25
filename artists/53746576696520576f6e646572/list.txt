@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18644",
+    "name": "Stevie Wonder",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/steviewonder/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/ad0ec4be-0bbc-4d4c-9886-56b9e1f7c9c1.jpg",
+    "artist": "Stevie Wonder",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18645",
+    "name": "Stevie Wonder - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/steviewonderhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/3f6d884e-0054-4345-8e3d-bc3bbc207811.jpg",
+    "artist": "Stevie Wonder",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

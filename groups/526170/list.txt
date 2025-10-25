@@ -1,0 +1,387 @@
+[
+  {
+    "id": "3711",
+    "name": "Boost Radio",
+    "groups": "R'N'B,Rap",
+    "url": "https://gateway.cdnstream1.com/boost-live",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzorZkaMjdKhgjf-kQgn3s_uAeaie2sNtmIw&s",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9274",
+    "name": "Prus Mano",
+    "groups": "Rap,Soul",
+    "url": "http://stream.zeno.fm/hn0fwwy7nzzuv?rj-ttl=5&rj-tok=AAABfdt7jmkAsRsDbcq16M5pTA",
+    "logo": "https://prusmano.com/media/2021/08/Figura1.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "20964",
+    "name": "Radio KIF 97.8",
+    "groups": "Hip Hop,R'N'B,Rap",
+    "url": "https://broadcast.sksgroup.com/kif_mp3",
+    "logo": "https://assets.radioplayer.org/056/0561133/600/600/kyess3iv.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9449",
+    "name": "Rádio Rap",
+    "groups": "Hip Hop,Rap",
+    "url": "http://stream.zeno.fm/7c83b37e32quv?rj-ttl=5&rj-tok=AAABfdtq7xAAOWh6QHpltpoFrQ",
+    "logo": "https://www.cxradio.com.br/img/Radio/Logo/b19ffdd754e420fb23873c3613c3bfd1.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9448",
+    "name": "Radio Rap A Voz do Gueto",
+    "groups": "Hip Hop,Rap",
+    "url": "https://bissau.radio/listen/10047",
+    "logo": "https://bissau.radio/_next/image?url=%2Fstatic%2Fstations%2Fradio-rap-a-voz-do-gueto.png&w=384&q=75",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9450",
+    "name": "Radio Rap Nacional",
+    "groups": "Hip Hop,Rap",
+    "url": "http://stream.zeno.fm/spzru5axm8quv?rj-ttl=5&rj-tok=AAABfdof_4sANZX9R6j0mODEoA",
+    "logo": "https://lh3.googleusercontent.com/AZhjhxeNP7NR5Nq1Gi6jGZbOfobvTqFCpWba2VkzbSCzNz8Cy7xQXxpKW0cu9ALGznU=w720-h310-rw",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9470",
+    "name": "Rádio Studio Souto Rap Nacional",
+    "groups": "Hip Hop,Rap",
+    "url": "https://centova5.transmissaodigital.com:20031/stream",
+    "logo": "https://www.cxradio.com.br/img/Radio/Logo/37dd7ed692a8bb880b555b0f297d1f2e.jpg",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9832",
+    "name": "Radyo BoomBox 100.2",
+    "groups": "R'N'B,Rap,Turk",
+    "url": "https://ssldyg2.radyotvonline.com/boombox/boombox.stream/playlist.m3u8",
+    "logo": "https://static-media.streema.com/media/cache/f5/ee/f5ee88c98c8c01030dd597cccf939930.jpg",
+    "artist": null,
+    "lang": "Turkish",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "9512",
+    "name": "Rap Nacional 24 Horas",
+    "groups": "Hip Hop,Rap",
+    "url": "https://bissau.radio/listen/11099",
+    "logo": "https://bissau.radio/_next/image?url=%2Fstatic%2Fstations%2Frap-nacional-24-horas.png&w=384&q=75",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21006",
+    "name": "RTBF Tarmac",
+    "groups": "Hip Hop,Rap,Urban",
+    "url": "https://radios.rtbf.be/tarmac-128.mp3",
+    "logo": "https://assets.radioplayer.org/056/056210/600/600/kyeqxr80.png",
+    "artist": null,
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "21027",
+    "name": "ULTRASON",
+    "groups": "Hip Hop,R'N'B,Rap,French",
+    "url": "http://broadcast.infomaniak.ch/ultrason-high.mp3",
+    "logo": "https://www.radio.net/images/broadcasts/d3/5a/9479/1/c300.png",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

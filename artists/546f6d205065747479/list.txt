@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18683",
+    "name": "Tom Petty",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/tompetty/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/39b122be-1890-43c0-9525-c243e5f38b69.jpg",
+    "artist": "Tom Petty",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18684",
+    "name": "Tom Petty - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/tompettyhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/8ff117c8-ff12-490e-bff6-e47f518f797e.jpg",
+    "artist": "Tom Petty",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

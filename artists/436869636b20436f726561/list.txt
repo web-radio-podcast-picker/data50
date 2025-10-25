@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18256",
+    "name": "Chick Corea",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/chickcorea/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/87171da6-cd63-451e-89c3-6b052e110a25.jpg",
+    "artist": "Chick Corea",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

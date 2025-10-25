@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18149",
+    "name": "Amy Winehouse",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/amywinehouse/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/649d1bc9-5b68-4003-af85-f7e8348126cf.jpg",
+    "artist": "Amy Winehouse",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18150",
+    "name": "Amy Winehouse - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/amywinehousehits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/b926828a-083f-456c-bbf2-0c3f8931ddaa.jpg",
+    "artist": "Amy Winehouse",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

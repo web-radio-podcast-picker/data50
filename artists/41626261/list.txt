@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18127",
+    "name": "Abba",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/abba/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/6b8adb31-5021-4e82-ad27-8f176caf9e91.jpg",
+    "artist": "Abba",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18128",
+    "name": "Abba - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/abbahits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/e1180be0-2641-47a0-9b67-de93dea8be86.jpg",
+    "artist": "Abba",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

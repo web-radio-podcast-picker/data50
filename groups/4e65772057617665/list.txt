@@ -1,0 +1,37 @@
+[
+  {
+    "id": "20929",
+    "name": "Nostalgie Extra New Wave",
+    "groups": "80s,New Wave,French",
+    "url": "https://22673.live.streamtheworld.com:443/NOSTALGIEWAFNEWWAVE.mp3",
+    "logo": "https://nl.nostalgie.be/radio-player/images/nostalgie-new-wave.jpg",
+    "artist": null,
+    "lang": "French",
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

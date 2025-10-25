@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18166",
+    "name": "Atif Aslam",
+    "groups": "Artists",
+    "url": "https://drive.uber.radio/uber/bollywoodatifaslam/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/1ab00024-5b20-4331-91b7-f487ae3318cd.jpg",
+    "artist": "Atif Aslam",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18429",
+    "name": "Johnny Nash",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/johnnynash/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/19aef32f-5623-4db8-a356-734601e977d7.jpg",
+    "artist": "Johnny Nash",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18517",
+    "name": "Moody Blues",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/moodyblues/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/c08d18d7-2028-482e-9a64-265669c04b26.jpg",
+    "artist": "Moody Blues",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18518",
+    "name": "Moody Blues - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/moodyblueshits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/fff19560-2b5d-4c00-aace-249b112ba386.jpg",
+    "artist": "Moody Blues",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

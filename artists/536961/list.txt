@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18619",
+    "name": "Sia",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/sia/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/3d5b7642-63c3-40fc-8b7f-e146624a8ef1.jpg",
+    "artist": "Sia",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

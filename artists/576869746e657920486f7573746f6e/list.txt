@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18705",
+    "name": "Whitney Houston",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/whitneyhouston/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/c69ba564-559a-4445-8896-19d4a3514bad.jpg",
+    "artist": "Whitney Houston",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18706",
+    "name": "Whitney Houston - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/whitneyhoustonhits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/80169908-c93f-4544-a40d-ffb2486e08ec.jpg",
+    "artist": "Whitney Houston",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

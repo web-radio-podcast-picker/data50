@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18276",
+    "name": "David Bowie",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/davidbowie/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/6665b717-63f8-45da-8fdc-305af38570ec.jpg",
+    "artist": "David Bowie",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18277",
+    "name": "David Bowie - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/davidbowiehits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/340dec2c-5ec5-4847-b9e6-36e53babb3e9.jpg",
+    "artist": "David Bowie",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

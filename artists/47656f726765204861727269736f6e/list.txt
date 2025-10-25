@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18360",
+    "name": "George Harrison",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/georgeharrison/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/a625e66a-f925-4c6d-98a5-20027ae2949b.jpg",
+    "artist": "George Harrison",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

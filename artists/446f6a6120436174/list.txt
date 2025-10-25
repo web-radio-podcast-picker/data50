@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18295",
+    "name": "Doja Cat",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/dojacat/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/4a825a1e-2897-4f0d-b3d0-110e8309a88e.jpg",
+    "artist": "Doja Cat",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

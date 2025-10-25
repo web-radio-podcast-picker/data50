@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18160",
+    "name": "Ariana Grande",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/arianagrande/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/a849f6da-317a-4e8c-955a-e1e5ec19ad51.jpg",
+    "artist": "Ariana Grande",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18161",
+    "name": "Ariana Grande - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/arianagrandehits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/6de92616-28b1-4279-b50b-a24cd14a72fd.jpg",
+    "artist": "Ariana Grande",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

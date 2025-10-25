@@ -1,0 +1,72 @@
+[
+  {
+    "id": "18252",
+    "name": "Chic",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/chic/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/e59b9825-f3e9-4bb7-83c6-63e9febfc7ad.jpg",
+    "artist": "Chic",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  },
+  {
+    "id": "18253",
+    "name": "Chic - Hits",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/chichits/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/c70303a7-b575-4e9e-9f16-8cad0a0ca0d9.jpg",
+    "artist": "Chic",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]

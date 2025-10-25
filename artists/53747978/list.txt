@@ -1,0 +1,37 @@
+[
+  {
+    "id": "18649",
+    "name": "Styx",
+    "groups": "Artists",
+    "url": "https://streaming.exclusive.radio/er/styx/icecast.audio",
+    "logo": "https://manager.uber.radio/static/uploads/station/87265d0b-18ed-458b-b9c4-a7934e8e0bce.jpg",
+    "artist": "Styx",
+    "lang": null,
+    "country": null,
+    "extra": {
+      "city": null,
+      "description": null,
+      "latitude": null,
+      "longitude": null,
+      "codec": null,
+      "sampleRate": null,
+      "bitRate": null,
+      "channels": null,
+      "channelLayout": null,
+      "streamType": null,
+      "metadata": {
+        "br": null,
+        "description": null,
+        "genre": null,
+        "name": null,
+        "pub": null
+      }
+    },
+    "check": {
+      "availability": "true",
+      "lastCheckDate": null,
+      "failCount": "0",
+      "dead": "false"
+    }
+  }
+]
