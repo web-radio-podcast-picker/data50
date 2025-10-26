@@ -6,583 +6,728 @@
   "langs": [
     {
       "code": "?",
-      "name": "?"
+      "name": "?",
+      "count": 0
     },
     {
       "code": "aar",
-      "name": "Afar"
+      "name": "Afar",
+      "count": 0
     },
     {
       "code": "abk",
-      "name": "Abkhazian"
+      "name": "Abkhazian",
+      "count": 0
     },
     {
       "code": "afr",
-      "name": "Afrikaans"
+      "name": "Afrikaans",
+      "count": 0
     },
     {
       "code": "aka",
-      "name": "Akan"
+      "name": "Akan",
+      "count": 0
     },
     {
       "code": "amh",
-      "name": "Amharic"
+      "name": "Amharic",
+      "count": 0
     },
     {
       "code": "ara",
-      "name": "Arabic"
+      "name": "Arabic",
+      "count": 0
     },
     {
       "code": "asm",
-      "name": "Assamese"
+      "name": "Assamese",
+      "count": 0
     },
     {
       "code": "ast",
-      "name": "Asturian"
+      "name": "Asturian",
+      "count": 0
     },
     {
       "code": "aze",
-      "name": "Azerbaijani"
+      "name": "Azerbaijani",
+      "count": 0
     },
     {
       "code": "bam",
-      "name": "Bambara"
+      "name": "Bambara",
+      "count": 0
     },
     {
       "code": "bel",
-      "name": "Belarusian"
+      "name": "Belarusian",
+      "count": 0
     },
     {
       "code": "ben",
-      "name": "Bengali"
+      "name": "Bengali",
+      "count": 0
     },
     {
       "code": "bod",
-      "name": "Tibetan"
+      "name": "Tibetan",
+      "count": 0
     },
     {
       "code": "bos",
-      "name": "Bosnian"
+      "name": "Bosnian",
+      "count": 0
     },
     {
       "code": "bre",
-      "name": "Breton"
+      "name": "Breton",
+      "count": 0
     },
     {
       "code": "bul",
-      "name": "Bulgarian"
+      "name": "Bulgarian",
+      "count": 0
     },
     {
       "code": "cat",
-      "name": "Catalan"
+      "name": "Catalan",
+      "count": 0
     },
     {
       "code": "ces",
-      "name": "Czech"
+      "name": "Czech",
+      "count": 0
     },
     {
       "code": "che",
-      "name": "Chechen"
+      "name": "Chechen",
+      "count": 0
     },
     {
       "code": "chu",
-      "name": "Church Slavic"
+      "name": "Church Slavic",
+      "count": 0
     },
     {
       "code": "cor",
-      "name": "Cornish"
+      "name": "Cornish",
+      "count": 0
     },
     {
       "code": "cym",
-      "name": "Welsh"
+      "name": "Welsh",
+      "count": 0
     },
     {
       "code": "dan",
-      "name": "Danish"
+      "name": "Danish",
+      "count": 0
     },
     {
       "code": "deu",
-      "name": "German"
+      "name": "German",
+      "count": 0
     },
     {
       "code": "ell",
-      "name": "Greek, Modern (1453-)"
+      "name": "Greek, Modern (1453-)",
+      "count": 0
     },
     {
       "code": "eng",
-      "name": "English"
+      "name": "English",
+      "count": 0
     },
     {
       "code": "enm",
-      "name": "English, Middle (1100-1500)"
+      "name": "English, Middle (1100-1500)",
+      "count": 0
     },
     {
       "code": "epo",
-      "name": "Esperanto"
+      "name": "Esperanto",
+      "count": 0
     },
     {
       "code": "est",
-      "name": "Estonian"
+      "name": "Estonian",
+      "count": 0
     },
     {
       "code": "eus",
-      "name": "Basque"
+      "name": "Basque",
+      "count": 0
     },
     {
       "code": "ewe",
-      "name": "Ewe"
+      "name": "Ewe",
+      "count": 0
     },
     {
       "code": "fao",
-      "name": "Faroese"
+      "name": "Faroese",
+      "count": 0
     },
     {
       "code": "fas",
-      "name": "Persian"
+      "name": "Persian",
+      "count": 0
     },
     {
       "code": "fil",
-      "name": "Filipino"
+      "name": "Filipino",
+      "count": 0
     },
     {
       "code": "fin",
-      "name": "Finnish"
+      "name": "Finnish",
+      "count": 0
     },
     {
       "code": "fra",
-      "name": "French"
+      "name": "French",
+      "count": 0
     },
     {
       "code": "ful",
-      "name": "Fulah"
+      "name": "Fulah",
+      "count": 0
     },
     {
       "code": "gaa",
-      "name": "Ga"
+      "name": "Ga",
+      "count": 0
     },
     {
       "code": "gla",
-      "name": "Gaelic"
+      "name": "Gaelic",
+      "count": 0
     },
     {
       "code": "glg",
-      "name": "Galician"
+      "name": "Galician",
+      "count": 0
     },
     {
       "code": "grc",
-      "name": "Greek, Ancient (to 1453)"
+      "name": "Greek, Ancient (to 1453)",
+      "count": 0
     },
     {
       "code": "guj",
-      "name": "Gujarati"
+      "name": "Gujarati",
+      "count": 0
     },
     {
       "code": "hat",
-      "name": "Haitian"
+      "name": "Haitian",
+      "count": 0
     },
     {
       "code": "hau",
-      "name": "Hausa"
+      "name": "Hausa",
+      "count": 0
     },
     {
       "code": "heb",
-      "name": "Hebrew"
+      "name": "Hebrew",
+      "count": 0
     },
     {
       "code": "hin",
-      "name": "Hindi"
+      "name": "Hindi",
+      "count": 0
     },
     {
       "code": "hrv",
-      "name": "Croatian"
+      "name": "Croatian",
+      "count": 0
     },
     {
       "code": "hun",
-      "name": "Hungarian"
+      "name": "Hungarian",
+      "count": 0
     },
     {
       "code": "hye",
-      "name": "Armenian"
+      "name": "Armenian",
+      "count": 0
     },
     {
       "code": "ibo",
-      "name": "Igbo"
+      "name": "Igbo",
+      "count": 0
     },
     {
       "code": "ido",
-      "name": "Ido"
+      "name": "Ido",
+      "count": 0
     },
     {
       "code": "iku",
-      "name": "Inuktitut"
+      "name": "Inuktitut",
+      "count": 0
     },
     {
       "code": "ile",
-      "name": "Interlingue"
+      "name": "Interlingue",
+      "count": 0
     },
     {
       "code": "ina",
-      "name": "Interlingua (International Auxiliary Language Association)"
+      "name": "Interlingua (International Auxiliary Language Association)",
+      "count": 0
     },
     {
       "code": "ind",
-      "name": "Indonesian"
+      "name": "Indonesian",
+      "count": 0
     },
     {
       "code": "isl",
-      "name": "Icelandic"
+      "name": "Icelandic",
+      "count": 0
     },
     {
       "code": "ita",
-      "name": "Italian"
+      "name": "Italian",
+      "count": 0
     },
     {
       "code": "jav",
-      "name": "Javanese"
+      "name": "Javanese",
+      "count": 0
     },
     {
       "code": "jpn",
-      "name": "Japanese"
+      "name": "Japanese",
+      "count": 0
     },
     {
       "code": "kal",
-      "name": "Kalaallisut"
+      "name": "Kalaallisut",
+      "count": 0
     },
     {
       "code": "kan",
-      "name": "Kannada"
+      "name": "Kannada",
+      "count": 0
     },
     {
       "code": "kas",
-      "name": "Kashmiri"
+      "name": "Kashmiri",
+      "count": 0
     },
     {
       "code": "kat",
-      "name": "Georgian"
+      "name": "Georgian",
+      "count": 0
     },
     {
       "code": "kau",
-      "name": "Kanuri"
+      "name": "Kanuri",
+      "count": 0
     },
     {
       "code": "kaz",
-      "name": "Kazakh"
+      "name": "Kazakh",
+      "count": 0
     },
     {
       "code": "khm",
-      "name": "Central Khmer"
+      "name": "Central Khmer",
+      "count": 0
     },
     {
       "code": "kik",
-      "name": "Kikuyu"
+      "name": "Kikuyu",
+      "count": 0
     },
     {
       "code": "kin",
-      "name": "Kinyarwanda"
+      "name": "Kinyarwanda",
+      "count": 0
     },
     {
       "code": "kir",
-      "name": "Kirghiz"
+      "name": "Kirghiz",
+      "count": 0
     },
     {
       "code": "kor",
-      "name": "Korean"
+      "name": "Korean",
+      "count": 0
     },
     {
       "code": "kur",
-      "name": "Kurdish"
+      "name": "Kurdish",
+      "count": 0
     },
     {
       "code": "lao",
-      "name": "Lao"
+      "name": "Lao",
+      "count": 0
     },
     {
       "code": "lat",
-      "name": "Latin"
+      "name": "Latin",
+      "count": 0
     },
     {
       "code": "lav",
-      "name": "Latvian"
+      "name": "Latvian",
+      "count": 0
     },
     {
       "code": "lit",
-      "name": "Lithuanian"
+      "name": "Lithuanian",
+      "count": 0
     },
     {
       "code": "ltz",
-      "name": "Luxembourgish"
+      "name": "Luxembourgish",
+      "count": 0
     },
     {
       "code": "lug",
-      "name": "Ganda"
+      "name": "Ganda",
+      "count": 0
     },
     {
       "code": "mal",
-      "name": "Malayalam"
+      "name": "Malayalam",
+      "count": 0
     },
     {
       "code": "mar",
-      "name": "Marathi"
+      "name": "Marathi",
+      "count": 0
     },
     {
       "code": "mkd",
-      "name": "Macedonian"
+      "name": "Macedonian",
+      "count": 0
     },
     {
       "code": "mlg",
-      "name": "Malagasy"
+      "name": "Malagasy",
+      "count": 0
     },
     {
       "code": "mlt",
-      "name": "Maltese"
+      "name": "Maltese",
+      "count": 0
     },
     {
       "code": "mon",
-      "name": "Mongolian"
+      "name": "Mongolian",
+      "count": 0
     },
     {
       "code": "mos",
-      "name": "Mossi"
+      "name": "Mossi",
+      "count": 0
     },
     {
       "code": "msa",
-      "name": "Malay"
+      "name": "Malay",
+      "count": 0
     },
     {
       "code": "mul",
-      "name": "Multiple languages"
+      "name": "Multiple languages",
+      "count": 0
     },
     {
       "code": "mya",
-      "name": "Burmese"
+      "name": "Burmese",
+      "count": 0
     },
     {
       "code": "nbl",
-      "name": "Ndebele, South"
+      "name": "Ndebele, South",
+      "count": 0
     },
     {
       "code": "nde",
-      "name": "Ndebele, North"
+      "name": "Ndebele, North",
+      "count": 0
     },
     {
       "code": "nep",
-      "name": "Nepali"
+      "name": "Nepali",
+      "count": 0
     },
     {
       "code": "nld",
-      "name": "Dutch"
+      "name": "Dutch",
+      "count": 0
     },
     {
       "code": "nno",
-      "name": "Norwegian Nynorsk"
+      "name": "Norwegian Nynorsk",
+      "count": 0
     },
     {
       "code": "nob",
-      "name": "Bokmål, Norwegian"
+      "name": "Bokmål, Norwegian",
+      "count": 0
     },
     {
       "code": "nor",
-      "name": "Norwegian"
+      "name": "Norwegian",
+      "count": 0
     },
     {
       "code": "ori",
-      "name": "Oriya"
+      "name": "Oriya",
+      "count": 0
     },
     {
       "code": "orm",
-      "name": "Oromo"
+      "name": "Oromo",
+      "count": 0
     },
     {
       "code": "pan",
-      "name": "Panjabi"
+      "name": "Panjabi",
+      "count": 0
     },
     {
       "code": "pol",
-      "name": "Polish"
+      "name": "Polish",
+      "count": 0
     },
     {
       "code": "por",
-      "name": "Portuguese"
+      "name": "Portuguese",
+      "count": 0
     },
     {
       "code": "pus",
-      "name": "Pushto"
+      "name": "Pushto",
+      "count": 0
     },
     {
       "code": "que",
-      "name": "Quechua"
+      "name": "Quechua",
+      "count": 0
     },
     {
       "code": "roh",
-      "name": "Romansh"
+      "name": "Romansh",
+      "count": 0
     },
     {
       "code": "ron",
-      "name": "Romanian"
+      "name": "Romanian",
+      "count": 0
     },
     {
       "code": "rus",
-      "name": "Russian"
+      "name": "Russian",
+      "count": 0
     },
     {
       "code": "sag",
-      "name": "Sango"
+      "name": "Sango",
+      "count": 0
     },
     {
       "code": "san",
-      "name": "Sanskrit"
+      "name": "Sanskrit",
+      "count": 0
     },
     {
       "code": "sin",
-      "name": "Sinhala"
+      "name": "Sinhala",
+      "count": 0
     },
     {
       "code": "slk",
-      "name": "Slovak"
+      "name": "Slovak",
+      "count": 0
     },
     {
       "code": "slv",
-      "name": "Slovenian"
+      "name": "Slovenian",
+      "count": 0
     },
     {
       "code": "sme",
-      "name": "Northern Sami"
+      "name": "Northern Sami",
+      "count": 0
     },
     {
       "code": "smo",
-      "name": "Samoan"
+      "name": "Samoan",
+      "count": 0
     },
     {
       "code": "sna",
-      "name": "Shona"
+      "name": "Shona",
+      "count": 0
     },
     {
       "code": "snd",
-      "name": "Sindhi"
+      "name": "Sindhi",
+      "count": 0
     },
     {
       "code": "som",
-      "name": "Somali"
+      "name": "Somali",
+      "count": 0
     },
     {
       "code": "sot",
-      "name": "Sotho, Southern"
+      "name": "Sotho, Southern",
+      "count": 0
     },
     {
       "code": "spa",
-      "name": "Spanish"
+      "name": "Spanish",
+      "count": 0
     },
     {
       "code": "sqi",
-      "name": "Albanian"
+      "name": "Albanian",
+      "count": 0
     },
     {
       "code": "srp",
-      "name": "Serbian"
+      "name": "Serbian",
+      "count": 0
     },
     {
       "code": "sun",
-      "name": "Sundanese"
+      "name": "Sundanese",
+      "count": 0
     },
     {
       "code": "swa",
-      "name": "Swahili"
+      "name": "Swahili",
+      "count": 0
     },
     {
       "code": "swe",
-      "name": "Swedish"
+      "name": "Swedish",
+      "count": 0
     },
     {
       "code": "tam",
-      "name": "Tamil"
+      "name": "Tamil",
+      "count": 0
     },
     {
       "code": "tat",
-      "name": "Tatar"
+      "name": "Tatar",
+      "count": 0
     },
     {
       "code": "tel",
-      "name": "Telugu"
+      "name": "Telugu",
+      "count": 0
     },
     {
       "code": "tgk",
-      "name": "Tajik"
+      "name": "Tajik",
+      "count": 0
     },
     {
       "code": "tgl",
-      "name": "Tagalog"
+      "name": "Tagalog",
+      "count": 0
     },
     {
       "code": "tha",
-      "name": "Thai"
+      "name": "Thai",
+      "count": 0
     },
     {
       "code": "tir",
-      "name": "Tigrinya"
+      "name": "Tigrinya",
+      "count": 0
     },
     {
       "code": "ton",
-      "name": "Tonga (Tonga Islands)"
+      "name": "Tonga (Tonga Islands)",
+      "count": 0
     },
     {
       "code": "tsn",
-      "name": "Tswana"
+      "name": "Tswana",
+      "count": 0
     },
     {
       "code": "tuk",
-      "name": "Turkmen"
+      "name": "Turkmen",
+      "count": 0
     },
     {
       "code": "tur",
-      "name": "Turkish"
+      "name": "Turkish",
+      "count": 0
     },
     {
       "code": "twi",
-      "name": "Twi"
+      "name": "Twi",
+      "count": 0
     },
     {
       "code": "uig",
-      "name": "Uighur"
+      "name": "Uighur",
+      "count": 0
     },
     {
       "code": "ukr",
-      "name": "Ukrainian"
+      "name": "Ukrainian",
+      "count": 0
     },
     {
       "code": "urd",
-      "name": "Urdu"
+      "name": "Urdu",
+      "count": 0
     },
     {
       "code": "uzb",
-      "name": "Uzbek"
+      "name": "Uzbek",
+      "count": 0
     },
     {
       "code": "vie",
-      "name": "Vietnamese"
+      "name": "Vietnamese",
+      "count": 0
     },
     {
       "code": "wol",
-      "name": "Wolof"
+      "name": "Wolof",
+      "count": 0
     },
     {
       "code": "xho",
-      "name": "Xhosa"
+      "name": "Xhosa",
+      "count": 0
     },
     {
       "code": "yid",
-      "name": "Yiddish"
+      "name": "Yiddish",
+      "count": 0
     },
     {
       "code": "yor",
-      "name": "Yoruba"
+      "name": "Yoruba",
+      "count": 0
     },
     {
       "code": "zho",
-      "name": "Chinese"
+      "name": "Chinese",
+      "count": 0
     },
     {
       "code": "zul",
-      "name": "Zulu"
+      "name": "Zulu",
+      "count": 0
     }
   ],
   "pageSize": 1000
