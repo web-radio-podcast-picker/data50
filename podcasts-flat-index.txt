@@ -10,14 +10,14 @@
       "count": 145543
     },
     {
-      "code": "aar",
-      "name": "Afar",
-      "count": 1035
-    },
-    {
       "code": "abk",
       "name": "Abkhazian",
       "count": 16
+    },
+    {
+      "code": "aar",
+      "name": "Afar",
+      "count": 1035
     },
     {
       "code": "afr",
@@ -30,6 +30,11 @@
       "count": 1382
     },
     {
+      "code": "sqi",
+      "name": "Albanian",
+      "count": 1185
+    },
+    {
       "code": "amh",
       "name": "Amharic",
       "count": 556
@@ -38,6 +43,11 @@
       "code": "ara",
       "name": "Arabic",
       "count": 20332
+    },
+    {
+      "code": "hye",
+      "name": "Armenian",
+      "count": 398
     },
     {
       "code": "asm",
@@ -60,6 +70,11 @@
       "count": 626
     },
     {
+      "code": "eus",
+      "name": "Basque",
+      "count": 754
+    },
+    {
       "code": "bel",
       "name": "Belarusian",
       "count": 162
@@ -70,9 +85,9 @@
       "count": 2166
     },
     {
-      "code": "bod",
-      "name": "Tibetan",
-      "count": 38
+      "code": "nob",
+      "name": "Bokmål, Norwegian",
+      "count": 2192
     },
     {
       "code": "bos",
@@ -90,19 +105,29 @@
       "count": 855
     },
     {
+      "code": "mya",
+      "name": "Burmese",
+      "count": 306
+    },
+    {
       "code": "cat",
       "name": "Catalan",
       "count": 10238
     },
     {
-      "code": "ces",
-      "name": "Czech",
-      "count": 4457
+      "code": "khm",
+      "name": "Central Khmer",
+      "count": 143
     },
     {
       "code": "che",
       "name": "Chechen",
       "count": 2
+    },
+    {
+      "code": "zho",
+      "name": "Chinese",
+      "count": 29110
     },
     {
       "code": "chu",
@@ -115,9 +140,14 @@
       "count": 2
     },
     {
-      "code": "cym",
-      "name": "Welsh",
-      "count": 120
+      "code": "hrv",
+      "name": "Croatian",
+      "count": 420
+    },
+    {
+      "code": "ces",
+      "name": "Czech",
+      "count": 4457
     },
     {
       "code": "dan",
@@ -125,14 +155,9 @@
       "count": 9993
     },
     {
-      "code": "deu",
-      "name": "German",
-      "count": 90158
-    },
-    {
-      "code": "ell",
-      "name": "Greek, Modern (1453-)",
-      "count": 1931
+      "code": "nld",
+      "name": "Dutch",
+      "count": 20964
     },
     {
       "code": "eng",
@@ -155,11 +180,6 @@
       "count": 1527
     },
     {
-      "code": "eus",
-      "name": "Basque",
-      "count": 754
-    },
-    {
       "code": "ewe",
       "name": "Ewe",
       "count": 30
@@ -168,11 +188,6 @@
       "code": "fao",
       "name": "Faroese",
       "count": 137
-    },
-    {
-      "code": "fas",
-      "name": "Persian",
-      "count": 10934
     },
     {
       "code": "fil",
@@ -210,9 +225,29 @@
       "count": 1553
     },
     {
+      "code": "lug",
+      "name": "Ganda",
+      "count": 392
+    },
+    {
+      "code": "kat",
+      "name": "Georgian",
+      "count": 99
+    },
+    {
+      "code": "deu",
+      "name": "German",
+      "count": 90158
+    },
+    {
       "code": "grc",
       "name": "Greek, Ancient (to 1453)",
       "count": 41
+    },
+    {
+      "code": "ell",
+      "name": "Greek, Modern (1453-)",
+      "count": 1931
     },
     {
       "code": "guj",
@@ -240,49 +275,9 @@
       "count": 27520
     },
     {
-      "code": "hrv",
-      "name": "Croatian",
-      "count": 420
-    },
-    {
       "code": "hun",
       "name": "Hungarian",
       "count": 3620
-    },
-    {
-      "code": "hye",
-      "name": "Armenian",
-      "count": 398
-    },
-    {
-      "code": "ibo",
-      "name": "Igbo",
-      "count": 26
-    },
-    {
-      "code": "ido",
-      "name": "Ido",
-      "count": 1
-    },
-    {
-      "code": "iku",
-      "name": "Inuktitut",
-      "count": 1
-    },
-    {
-      "code": "ile",
-      "name": "Interlingue",
-      "count": 2
-    },
-    {
-      "code": "ina",
-      "name": "Interlingua (International Auxiliary Language Association)",
-      "count": 11
-    },
-    {
-      "code": "ind",
-      "name": "Indonesian",
-      "count": 39147
     },
     {
       "code": "isl",
@@ -290,19 +285,49 @@
       "count": 1271
     },
     {
+      "code": "ido",
+      "name": "Ido",
+      "count": 1
+    },
+    {
+      "code": "ibo",
+      "name": "Igbo",
+      "count": 26
+    },
+    {
+      "code": "ind",
+      "name": "Indonesian",
+      "count": 39147
+    },
+    {
+      "code": "ina",
+      "name": "Interlingua (International Auxiliary Language Association)",
+      "count": 11
+    },
+    {
+      "code": "ile",
+      "name": "Interlingue",
+      "count": 2
+    },
+    {
+      "code": "iku",
+      "name": "Inuktitut",
+      "count": 1
+    },
+    {
       "code": "ita",
       "name": "Italian",
       "count": 56746
     },
     {
-      "code": "jav",
-      "name": "Javanese",
-      "count": 157
-    },
-    {
       "code": "jpn",
       "name": "Japanese",
       "count": 19388
+    },
+    {
+      "code": "jav",
+      "name": "Javanese",
+      "count": 157
     },
     {
       "code": "kal",
@@ -315,29 +340,19 @@
       "count": 846
     },
     {
-      "code": "kas",
-      "name": "Kashmiri",
-      "count": 5
-    },
-    {
-      "code": "kat",
-      "name": "Georgian",
-      "count": 99
-    },
-    {
       "code": "kau",
       "name": "Kanuri",
       "count": 6
     },
     {
+      "code": "kas",
+      "name": "Kashmiri",
+      "count": 5
+    },
+    {
       "code": "kaz",
       "name": "Kazakh",
       "count": 482
-    },
-    {
-      "code": "khm",
-      "name": "Central Khmer",
-      "count": 143
     },
     {
       "code": "kik",
@@ -390,21 +405,6 @@
       "count": 204
     },
     {
-      "code": "lug",
-      "name": "Ganda",
-      "count": 392
-    },
-    {
-      "code": "mal",
-      "name": "Malayalam",
-      "count": 2460
-    },
-    {
-      "code": "mar",
-      "name": "Marathi",
-      "count": 1565
-    },
-    {
       "code": "mkd",
       "name": "Macedonian",
       "count": 60
@@ -415,9 +415,24 @@
       "count": 12
     },
     {
+      "code": "msa",
+      "name": "Malay",
+      "count": 2273
+    },
+    {
+      "code": "mal",
+      "name": "Malayalam",
+      "count": 2460
+    },
+    {
       "code": "mlt",
       "name": "Maltese",
       "count": 15
+    },
+    {
+      "code": "mar",
+      "name": "Marathi",
+      "count": 1565
     },
     {
       "code": "mon",
@@ -430,24 +445,9 @@
       "count": 176
     },
     {
-      "code": "msa",
-      "name": "Malay",
-      "count": 2273
-    },
-    {
       "code": "mul",
       "name": "Multiple languages",
       "count": 257
-    },
-    {
-      "code": "mya",
-      "name": "Burmese",
-      "count": 306
-    },
-    {
-      "code": "nbl",
-      "name": "Ndebele, South",
-      "count": 14
     },
     {
       "code": "nde",
@@ -455,29 +455,29 @@
       "count": 38
     },
     {
+      "code": "nbl",
+      "name": "Ndebele, South",
+      "count": 14
+    },
+    {
       "code": "nep",
       "name": "Nepali",
       "count": 1055
     },
     {
-      "code": "nld",
-      "name": "Dutch",
-      "count": 20964
-    },
-    {
-      "code": "nno",
-      "name": "Norwegian Nynorsk",
-      "count": 290
-    },
-    {
-      "code": "nob",
-      "name": "Bokmål, Norwegian",
-      "count": 2192
+      "code": "sme",
+      "name": "Northern Sami",
+      "count": 31
     },
     {
       "code": "nor",
       "name": "Norwegian",
       "count": 6193
+    },
+    {
+      "code": "nno",
+      "name": "Norwegian Nynorsk",
+      "count": 290
     },
     {
       "code": "ori",
@@ -493,6 +493,11 @@
       "code": "pan",
       "name": "Panjabi",
       "count": 623
+    },
+    {
+      "code": "fas",
+      "name": "Persian",
+      "count": 10934
     },
     {
       "code": "pol",
@@ -515,19 +520,24 @@
       "count": 9
     },
     {
-      "code": "roh",
-      "name": "Romansh",
-      "count": 32
-    },
-    {
       "code": "ron",
       "name": "Romanian",
       "count": 3181
     },
     {
+      "code": "roh",
+      "name": "Romansh",
+      "count": 32
+    },
+    {
       "code": "rus",
       "name": "Russian",
       "count": 33973
+    },
+    {
+      "code": "smo",
+      "name": "Samoan",
+      "count": 22
     },
     {
       "code": "sag",
@@ -538,6 +548,21 @@
       "code": "san",
       "name": "Sanskrit",
       "count": 60
+    },
+    {
+      "code": "srp",
+      "name": "Serbian",
+      "count": 865
+    },
+    {
+      "code": "sna",
+      "name": "Shona",
+      "count": 54
+    },
+    {
+      "code": "snd",
+      "name": "Sindhi",
+      "count": 5
     },
     {
       "code": "sin",
@@ -555,26 +580,6 @@
       "count": 988
     },
     {
-      "code": "sme",
-      "name": "Northern Sami",
-      "count": 31
-    },
-    {
-      "code": "smo",
-      "name": "Samoan",
-      "count": 22
-    },
-    {
-      "code": "sna",
-      "name": "Shona",
-      "count": 54
-    },
-    {
-      "code": "snd",
-      "name": "Sindhi",
-      "count": 5
-    },
-    {
       "code": "som",
       "name": "Somali",
       "count": 522
@@ -588,16 +593,6 @@
       "code": "spa",
       "name": "Spanish",
       "count": 557089
-    },
-    {
-      "code": "sqi",
-      "name": "Albanian",
-      "count": 1185
-    },
-    {
-      "code": "srp",
-      "name": "Serbian",
-      "count": 865
     },
     {
       "code": "sun",
@@ -615,6 +610,16 @@
       "count": 17505
     },
     {
+      "code": "tgl",
+      "name": "Tagalog",
+      "count": 1231
+    },
+    {
+      "code": "tgk",
+      "name": "Tajik",
+      "count": 166
+    },
+    {
       "code": "tam",
       "name": "Tamil",
       "count": 6755
@@ -630,19 +635,14 @@
       "count": 2550
     },
     {
-      "code": "tgk",
-      "name": "Tajik",
-      "count": 166
-    },
-    {
-      "code": "tgl",
-      "name": "Tagalog",
-      "count": 1231
-    },
-    {
       "code": "tha",
       "name": "Thai",
       "count": 4862
+    },
+    {
+      "code": "bod",
+      "name": "Tibetan",
+      "count": 38
     },
     {
       "code": "tir",
@@ -660,14 +660,14 @@
       "count": 11
     },
     {
-      "code": "tuk",
-      "name": "Turkmen",
-      "count": 3
-    },
-    {
       "code": "tur",
       "name": "Turkish",
       "count": 14926
+    },
+    {
+      "code": "tuk",
+      "name": "Turkmen",
+      "count": 3
     },
     {
       "code": "twi",
@@ -700,6 +700,11 @@
       "count": 2315
     },
     {
+      "code": "cym",
+      "name": "Welsh",
+      "count": 120
+    },
+    {
       "code": "wol",
       "name": "Wolof",
       "count": 156
@@ -718,11 +723,6 @@
       "code": "yor",
       "name": "Yoruba",
       "count": 640
-    },
-    {
-      "code": "zho",
-      "name": "Chinese",
-      "count": 29110
     },
     {
       "code": "zul",
