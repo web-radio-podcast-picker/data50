@@ -3,733 +3,733 @@
   "files": 34990,
   "items": 4084401,
   "langsCount": 145,
-  "langs": [
-    {
+  "langs": {
+    "?": {
       "code": "?",
       "name": "?",
       "count": 145543
     },
-    {
+    "Abkhazian": {
       "code": "abk",
       "name": "Abkhazian",
       "count": 16
     },
-    {
+    "Afar": {
       "code": "aar",
       "name": "Afar",
       "count": 1035
     },
-    {
+    "Afrikaans": {
       "code": "afr",
       "name": "Afrikaans",
       "count": 2342
     },
-    {
+    "Akan": {
       "code": "aka",
       "name": "Akan",
       "count": 1382
     },
-    {
+    "Albanian": {
       "code": "sqi",
       "name": "Albanian",
       "count": 1185
     },
-    {
+    "Amharic": {
       "code": "amh",
       "name": "Amharic",
       "count": 556
     },
-    {
+    "Arabic": {
       "code": "ara",
       "name": "Arabic",
       "count": 20332
     },
-    {
+    "Armenian": {
       "code": "hye",
       "name": "Armenian",
       "count": 398
     },
-    {
+    "Assamese": {
       "code": "asm",
       "name": "Assamese",
       "count": 214
     },
-    {
+    "Asturian": {
       "code": "ast",
       "name": "Asturian",
       "count": 1
     },
-    {
+    "Azerbaijani": {
       "code": "aze",
       "name": "Azerbaijani",
       "count": 248
     },
-    {
+    "Bambara": {
       "code": "bam",
       "name": "Bambara",
       "count": 626
     },
-    {
+    "Basque": {
       "code": "eus",
       "name": "Basque",
       "count": 754
     },
-    {
+    "Belarusian": {
       "code": "bel",
       "name": "Belarusian",
       "count": 162
     },
-    {
+    "Bengali": {
       "code": "ben",
       "name": "Bengali",
       "count": 2166
     },
-    {
+    "Bokmål, Norwegian": {
       "code": "nob",
       "name": "Bokmål, Norwegian",
       "count": 2192
     },
-    {
+    "Bosnian": {
       "code": "bos",
       "name": "Bosnian",
       "count": 3338
     },
-    {
+    "Breton": {
       "code": "bre",
       "name": "Breton",
       "count": 7
     },
-    {
+    "Bulgarian": {
       "code": "bul",
       "name": "Bulgarian",
       "count": 855
     },
-    {
+    "Burmese": {
       "code": "mya",
       "name": "Burmese",
       "count": 306
     },
-    {
+    "Catalan": {
       "code": "cat",
       "name": "Catalan",
       "count": 10238
     },
-    {
+    "Central Khmer": {
       "code": "khm",
       "name": "Central Khmer",
       "count": 143
     },
-    {
+    "Chechen": {
       "code": "che",
       "name": "Chechen",
       "count": 2
     },
-    {
+    "Chinese": {
       "code": "zho",
       "name": "Chinese",
       "count": 29110
     },
-    {
+    "Church Slavic": {
       "code": "chu",
       "name": "Church Slavic",
       "count": 13
     },
-    {
+    "Cornish": {
       "code": "cor",
       "name": "Cornish",
       "count": 2
     },
-    {
+    "Croatian": {
       "code": "hrv",
       "name": "Croatian",
       "count": 420
     },
-    {
+    "Czech": {
       "code": "ces",
       "name": "Czech",
       "count": 4457
     },
-    {
+    "Danish": {
       "code": "dan",
       "name": "Danish",
       "count": 9993
     },
-    {
+    "Dutch": {
       "code": "nld",
       "name": "Dutch",
       "count": 20964
     },
-    {
+    "English": {
       "code": "eng",
       "name": "English",
       "count": 2541690
     },
-    {
+    "English, Middle (1100-1500)": {
       "code": "enm",
       "name": "English, Middle (1100-1500)",
       "count": 1
     },
-    {
+    "Esperanto": {
       "code": "epo",
       "name": "Esperanto",
       "count": 81
     },
-    {
+    "Estonian": {
       "code": "est",
       "name": "Estonian",
       "count": 1527
     },
-    {
+    "Ewe": {
       "code": "ewe",
       "name": "Ewe",
       "count": 30
     },
-    {
+    "Faroese": {
       "code": "fao",
       "name": "Faroese",
       "count": 137
     },
-    {
+    "Filipino": {
       "code": "fil",
       "name": "Filipino",
       "count": 317
     },
-    {
+    "Finnish": {
       "code": "fin",
       "name": "Finnish",
       "count": 4175
     },
-    {
+    "French": {
       "code": "fra",
       "name": "French",
       "count": 64492
     },
-    {
+    "Fulah": {
       "code": "ful",
       "name": "Fulah",
       "count": 120
     },
-    {
+    "Ga": {
       "code": "gaa",
       "name": "Ga",
       "count": 102
     },
-    {
+    "Gaelic": {
       "code": "gla",
       "name": "Gaelic",
       "count": 6
     },
-    {
+    "Galician": {
       "code": "glg",
       "name": "Galician",
       "count": 1553
     },
-    {
+    "Ganda": {
       "code": "lug",
       "name": "Ganda",
       "count": 392
     },
-    {
+    "Georgian": {
       "code": "kat",
       "name": "Georgian",
       "count": 99
     },
-    {
+    "German": {
       "code": "deu",
       "name": "German",
       "count": 90158
     },
-    {
+    "Greek, Ancient (to 1453)": {
       "code": "grc",
       "name": "Greek, Ancient (to 1453)",
       "count": 41
     },
-    {
+    "Greek, Modern (1453-)": {
       "code": "ell",
       "name": "Greek, Modern (1453-)",
       "count": 1931
     },
-    {
+    "Gujarati": {
       "code": "guj",
       "name": "Gujarati",
       "count": 939
     },
-    {
+    "Haitian": {
       "code": "hat",
       "name": "Haitian",
       "count": 160
     },
-    {
+    "Hausa": {
       "code": "hau",
       "name": "Hausa",
       "count": 130
     },
-    {
+    "Hebrew": {
       "code": "heb",
       "name": "Hebrew",
       "count": 4128
     },
-    {
+    "Hindi": {
       "code": "hin",
       "name": "Hindi",
       "count": 27520
     },
-    {
+    "Hungarian": {
       "code": "hun",
       "name": "Hungarian",
       "count": 3620
     },
-    {
+    "Icelandic": {
       "code": "isl",
       "name": "Icelandic",
       "count": 1271
     },
-    {
+    "Ido": {
       "code": "ido",
       "name": "Ido",
       "count": 1
     },
-    {
+    "Igbo": {
       "code": "ibo",
       "name": "Igbo",
       "count": 26
     },
-    {
+    "Indonesian": {
       "code": "ind",
       "name": "Indonesian",
       "count": 39147
     },
-    {
+    "Interlingua (International Auxiliary Language Association)": {
       "code": "ina",
       "name": "Interlingua (International Auxiliary Language Association)",
       "count": 11
     },
-    {
+    "Interlingue": {
       "code": "ile",
       "name": "Interlingue",
       "count": 2
     },
-    {
+    "Inuktitut": {
       "code": "iku",
       "name": "Inuktitut",
       "count": 1
     },
-    {
+    "Italian": {
       "code": "ita",
       "name": "Italian",
       "count": 56746
     },
-    {
+    "Japanese": {
       "code": "jpn",
       "name": "Japanese",
       "count": 19388
     },
-    {
+    "Javanese": {
       "code": "jav",
       "name": "Javanese",
       "count": 157
     },
-    {
+    "Kalaallisut": {
       "code": "kal",
       "name": "Kalaallisut",
       "count": 9
     },
-    {
+    "Kannada": {
       "code": "kan",
       "name": "Kannada",
       "count": 846
     },
-    {
+    "Kanuri": {
       "code": "kau",
       "name": "Kanuri",
       "count": 6
     },
-    {
+    "Kashmiri": {
       "code": "kas",
       "name": "Kashmiri",
       "count": 5
     },
-    {
+    "Kazakh": {
       "code": "kaz",
       "name": "Kazakh",
       "count": 482
     },
-    {
+    "Kikuyu": {
       "code": "kik",
       "name": "Kikuyu",
       "count": 3
     },
-    {
+    "Kinyarwanda": {
       "code": "kin",
       "name": "Kinyarwanda",
       "count": 73
     },
-    {
+    "Kirghiz": {
       "code": "kir",
       "name": "Kirghiz",
       "count": 89
     },
-    {
+    "Korean": {
       "code": "kor",
       "name": "Korean",
       "count": 6438
     },
-    {
+    "Kurdish": {
       "code": "kur",
       "name": "Kurdish",
       "count": 119
     },
-    {
+    "Lao": {
       "code": "lao",
       "name": "Lao",
       "count": 40
     },
-    {
+    "Latin": {
       "code": "lat",
       "name": "Latin",
       "count": 104
     },
-    {
+    "Latvian": {
       "code": "lav",
       "name": "Latvian",
       "count": 484
     },
-    {
+    "Lithuanian": {
       "code": "lit",
       "name": "Lithuanian",
       "count": 772
     },
-    {
+    "Luxembourgish": {
       "code": "ltz",
       "name": "Luxembourgish",
       "count": 204
     },
-    {
+    "Macedonian": {
       "code": "mkd",
       "name": "Macedonian",
       "count": 60
     },
-    {
+    "Malagasy": {
       "code": "mlg",
       "name": "Malagasy",
       "count": 12
     },
-    {
+    "Malay": {
       "code": "msa",
       "name": "Malay",
       "count": 2273
     },
-    {
+    "Malayalam": {
       "code": "mal",
       "name": "Malayalam",
       "count": 2460
     },
-    {
+    "Maltese": {
       "code": "mlt",
       "name": "Maltese",
       "count": 15
     },
-    {
+    "Marathi": {
       "code": "mar",
       "name": "Marathi",
       "count": 1565
     },
-    {
+    "Mongolian": {
       "code": "mon",
       "name": "Mongolian",
       "count": 1035
     },
-    {
+    "Mossi": {
       "code": "mos",
       "name": "Mossi",
       "count": 176
     },
-    {
+    "Multiple languages": {
       "code": "mul",
       "name": "Multiple languages",
       "count": 257
     },
-    {
+    "Ndebele, North": {
       "code": "nde",
       "name": "Ndebele, North",
       "count": 38
     },
-    {
+    "Ndebele, South": {
       "code": "nbl",
       "name": "Ndebele, South",
       "count": 14
     },
-    {
+    "Nepali": {
       "code": "nep",
       "name": "Nepali",
       "count": 1055
     },
-    {
+    "Northern Sami": {
       "code": "sme",
       "name": "Northern Sami",
       "count": 31
     },
-    {
+    "Norwegian": {
       "code": "nor",
       "name": "Norwegian",
       "count": 6193
     },
-    {
+    "Norwegian Nynorsk": {
       "code": "nno",
       "name": "Norwegian Nynorsk",
       "count": 290
     },
-    {
+    "Oriya": {
       "code": "ori",
       "name": "Oriya",
       "count": 183
     },
-    {
+    "Oromo": {
       "code": "orm",
       "name": "Oromo",
       "count": 26
     },
-    {
+    "Panjabi": {
       "code": "pan",
       "name": "Panjabi",
       "count": 623
     },
-    {
+    "Persian": {
       "code": "fas",
       "name": "Persian",
       "count": 10934
     },
-    {
+    "Polish": {
       "code": "pol",
       "name": "Polish",
       "count": 12262
     },
-    {
+    "Portuguese": {
       "code": "por",
       "name": "Portuguese",
       "count": 257523
     },
-    {
+    "Pushto": {
       "code": "pus",
       "name": "Pushto",
       "count": 88
     },
-    {
+    "Quechua": {
       "code": "que",
       "name": "Quechua",
       "count": 9
     },
-    {
+    "Romanian": {
       "code": "ron",
       "name": "Romanian",
       "count": 3181
     },
-    {
+    "Romansh": {
       "code": "roh",
       "name": "Romansh",
       "count": 32
     },
-    {
+    "Russian": {
       "code": "rus",
       "name": "Russian",
       "count": 33973
     },
-    {
+    "Samoan": {
       "code": "smo",
       "name": "Samoan",
       "count": 22
     },
-    {
+    "Sango": {
       "code": "sag",
       "name": "Sango",
       "count": 4
     },
-    {
+    "Sanskrit": {
       "code": "san",
       "name": "Sanskrit",
       "count": 60
     },
-    {
+    "Serbian": {
       "code": "srp",
       "name": "Serbian",
       "count": 865
     },
-    {
+    "Shona": {
       "code": "sna",
       "name": "Shona",
       "count": 54
     },
-    {
+    "Sindhi": {
       "code": "snd",
       "name": "Sindhi",
       "count": 5
     },
-    {
+    "Sinhala": {
       "code": "sin",
       "name": "Sinhala",
       "count": 451
     },
-    {
+    "Slovak": {
       "code": "slk",
       "name": "Slovak",
       "count": 2223
     },
-    {
+    "Slovenian": {
       "code": "slv",
       "name": "Slovenian",
       "count": 988
     },
-    {
+    "Somali": {
       "code": "som",
       "name": "Somali",
       "count": 522
     },
-    {
+    "Sotho, Southern": {
       "code": "sot",
       "name": "Sotho, Southern",
       "count": 7
     },
-    {
+    "Spanish": {
       "code": "spa",
       "name": "Spanish",
       "count": 557089
     },
-    {
+    "Sundanese": {
       "code": "sun",
       "name": "Sundanese",
       "count": 16
     },
-    {
+    "Swahili": {
       "code": "swa",
       "name": "Swahili",
       "count": 1615
     },
-    {
+    "Swedish": {
       "code": "swe",
       "name": "Swedish",
       "count": 17505
     },
-    {
+    "Tagalog": {
       "code": "tgl",
       "name": "Tagalog",
       "count": 1231
     },
-    {
+    "Tajik": {
       "code": "tgk",
       "name": "Tajik",
       "count": 166
     },
-    {
+    "Tamil": {
       "code": "tam",
       "name": "Tamil",
       "count": 6755
     },
-    {
+    "Tatar": {
       "code": "tat",
       "name": "Tatar",
       "count": 2
     },
-    {
+    "Telugu": {
       "code": "tel",
       "name": "Telugu",
       "count": 2550
     },
-    {
+    "Thai": {
       "code": "tha",
       "name": "Thai",
       "count": 4862
     },
-    {
+    "Tibetan": {
       "code": "bod",
       "name": "Tibetan",
       "count": 38
     },
-    {
+    "Tigrinya": {
       "code": "tir",
       "name": "Tigrinya",
       "count": 410
     },
-    {
+    "Tonga (Tonga Islands)": {
       "code": "ton",
       "name": "Tonga (Tonga Islands)",
       "count": 4
     },
-    {
+    "Tswana": {
       "code": "tsn",
       "name": "Tswana",
       "count": 11
     },
-    {
+    "Turkish": {
       "code": "tur",
       "name": "Turkish",
       "count": 14926
     },
-    {
+    "Turkmen": {
       "code": "tuk",
       "name": "Turkmen",
       "count": 3
     },
-    {
+    "Twi": {
       "code": "twi",
       "name": "Twi",
       "count": 37
     },
-    {
+    "Uighur": {
       "code": "uig",
       "name": "Uighur",
       "count": 9
     },
-    {
+    "Ukrainian": {
       "code": "ukr",
       "name": "Ukrainian",
       "count": 1447
     },
-    {
+    "Urdu": {
       "code": "urd",
       "name": "Urdu",
       "count": 2285
     },
-    {
+    "Uzbek": {
       "code": "uzb",
       "name": "Uzbek",
       "count": 622
     },
-    {
+    "Vietnamese": {
       "code": "vie",
       "name": "Vietnamese",
       "count": 2315
     },
-    {
+    "Welsh": {
       "code": "cym",
       "name": "Welsh",
       "count": 120
     },
-    {
+    "Wolof": {
       "code": "wol",
       "name": "Wolof",
       "count": 156
     },
-    {
+    "Xhosa": {
       "code": "xho",
       "name": "Xhosa",
       "count": 43
     },
-    {
+    "Yiddish": {
       "code": "yid",
       "name": "Yiddish",
       "count": 31
     },
-    {
+    "Yoruba": {
       "code": "yor",
       "name": "Yoruba",
       "count": 640
     },
-    {
+    "Zulu": {
       "code": "zul",
       "name": "Zulu",
       "count": 1231
     }
-  ],
+  },
   "pageSize": 1000
 }
 -----!@-----++-----@!-----
